@@ -1,0 +1,1700 @@
+[
+ {
+  "id": 1,
+  "en": "Route 1",
+  "es": "Ruta 1",
+  "zh": "1号道路"
+ },
+ {
+  "id": 2,
+  "en": "Valde Town",
+  "es": "Pueblo Valde",
+  "zh": "瓦尔德镇"
+ },
+ {
+  "id": 3,
+  "en": "Pokémon Center",
+  "es": "Centro Pokémon",
+  "zh": "宝可梦中心"
+ },
+ {
+  "id": 4,
+  "en": "Home",
+  "es": "Casa",
+  "zh": "家"
+ },
+ {
+  "id": 5,
+  "en": "Alba Town",
+  "es": "Pueblo Alba",
+  "zh": "晨曦镇"
+ },
+ {
+  "id": 6,
+  "en": "Oak Lab",
+  "es": "Lab. Oak",
+  "zh": "大木研究所"
+ },
+ {
+  "id": 7,
+  "en": "Senn Lake",
+  "es": "Lago Senn",
+  "zh": "森恩湖"
+ },
+ {
+  "id": 8,
+  "en": "Route 2",
+  "es": "Ruta 2",
+  "zh": "2号道路"
+ },
+ {
+  "id": 9,
+  "en": "Spica Forest",
+  "es": "Bosque Spica",
+  "zh": "角宿森林"
+ },
+ {
+  "id": 10,
+  "en": "Route 3",
+  "es": "Ruta 3",
+  "zh": "3号道路"
+ },
+ {
+  "id": 11,
+  "en": "Spica City",
+  "es": "Ciudad Spica",
+  "zh": "角宿市"
+ },
+ {
+  "id": 12,
+  "en": "Rowan Lab",
+  "es": "Lab. Serbal",
+  "zh": "七叶研究所"
+ },
+ {
+  "id": 13,
+  "en": "Valde Town",
+  "es": "Pueblo Valde",
+  "zh": "瓦尔德镇"
+ },
+ {
+  "id": 14,
+  "en": "Route 4",
+  "es": "Ruta 4",
+  "zh": "4号道路"
+ },
+ {
+  "id": 15,
+  "en": "Route 5",
+  "es": "Ruta 5",
+  "zh": "5号道路"
+ },
+ {
+  "id": 16,
+  "en": "Talo Town",
+  "es": "Pueblo Talo",
+  "zh": "塔洛镇"
+ },
+ {
+  "id": 17,
+  "en": "Faculty",
+  "es": "Facultad",
+  "zh": "学院"
+ },
+ {
+  "id": 18,
+  "en": "Talo Well",
+  "es": "Pozo Talo",
+  "zh": "塔洛古井"
+ },
+ {
+  "id": 19,
+  "en": "Route 7",
+  "es": "Ruta 7",
+  "zh": "7号道路"
+ },
+ {
+  "id": 20,
+  "en": "Route 6",
+  "es": "Ruta 6",
+  "zh": "6号道路"
+ },
+ {
+  "id": 21,
+  "en": "Pokémon Shop",
+  "es": "Tienda Pokémon",
+  "zh": "宝可梦商店"
+ },
+ {
+  "id": 22,
+  "en": "Naos City",
+  "es": "Ciudad Naos",
+  "zh": "纳奥斯市"
+ },
+ {
+  "id": 23,
+  "en": "Route 8",
+  "es": "Ruta 8",
+  "zh": "8号道路"
+ },
+ {
+  "id": 24,
+  "en": "Splinter Cave",
+  "es": "Cueva Astilla",
+  "zh": "碎木洞窟"
+ },
+ {
+  "id": 25,
+  "en": "Route 9",
+  "es": "Ruta 9",
+  "zh": "9号道路"
+ },
+ {
+  "id": 26,
+  "en": "Moo-Moo Farm",
+  "es": "Granja Mu-Mu",
+  "zh": "哞哞牧场"
+ },
+ {
+  "id": 27,
+  "en": "Route 10",
+  "es": "Ruta 10",
+  "zh": "10号道路"
+ },
+ {
+  "id": 28,
+  "en": "Sirius City",
+  "es": "Ciudad Sirio",
+  "zh": "天狼市"
+ },
+ {
+  "id": 29,
+  "en": "Agatha's House",
+  "es": "Casa Agatha",
+  "zh": "菊子的家"
+ },
+ {
+  "id": 30,
+  "en": "Sirius Hotel?",
+  "es": "¿Hotel Sirio?",
+  "zh": "天狼酒店？"
+ },
+ {
+  "id": 31,
+  "en": "Cycling Road",
+  "es": "Carril Bicis",
+  "zh": "自行车道"
+ },
+ {
+  "id": 32,
+  "en": "Canis Cemetery",
+  "es": "Cementerio Can",
+  "zh": "大犬墓园"
+ },
+ {
+  "id": 33,
+  "en": "Pokémon Tower",
+  "es": "Torre Pokémon",
+  "zh": "宝可梦塔"
+ },
+ {
+  "id": 34,
+  "en": "Day Care",
+  "es": "Guardería",
+  "zh": "宝可梦寄放屋"
+ },
+ {
+  "id": 35,
+  "en": "Yucca Tunnel",
+  "es": "Tunel Yucca",
+  "zh": "丝兰隧道"
+ },
+ {
+  "id": 36,
+  "en": "Deneb City",
+  "es": "Ciudad Deneb",
+  "zh": "天鹅市"
+ },
+ {
+  "id": 37,
+  "en": "Route 11",
+  "es": "Ruta 11",
+  "zh": "11号道路"
+ },
+ {
+  "id": 38,
+  "en": "Route 12",
+  "es": "Ruta 12",
+  "zh": "12号道路"
+ },
+ {
+  "id": 39,
+  "en": "Route 13",
+  "es": "Ruta 13",
+  "zh": "13号道路"
+ },
+ {
+  "id": 40,
+  "en": "Route 14",
+  "es": "Ruta 14",
+  "zh": "14号道路"
+ },
+ {
+  "id": 41,
+  "en": "Vega City",
+  "es": "Ciudad Vega",
+  "zh": "织女市"
+ },
+ {
+  "id": 42,
+  "en": "Police Station",
+  "es": "Comisaría",
+  "zh": "警察局"
+ },
+ {
+  "id": 43,
+  "en": "Elm Lab",
+  "es": "Lab. Elm",
+  "zh": "空木研究所"
+ },
+ {
+  "id": 44,
+  "en": "Pokémon Race",
+  "es": "Pokémon Race",
+  "zh": "宝可梦赛跑场"
+ },
+ {
+  "id": 45,
+  "en": "Vega Beach",
+  "es": "Playa Vega",
+  "zh": "织女海滩"
+ },
+ {
+  "id": 46,
+  "en": "Route 15",
+  "es": "Ruta 15",
+  "zh": "15号道路"
+ },
+ {
+  "id": 47,
+  "en": "Palus Swamp",
+  "es": "Pantano Swamp",
+  "zh": "帕鲁斯沼泽"
+ },
+ {
+  "id": 48,
+  "en": "Kena Town",
+  "es": "Pueblo Kena",
+  "zh": "凯纳镇"
+ },
+ {
+  "id": 49,
+  "en": "Route 16",
+  "es": "Ruta 16",
+  "zh": "16号道路"
+ },
+ {
+  "id": 50,
+  "en": "Route 17",
+  "es": "Ruta 17",
+  "zh": "17号道路"
+ },
+ {
+  "id": 51,
+  "en": "Pole City",
+  "es": "Ciudad Polar",
+  "zh": "北辰市"
+ },
+ {
+  "id": 52,
+  "en": "Route 18",
+  "es": "Ruta 18",
+  "zh": "18号道路"
+ },
+ {
+  "id": 53,
+  "en": "Pokémon Tower",
+  "es": "Torre Pokémon",
+  "zh": "宝可梦塔"
+ },
+ {
+  "id": 54,
+  "en": "Sirius Hotel",
+  "es": "Hotel Sirio",
+  "zh": "天狼酒店"
+ },
+ {
+  "id": 55,
+  "en": "Frost Cave",
+  "es": "Cueva Helada",
+  "zh": "霜冻洞窟"
+ },
+ {
+  "id": 56,
+  "en": "Antares City",
+  "es": "Ciudad Antares",
+  "zh": "心宿市"
+ },
+ {
+  "id": 57,
+  "en": "Rigel City",
+  "es": "Ciudad Rigel",
+  "zh": "参宿市"
+ },
+ {
+  "id": 58,
+  "en": "Darkrai Hideout",
+  "es": "Guarida Darkrai",
+  "zh": "达克莱伊巢穴"
+ },
+ {
+  "id": 59,
+  "en": "Wayward Cave",
+  "es": "Cueva Extravío",
+  "zh": "迷途洞窟"
+ },
+ {
+  "id": 60,
+  "en": "Wayward Zone",
+  "es": "Zona Extravío",
+  "zh": "迷途地带"
+ },
+ {
+  "id": 61,
+  "en": "Flower Shop",
+  "es": "Floristeria",
+  "zh": "花店"
+ },
+ {
+  "id": 62,
+  "en": "Safari Zone",
+  "es": "Zona Safari",
+  "zh": "狩猎地带"
+ },
+ {
+  "id": 63,
+  "en": "Rigel City",
+  "es": "Ciudad Rigel",
+  "zh": "参宿市"
+ },
+ {
+  "id": 64,
+  "en": "MoonLight Cave",
+  "es": "Cueva MoonLight",
+  "zh": "月光洞窟"
+ },
+ {
+  "id": 65,
+  "en": "Moon Town",
+  "es": "Pueblo Luna",
+  "zh": "月亮镇"
+ },
+ {
+  "id": 66,
+  "en": "Birch Lab",
+  "es": "Lab. Abedul",
+  "zh": "小田卷研究所"
+ },
+ {
+  "id": 67,
+  "en": "Pole Game Corner",
+  "es": "Casino Polar",
+  "zh": "北辰游戏城"
+ },
+ {
+  "id": 68,
+  "en": "Gaara Desert",
+  "es": "Desierto del Gaara",
+  "zh": "加拉沙漠"
+ },
+ {
+  "id": 69,
+  "en": "Gaara Tunnel",
+  "es": "Tunel Gaara",
+  "zh": "加拉隧道"
+ },
+ {
+  "id": 70,
+  "en": "Rocky Cave",
+  "es": "Cueva Rocosa",
+  "zh": "岩石洞窟"
+ },
+ {
+  "id": 71,
+  "en": "Weather Institute",
+  "es": "Inst. Meteo.",
+  "zh": "气象研究所"
+ },
+ {
+  "id": 72,
+  "en": "Pole Sewer",
+  "es": "Cloaca Polar",
+  "zh": "北辰下水道"
+ },
+ {
+  "id": 73,
+  "en": "Volcanic Zone",
+  "es": "Zona Volcánica",
+  "zh": "火山地带"
+ },
+ {
+  "id": 74,
+  "en": "Energy Island",
+  "es": "Isla Energía",
+  "zh": "能量岛"
+ },
+ {
+  "id": 75,
+  "en": "Route 19",
+  "es": "Ruta 19",
+  "zh": "19号道路"
+ },
+ {
+  "id": 76,
+  "en": "Heat Island",
+  "es": "Isla Calor",
+  "zh": "炎热岛"
+ },
+ {
+  "id": 77,
+  "en": "Route 23",
+  "es": "Ruta 23",
+  "zh": "23号道路"
+ },
+ {
+  "id": 78,
+  "en": "Wind Island",
+  "es": "Isla Viento",
+  "zh": "疾风岛"
+ },
+ {
+  "id": 79,
+  "en": "Power Plant",
+  "es": "Central Eléctrica",
+  "zh": "发电厂"
+ },
+ {
+  "id": 80,
+  "en": "Hot Cave",
+  "es": "Cueva Caliente",
+  "zh": "灼热洞窟"
+ },
+ {
+  "id": 81,
+  "en": "Hurricane Cave",
+  "es": "Cueva Vendaval",
+  "zh": "飓风洞窟"
+ },
+ {
+  "id": 82,
+  "en": "Gaara Cave",
+  "es": "Cueva Gaara",
+  "zh": "加拉洞窟"
+ },
+ {
+  "id": 83,
+  "en": "Ruins of Omega",
+  "es": "Ruinas Omega",
+  "zh": "欧米伽遗迹"
+ },
+ {
+  "id": 84,
+  "en": "Hydra River",
+  "es": "Río Hidra",
+  "zh": "长蛇河"
+ },
+ {
+  "id": 85,
+  "en": "Route 20",
+  "es": "Ruta 20",
+  "zh": "20号道路"
+ },
+ {
+  "id": 86,
+  "en": "Flower Paradise",
+  "es": "Paraíso Floral",
+  "zh": "花之乐园"
+ },
+ {
+  "id": 87,
+  "en": "Route 21",
+  "es": "Ruta 21",
+  "zh": "21号道路"
+ },
+ {
+  "id": 88,
+  "en": "Lucis Port",
+  "es": "Puerto Luz",
+  "zh": "光明港"
+ },
+ {
+  "id": 89,
+  "en": "Oak Farm",
+  "es": "Granja Oak",
+  "zh": "大木农场"
+ },
+ {
+  "id": 90,
+  "en": "Galactic Hideout",
+  "es": "Guarida Galaxia",
+  "zh": "银河队基地"
+ },
+ {
+  "id": 91,
+  "en": "Senn Lake",
+  "es": "Lago Senn",
+  "zh": "森恩湖"
+ },
+ {
+  "id": 92,
+  "en": "Lucis Lighthouse",
+  "es": "Faro Luz",
+  "zh": "光明灯塔"
+ },
+ {
+  "id": 93,
+  "en": "Sun Island",
+  "es": "Isla Sol",
+  "zh": "太阳岛"
+ },
+ {
+  "id": 94,
+  "en": "Route 22",
+  "es": "Ruta 22",
+  "zh": "22号道路"
+ },
+ {
+  "id": 95,
+  "en": "Burning Cave",
+  "es": "Cueva Ardiente",
+  "zh": "燃烧洞窟"
+ },
+ {
+  "id": 96,
+  "en": "Metal Cave",
+  "es": "Cueva Metal",
+  "zh": "金属洞窟"
+ },
+ {
+  "id": 97,
+  "en": "Route 24",
+  "es": "Ruta 24",
+  "zh": "24号道路"
+ },
+ {
+  "id": 98,
+  "en": "Victory Road",
+  "es": "Calle Victoria",
+  "zh": "冠军之路"
+ },
+ {
+  "id": 99,
+  "en": "Pokémon League",
+  "es": "Liga Pokémon",
+  "zh": "宝可梦联盟"
+ },
+ {
+  "id": 100,
+  "en": "Hall of Fame",
+  "es": "Salón de Fama",
+  "zh": "殿堂"
+ },
+ {
+  "id": 101,
+  "en": "Route 25",
+  "es": "Ruta 25",
+  "zh": "25号道路"
+ },
+ {
+  "id": 102,
+  "en": "Ship",
+  "es": "Barco",
+  "zh": "船"
+ },
+ {
+  "id": 103,
+  "en": "Jungle Port",
+  "es": "Puerto Jungla",
+  "zh": "丛林港"
+ },
+ {
+  "id": 104,
+  "en": "Adhara Town",
+  "es": "Pueblo Adhara",
+  "zh": "弧矢镇"
+ },
+ {
+  "id": 105,
+  "en": "Route 26",
+  "es": "Ruta 26",
+  "zh": "26号道路"
+ },
+ {
+  "id": 106,
+  "en": "Siluam Forest",
+  "es": "Bosque Siluam",
+  "zh": "西卢安森林"
+ },
+ {
+  "id": 107,
+  "en": "Wezen Town",
+  "es": "Pueblo Wezen",
+  "zh": "韦森镇"
+ },
+ {
+  "id": 108,
+  "en": "Arrow Island",
+  "es": "Isla Flecha",
+  "zh": "箭之岛"
+ },
+ {
+  "id": 109,
+  "en": "Route 27",
+  "es": "Ruta 27",
+  "zh": "27号道路"
+ },
+ {
+  "id": 110,
+  "en": "Route 28",
+  "es": "Ruta 28",
+  "zh": "28号道路"
+ },
+ {
+  "id": 111,
+  "en": "Jungle Lab",
+  "es": "Lab. Jungla",
+  "zh": "丛林研究所"
+ },
+ {
+  "id": 112,
+  "en": "Route 30",
+  "es": "Ruta 30",
+  "zh": "30号道路"
+ },
+ {
+  "id": 113,
+  "en": "Route 29",
+  "es": "Ruta 29",
+  "zh": "29号道路"
+ },
+ {
+  "id": 114,
+  "en": "Paleo Cave",
+  "es": "Cueva Paleo",
+  "zh": "古生洞窟"
+ },
+ {
+  "id": 115,
+  "en": "Regulus Town",
+  "es": "Pueblo Régulo",
+  "zh": "轩辕镇"
+ },
+ {
+  "id": 116,
+  "en": "Vital Park",
+  "es": "Parque Vital",
+  "zh": "活力公园"
+ },
+ {
+  "id": 117,
+  "en": "Procyon Town",
+  "es": "Pueblo Procyon",
+  "zh": "南河镇"
+ },
+ {
+  "id": 118,
+  "en": "Route 31",
+  "es": "Ruta 31",
+  "zh": "31号道路"
+ },
+ {
+  "id": 119,
+  "en": "Mystic Forest",
+  "es": "Bosque Místico",
+  "zh": "神秘森林"
+ },
+ {
+  "id": 120,
+  "en": "Uranus Island",
+  "es": "Isla Urano",
+  "zh": "天王岛"
+ },
+ {
+  "id": 121,
+  "en": "Empty House",
+  "es": "Casa Vacía",
+  "zh": "空屋"
+ },
+ {
+  "id": 122,
+  "en": "Pokémon FlyGol",
+  "es": "Pokémon FlyGol",
+  "zh": "宝可梦 FlyGol"
+ },
+ {
+  "id": 123,
+  "en": "Route 39",
+  "es": "Ruta 39",
+  "zh": "39号道路"
+ },
+ {
+  "id": 124,
+  "en": "Route 40",
+  "es": "Ruta 40",
+  "zh": "40号道路"
+ },
+ {
+  "id": 125,
+  "en": "Mercury Island",
+  "es": "Isla Mercurio",
+  "zh": "水星岛"
+ },
+ {
+  "id": 126,
+  "en": "Caloris Park",
+  "es": "Parque Caloris",
+  "zh": "卡洛里斯公园"
+ },
+ {
+  "id": 127,
+  "en": "Squad Hideout",
+  "es": "Guarida Escuadrón",
+  "zh": "小队基地"
+ },
+ {
+  "id": 128,
+  "en": "Rocket Hideout",
+  "es": "Guarida Rocket",
+  "zh": "火箭队基地"
+ },
+ {
+  "id": 129,
+  "en": "Iris Tower",
+  "es": "Torre Iris",
+  "zh": "鸢尾塔"
+ },
+ {
+  "id": 130,
+  "en": "Route 35",
+  "es": "Ruta 35",
+  "zh": "35号道路"
+ },
+ {
+  "id": 131,
+  "en": "Venus Island",
+  "es": "Isla Venus",
+  "zh": "金星岛"
+ },
+ {
+  "id": 132,
+  "en": "Neith Cave",
+  "es": "Cueva Neith",
+  "zh": "尼斯洞窟"
+ },
+ {
+  "id": 133,
+  "en": "Terra Island",
+  "es": "Isla Terra",
+  "zh": "地球岛"
+ },
+ {
+  "id": 134,
+  "en": "Route 36",
+  "es": "Ruta 36",
+  "zh": "36号道路"
+ },
+ {
+  "id": 135,
+  "en": "Mars Island",
+  "es": "Isla Marte",
+  "zh": "火星岛"
+ },
+ {
+  "id": 136,
+  "en": "Mars Dojo",
+  "es": "Dojo Marte",
+  "zh": "火星道场"
+ },
+ {
+  "id": 137,
+  "en": "Route 37",
+  "es": "Ruta 37",
+  "zh": "37号道路"
+ },
+ {
+  "id": 138,
+  "en": "Route 32",
+  "es": "Ruta 32",
+  "zh": "32号道路"
+ },
+ {
+  "id": 139,
+  "en": "Perseus River",
+  "es": "Rio Perseo",
+  "zh": "英仙河"
+ },
+ {
+  "id": 140,
+  "en": "Lerna Lake",
+  "es": "Lago Lerna",
+  "zh": "勒拿湖"
+ },
+ {
+  "id": 141,
+  "en": "Route 33",
+  "es": "Ruta 33",
+  "zh": "33号道路"
+ },
+ {
+  "id": 142,
+  "en": "Route 34",
+  "es": "Ruta 34",
+  "zh": "34号道路"
+ },
+ {
+  "id": 143,
+  "en": "Arcturus Town",
+  "es": "Pueblo Arcturus",
+  "zh": "大角镇"
+ },
+ {
+  "id": 144,
+  "en": "Pike Cave",
+  "es": "Cueva Chuzo",
+  "zh": "尖峰洞窟"
+ },
+ {
+  "id": 145,
+  "en": "Rekiem Castle",
+  "es": "Castillo Rekiem",
+  "zh": "安魂城堡"
+ },
+ {
+  "id": 146,
+  "en": "Fugacious Forest",
+  "es": "Bosque Fugaz",
+  "zh": "转瞬森林"
+ },
+ {
+  "id": 147,
+  "en": "Holy Hill",
+  "es": "Colina Sagrada",
+  "zh": "圣山丘"
+ },
+ {
+  "id": 148,
+  "en": "Whirl Cave",
+  "es": "Cueva Remolino",
+  "zh": "漩涡洞窟"
+ },
+ {
+  "id": 149,
+  "en": "Jupiter Island",
+  "es": "Isla Júpiter",
+  "zh": "木星岛"
+ },
+ {
+  "id": 150,
+  "en": "Route 38",
+  "es": "Ruta 38",
+  "zh": "38号道路"
+ },
+ {
+  "id": 151,
+  "en": "Storm Forest",
+  "es": "Bosque Tormenta",
+  "zh": "风暴森林"
+ },
+ {
+  "id": 152,
+  "en": "Magma Cave",
+  "es": "Cueva Magmática",
+  "zh": "熔岩洞窟"
+ },
+ {
+  "id": 153,
+  "en": "Magma Hideout",
+  "es": "Guarida Magma",
+  "zh": "熔岩队基地"
+ },
+ {
+  "id": 154,
+  "en": "Aqua Hideout",
+  "es": "Guarida Aqua",
+  "zh": "海洋队基地"
+ },
+ {
+  "id": 155,
+  "en": "Oceanic Cave",
+  "es": "Cueva Oceánica",
+  "zh": "海洋洞窟"
+ },
+ {
+  "id": 156,
+  "en": "Cerulean Sanctuary",
+  "es": "Santuario Celeste",
+  "zh": "华蓝圣域"
+ },
+ {
+  "id": 157,
+  "en": "Past Spica",
+  "es": "Spica Pasado",
+  "zh": "过去的角宿市"
+ },
+ {
+  "id": 158,
+  "en": "Neptune Island",
+  "es": "Isla Neptuno",
+  "zh": "海王岛"
+ },
+ {
+  "id": 159,
+  "en": "Krono Bridge",
+  "es": "Puente Krono",
+  "zh": "克罗诺桥"
+ },
+ {
+  "id": 160,
+  "en": "Saturn Island",
+  "es": "Isla Saturno",
+  "zh": "土星岛"
+ },
+ {
+  "id": 161,
+  "en": "Halley Island",
+  "es": "Isla Halley",
+  "zh": "哈雷岛"
+ },
+ {
+  "id": 162,
+  "en": "Pluto Island",
+  "es": "Isla Plutón",
+  "zh": "冥王岛"
+ },
+ {
+  "id": 163,
+  "en": "Hollow Mansion",
+  "es": "Mansión Hollow",
+  "zh": "空洞宅邸"
+ },
+ {
+  "id": 164,
+  "en": "Volt Lab",
+  "es": "Lab. Voltio",
+  "zh": "伏特研究所"
+ },
+ {
+  "id": 165,
+  "en": "Distortion World",
+  "es": "Mundo Distorsión",
+  "zh": "毁坏的世界"
+ },
+ {
+  "id": 166,
+  "en": "Red Cave",
+  "es": "Cueva Roja",
+  "zh": "红色洞窟"
+ },
+ {
+  "id": 167,
+  "en": "Star Frontier",
+  "es": "Frente Star",
+  "zh": "星之开拓区"
+ },
+ {
+  "id": 168,
+  "en": "Frontline",
+  "es": "Primera Linea",
+  "zh": "前线"
+ },
+ {
+  "id": 169,
+  "en": "Record Hall",
+  "es": "Salón de Records",
+  "zh": "记录大厅"
+ },
+ {
+  "id": 170,
+  "en": "Event Dome",
+  "es": "Cúpula de eventos",
+  "zh": "活动巨蛋"
+ },
+ {
+  "id": 171,
+  "en": "Palace Frontier",
+  "es": "Palacio Frente",
+  "zh": "宫殿开拓区"
+ },
+ {
+  "id": 172,
+  "en": "Tournament Frontier",
+  "es": "Torneo Frente",
+  "zh": "锦标赛开拓区"
+ },
+ {
+  "id": 173,
+  "en": "Factory Frontier",
+  "es": "Fábrica Frente",
+  "zh": "工厂开拓区"
+ },
+ {
+  "id": 174,
+  "en": "Breeding Lab",
+  "es": "Lab. Crianza",
+  "zh": "培育研究所"
+ },
+ {
+  "id": 175,
+  "en": "Rearguard Cave",
+  "es": "Cueva Retaguardia",
+  "zh": "后卫洞窟"
+ },
+ {
+  "id": 176,
+  "en": "Survival Frontier",
+  "es": "Superviv. Frente",
+  "zh": "生存开拓区"
+ },
+ {
+  "id": 177,
+  "en": "Zone Frontier",
+  "es": "Zona Frente",
+  "zh": "区域开拓区"
+ },
+ {
+  "id": 178,
+  "en": "Tower Frontier",
+  "es": "Torre Frente",
+  "zh": "塔楼开拓区"
+ },
+ {
+  "id": 179,
+  "en": "Hell Frontier",
+  "es": "Infierno Frente",
+  "zh": "地狱开拓区"
+ },
+ {
+  "id": 180,
+  "en": "Diving",
+  "es": "Buceando",
+  "zh": "潜水中"
+ },
+ {
+  "id": 181,
+  "en": "Canis Cemetery?",
+  "es": "¿Cementerio Can?",
+  "zh": "大犬墓园？"
+ },
+ {
+  "id": 182,
+  "en": "Unknown Place",
+  "es": "Lugar Desconocido",
+  "zh": "未知的地方"
+ },
+ {
+  "id": 183,
+  "en": "Battle Frontier",
+  "es": "Frente de Batalla",
+  "zh": "对战开拓区"
+ },
+ {
+  "id": 184,
+  "en": "Star Factory",
+  "es": "Fábrica Star",
+  "zh": "星之工厂"
+ },
+ {
+  "id": 185,
+  "en": "Venus Factory",
+  "es": "Fábrica Venus",
+  "zh": "金星工厂"
+ },
+ {
+  "id": 186,
+  "en": "Fashion Salon",
+  "es": "Salón de moda",
+  "zh": "时装沙龙"
+ },
+ {
+  "id": 187,
+  "en": "Canopus City",
+  "es": "Ciudad Canopo",
+  "zh": "船底市"
+ },
+ {
+  "id": 188,
+  "en": "Secret Base",
+  "es": "Base Secreta",
+  "zh": "秘密基地"
+ },
+ {
+  "id": 189,
+  "en": "Naos Beach",
+  "es": "Playa Naos",
+  "zh": "纳奥斯海滩"
+ },
+ {
+  "id": 190,
+  "en": "(North)",
+  "es": "(Norte)",
+  "zh": "（北）"
+ },
+ {
+  "id": 191,
+  "en": "(South)",
+  "es": "(Sur)",
+  "zh": "（南）"
+ },
+ {
+  "id": 192,
+  "en": "(East)",
+  "es": "(Este)",
+  "zh": "（东）"
+ },
+ {
+  "id": 193,
+  "en": "(West)",
+  "es": "(Oeste)",
+  "zh": "（西）"
+ },
+ {
+  "id": 194,
+  "en": "(Center)",
+  "es": "(Centro)",
+  "zh": "（中）"
+ },
+ {
+  "id": 195,
+  "en": "(Palace)",
+  "es": "(Palacio)",
+  "zh": "（宫殿）"
+ },
+ {
+  "id": 196,
+  "en": "(Tournament)",
+  "es": "(Torneo)",
+  "zh": "（锦标赛）"
+ },
+ {
+  "id": 197,
+  "en": "(Factory)",
+  "es": "(Fábrica)",
+  "zh": "（工厂）"
+ },
+ {
+  "id": 198,
+  "en": "(Survival)",
+  "es": "(Supervivencia)",
+  "zh": "（生存）"
+ },
+ {
+  "id": 199,
+  "en": "(Zone)",
+  "es": "(Zona)",
+  "zh": "（区域）"
+ },
+ {
+  "id": 200,
+  "en": "(Tower)",
+  "es": "(Torre)",
+  "zh": "（塔楼）"
+ },
+ {
+  "id": 201,
+  "en": "(Hell)",
+  "es": "(Infierno)",
+  "zh": "（地狱）"
+ },
+ {
+  "id": 202,
+  "en": "House",
+  "es": "Casa",
+  "zh": "民居"
+ },
+ {
+  "id": 203,
+  "en": "Route 41",
+  "es": "Ruta 41",
+  "zh": "41号道路"
+ },
+ {
+  "id": 204,
+  "en": "Rearguard",
+  "es": "Retaguardia",
+  "zh": "后卫"
+ },
+ {
+  "id": 205,
+  "en": "Melody Theater",
+  "es": "Teatro Melody",
+  "zh": "旋律剧场"
+ },
+ {
+  "id": 206,
+  "en": "Flare Hideout",
+  "es": "Guarida Flare",
+  "zh": "闪焰队基地"
+ },
+ {
+  "id": 207,
+  "en": "Aether Paradise",
+  "es": "Paraíso Aether",
+  "zh": "以太乐园"
+ },
+ {
+  "id": 208,
+  "en": "Llanos Island",
+  "es": "Isla Llanos",
+  "zh": "利亚诺斯岛"
+ },
+ {
+  "id": 209,
+  "en": "Life Beach",
+  "es": "Playa Vida",
+  "zh": "生命海滩"
+ },
+ {
+  "id": 210,
+  "en": "Mt. Lion",
+  "es": "Monte León",
+  "zh": "狮子山"
+ },
+ {
+  "id": 211,
+  "en": "Lion Jump",
+  "es": "Salto León",
+  "zh": "狮子跳台"
+ },
+ {
+  "id": 212,
+  "en": "Lyra Beach",
+  "es": "Playa Lyra",
+  "zh": "天琴海滩"
+ },
+ {
+  "id": 213,
+  "en": "Route 42",
+  "es": "Ruta 42",
+  "zh": "42号道路"
+ },
+ {
+  "id": 214,
+  "en": "Nero Forest",
+  "es": "Bosque Nero",
+  "zh": "尼禄森林"
+ },
+ {
+  "id": 215,
+  "en": "Aquarium River",
+  "es": "Río Acuario",
+  "zh": "水族河"
+ },
+ {
+  "id": 216,
+  "en": "Compass Beach",
+  "es": "Playa Brújula",
+  "zh": "罗盘海滩"
+ },
+ {
+  "id": 217,
+  "en": "Route 43",
+  "es": "Ruta 43",
+  "zh": "43号道路"
+ },
+ {
+  "id": 218,
+  "en": "Llanos Valley",
+  "es": "Valle Llanos",
+  "zh": "利亚诺斯山谷"
+ },
+ {
+  "id": 219,
+  "en": "Gemini Beach",
+  "es": "Playa Géminis",
+  "zh": "双子海滩"
+ },
+ {
+  "id": 220,
+  "en": "Centauri Forest",
+  "es": "Bosque Centauri",
+  "zh": "半人马森林"
+ },
+ {
+  "id": 221,
+  "en": "Passimian Temple",
+  "es": "Templo Passimian",
+  "zh": "投掷猴神殿"
+ },
+ {
+  "id": 222,
+  "en": "Route 44",
+  "es": "Ruta 44",
+  "zh": "44号道路"
+ },
+ {
+  "id": 223,
+  "en": "Aether Mansion",
+  "es": "Mansión Aether",
+  "zh": "以太宅邸"
+ },
+ {
+  "id": 224,
+  "en": "Nebula Island",
+  "es": "Isla Nebulosa",
+  "zh": "星云岛"
+ },
+ {
+  "id": 225,
+  "en": "Cetacean Coast",
+  "es": "Costa Cetácea",
+  "zh": "鲸鱼海岸"
+ },
+ {
+  "id": 226,
+  "en": "Cetacean Cave",
+  "es": "Cueva Cetácea",
+  "zh": "鲸鱼洞窟"
+ },
+ {
+  "id": 227,
+  "en": "Heracles River",
+  "es": "Río Heracles",
+  "zh": "武仙河"
+ },
+ {
+  "id": 228,
+  "en": "Mt. Octant",
+  "es": "Monte Octante",
+  "zh": "八分仪山"
+ },
+ {
+  "id": 229,
+  "en": "Mt. Phoenix",
+  "es": "Monte Fénix",
+  "zh": "凤凰山"
+ },
+ {
+  "id": 230,
+  "en": "Mt. Pisces",
+  "es": "Monte Piscis",
+  "zh": "双鱼山"
+ },
+ {
+  "id": 231,
+  "en": "Nebula Valley",
+  "es": "Valle Nébulo",
+  "zh": "星云山谷"
+ },
+ {
+  "id": 232,
+  "en": "Wailord Temple",
+  "es": "Templo Wailord",
+  "zh": "吼鲸王神殿"
+ },
+ {
+  "id": 233,
+  "en": "Sextant Cave",
+  "es": "Cueva Sextante",
+  "zh": "六分仪洞窟"
+ },
+ {
+  "id": 234,
+  "en": "Pegasus River",
+  "es": "Río Pegaso",
+  "zh": "飞马河"
+ },
+ {
+  "id": 235,
+  "en": "Draco Lake",
+  "es": "Lago Draco",
+  "zh": "天龙湖"
+ },
+ {
+  "id": 236,
+  "en": "Sismo Swamp",
+  "es": "Pantano Seismo",
+  "zh": "地震沼泽"
+ },
+ {
+  "id": 237,
+  "en": "Monoceros River",
+  "es": "Río Monoceros",
+  "zh": "麒麟河"
+ },
+ {
+  "id": 238,
+  "en": "Mt. Orion",
+  "es": "Monte Orión",
+  "zh": "猎户山"
+ },
+ {
+  "id": 239,
+  "en": "Orion Cave",
+  "es": "Cueva Orión",
+  "zh": "猎户洞窟"
+ },
+ {
+  "id": 240,
+  "en": "Andromeda Route",
+  "es": "Ruta Andrómeda",
+  "zh": "仙女道路"
+ },
+ {
+  "id": 241,
+  "en": "Andromeda Ruins",
+  "es": "Ruinas Andrómeda",
+  "zh": "仙女遗迹"
+ },
+ {
+  "id": 242,
+  "en": "Virgo Coast",
+  "es": "Costa Virgo",
+  "zh": "室女海岸"
+ },
+ {
+  "id": 243,
+  "en": "Pulsar Field",
+  "es": "Campo Púlsar",
+  "zh": "脉冲星原野"
+ },
+ {
+  "id": 244,
+  "en": "Elemental Cave",
+  "es": "Cueva Elemental",
+  "zh": "元素洞窟"
+ },
+ {
+  "id": 245,
+  "en": "Spell Forest",
+  "es": "Bosque Hechizo",
+  "zh": "咒语森林"
+ },
+ {
+  "id": 246,
+  "en": "Sagittarius Cave",
+  "es": "Cueva Sagitario",
+  "zh": "人马洞窟"
+ },
+ {
+  "id": 247,
+  "en": "Blazar Field",
+  "es": "Campo Blazar",
+  "zh": "耀变体原野"
+ },
+ {
+  "id": 248,
+  "en": "Quasar Lake",
+  "es": "Lago Quasar",
+  "zh": "类星体湖"
+ },
+ {
+  "id": 249,
+  "en": "Magnetar Field",
+  "es": "Campo Magnetar",
+  "zh": "磁星原野"
+ },
+ {
+  "id": 250,
+  "en": "Magnetar Cave",
+  "es": "Cueva Magnetar",
+  "zh": "磁星洞窟"
+ },
+ {
+  "id": 251,
+  "en": "Supernova Valley",
+  "es": "Valle Supernova",
+  "zh": "超新星山谷"
+ },
+ {
+  "id": 252,
+  "en": "Cancri River",
+  "es": "Río Cancri",
+  "zh": "巨蟹河"
+ },
+ {
+  "id": 253,
+  "en": "Crystalline Forest",
+  "es": "Bosque Cristalino",
+  "zh": "水晶森林"
+ },
+ {
+  "id": 254,
+  "en": "Mt. Selenium",
+  "es": "Monte Selenio",
+  "zh": "硒山"
+ },
+ {
+  "id": 255,
+  "en": "Sigilyph Temple",
+  "es": "Templo Sigilyph",
+  "zh": "象征鸟神殿"
+ },
+ {
+  "id": 256,
+  "en": "Scolipede Temple",
+  "es": "Templo Scolipede",
+  "zh": "蜈蚣王神殿"
+ },
+ {
+  "id": 257,
+  "en": "Ruined Temple",
+  "es": "Templo en ruinas",
+  "zh": "荒废神殿"
+ },
+ {
+  "id": 258,
+  "en": "Taurus Coast",
+  "es": "Costa Tauro",
+  "zh": "金牛海岸"
+ },
+ {
+  "id": 259,
+  "en": "Scorpio Desert",
+  "es": "Desierto Escorpio",
+  "zh": "天蝎沙漠"
+ },
+ {
+  "id": 260,
+  "en": "Aries Valley",
+  "es": "Valle Aries",
+  "zh": "白羊山谷"
+ },
+ {
+  "id": 261,
+  "en": "Red Lagoon",
+  "es": "Laguna Roja",
+  "zh": "红色潟湖"
+ },
+ {
+  "id": 262,
+  "en": "Aries Cave",
+  "es": "Cueva Aries",
+  "zh": "白羊洞窟"
+ },
+ {
+  "id": 263,
+  "en": "Matagot Cemetery",
+  "es": "Cementerio Matagot",
+  "zh": "魔猫墓园"
+ },
+ {
+  "id": 264,
+  "en": "Lament Volcano",
+  "es": "Volcán Lamento",
+  "zh": "哀叹火山"
+ },
+ {
+  "id": 265,
+  "en": "Withered Forest",
+  "es": "Bosque Marchito",
+  "zh": "枯萎森林"
+ },
+ {
+  "id": 266,
+  "en": "Mental Forest",
+  "es": "Bosque Mental",
+  "zh": "心灵森林"
+ },
+ {
+  "id": 267,
+  "en": "Capricorn Coast",
+  "es": "Costa Capricornio",
+  "zh": "摩羯海岸"
+ },
+ {
+  "id": 268,
+  "en": "Spirit Valley",
+  "es": "Valle Espíritu",
+  "zh": "灵魂山谷"
+ },
+ {
+  "id": 269,
+  "en": "Lost Abyss",
+  "es": "Abismo Perdido",
+  "zh": "失落深渊"
+ },
+ {
+  "id": 270,
+  "en": "Libra Cave",
+  "es": "Cueva Libra",
+  "zh": "天秤洞窟"
+ },
+ {
+  "id": 271,
+  "en": "Torment Volcano",
+  "es": "Volcán Tormento",
+  "zh": "苦难火山"
+ },
+ {
+  "id": 272,
+  "en": "Torment Tunnel",
+  "es": "Túnel Tormento",
+  "zh": "苦难隧道"
+ },
+ {
+  "id": 273,
+  "en": "Matagot Tunnel",
+  "es": "Túnel Matagot",
+  "zh": "魔猫隧道"
+ },
+ {
+  "id": 274,
+  "en": "Soul Island",
+  "es": "Isla Alma",
+  "zh": "魂之岛"
+ },
+ {
+  "id": 275,
+  "en": "Ariados Temple",
+  "es": "Templo Ariados",
+  "zh": "阿利多斯神殿"
+ },
+ {
+  "id": 276,
+  "en": "Threshold Cave",
+  "es": "Cueva Umbral",
+  "zh": "门槛洞窟"
+ },
+ {
+  "id": 277,
+  "en": "Supernova Island",
+  "es": "Isla Supernova",
+  "zh": "超新星岛"
+ },
+ {
+  "id": 278,
+  "en": "Spirit Island",
+  "es": "Isla Espíritu",
+  "zh": "灵魂岛"
+ },
+ {
+  "id": 279,
+  "en": "Cerberus Castle",
+  "es": "Castillo Cerbero",
+  "zh": "刻耳柏洛斯城堡"
+ },
+ {
+  "id": 280,
+  "en": "(Upper Floor)",
+  "es": "(Piso Superior)",
+  "zh": "（上层）"
+ },
+ {
+  "id": 281,
+  "en": "(Middle Floor)",
+  "es": "(Piso Medio)",
+  "zh": "（中层）"
+ },
+ {
+  "id": 282,
+  "en": "(Lower Floor)",
+  "es": "(Piso Inferior)",
+  "zh": "（下层）"
+ },
+ {
+  "id": 283,
+  "en": "Magnolia Lab",
+  "es": "Lab. Magnolia",
+  "zh": "木兰研究所"
+ }
+]

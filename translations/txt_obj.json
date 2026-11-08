@@ -1,0 +1,5134 @@
+[
+ {
+  "id": 1,
+  "en": "Poké Ball",
+  "es": "Poké Ball",
+  "zh": "精灵球"
+ },
+ {
+  "id": 2,
+  "en": "Great Ball",
+  "es": "Super Ball",
+  "zh": "超级球"
+ },
+ {
+  "id": 3,
+  "en": "Ultra Ball",
+  "es": "Ultra Ball",
+  "zh": "高级球"
+ },
+ {
+  "id": 4,
+  "en": "Master Ball",
+  "es": "Master Ball",
+  "zh": "大师球"
+ },
+ {
+  "id": 5,
+  "en": "Safari Ball",
+  "es": "Safari Ball",
+  "zh": "狩猎球"
+ },
+ {
+  "id": 6,
+  "en": "Premier Ball",
+  "es": "Honor Ball",
+  "zh": "纪念球"
+ },
+ {
+  "id": 7,
+  "en": "Net Ball",
+  "es": "Malla Ball",
+  "zh": "捕网球"
+ },
+ {
+  "id": 8,
+  "en": "Dive Ball",
+  "es": "Buceo Ball",
+  "zh": "潜水球"
+ },
+ {
+  "id": 9,
+  "en": "Timer Ball",
+  "es": "Turno Ball",
+  "zh": "计时球"
+ },
+ {
+  "id": 10,
+  "en": "Luxury Ball",
+  "es": "Lujo Ball",
+  "zh": "豪华球"
+ },
+ {
+  "id": 11,
+  "en": "Nest Ball",
+  "es": "Nido Ball",
+  "zh": "巢穴球"
+ },
+ {
+  "id": 12,
+  "en": "Repeat Ball",
+  "es": "Acopio Ball",
+  "zh": "重复球"
+ },
+ {
+  "id": 13,
+  "en": "Star Ball",
+  "es": "Star Ball",
+  "zh": "星之球",
+  "note": "自译"
+ },
+ {
+  "id": 14,
+  "en": "GS Ball",
+  "es": "GS Ball",
+  "zh": "GS球"
+ },
+ {
+  "id": 15,
+  "en": "Potion",
+  "es": "Poción",
+  "zh": "伤药"
+ },
+ {
+  "id": 16,
+  "en": "Super Potion",
+  "es": "Superpoción",
+  "zh": "好伤药"
+ },
+ {
+  "id": 17,
+  "en": "Hyper Potion",
+  "es": "Hiperpoción",
+  "zh": "厉害伤药"
+ },
+ {
+  "id": 18,
+  "en": "Max Potion",
+  "es": "Poción Máxima",
+  "zh": "全满药"
+ },
+ {
+  "id": 19,
+  "en": "Full Restore",
+  "es": "Restaurar Todo",
+  "zh": "全复药"
+ },
+ {
+  "id": 20,
+  "en": "Full Heal",
+  "es": "Cura Total",
+  "zh": "万灵药"
+ },
+ {
+  "id": 21,
+  "en": "Revive",
+  "es": "Revivir",
+  "zh": "活力碎片"
+ },
+ {
+  "id": 22,
+  "en": "Max Revive",
+  "es": "Revivir Máximo",
+  "zh": "活力块"
+ },
+ {
+  "id": 23,
+  "en": "Fresh Water",
+  "es": "Agua Fresca",
+  "zh": "美味之水"
+ },
+ {
+  "id": 24,
+  "en": "Soda Pop",
+  "es": "Refresco",
+  "zh": "劲爽汽水"
+ },
+ {
+  "id": 25,
+  "en": "Lemonade",
+  "es": "Limonada",
+  "zh": "果汁牛奶"
+ },
+ {
+  "id": 26,
+  "en": "Moomoo Milk",
+  "es": "Leche Mu-Mu",
+  "zh": "哞哞鲜奶"
+ },
+ {
+  "id": 27,
+  "en": "Antidote",
+  "es": "Antídoto",
+  "zh": "解毒药"
+ },
+ {
+  "id": 28,
+  "en": "Burn Heal",
+  "es": "Antiquemar",
+  "zh": "灼伤药"
+ },
+ {
+  "id": 29,
+  "en": "Ice Heal",
+  "es": "Antihielo",
+  "zh": "解冻药"
+ },
+ {
+  "id": 30,
+  "en": "Awakening",
+  "es": "Despertar",
+  "zh": "解眠药"
+ },
+ {
+  "id": 31,
+  "en": "Paralyze Heal",
+  "es": "Antiparalizador",
+  "zh": "解麻药"
+ },
+ {
+  "id": 32,
+  "en": "HP Up",
+  "es": "Más PS",
+  "zh": "ＨＰ增强剂"
+ },
+ {
+  "id": 33,
+  "en": "Calcium",
+  "es": "Calcio",
+  "zh": "特攻增强剂"
+ },
+ {
+  "id": 34,
+  "en": "Iron",
+  "es": "Hierro",
+  "zh": "防御增强剂"
+ },
+ {
+  "id": 35,
+  "en": "Carbos",
+  "es": "Carbohidratos",
+  "zh": "速度增强剂"
+ },
+ {
+  "id": 36,
+  "en": "Protein",
+  "es": "Proteína",
+  "zh": "攻击增强剂"
+ },
+ {
+  "id": 37,
+  "en": "Zinc",
+  "es": "Zinc",
+  "zh": "特防增强剂"
+ },
+ {
+  "id": 38,
+  "en": "Rare Candy",
+  "es": "Caramelo Raro",
+  "zh": "神奇糖果"
+ },
+ {
+  "id": 39,
+  "en": "Repel",
+  "es": "Repelente",
+  "zh": "除虫喷雾"
+ },
+ {
+  "id": 40,
+  "en": "Super Repel",
+  "es": "SuperRepel",
+  "zh": "白银喷雾"
+ },
+ {
+  "id": 41,
+  "en": "Max Repel",
+  "es": "MaxRepel",
+  "zh": "黄金喷雾"
+ },
+ {
+  "id": 42,
+  "en": "Escape Rope",
+  "es": "Cuerda Huida",
+  "zh": "离洞绳"
+ },
+ {
+  "id": 43,
+  "en": "Sun Stone",
+  "es": "Piedra Solar",
+  "zh": "日之石"
+ },
+ {
+  "id": 44,
+  "en": "Moon Stone",
+  "es": "Piedra Lunar",
+  "zh": "月之石"
+ },
+ {
+  "id": 45,
+  "en": "Fire Stone",
+  "es": "Piedra Fuego",
+  "zh": "火之石"
+ },
+ {
+  "id": 46,
+  "en": "Thunder Stone",
+  "es": "Piedra Trueno",
+  "zh": "雷之石"
+ },
+ {
+  "id": 47,
+  "en": "Water Stone",
+  "es": "Piedra Agua",
+  "zh": "水之石"
+ },
+ {
+  "id": 48,
+  "en": "Leaf Stone",
+  "es": "Piedra Hoja",
+  "zh": "叶之石"
+ },
+ {
+  "id": 49,
+  "en": "Shiny Stone",
+  "es": "Piedra Día",
+  "zh": "光之石"
+ },
+ {
+  "id": 50,
+  "en": "Dusk Stone",
+  "es": "Piedra Noche",
+  "zh": "暗之石"
+ },
+ {
+  "id": 51,
+  "en": "Dawn Stone",
+  "es": "Piedra Alba",
+  "zh": "觉醒之石"
+ },
+ {
+  "id": 52,
+  "en": "Oval Stone",
+  "es": "Piedra Oval",
+  "zh": "浑圆之石"
+ },
+ {
+  "id": 53,
+  "en": "King's Rock",
+  "es": "Roca Del Rey",
+  "zh": "王者之证"
+ },
+ {
+  "id": 54,
+  "en": "Ice Rock",
+  "es": "Piedra Hielo",
+  "zh": "冰之石"
+ },
+ {
+  "id": 55,
+  "en": "Reaper Cloth",
+  "es": "Tela Terrible",
+  "zh": "灵界之布"
+ },
+ {
+  "id": 56,
+  "en": "Razor Claw",
+  "es": "Garra Afilada",
+  "zh": "锐利之爪"
+ },
+ {
+  "id": 57,
+  "en": "Razor Fang",
+  "es": "Colmillo Agudo",
+  "zh": "锐利之牙"
+ },
+ {
+  "id": 58,
+  "en": "Twisted Spoon",
+  "es": "Cuchara Torcida",
+  "zh": "弯曲的汤匙"
+ },
+ {
+  "id": 59,
+  "en": "Black Belt",
+  "es": "Cinturón Negro",
+  "zh": "黑带"
+ },
+ {
+  "id": 60,
+  "en": "Hard Stone",
+  "es": "Piedra Dura",
+  "zh": "硬石头"
+ },
+ {
+  "id": 61,
+  "en": "Spell Tag",
+  "es": "Hechizo",
+  "zh": "诅咒之符"
+ },
+ {
+  "id": 62,
+  "en": "Metal Coat",
+  "es": "Rev. Metálico",
+  "zh": "金属膜"
+ },
+ {
+  "id": 63,
+  "en": "Electrizer",
+  "es": "Electrizador",
+  "zh": "电力增幅器"
+ },
+ {
+  "id": 64,
+  "en": "Magmarizer",
+  "es": "Magmatizador",
+  "zh": "熔岩增幅器"
+ },
+ {
+  "id": 65,
+  "en": "Protector",
+  "es": "Protector",
+  "zh": "护具"
+ },
+ {
+  "id": 66,
+  "en": "Up-Grade",
+  "es": "Mejora",
+  "zh": "升级数据"
+ },
+ {
+  "id": 67,
+  "en": "Dubious Disc",
+  "es": "Disco Extraño",
+  "zh": "可疑补丁"
+ },
+ {
+  "id": 68,
+  "en": "Deepseatooth",
+  "es": "Diente Marino",
+  "zh": "深海之牙"
+ },
+ {
+  "id": 69,
+  "en": "Deepseascale",
+  "es": "Escama Marina",
+  "zh": "深海鳞片"
+ },
+ {
+  "id": 70,
+  "en": "Dragon Scale",
+  "es": "Escama Dragón",
+  "zh": "龙之鳞片"
+ },
+ {
+  "id": 71,
+  "en": "Sacred Ash",
+  "es": "Ceniza Sagrada",
+  "zh": "圣灰"
+ },
+ {
+  "id": 72,
+  "en": "Old Amber",
+  "es": "Ámbar Viejo",
+  "zh": "秘密琥珀"
+ },
+ {
+  "id": 73,
+  "en": "Helix Fossil",
+  "es": "Fósil Helix",
+  "zh": "贝壳化石"
+ },
+ {
+  "id": 74,
+  "en": "Dome Fossil",
+  "es": "Fósil Domo",
+  "zh": "甲壳化石"
+ },
+ {
+  "id": 75,
+  "en": "Root Fossil",
+  "es": "Fósil Raíz",
+  "zh": "根状化石"
+ },
+ {
+  "id": 76,
+  "en": "Claw Fossil",
+  "es": "Fósil Garra",
+  "zh": "爪子化石"
+ },
+ {
+  "id": 77,
+  "en": "Armor Fossil",
+  "es": "Fósil Coraza",
+  "zh": "盾甲化石"
+ },
+ {
+  "id": 78,
+  "en": "Skull Fossil",
+  "es": "Fósil Cráneo",
+  "zh": "头盖化石"
+ },
+ {
+  "id": 79,
+  "en": "Pearl",
+  "es": "Perla Pequeña",
+  "zh": "珍珠"
+ },
+ {
+  "id": 80,
+  "en": "Big Pearl",
+  "es": "Perla Grande",
+  "zh": "大珍珠"
+ },
+ {
+  "id": 81,
+  "en": "Nugget",
+  "es": "Pepita",
+  "zh": "金珠"
+ },
+ {
+  "id": 82,
+  "en": "Sapphire",
+  "es": "Zafiro",
+  "zh": "蓝宝石"
+ },
+ {
+  "id": 83,
+  "en": "Ruby",
+  "es": "Rubí",
+  "zh": "红宝石"
+ },
+ {
+  "id": 84,
+  "en": "Emerald",
+  "es": "Esmeralda",
+  "zh": "绿宝石"
+ },
+ {
+  "id": 85,
+  "en": "Star Piece",
+  "es": "Trozo Estrella",
+  "zh": "星星碎片"
+ },
+ {
+  "id": 86,
+  "en": "Stardust",
+  "es": "Polvo Estelar",
+  "zh": "星星沙子"
+ },
+ {
+  "id": 87,
+  "en": "Rare Bone",
+  "es": "Hueso Raro",
+  "zh": "贵重骨头"
+ },
+ {
+  "id": 88,
+  "en": "Tiny Mushroom",
+  "es": "MiniSeta",
+  "zh": "小蘑菇"
+ },
+ {
+  "id": 89,
+  "en": "Big Mushroom",
+  "es": "Seta Grande",
+  "zh": "大蘑菇"
+ },
+ {
+  "id": 90,
+  "en": "Everstone",
+  "es": "Piedra Eterna",
+  "zh": "不变之石"
+ },
+ {
+  "id": 91,
+  "en": "Blank Plate",
+  "es": "Tabla Neutra",
+  "zh": "净空石板"
+ },
+ {
+  "id": 92,
+  "en": "Flame Plate",
+  "es": "Tabla Fuego",
+  "zh": "火球石板"
+ },
+ {
+  "id": 93,
+  "en": "Splash Plate",
+  "es": "Tabla Linfa",
+  "zh": "水滴石板"
+ },
+ {
+  "id": 94,
+  "en": "Meadow Plate",
+  "es": "Tabla Pradal",
+  "zh": "碧绿石板"
+ },
+ {
+  "id": 95,
+  "en": "Zap Plate",
+  "es": "Tabla Trueno",
+  "zh": "雷电石板"
+ },
+ {
+  "id": 96,
+  "en": "Stone Plate",
+  "es": "Tabla Pétrea",
+  "zh": "岩石石板"
+ },
+ {
+  "id": 97,
+  "en": "Fist Plate",
+  "es": "Tabla Fuerte",
+  "zh": "拳头石板"
+ },
+ {
+  "id": 98,
+  "en": "Earth Plate",
+  "es": "Tabla Terrax",
+  "zh": "大地石板"
+ },
+ {
+  "id": 99,
+  "en": "Mind Plate",
+  "es": "Tabla Mental",
+  "zh": "神奇石板"
+ },
+ {
+  "id": 100,
+  "en": "Toxic Plate",
+  "es": "Tabla Tóxica",
+  "zh": "剧毒石板"
+ },
+ {
+  "id": 101,
+  "en": "Insect Plate",
+  "es": "Tabla Bicho",
+  "zh": "玉虫石板"
+ },
+ {
+  "id": 102,
+  "en": "Icicle Plate",
+  "es": "Tabla Helada",
+  "zh": "冰柱石板"
+ },
+ {
+  "id": 103,
+  "en": "Dread Plate",
+  "es": "Tabla Oscura",
+  "zh": "恶颜石板"
+ },
+ {
+  "id": 104,
+  "en": "Iron Plate",
+  "es": "Tabla Acero",
+  "zh": "钢铁石板"
+ },
+ {
+  "id": 105,
+  "en": "Sky Plate",
+  "es": "Tabla Cielo",
+  "zh": "蓝天石板"
+ },
+ {
+  "id": 106,
+  "en": "Spooky Plate",
+  "es": "Tabla Terror",
+  "zh": "妖怪石板"
+ },
+ {
+  "id": 107,
+  "en": "Draco Plate",
+  "es": "Tabla Draco",
+  "zh": "龙之石板"
+ },
+ {
+  "id": 108,
+  "en": "Forbidden Plate",
+  "es": "Tabla Prohibida",
+  "zh": "禁忌石板",
+  "note": "自译（参照官方“××石板”）"
+ },
+ {
+  "id": 109,
+  "en": "Cheri Berry",
+  "es": "Baya Zreza",
+  "zh": "樱子果"
+ },
+ {
+  "id": 110,
+  "en": "Chesto Berry",
+  "es": "Baya Atania",
+  "zh": "零余果"
+ },
+ {
+  "id": 111,
+  "en": "Pecha Berry",
+  "es": "Baya Meloc",
+  "zh": "桃桃果"
+ },
+ {
+  "id": 112,
+  "en": "Rawst Berry",
+  "es": "Baya Safre",
+  "zh": "莓莓果"
+ },
+ {
+  "id": 113,
+  "en": "Aspear Berry",
+  "es": "Baya Perasi",
+  "zh": "利木果"
+ },
+ {
+  "id": 114,
+  "en": "Leppa Berry",
+  "es": "Baya Zanama",
+  "zh": "苹野果"
+ },
+ {
+  "id": 115,
+  "en": "Oran Berry",
+  "es": "Baya Aranja",
+  "zh": "橙橙果"
+ },
+ {
+  "id": 116,
+  "en": "Persim Berry",
+  "es": "Baya Caquic",
+  "zh": "柿仔果"
+ },
+ {
+  "id": 117,
+  "en": "Lum Berry",
+  "es": "Baya Ziuela",
+  "zh": "木子果"
+ },
+ {
+  "id": 118,
+  "en": "Sitrus Berry",
+  "es": "Baya Zidra",
+  "zh": "文柚果"
+ },
+ {
+  "id": 119,
+  "en": "Figy Berry",
+  "es": "Baya Higog",
+  "zh": "勿花果"
+ },
+ {
+  "id": 120,
+  "en": "Wiki Berry",
+  "es": "Baya Wiki",
+  "zh": "异奇果"
+ },
+ {
+  "id": 121,
+  "en": "Mago Berry",
+  "es": "Baya Ango",
+  "zh": "芒芒果"
+ },
+ {
+  "id": 122,
+  "en": "Aguav Berry",
+  "es": "Baya Guaya",
+  "zh": "乐芭果"
+ },
+ {
+  "id": 123,
+  "en": "Iapapa Berry",
+  "es": "Baya Pabaya",
+  "zh": "芭亚果"
+ },
+ {
+  "id": 124,
+  "en": "Razz Berry",
+  "es": "Baya Frambu",
+  "zh": "蔓莓果"
+ },
+ {
+  "id": 125,
+  "en": "Bluk Berry",
+  "es": "Baya Oram",
+  "zh": "墨莓果"
+ },
+ {
+  "id": 126,
+  "en": "Nanab Berry",
+  "es": "Baya Latano",
+  "zh": "蕉香果"
+ },
+ {
+  "id": 127,
+  "en": "Wepear Berry",
+  "es": "Baya Peragu",
+  "zh": "西梨果"
+ },
+ {
+  "id": 128,
+  "en": "Pinap Berry",
+  "es": "Baya Pinia",
+  "zh": "凰梨果"
+ },
+ {
+  "id": 129,
+  "en": "Pomeg Berry",
+  "es": "Baya Grana",
+  "zh": "榴石果"
+ },
+ {
+  "id": 130,
+  "en": "Kelpsy Berry",
+  "es": "Baya Algama",
+  "zh": "藻根果"
+ },
+ {
+  "id": 131,
+  "en": "Qualot Berry",
+  "es": "Baya Ispero",
+  "zh": "比巴果"
+ },
+ {
+  "id": 132,
+  "en": "Hondew Berry",
+  "es": "Baya Meluce",
+  "zh": "哈密果"
+ },
+ {
+  "id": 133,
+  "en": "Grepa Berry",
+  "es": "Baya Uvav",
+  "zh": "萄葡果"
+ },
+ {
+  "id": 134,
+  "en": "Tamato Berry",
+  "es": "Baya Tamate",
+  "zh": "茄番果"
+ },
+ {
+  "id": 135,
+  "en": "Cornn Berry",
+  "es": "Baya Mais",
+  "zh": "玉黍果"
+ },
+ {
+  "id": 136,
+  "en": "Magost Berry",
+  "es": "Baya Aostan",
+  "zh": "岳竹果"
+ },
+ {
+  "id": 137,
+  "en": "Rabuta Berry",
+  "es": "Baya Rautan",
+  "zh": "茸丹果"
+ },
+ {
+  "id": 138,
+  "en": "Nomel Berry",
+  "es": "Baya Monli",
+  "zh": "檬柠果"
+ },
+ {
+  "id": 139,
+  "en": "Spelon Berry",
+  "es": "Baya Wikano",
+  "zh": "刺角果"
+ },
+ {
+  "id": 140,
+  "en": "Pamtre Berry",
+  "es": "Baya Plama",
+  "zh": "椰木果"
+ },
+ {
+  "id": 141,
+  "en": "Watmel Berry",
+  "es": "Baya Sambia",
+  "zh": "瓜西果"
+ },
+ {
+  "id": 142,
+  "en": "Durin Berry",
+  "es": "Baya Rudion",
+  "zh": "金枕果"
+ },
+ {
+  "id": 143,
+  "en": "Belue Berry",
+  "es": "Baya Andano",
+  "zh": "靛莓果"
+ },
+ {
+  "id": 144,
+  "en": "Liechi Berry",
+  "es": "Baya Lichi",
+  "zh": "枝荔果"
+ },
+ {
+  "id": 145,
+  "en": "Ganlon Berry",
+  "es": "Baya Gonlan",
+  "zh": "龙睛果"
+ },
+ {
+  "id": 146,
+  "en": "Salac Berry",
+  "es": "Baya Aslac",
+  "zh": "沙鳞果"
+ },
+ {
+  "id": 147,
+  "en": "Petaya Berry",
+  "es": "Baya Yapati",
+  "zh": "龙火果"
+ },
+ {
+  "id": 148,
+  "en": "Apicot Berry",
+  "es": "Baya Aricoc",
+  "zh": "杏仔果"
+ },
+ {
+  "id": 149,
+  "en": "Lansat Berry",
+  "es": "Baya Zonlan",
+  "zh": "兰萨果"
+ },
+ {
+  "id": 150,
+  "en": "Starf Berry",
+  "es": "Baya Arabol",
+  "zh": "星桃果"
+ },
+ {
+  "id": 151,
+  "en": "Enigma Berry",
+  "es": "Baya Enigma",
+  "zh": "谜芝果"
+ },
+ {
+  "id": 152,
+  "en": "Silver Wing",
+  "es": "Ala Plateada",
+  "zh": "银色之羽"
+ },
+ {
+  "id": 153,
+  "en": "Rainbow Wing",
+  "es": "Ala Arcoíris",
+  "zh": "虹色之羽"
+ },
+ {
+  "id": 154,
+  "en": "Lunar Wing",
+  "es": "Pluma Lunar",
+  "zh": "新月之羽"
+ },
+ {
+  "id": 155,
+  "en": "Lustrous Orb",
+  "es": "Lustresfera",
+  "zh": "白玉宝珠"
+ },
+ {
+  "id": 156,
+  "en": "Adamant Orb",
+  "es": "Diamansfera",
+  "zh": "金刚宝珠"
+ },
+ {
+  "id": 157,
+  "en": "Griseous Orb",
+  "es": "Griseosfera",
+  "zh": "白金宝珠"
+ },
+ {
+  "id": 158,
+  "en": "Gracidea",
+  "es": "Flor Gracídea",
+  "zh": "葛拉西蒂亚花"
+ },
+ {
+  "id": 159,
+  "en": "Magma Stone",
+  "es": "Piedra Magma",
+  "zh": "火山镇石"
+ },
+ {
+  "id": 160,
+  "en": "Blue Orb",
+  "es": "Esfera Azul",
+  "zh": "靛蓝色宝珠"
+ },
+ {
+  "id": 161,
+  "en": "Red Orb",
+  "es": "Esfera Roja",
+  "zh": "朱红色宝珠"
+ },
+ {
+  "id": 162,
+  "en": "Jade Orb",
+  "es": "Esfera Verde",
+  "zh": "草绿色宝珠"
+ },
+ {
+  "id": 163,
+  "en": "Exp. Share",
+  "es": "Repartir Exp.",
+  "zh": "学习装置"
+ },
+ {
+  "id": 164,
+  "en": "Amulet Coin",
+  "es": "Mon. Amuleto",
+  "zh": "护符金币"
+ },
+ {
+  "id": 165,
+  "en": "Elec. Ring",
+  "es": "Anillo Elec.",
+  "zh": "电力戒指",
+  "note": "自译"
+ },
+ {
+  "id": 166,
+  "en": "GPS",
+  "es": "GPS",
+  "zh": "GPS",
+  "note": "原文"
+ },
+ {
+  "id": 167,
+  "en": "Rekiem Key",
+  "es": "Llave Rekiem",
+  "zh": "安魂钥匙",
+  "note": "自译（音译）"
+ },
+ {
+  "id": 168,
+  "en": "SquirtBottle",
+  "es": "Regadera",
+  "zh": "杰尼龟喷壶"
+ },
+ {
+  "id": 169,
+  "en": "Coin Case",
+  "es": "Monedero",
+  "zh": "代币盒"
+ },
+ {
+  "id": 170,
+  "en": "Hidden Package",
+  "es": "Paquete Oculto",
+  "zh": "隐藏包裹",
+  "note": "自译"
+ },
+ {
+  "id": 171,
+  "en": "Special Herb",
+  "es": "Hierba Especial",
+  "zh": "特制药草",
+  "note": "自译"
+ },
+ {
+  "id": 172,
+  "en": "Knife",
+  "es": "Cuchillo",
+  "zh": "小刀",
+  "note": "自译"
+ },
+ {
+  "id": 173,
+  "en": "Axe",
+  "es": "Hacha",
+  "zh": "斧头",
+  "note": "自译"
+ },
+ {
+  "id": 174,
+  "en": "Bow",
+  "es": "Arco",
+  "zh": "弓",
+  "note": "自译"
+ },
+ {
+  "id": 175,
+  "en": "Azure Flute",
+  "es": "Flauta Azur",
+  "zh": "天界之笛"
+ },
+ {
+  "id": 176,
+  "en": "SmartPhone",
+  "es": "SmartPhone",
+  "zh": "智能手机",
+  "note": "自译"
+ },
+ {
+  "id": 177,
+  "en": "Central Key",
+  "es": "Llave Central",
+  "zh": "发电厂钥匙"
+ },
+ {
+  "id": 178,
+  "en": "Matarile Key",
+  "es": "Llave Matarile",
+  "zh": "马塔利钥匙",
+  "note": "自译（音译）"
+ },
+ {
+  "id": 179,
+  "en": "Rocket Key",
+  "es": "Llave Rocket",
+  "zh": "火箭钥匙",
+  "note": "自译（参照官方“火箭队”）"
+ },
+ {
+  "id": 180,
+  "en": "Exp. Inhibitor",
+  "es": "Inhibidor de Exp.",
+  "zh": "经验抑制器",
+  "note": "自译"
+ },
+ {
+  "id": 181,
+  "en": "Old Rod",
+  "es": "Caña Vieja",
+  "zh": "破旧钓竿"
+ },
+ {
+  "id": 182,
+  "en": "Good Rod",
+  "es": "Caña Buena",
+  "zh": "好钓竿"
+ },
+ {
+  "id": 183,
+  "en": "Super Rod",
+  "es": "Súper Caña",
+  "zh": "厉害钓竿"
+ },
+ {
+  "id": 184,
+  "en": "Bicycle",
+  "es": "Bicicleta",
+  "zh": "自行车"
+ },
+ {
+  "id": 185,
+  "en": "xPod Star",
+  "es": "xPod Star",
+  "zh": "xPod Star",
+  "note": "原文（游戏内音乐播放器）"
+ },
+ {
+  "id": 186,
+  "en": "Map",
+  "es": "Mapa",
+  "zh": "城镇地图"
+ },
+ {
+  "id": 187,
+  "en": "Poké Flute",
+  "es": "Flauta Pkmn",
+  "zh": "宝可梦之笛"
+ },
+ {
+  "id": 188,
+  "en": "Mystery Pass",
+  "es": "Pase Misterio",
+  "zh": "神秘通行证",
+  "note": "自译"
+ },
+ {
+  "id": 189,
+  "en": "Solar Pass",
+  "es": "Pase Solar",
+  "zh": "太阳通行证",
+  "note": "自译"
+ },
+ {
+  "id": 190,
+  "en": "Dark Pass",
+  "es": "Pase Oscuro",
+  "zh": "黑暗通行证",
+  "note": "自译"
+ },
+ {
+  "id": 191,
+  "en": "Jungle Pass",
+  "es": "Pase Jungla",
+  "zh": "丛林通行证",
+  "note": "自译"
+ },
+ {
+  "id": 192,
+  "en": "Front Pass",
+  "es": "Pase Frente",
+  "zh": "开拓区通行证",
+  "note": "自译"
+ },
+ {
+  "id": 193,
+  "en": "Mega Ring",
+  "es": "Mega-Aro",
+  "zh": "超级环"
+ },
+ {
+  "id": 194,
+  "en": "HM1 Cut",
+  "es": "MO1 Corte",
+  "zh": "秘传学习器01 居合斩",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 195,
+  "en": "HM2 Fly",
+  "es": "MO2 Vuelo",
+  "zh": "秘传学习器02 飞翔",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 196,
+  "en": "HM3 Surf",
+  "es": "MO3 Surf",
+  "zh": "秘传学习器03 冲浪",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 197,
+  "en": "HM4 Strength",
+  "es": "MO4 Fuerza",
+  "zh": "秘传学习器04 怪力",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 198,
+  "en": "HM5 Flash",
+  "es": "MO5 Destello",
+  "zh": "秘传学习器05 闪光",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 199,
+  "en": "HM6 Rock Smash",
+  "es": "MO6 Golpe Roca",
+  "zh": "秘传学习器06 碎岩",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 200,
+  "en": "HM7 Dive",
+  "es": "MO7 Buceo",
+  "zh": "秘传学习器07 潜水",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 201,
+  "en": "TM1 Teleport",
+  "es": "MT1 Teletransporte",
+  "zh": "招式学习器01 瞬间移动",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 202,
+  "en": "TM2 Dynamic Punch",
+  "es": "MT2 Puño Dinámico",
+  "zh": "招式学习器02 爆裂拳",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 203,
+  "en": "TM3 Dragon Claw",
+  "es": "MT3 Garra Dragón",
+  "zh": "招式学习器03 龙爪",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 204,
+  "en": "TM4 Safeguard",
+  "es": "MT4 Velo Sagrado",
+  "zh": "招式学习器04 神秘守护",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 205,
+  "en": "TM5 Substitute",
+  "es": "MT5 Sustituto",
+  "zh": "招式学习器05 替身",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 206,
+  "en": "TM6 Toxic",
+  "es": "MT6 Tóxico",
+  "zh": "招式学习器06 剧毒",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 207,
+  "en": "TM7 Sludge Bomb",
+  "es": "MT7 Bomba Lodo",
+  "zh": "招式学习器07 污泥炸弹",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 208,
+  "en": "TM8 Iron Tail",
+  "es": "MT8 Cola Férrea",
+  "zh": "招式学习器08 铁尾",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 209,
+  "en": "TM9 Sandstorm",
+  "es": "MT9 Tormenta Arena",
+  "zh": "招式学习器09 沙暴",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 210,
+  "en": "TM10 Sunny Day",
+  "es": "MT10 Día Soleado",
+  "zh": "招式学习器10 大晴天",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 211,
+  "en": "TM11 Rain Dance",
+  "es": "MT11 Danza Lluvia",
+  "zh": "招式学习器11 求雨",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 212,
+  "en": "TM12 Hail",
+  "es": "MT12 Granizo",
+  "zh": "招式学习器12 冰雹",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 213,
+  "en": "TM13 Hidden Power",
+  "es": "MT13 Poder Oculto",
+  "zh": "招式学习器13 觉醒力量",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 214,
+  "en": "TM14 Double Team",
+  "es": "MT14 Doble Equipo",
+  "zh": "招式学习器14 影子分身",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 215,
+  "en": "TM15 Hyper Beam",
+  "es": "MT15 Hiperrayo",
+  "zh": "招式学习器15 破坏光线",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 216,
+  "en": "TM16 Dig",
+  "es": "MT16 Excavar",
+  "zh": "招式学习器16 挖洞",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 217,
+  "en": "TM17 Earthquake",
+  "es": "MT17 Terremoto",
+  "zh": "招式学习器17 地震",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 218,
+  "en": "TM18 Protect",
+  "es": "MT18 Protección",
+  "zh": "招式学习器18 守住",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 219,
+  "en": "TM19 Shock Wave",
+  "es": "MT19 Onda Voltio",
+  "zh": "招式学习器19 电击波",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 220,
+  "en": "TM20 Focus Blast",
+  "es": "MT20 Onda Certera",
+  "zh": "招式学习器20 真气弹",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 221,
+  "en": "TM21 Aerial Ace",
+  "es": "MT21 Golpe Aéreo",
+  "zh": "招式学习器21 燕返",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 222,
+  "en": "TM22 Silver Wind",
+  "es": "MT22 Viento Plata",
+  "zh": "招式学习器22 银色旋风",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 223,
+  "en": "TM23 Dragon Pulse",
+  "es": "MT23 Pulso Dragón",
+  "zh": "招式学习器23 龙之波动",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 224,
+  "en": "TM24 Thunder Wave",
+  "es": "MT24 Onda Trueno",
+  "zh": "招式学习器24 电磁波",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 225,
+  "en": "TM25 Thunderbolt",
+  "es": "MT25 Rayo",
+  "zh": "招式学习器25 十万伏特",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 226,
+  "en": "TM26 Thunder",
+  "es": "MT26 Trueno",
+  "zh": "招式学习器26 打雷",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 227,
+  "en": "TM27 Ice Beam",
+  "es": "MT27 Rayo Hielo",
+  "zh": "招式学习器27 冰冻光束",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 228,
+  "en": "TM28 Blizzard",
+  "es": "MT28 Ventisca",
+  "zh": "招式学习器28 暴风雪",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 229,
+  "en": "TM29 Psychic",
+  "es": "MT29 Psíquico",
+  "zh": "招式学习器29 精神强念",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 230,
+  "en": "TM30 Shadow Ball",
+  "es": "MT30 Bola Sombra",
+  "zh": "招式学习器30 暗影球",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 231,
+  "en": "TM31 Flamethrower",
+  "es": "MT31 Lanzallamas",
+  "zh": "招式学习器31 喷射火焰",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 232,
+  "en": "TM32 Fire Blast",
+  "es": "MT32 Llamarada",
+  "zh": "招式学习器32 大字爆炎",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 233,
+  "en": "TM33 Giga Drain",
+  "es": "MT33 Gigadrenado",
+  "zh": "招式学习器33 终极吸取",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 234,
+  "en": "TM34 Solar Beam",
+  "es": "MT34 Rayo Solar",
+  "zh": "招式学习器34 日光束",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 235,
+  "en": "TM35 Rock Tomb",
+  "es": "MT35 Tumbarocas",
+  "zh": "招式学习器35 岩石封锁",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 236,
+  "en": "TM36 Rock Slide",
+  "es": "MT36 Avalancha",
+  "zh": "招式学习器36 岩崩",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 237,
+  "en": "TM37 Dark Pulse",
+  "es": "MT37 Pulso Umbrío",
+  "zh": "招式学习器37 恶之波动",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 238,
+  "en": "TM38 Poison Jab",
+  "es": "MT38 Puya Nociva",
+  "zh": "招式学习器38 毒击",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 239,
+  "en": "TM39 Giga Impact",
+  "es": "MT39 Gigaimpacto",
+  "zh": "招式学习器39 终极冲击",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 240,
+  "en": "TM40 Water Pulse",
+  "es": "MT40 Hidropulso",
+  "zh": "招式学习器40 水之波动",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 241,
+  "en": "TM41 Explosion",
+  "es": "MT41 Explosión",
+  "zh": "招式学习器41 大爆炸",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 242,
+  "en": "TM42 X-Scissor",
+  "es": "MT42 Tijera X",
+  "zh": "招式学习器42 十字剪",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 243,
+  "en": "TM43 Rest",
+  "es": "MT43 Descanso",
+  "zh": "招式学习器43 睡觉",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 244,
+  "en": "TM44 False Swipe",
+  "es": "MT44 Falsotortazo",
+  "zh": "招式学习器44 点到为止",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 245,
+  "en": "TM45 Secret Power",
+  "es": "MT45 Daño Secreto",
+  "zh": "招式学习器45 秘密之力",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 246,
+  "en": "TM46 Extreme Speed",
+  "es": "MT46 Vel. Extrema",
+  "zh": "招式学习器46 神速",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 247,
+  "en": "TM47 Whirlpool",
+  "es": "MT47 Torbellino",
+  "zh": "招式学习器47 潮旋",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 248,
+  "en": "TM48 Waterfall",
+  "es": "MT48 Cascada",
+  "zh": "招式学习器48 攀瀑",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 249,
+  "en": "TM49 Fire Wave",
+  "es": "MT49 Ola-Lava",
+  "zh": "招式学习器49 熔岩浪潮",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 250,
+  "en": "TM50 Rock Climb",
+  "es": "MT50 Treparrocas",
+  "zh": "招式学习器50 攀岩",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 251,
+  "en": "TM51 Metronome",
+  "es": "MT51 Metrónomo",
+  "zh": "招式学习器51 挥指",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 252,
+  "en": "TM52 Mimic",
+  "es": "MT52 Mimético",
+  "zh": "招式学习器52 模仿",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 253,
+  "en": "TM53 Sweet Scent",
+  "es": "MT53 Dulce Aroma",
+  "zh": "招式学习器53 甜甜香气",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 254,
+  "en": "TM54 DragonBreath",
+  "es": "MT54 Dragoaliento",
+  "zh": "招式学习器54 龙息",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 255,
+  "en": "TM55 Thunder Punch",
+  "es": "MT55 Puño Trueno",
+  "zh": "招式学习器55 雷电拳",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 256,
+  "en": "TM56 Fire Punch",
+  "es": "MT56 Puño Fuego",
+  "zh": "招式学习器56 火焰拳",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 257,
+  "en": "TM57 Ice Punch",
+  "es": "MT57 Puño Hielo",
+  "zh": "招式学习器57 冰冻拳",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 258,
+  "en": "TM58 Drain Punch",
+  "es": "MT58 Puño Drenaje",
+  "zh": "招式学习器58 吸取拳",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 259,
+  "en": "TM59 Roost",
+  "es": "MT59 Respiro",
+  "zh": "招式学习器59 羽栖",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 260,
+  "en": "TM60 Brine",
+  "es": "MT60 Salmuera",
+  "zh": "招式学习器60 盐水",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 261,
+  "en": "TM61 Facade",
+  "es": "MT61 Imagen",
+  "zh": "招式学习器61 硬撑",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 262,
+  "en": "TM62 Stone Edge",
+  "es": "MT62 Roca Afilada",
+  "zh": "招式学习器62 尖石攻击",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 263,
+  "en": "TM63 Energy Ball",
+  "es": "MT63 Energibola",
+  "zh": "招式学习器63 能量球",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 264,
+  "en": "TM64 Captivate",
+  "es": "MT64 Seducción",
+  "zh": "招式学习器64 诱惑",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 265,
+  "en": "TM65 Flash Cannon",
+  "es": "MT65 Cañón Resp.",
+  "zh": "招式学习器65 加农光炮",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 266,
+  "en": "TM66 Skill Swap",
+  "es": "MT66 Intercambio",
+  "zh": "招式学习器66 特性互换",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 267,
+  "en": "TM67 Brick Break",
+  "es": "MT67 Demolición",
+  "zh": "招式学习器67 劈瓦",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 268,
+  "en": "TM68 Swagger",
+  "es": "MT68 Contoneo",
+  "zh": "招式学习器68 虚张声势",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 269,
+  "en": "TM69 Thief",
+  "es": "MT69 Ladrón",
+  "zh": "招式学习器69 小偷",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 270,
+  "en": "TM70 Miracle Eye",
+  "es": "MT70 Gran Ojo",
+  "zh": "招式学习器70 奇迹之眼",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 271,
+  "en": "TM71 Zap Cannon",
+  "es": "MT71 Electrocañón",
+  "zh": "招式学习器71 电磁炮",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 272,
+  "en": "TM72 Light Screen",
+  "es": "MT72 Pantalla Luz",
+  "zh": "招式学习器72 光墙",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 273,
+  "en": "TM73 Reflect",
+  "es": "MT73 Reflejo",
+  "zh": "招式学习器73 反射壁",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 274,
+  "en": "TM74 Magnet Rise",
+  "es": "MT74 Levitón",
+  "zh": "招式学习器74 电磁飘浮",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 275,
+  "en": "TM75 Trick Room",
+  "es": "MT75 Espacio Raro",
+  "zh": "招式学习器75 戏法空间",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 276,
+  "en": "TM76 Psyshock",
+  "es": "MT76 Psicocarga",
+  "zh": "招式学习器76 精神冲击",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 277,
+  "en": "TM77 Venoshock",
+  "es": "MT77 Cargatóxica",
+  "zh": "招式学习器77 毒液冲击",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 278,
+  "en": "TM78 Smack Down",
+  "es": "MT78 Antiaéreo",
+  "zh": "招式学习器78 击落",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 279,
+  "en": "TM79 Bulldoze",
+  "es": "MT79 Terratemblor",
+  "zh": "招式学习器79 重踏",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 280,
+  "en": "TM80 Scald",
+  "es": "MT80 Escaldar",
+  "zh": "招式学习器80 热水",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 281,
+  "en": "TM81 U-Turn",
+  "es": "MT81 Ida y vuelta",
+  "zh": "招式学习器81 急速折返",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 282,
+  "en": "TM82 Acrobatics",
+  "es": "MT82 Acróbata",
+  "zh": "招式学习器82 杂技",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 283,
+  "en": "TM83 Retaliate",
+  "es": "MT83 Represalia",
+  "zh": "招式学习器83 报仇",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 284,
+  "en": "TM84 Struggle Bug",
+  "es": "MT84 Estoicismo",
+  "zh": "招式学习器84 虫之抵抗",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 285,
+  "en": "TM85 Work Up",
+  "es": "MT85 Avivar",
+  "zh": "招式学习器85 自我激励",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 286,
+  "en": "TM86 Dragon Tail",
+  "es": "MT86 Cola dragón",
+  "zh": "招式学习器86 龙尾",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 287,
+  "en": "TM87 Snarl",
+  "es": "MT87 Alarido",
+  "zh": "招式学习器87 大声咆哮",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 288,
+  "en": "TM88 Calm Mind",
+  "es": "MT88 Paz Mental",
+  "zh": "招式学习器88 冥想",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 289,
+  "en": "TM89 Frost Breath",
+  "es": "MT89 Vaho gélido",
+  "zh": "招式学习器89 冰息",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 290,
+  "en": "TM90 Wild Charge",
+  "es": "MT90 Voltio cruel",
+  "zh": "招式学习器90 疯狂伏特",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 291,
+  "en": "Antibiotic",
+  "es": "Antibiótico",
+  "zh": "抗生素",
+  "note": "自译"
+ },
+ {
+  "id": 292,
+  "en": "Love Heal",
+  "es": "Antiamor",
+  "zh": "迷恋解药",
+  "note": "自译"
+ },
+ {
+  "id": 293,
+  "en": "Curse Heal",
+  "es": "Antimaldic.",
+  "zh": "诅咒解药",
+  "note": "自译"
+ },
+ {
+  "id": 294,
+  "en": "Max Elixir",
+  "es": "Max. Elixir",
+  "zh": "ＰＰ多项全补剂"
+ },
+ {
+  "id": 295,
+  "en": "X Attack",
+  "es": "Ataque X",
+  "zh": "力量强化"
+ },
+ {
+  "id": 296,
+  "en": "X Defend",
+  "es": "Defensa X",
+  "zh": "防御强化"
+ },
+ {
+  "id": 297,
+  "en": "X Speed",
+  "es": "Velocidad X",
+  "zh": "速度强化"
+ },
+ {
+  "id": 298,
+  "en": "X Accuracy",
+  "es": "Precisión X",
+  "zh": "命中强化"
+ },
+ {
+  "id": 299,
+  "en": "X Special",
+  "es": "Especial X",
+  "zh": "特攻强化"
+ },
+ {
+  "id": 300,
+  "en": "X Special Defend",
+  "es": "Def. Espec. X",
+  "zh": "特防强化"
+ },
+ {
+  "id": 301,
+  "en": "Dire Hit",
+  "es": "Directo",
+  "zh": "要害攻击"
+ },
+ {
+  "id": 302,
+  "en": "Guard Spec.",
+  "es": "Prot. Especial",
+  "zh": "能力防守"
+ },
+ {
+  "id": 303,
+  "en": "Leftovers",
+  "es": "Restos",
+  "zh": "吃剩的东西"
+ },
+ {
+  "id": 304,
+  "en": "Shell Bell",
+  "es": "Campana Concha",
+  "zh": "贝壳之铃"
+ },
+ {
+  "id": 305,
+  "en": "Black Sludge",
+  "es": "Lodo Negro",
+  "zh": "黑色污泥"
+ },
+ {
+  "id": 306,
+  "en": "Big Nugget",
+  "es": "Maxipepita",
+  "zh": "巨大金珠"
+ },
+ {
+  "id": 307,
+  "en": "Pearl String",
+  "es": "Sarta perlas",
+  "zh": "丸子珍珠"
+ },
+ {
+  "id": 308,
+  "en": "Balm Mushroom",
+  "es": "Seta Aromática",
+  "zh": "芳香蘑菇"
+ },
+ {
+  "id": 309,
+  "en": "Comet Shard",
+  "es": "Frag. Cometa",
+  "zh": "彗星碎片"
+ },
+ {
+  "id": 310,
+  "en": "Silk Scarf",
+  "es": "Pañuelo Seda",
+  "zh": "丝绸围巾"
+ },
+ {
+  "id": 311,
+  "en": "Charcoal",
+  "es": "Carbón",
+  "zh": "木炭"
+ },
+ {
+  "id": 312,
+  "en": "Mystic Water",
+  "es": "Agua Mística",
+  "zh": "神秘水滴"
+ },
+ {
+  "id": 313,
+  "en": "Miracle Seed",
+  "es": "Semilla Milagro",
+  "zh": "奇迹种子"
+ },
+ {
+  "id": 314,
+  "en": "Magnet",
+  "es": "Imán",
+  "zh": "磁铁"
+ },
+ {
+  "id": 315,
+  "en": "Soft Sand",
+  "es": "Arena Fina",
+  "zh": "柔软沙子"
+ },
+ {
+  "id": 316,
+  "en": "Silver Powder",
+  "es": "Polvo Plata",
+  "zh": "银粉"
+ },
+ {
+  "id": 317,
+  "en": "Poison Barb",
+  "es": "Flecha Ven.",
+  "zh": "毒针"
+ },
+ {
+  "id": 318,
+  "en": "Nevermeltice",
+  "es": "Antiderretir",
+  "zh": "不融冰"
+ },
+ {
+  "id": 319,
+  "en": "Black Glasses",
+  "es": "Gafas de Sol",
+  "zh": "黑色眼镜"
+ },
+ {
+  "id": 320,
+  "en": "Sharp Beak",
+  "es": "Pico Afilado",
+  "zh": "锐利鸟嘴"
+ },
+ {
+  "id": 321,
+  "en": "Dragon fang",
+  "es": "Colmillo Dragón",
+  "zh": "龙之牙"
+ },
+ {
+  "id": 322,
+  "en": "Mineral Stone",
+  "es": "Piedra Mineral",
+  "zh": "矿物石",
+  "note": "自译"
+ },
+ {
+  "id": 323,
+  "en": "Magic Rock",
+  "es": "Roca Mágica",
+  "zh": "魔法岩",
+  "note": "自译"
+ },
+ {
+  "id": 324,
+  "en": "Weights",
+  "es": "Pesas",
+  "zh": "负重",
+  "note": "自译"
+ },
+ {
+  "id": 325,
+  "en": "Ninja Band",
+  "es": "Cinta Ninja",
+  "zh": "忍者头带",
+  "note": "自译"
+ },
+ {
+  "id": 326,
+  "en": "Spear",
+  "es": "Lanza",
+  "zh": "长矛",
+  "note": "自译"
+ },
+ {
+  "id": 327,
+  "en": "Prism Scale",
+  "es": "Escama Bella",
+  "zh": "美丽鳞片"
+ },
+ {
+  "id": 328,
+  "en": "Plume Fossil",
+  "es": "Fósil Pluma",
+  "zh": "羽毛化石"
+ },
+ {
+  "id": 329,
+  "en": "Cover Fossil",
+  "es": "Fósil Tapa",
+  "zh": "背盖化石"
+ },
+ {
+  "id": 330,
+  "en": "Light Ball",
+  "es": "Bola Luminosa",
+  "zh": "电气球"
+ },
+ {
+  "id": 331,
+  "en": "Aura Sphere",
+  "es": "Bola Aural",
+  "zh": "波导之球",
+  "note": "自译（道具）"
+ },
+ {
+  "id": 332,
+  "en": "Eon Sphere",
+  "es": "Bola Eon",
+  "zh": "无限之球",
+  "note": "自译（Eon 官方译“无限”）"
+ },
+ {
+  "id": 333,
+  "en": "Herb Sphere",
+  "es": "Bola Hierba",
+  "zh": "药草之球",
+  "note": "自译"
+ },
+ {
+  "id": 334,
+  "en": "Burning Sphere",
+  "es": "Bola Ardiente",
+  "zh": "燃烧之球",
+  "note": "自译"
+ },
+ {
+  "id": 335,
+  "en": "Aquatic Sphere",
+  "es": "Bola Acuática",
+  "zh": "水生之球",
+  "note": "自译"
+ },
+ {
+  "id": 336,
+  "en": "Old Cape",
+  "es": "Capa Antigua",
+  "zh": "旧披风",
+  "note": "自译"
+ },
+ {
+  "id": 337,
+  "en": "Special Armor",
+  "es": "Armadura Esp.",
+  "zh": "特制铠甲",
+  "note": "自译"
+ },
+ {
+  "id": 338,
+  "en": "Light Stone",
+  "es": "Orbe Claro",
+  "zh": "光明石"
+ },
+ {
+  "id": 339,
+  "en": "Dark Stone",
+  "es": "Orbe Oscuro",
+  "zh": "黑暗石"
+ },
+ {
+  "id": 340,
+  "en": "God Stone",
+  "es": "Piedra Dios",
+  "zh": "神之石",
+  "note": "自译"
+ },
+ {
+  "id": 341,
+  "en": "Burn Drive",
+  "es": "PiroROM",
+  "zh": "火焰卡带"
+ },
+ {
+  "id": 342,
+  "en": "Douse Drive",
+  "es": "HidroROM",
+  "zh": "水流卡带"
+ },
+ {
+  "id": 343,
+  "en": "Shock Drive",
+  "es": "FulgoROM",
+  "zh": "闪电卡带"
+ },
+ {
+  "id": 344,
+  "en": "Chill Drive",
+  "es": "CrioROM",
+  "zh": "冰冻卡带"
+ },
+ {
+  "id": 345,
+  "en": "Shiny Charm",
+  "es": "Amuleto Iris",
+  "zh": "闪耀护符"
+ },
+ {
+  "id": 346,
+  "en": "Lucky Egg",
+  "es": "Huevo Suerte",
+  "zh": "幸运蛋"
+ },
+ {
+  "id": 347,
+  "en": "Honey",
+  "es": "Miel",
+  "zh": "甜甜蜜"
+ },
+ {
+  "id": 348,
+  "en": "Eviolite",
+  "es": "Mineral Evol.",
+  "zh": "进化奇石"
+ },
+ {
+  "id": 349,
+  "en": "Flame Orb",
+  "es": "Llamasfera",
+  "zh": "火焰宝珠"
+ },
+ {
+  "id": 350,
+  "en": "Toxic Orb",
+  "es": "Toxisfera",
+  "zh": "剧毒宝珠"
+ },
+ {
+  "id": 351,
+  "en": "Sticky Barb",
+  "es": "Toxiestrella",
+  "zh": "附着针"
+ },
+ {
+  "id": 352,
+  "en": "Binding Band",
+  "es": "Banda Atadura",
+  "zh": "紧绑束带"
+ },
+ {
+  "id": 353,
+  "en": "Focus Sash",
+  "es": "Banda Focus",
+  "zh": "气势披带"
+ },
+ {
+  "id": 354,
+  "en": "Ring Target",
+  "es": "Blanco",
+  "zh": "标靶"
+ },
+ {
+  "id": 355,
+  "en": "Iron Ball",
+  "es": "Bola Férrea",
+  "zh": "黑色铁球"
+ },
+ {
+  "id": 356,
+  "en": "Eject Button",
+  "es": "Botón Escape",
+  "zh": "逃脱按键"
+ },
+ {
+  "id": 357,
+  "en": "Rocky Helmet",
+  "es": "Casco Dentado",
+  "zh": "凸凸头盔"
+ },
+ {
+  "id": 358,
+  "en": "Choice Band",
+  "es": "Cinta Elección",
+  "zh": "讲究头带"
+ },
+ {
+  "id": 359,
+  "en": "Expert Belt",
+  "es": "Cinta Experto",
+  "zh": "达人带"
+ },
+ {
+  "id": 360,
+  "en": "Focus Band",
+  "es": "Cinta Focus",
+  "zh": "气势头带"
+ },
+ {
+  "id": 361,
+  "en": "Wise Glasses",
+  "es": "Gafas Especiales",
+  "zh": "博识眼镜"
+ },
+ {
+  "id": 362,
+  "en": "Choice Specs",
+  "es": "Gafas Elección",
+  "zh": "讲究眼镜"
+ },
+ {
+  "id": 363,
+  "en": "Quick Claw",
+  "es": "Garra Rápida",
+  "zh": "先制之爪"
+ },
+ {
+  "id": 364,
+  "en": "Berserk Gene",
+  "es": "Gen Loco",
+  "zh": "狂暴基因",
+  "note": "官方（动画/宝可梦卡）"
+ },
+ {
+  "id": 365,
+  "en": "Destiny Knot",
+  "es": "Lazo Destino",
+  "zh": "红线"
+ },
+ {
+  "id": 366,
+  "en": "Black Knot",
+  "es": "Lazo Negro",
+  "zh": "黑色红线",
+  "note": "自译"
+ },
+ {
+  "id": 367,
+  "en": "Choice Scarf",
+  "es": "Pañuelo Elección",
+  "zh": "讲究围巾"
+ },
+ {
+  "id": 368,
+  "en": "Scope Lens",
+  "es": "Periscopio",
+  "zh": "焦点镜"
+ },
+ {
+  "id": 369,
+  "en": "Cell Battery",
+  "es": "Pila",
+  "zh": "充电电池"
+ },
+ {
+  "id": 370,
+  "en": "Big Root",
+  "es": "Raíz Grande",
+  "zh": "大根茎"
+ },
+ {
+  "id": 371,
+  "en": "Light Clay",
+  "es": "Refleluz",
+  "zh": "光之黏土"
+ },
+ {
+  "id": 372,
+  "en": "Heat Rock",
+  "es": "Roca Calor",
+  "zh": "炽热岩石"
+ },
+ {
+  "id": 373,
+  "en": "Icy Rock",
+  "es": "Roca Helada",
+  "zh": "冰冷岩石"
+ },
+ {
+  "id": 374,
+  "en": "Damp Rock",
+  "es": "Roca Lluvia",
+  "zh": "潮湿岩石"
+ },
+ {
+  "id": 375,
+  "en": "Smooth Rock",
+  "es": "Roca Suave",
+  "zh": "沙沙岩石"
+ },
+ {
+  "id": 376,
+  "en": "Zoom Lens",
+  "es": "Telescopio",
+  "zh": "对焦镜"
+ },
+ {
+  "id": 377,
+  "en": "Life Orb",
+  "es": "Vidasfera",
+  "zh": "生命宝珠"
+ },
+ {
+  "id": 378,
+  "en": "Conductive Bracer",
+  "es": "Braz. Conduct.",
+  "zh": "导电护腕",
+  "note": "自译"
+ },
+ {
+  "id": 379,
+  "en": "Justice Bracer",
+  "es": "Braz. Justicia",
+  "zh": "正义护腕",
+  "note": "自译"
+ },
+ {
+  "id": 380,
+  "en": "Spirit Bracer",
+  "es": "Braz. Espíritu",
+  "zh": "灵魂护腕",
+  "note": "自译"
+ },
+ {
+  "id": 381,
+  "en": "Earthly Bracer",
+  "es": "Braz. Terrenal",
+  "zh": "大地护腕",
+  "note": "自译"
+ },
+ {
+  "id": 382,
+  "en": "Celestial Bracer",
+  "es": "Braz. Celestial",
+  "zh": "天空护腕",
+  "note": "自译"
+ },
+ {
+  "id": 383,
+  "en": "Corrosive Bracer",
+  "es": "Braz. Corrosivo",
+  "zh": "腐蚀护腕",
+  "note": "自译"
+ },
+ {
+  "id": 384,
+  "en": "Normal Gem",
+  "es": "Gema Normal",
+  "zh": "一般宝石"
+ },
+ {
+  "id": 385,
+  "en": "Fire Gem",
+  "es": "Gema Fuego",
+  "zh": "火之宝石"
+ },
+ {
+  "id": 386,
+  "en": "Water Gem",
+  "es": "Gema Agua",
+  "zh": "水之宝石"
+ },
+ {
+  "id": 387,
+  "en": "Grass Gem",
+  "es": "Gema Planta",
+  "zh": "草之宝石"
+ },
+ {
+  "id": 388,
+  "en": "Electric Gem",
+  "es": "Gema Eléctrica",
+  "zh": "电之宝石"
+ },
+ {
+  "id": 389,
+  "en": "Rock Gem",
+  "es": "Gema Roca",
+  "zh": "岩石宝石"
+ },
+ {
+  "id": 390,
+  "en": "Fighting Gem",
+  "es": "Gema Lucha",
+  "zh": "格斗宝石"
+ },
+ {
+  "id": 391,
+  "en": "Ground Gem",
+  "es": "Gema Tierra",
+  "zh": "地面宝石"
+ },
+ {
+  "id": 392,
+  "en": "Psychic Gem",
+  "es": "Gema Psíquica",
+  "zh": "超能力宝石"
+ },
+ {
+  "id": 393,
+  "en": "Poison Gem",
+  "es": "Gema Veneno",
+  "zh": "毒之宝石"
+ },
+ {
+  "id": 394,
+  "en": "Bug Gem",
+  "es": "Gema Bicho",
+  "zh": "虫之宝石"
+ },
+ {
+  "id": 395,
+  "en": "Ice Gem",
+  "es": "Gema Hielo",
+  "zh": "冰之宝石"
+ },
+ {
+  "id": 396,
+  "en": "Dark Gem",
+  "es": "Gema Siniestra",
+  "zh": "恶之宝石"
+ },
+ {
+  "id": 397,
+  "en": "Steel Gem",
+  "es": "Gema Acero",
+  "zh": "钢之宝石"
+ },
+ {
+  "id": 398,
+  "en": "Flying Gem",
+  "es": "Gema Voladora",
+  "zh": "飞行宝石"
+ },
+ {
+  "id": 399,
+  "en": "Ghost Gem",
+  "es": "Gema Fantasma",
+  "zh": "幽灵宝石"
+ },
+ {
+  "id": 400,
+  "en": "Dragon Gem",
+  "es": "Gema Dragón",
+  "zh": "龙之宝石"
+ },
+ {
+  "id": 401,
+  "en": "Power Weight",
+  "es": "Pesa Recia",
+  "zh": "力量负重"
+ },
+ {
+  "id": 402,
+  "en": "Power Bracer",
+  "es": "Brazal Recio",
+  "zh": "力量护腕"
+ },
+ {
+  "id": 403,
+  "en": "Power Belt",
+  "es": "Cinto Recio",
+  "zh": "力量腰带"
+ },
+ {
+  "id": 404,
+  "en": "Power Lens",
+  "es": "Lente Recia",
+  "zh": "力量镜"
+ },
+ {
+  "id": 405,
+  "en": "Power Band",
+  "es": "Banda Recia",
+  "zh": "力量束带"
+ },
+ {
+  "id": 406,
+  "en": "Power Anklet",
+  "es": "Franja Recia",
+  "zh": "力量护踝"
+ },
+ {
+  "id": 407,
+  "en": "Reveal Glass",
+  "es": "Espejo Veraz",
+  "zh": "现形镜"
+ },
+ {
+  "id": 408,
+  "en": "Mewtwonite X",
+  "es": "Mewtwoita X",
+  "zh": "超梦进化石Ｘ"
+ },
+ {
+  "id": 409,
+  "en": "Mewtwonite Y",
+  "es": "Mewtwoita Y",
+  "zh": "超梦进化石Ｙ"
+ },
+ {
+  "id": 410,
+  "en": "Pixie Plate",
+  "es": "Tabla Duende",
+  "zh": "妖精石板"
+ },
+ {
+  "id": 411,
+  "en": "Magic Wand",
+  "es": "Varita Mágica",
+  "zh": "魔法杖",
+  "note": "自译"
+ },
+ {
+  "id": 412,
+  "en": "Nymph Stone",
+  "es": "Piedra Ninfa",
+  "zh": "仙子石",
+  "note": "自译"
+ },
+ {
+  "id": 413,
+  "en": "Fairy Gem",
+  "es": "Gema Hada",
+  "zh": "妖精宝石"
+ },
+ {
+  "id": 414,
+  "en": "Ampharosite",
+  "es": "Ampharosita",
+  "zh": "电龙进化石"
+ },
+ {
+  "id": 415,
+  "en": "Venusaurite",
+  "es": "Venusaurita",
+  "zh": "妙蛙花进化石"
+ },
+ {
+  "id": 416,
+  "en": "Charizardite X",
+  "es": "Charizardita X",
+  "zh": "喷火龙进化石Ｘ"
+ },
+ {
+  "id": 417,
+  "en": "Charizardite Y",
+  "es": "Charizardita Y",
+  "zh": "喷火龙进化石Ｙ"
+ },
+ {
+  "id": 418,
+  "en": "Blastoisinite",
+  "es": "Blastoisita",
+  "zh": "水箭龟进化石"
+ },
+ {
+  "id": 419,
+  "en": "Pikablutite",
+  "es": "Pikabluita",
+  "zh": "皮卡蓝进化石",
+  "note": "规则：××进化石"
+ },
+ {
+  "id": 420,
+  "en": "Lucarionite",
+  "es": "Lucarita",
+  "zh": "路卡利欧进化石"
+ },
+ {
+  "id": 421,
+  "en": "Blazikenite",
+  "es": "Blazikenita",
+  "zh": "火焰鸡进化石"
+ },
+ {
+  "id": 422,
+  "en": "Gardevoirite",
+  "es": "Gardevoirita",
+  "zh": "沙奈朵进化石"
+ },
+ {
+  "id": 423,
+  "en": "Absolite",
+  "es": "Absolita",
+  "zh": "阿勃梭鲁进化石"
+ },
+ {
+  "id": 424,
+  "en": "Mawilite",
+  "es": "Mawilita",
+  "zh": "大嘴娃进化石"
+ },
+ {
+  "id": 425,
+  "en": "Abomasite",
+  "es": "Abomasnowita",
+  "zh": "暴雪王进化石"
+ },
+ {
+  "id": 426,
+  "en": "Aerodactylite",
+  "es": "Aerodactylita",
+  "zh": "化石翼龙进化石"
+ },
+ {
+  "id": 427,
+  "en": "Aggronite",
+  "es": "Aggronita",
+  "zh": "波士可多拉进化石"
+ },
+ {
+  "id": 428,
+  "en": "Alakazamite",
+  "es": "Alakazamita",
+  "zh": "胡地进化石"
+ },
+ {
+  "id": 429,
+  "en": "Banettite",
+  "es": "Banettita",
+  "zh": "诅咒娃娃进化石"
+ },
+ {
+  "id": 430,
+  "en": "Garchompite",
+  "es": "Garchompita",
+  "zh": "烈咬陆鲨进化石"
+ },
+ {
+  "id": 431,
+  "en": "Gengarite",
+  "es": "Gengarita",
+  "zh": "耿鬼进化石"
+ },
+ {
+  "id": 432,
+  "en": "Gyaradosite",
+  "es": "Gyaradosita",
+  "zh": "暴鲤龙进化石"
+ },
+ {
+  "id": 433,
+  "en": "Heracrossite",
+  "es": "Heracrossita",
+  "zh": "赫拉克罗斯进化石"
+ },
+ {
+  "id": 434,
+  "en": "Houndoomite",
+  "es": "Houndoomita",
+  "zh": "黑鲁加进化石"
+ },
+ {
+  "id": 435,
+  "en": "Kangaskhanite",
+  "es": "Kangaskhanita",
+  "zh": "袋兽进化石"
+ },
+ {
+  "id": 436,
+  "en": "Manectite",
+  "es": "Manectricita",
+  "zh": "雷电兽进化石"
+ },
+ {
+  "id": 437,
+  "en": "Medichamite",
+  "es": "Medichamita",
+  "zh": "恰雷姆进化石"
+ },
+ {
+  "id": 438,
+  "en": "Pinsirite",
+  "es": "Pinsirita",
+  "zh": "凯罗斯进化石"
+ },
+ {
+  "id": 439,
+  "en": "Scizorite",
+  "es": "Scizorita",
+  "zh": "巨钳螳螂进化石"
+ },
+ {
+  "id": 440,
+  "en": "Tyranitarite",
+  "es": "Tyranitarita",
+  "zh": "班基拉斯进化石"
+ },
+ {
+  "id": 441,
+  "en": "Magic Bracer",
+  "es": "Braz. Mágico",
+  "zh": "魔法护腕",
+  "note": "自译"
+ },
+ {
+  "id": 442,
+  "en": "Dark Prism",
+  "es": "Prisma Oscuro",
+  "zh": "黑暗棱镜",
+  "note": "自译"
+ },
+ {
+  "id": 443,
+  "en": "Primal Prism",
+  "es": "Prisma Primario",
+  "zh": "原始棱镜",
+  "note": "自译"
+ },
+ {
+  "id": 444,
+  "en": "Latiasite",
+  "es": "Latiasita",
+  "zh": "拉帝亚斯进化石"
+ },
+ {
+  "id": 445,
+  "en": "Latiosite",
+  "es": "Latiosita",
+  "zh": "拉帝欧斯进化石"
+ },
+ {
+  "id": 446,
+  "en": "Sceptilite",
+  "es": "Sceptilita",
+  "zh": "蜥蜴王进化石"
+ },
+ {
+  "id": 447,
+  "en": "Swampertite",
+  "es": "Swampertita",
+  "zh": "巨沼怪进化石"
+ },
+ {
+  "id": 448,
+  "en": "Sableynite",
+  "es": "Sableynita",
+  "zh": "勾魂眼进化石"
+ },
+ {
+  "id": 449,
+  "en": "Diancite",
+  "es": "Diancita",
+  "zh": "蒂安希进化石"
+ },
+ {
+  "id": 450,
+  "en": "Red Prism",
+  "es": "Prisma Rojo",
+  "zh": "朱红色宝珠"
+ },
+ {
+  "id": 451,
+  "en": "Blue Prism",
+  "es": "Prisma Azul",
+  "zh": "靛蓝色宝珠"
+ },
+ {
+  "id": 452,
+  "en": "Slowbronite",
+  "es": "Slowbronita",
+  "zh": "呆壳兽进化石"
+ },
+ {
+  "id": 453,
+  "en": "Metagrossite",
+  "es": "Metagrossita",
+  "zh": "巨金怪进化石"
+ },
+ {
+  "id": 454,
+  "en": "Salamencite",
+  "es": "Salamencita",
+  "zh": "暴飞龙进化石"
+ },
+ {
+  "id": 455,
+  "en": "Audinite",
+  "es": "Audinita",
+  "zh": "差不多娃娃进化石"
+ },
+ {
+  "id": 456,
+  "en": "Galladite",
+  "es": "Galladita",
+  "zh": "艾路雷朵进化石"
+ },
+ {
+  "id": 457,
+  "en": "Beedrillite",
+  "es": "Beedrillita",
+  "zh": "大针蜂进化石"
+ },
+ {
+  "id": 458,
+  "en": "Pidgeotite",
+  "es": "Pidgeotita",
+  "zh": "大比鸟进化石"
+ },
+ {
+  "id": 459,
+  "en": "Steelixite",
+  "es": "Steelixita",
+  "zh": "大钢蛇进化石"
+ },
+ {
+  "id": 460,
+  "en": "Glalitite",
+  "es": "Glalita",
+  "zh": "冰鬼护进化石"
+ },
+ {
+  "id": 461,
+  "en": "Sharpedonite",
+  "es": "Sharpedonita",
+  "zh": "巨牙鲨进化石"
+ },
+ {
+  "id": 462,
+  "en": "Cameruptite",
+  "es": "Cameruptita",
+  "zh": "喷火驼进化石"
+ },
+ {
+  "id": 463,
+  "en": "Altarianite",
+  "es": "Altarianita",
+  "zh": "七夕青鸟进化石"
+ },
+ {
+  "id": 464,
+  "en": "Lopunnite",
+  "es": "Lopunnita",
+  "zh": "长耳兔进化石"
+ },
+ {
+  "id": 465,
+  "en": "Sachet",
+  "es": "Saquito Fragante",
+  "zh": "香袋"
+ },
+ {
+  "id": 466,
+  "en": "Whipped Dream",
+  "es": "Dulce de Nata",
+  "zh": "泡沫奶油"
+ },
+ {
+  "id": 467,
+  "en": "Strange Souvenir",
+  "es": "Estatuilla Rara",
+  "zh": "神秘摆设"
+ },
+ {
+  "id": 468,
+  "en": "Sail Fossil",
+  "es": "Fósil Aleta",
+  "zh": "鳍之化石"
+ },
+ {
+  "id": 469,
+  "en": "Jaw Fossil",
+  "es": "Fósil Mandíbula",
+  "zh": "颚之化石"
+ },
+ {
+  "id": 470,
+  "en": "Prison Bottle",
+  "es": "Vasija Castigo",
+  "zh": "惩戒之壶"
+ },
+ {
+  "id": 471,
+  "en": "Hypnotic Crown",
+  "es": "Corona Hipnótica",
+  "zh": "催眠王冠",
+  "note": "自译"
+ },
+ {
+  "id": 472,
+  "en": "Fast Ball",
+  "es": "Rapid Ball",
+  "zh": "速度球"
+ },
+ {
+  "id": 473,
+  "en": "Level Ball",
+  "es": "Nivel Ball",
+  "zh": "等级球"
+ },
+ {
+  "id": 474,
+  "en": "Bait Ball",
+  "es": "Cebo Ball",
+  "zh": "诱饵球"
+ },
+ {
+  "id": 475,
+  "en": "Weight Ball",
+  "es": "Peso Ball",
+  "zh": "沉重球"
+ },
+ {
+  "id": 476,
+  "en": "Love Ball",
+  "es": "Amor Ball",
+  "zh": "甜蜜球"
+ },
+ {
+  "id": 477,
+  "en": "Friend Ball",
+  "es": "Amigo Ball",
+  "zh": "友友球"
+ },
+ {
+  "id": 478,
+  "en": "Moon Ball",
+  "es": "Luna Ball",
+  "zh": "月亮球"
+ },
+ {
+  "id": 479,
+  "en": "Heal Ball",
+  "es": "Sana Ball",
+  "zh": "治愈球"
+ },
+ {
+  "id": 480,
+  "en": "Dusk Ball",
+  "es": "Ocaso Ball",
+  "zh": "黑暗球"
+ },
+ {
+  "id": 481,
+  "en": "Fast Ball",
+  "es": "Veloz Ball",
+  "zh": "速度球"
+ },
+ {
+  "id": 482,
+  "en": "Cherish Ball",
+  "es": "Gloria Ball",
+  "zh": "贵重球"
+ },
+ {
+  "id": 483,
+  "en": "Black Ball",
+  "es": "Black Ball",
+  "zh": "黑色球",
+  "note": "自译"
+ },
+ {
+  "id": 484,
+  "en": "Notebook",
+  "es": "Cuaderno",
+  "zh": "笔记本",
+  "note": "自译"
+ },
+ {
+  "id": 485,
+  "en": "N-Solarizer ",
+  "es": "Necrosol",
+  "zh": "奈克洛索尔合体器"
+ },
+ {
+  "id": 486,
+  "en": "N-Lunarizer",
+  "es": "Necroluna",
+  "zh": "奈克洛露奈合体器"
+ },
+ {
+  "id": 487,
+  "en": "Ultranecrozium Z",
+  "es": "Ultranecrostal Z",
+  "zh": "究极奈克洛Ｚ"
+ },
+ {
+  "id": 488,
+  "en": "Normalium Z",
+  "es": "Normastal Z",
+  "zh": "一般Ｚ"
+ },
+ {
+  "id": 489,
+  "en": "Firium Z",
+  "es": "Pirostal Z",
+  "zh": "火Ｚ"
+ },
+ {
+  "id": 490,
+  "en": "Waterium Z",
+  "es": "Hidrostal Z",
+  "zh": "水Ｚ"
+ },
+ {
+  "id": 491,
+  "en": "Grassium Z",
+  "es": "Fitostal Z",
+  "zh": "草Ｚ"
+ },
+ {
+  "id": 492,
+  "en": "Electrium Z",
+  "es": "Electrostal Z",
+  "zh": "电Ｚ"
+ },
+ {
+  "id": 493,
+  "en": "Rockium Z",
+  "es": "Litostal Z",
+  "zh": "岩石Ｚ"
+ },
+ {
+  "id": 494,
+  "en": "Fightinium Z",
+  "es": "Lizastal Z",
+  "zh": "格斗Ｚ"
+ },
+ {
+  "id": 495,
+  "en": "Groundium Z",
+  "es": "Geostal Z",
+  "zh": "地面Ｚ"
+ },
+ {
+  "id": 496,
+  "en": "Psychium Z",
+  "es": "Psicostal Z",
+  "zh": "超能力Ｚ"
+ },
+ {
+  "id": 497,
+  "en": "Poisonium Z",
+  "es": "Toxistal Z",
+  "zh": "毒Ｚ"
+ },
+ {
+  "id": 498,
+  "en": "Buginium Z",
+  "es": "Insectostal Z",
+  "zh": "虫Ｚ"
+ },
+ {
+  "id": 499,
+  "en": "Icium Z",
+  "es": "Criostal Z",
+  "zh": "冰Ｚ"
+ },
+ {
+  "id": 500,
+  "en": "Darkinium Z",
+  "es": "Nictostal Z",
+  "zh": "恶Ｚ"
+ },
+ {
+  "id": 501,
+  "en": "Steelium Z",
+  "es": "Metalostal Z",
+  "zh": "钢Ｚ"
+ },
+ {
+  "id": 502,
+  "en": "Flyinium Z",
+  "es": "Aerostal Z",
+  "zh": "飞行Ｚ"
+ },
+ {
+  "id": 503,
+  "en": "Ghostium Z",
+  "es": "Espectrostal Z",
+  "zh": "幽灵Ｚ"
+ },
+ {
+  "id": 504,
+  "en": "Dragonium Z",
+  "es": "Dracostal Z",
+  "zh": "龙Ｚ"
+ },
+ {
+  "id": 505,
+  "en": "Fairium Z",
+  "es": "Feeristal Z",
+  "zh": "妖精Ｚ"
+ },
+ {
+  "id": 506,
+  "en": "Pikanium Z",
+  "es": "Pikastal Z",
+  "zh": "皮卡丘Ｚ"
+ },
+ {
+  "id": 507,
+  "en": "Pikashunium Z",
+  "es": "Ash-Pikastal Z",
+  "zh": "智皮卡Ｚ"
+ },
+ {
+  "id": 508,
+  "en": "Aloraichium Z",
+  "es": "Alo-Raistal Z",
+  "zh": "阿罗雷Ｚ"
+ },
+ {
+  "id": 509,
+  "en": "Eevium Z",
+  "es": "Eeveestal Z",
+  "zh": "伊布Ｚ"
+ },
+ {
+  "id": 510,
+  "en": "Snorlium Z",
+  "es": "Snorlastal Z",
+  "zh": "卡比兽Ｚ"
+ },
+ {
+  "id": 511,
+  "en": "Mewnium Z",
+  "es": "Mewstal Z",
+  "zh": "梦幻Ｚ"
+ },
+ {
+  "id": 512,
+  "en": "Decidium Z",
+  "es": "Dueyestal Z",
+  "zh": "狙射树枭Ｚ"
+ },
+ {
+  "id": 513,
+  "en": "Incinium Z",
+  "es": "Incinostal Z",
+  "zh": "炽焰咆哮虎Ｚ"
+ },
+ {
+  "id": 514,
+  "en": "Primarium Z",
+  "es": "Primastal Z",
+  "zh": "西狮海壬Ｚ"
+ },
+ {
+  "id": 515,
+  "en": "Tapunium Z",
+  "es": "Tapistal Z",
+  "zh": "卡璞Ｚ"
+ },
+ {
+  "id": 516,
+  "en": "Marshadium Z",
+  "es": "Marshastal Z",
+  "zh": "玛夏多Ｚ"
+ },
+ {
+  "id": 517,
+  "en": "Kommonium Z",
+  "es": "Kommostal Z",
+  "zh": "杖尾鳞甲龙Ｚ"
+ },
+ {
+  "id": 518,
+  "en": "Lycanium Z",
+  "es": "Lycanrostal Z",
+  "zh": "鬃岩狼人Ｚ"
+ },
+ {
+  "id": 519,
+  "en": "Solganium Z",
+  "es": "Solgaleostal Z",
+  "zh": "索尔迦雷欧Ｚ"
+ },
+ {
+  "id": 520,
+  "en": "Lunalium Z",
+  "es": "Lunalastal Z",
+  "zh": "露奈雅拉Ｚ"
+ },
+ {
+  "id": 521,
+  "en": "Mimikium Z",
+  "es": "Mimikyustal Z",
+  "zh": "谜拟ＱＺ"
+ },
+ {
+  "id": 522,
+  "en": "Beast Ball",
+  "es": "Ente Ball",
+  "zh": "究极球"
+ },
+ {
+  "id": 523,
+  "en": "Oval Charm",
+  "es": "Amuleto oval",
+  "zh": "圆形护符"
+ },
+ {
+  "id": 524,
+  "en": "Relic Copper",
+  "es": "Real cobre",
+  "zh": "古代铜币"
+ },
+ {
+  "id": 525,
+  "en": "Relic Silver",
+  "es": "Real plata",
+  "zh": "古代银币"
+ },
+ {
+  "id": 526,
+  "en": "Relic Gold",
+  "es": "Real oro",
+  "zh": "古代金币"
+ },
+ {
+  "id": 527,
+  "en": "Relic Vase",
+  "es": "Ánfora",
+  "zh": "古代之壶"
+ },
+ {
+  "id": 528,
+  "en": "Relic Band",
+  "es": "Brazal Plata",
+  "zh": "古代手镯"
+ },
+ {
+  "id": 529,
+  "en": "Relic Statue",
+  "es": "Efigie antigua",
+  "zh": "古代石像"
+ },
+ {
+  "id": 530,
+  "en": "Relic Crown",
+  "es": "Corona antigua",
+  "zh": "古代王冠"
+ },
+ {
+  "id": 531,
+  "en": "Zygarde Cube",
+  "es": "Arca de Zygarde",
+  "zh": "基格尔德多面体"
+ },
+ {
+  "id": 532,
+  "en": "Snowball",
+  "es": "Bola de nieve",
+  "zh": "雪球"
+ },
+ {
+  "id": 533,
+  "en": "Absorb Bulb",
+  "es": "Tubérculo",
+  "zh": "球根"
+ },
+ {
+  "id": 534,
+  "en": "Luminous Moss",
+  "es": "Musgo brillante",
+  "zh": "光苔"
+ },
+ {
+  "id": 535,
+  "en": "Ability Capsule",
+  "es": "Cápsula habilidad",
+  "zh": "特性胶囊"
+ },
+ {
+  "id": 536,
+  "en": "Lock Capsule",
+  "es": "Cápsula candado",
+  "zh": "上锁的容器"
+ },
+ {
+  "id": 537,
+  "en": "Gold Bottle Cap",
+  "es": "Chapa dorada",
+  "zh": "金色王冠"
+ },
+ {
+  "id": 538,
+  "en": "Bottle Cap",
+  "es": "Chapa plateada",
+  "zh": "银色王冠"
+ },
+ {
+  "id": 539,
+  "en": "Assault Vest",
+  "es": "Chaleco asalto",
+  "zh": "突击背心"
+ },
+ {
+  "id": 540,
+  "en": "Thick Club",
+  "es": "Hueso grueso",
+  "zh": "粗骨头"
+ },
+ {
+  "id": 541,
+  "en": "Soul Dew",
+  "es": "Rocío bondad",
+  "zh": "心之水滴"
+ },
+ {
+  "id": 542,
+  "en": "Air balloon",
+  "es": "Globo helio",
+  "zh": "气球"
+ },
+ {
+  "id": 543,
+  "en": "Stick",
+  "es": "Puerro",
+  "zh": "大葱"
+ },
+ {
+  "id": 544,
+  "en": "Quick Powder",
+  "es": "Polvo veloz",
+  "zh": "速度粉"
+ },
+ {
+  "id": 545,
+  "en": "Brightpowder",
+  "es": "Polvo brillo",
+  "zh": "光粉"
+ },
+ {
+  "id": 546,
+  "en": "Silverpowder",
+  "es": "Polvo metálico",
+  "zh": "银粉"
+ },
+ {
+  "id": 547,
+  "en": "Heal Powder",
+  "es": "Polvo curación",
+  "zh": "万能粉"
+ },
+ {
+  "id": 548,
+  "en": "Energypowder",
+  "es": "Polvo energía",
+  "zh": "元气粉"
+ },
+ {
+  "id": 549,
+  "en": "Energy Root",
+  "es": "Raíz energía",
+  "zh": "元气根"
+ },
+ {
+  "id": 550,
+  "en": "Revival Herb",
+  "es": "Hierba revivir",
+  "zh": "复活草"
+ },
+ {
+  "id": 551,
+  "en": "Yellow Nectar",
+  "es": "Néctar amarillo",
+  "zh": "金黄色花蜜"
+ },
+ {
+  "id": 552,
+  "en": "Red Nectar",
+  "es": "Néctar rojo",
+  "zh": "朱红色花蜜"
+ },
+ {
+  "id": 553,
+  "en": "Pink Nectar",
+  "es": "Néctar rosa",
+  "zh": "桃粉色花蜜"
+ },
+ {
+  "id": 554,
+  "en": "Purple Nectar",
+  "es": "Néctar violeta",
+  "zh": "兰紫色花蜜"
+ },
+ {
+  "id": 555,
+  "en": "Yellow Flute",
+  "es": "Flauta amarilla",
+  "zh": "黄色玻璃哨"
+ },
+ {
+  "id": 556,
+  "en": "Blue Flute",
+  "es": "Flauta azul",
+  "zh": "蓝色玻璃哨"
+ },
+ {
+  "id": 557,
+  "en": "Red Flute",
+  "es": "Flauta roja",
+  "zh": "红色玻璃哨"
+ },
+ {
+  "id": 558,
+  "en": "Green Flute",
+  "es": "Flauta verde",
+  "zh": "绿色玻璃哨",
+  "note": "自译（参照官方“××玻璃哨”）"
+ },
+ {
+  "id": 559,
+  "en": "Violet Flute",
+  "es": "Flauta violeta",
+  "zh": "紫色玻璃哨",
+  "note": "自译"
+ },
+ {
+  "id": 560,
+  "en": "White Flute",
+  "es": "Flauta blanca",
+  "zh": "白色玻璃哨"
+ },
+ {
+  "id": 561,
+  "en": "Black Flute",
+  "es": "Flauta negra",
+  "zh": "黑色玻璃哨"
+ },
+ {
+  "id": 562,
+  "en": "Sun Flute",
+  "es": "Flauta solar",
+  "zh": "太阳之笛"
+ },
+ {
+  "id": 563,
+  "en": "Moon Flute",
+  "es": "Flauta lunar",
+  "zh": "月亮之笛"
+ },
+ {
+  "id": 564,
+  "en": "White Herb",
+  "es": "Hierba blanca",
+  "zh": "白色香草"
+ },
+ {
+  "id": 565,
+  "en": "Power Herb",
+  "es": "Hierba única",
+  "zh": "强力香草"
+ },
+ {
+  "id": 566,
+  "en": "Mental Herb",
+  "es": "Hierba mental",
+  "zh": "心灵香草"
+ },
+ {
+  "id": 567,
+  "en": "Travel Trunk",
+  "es": "Maleta",
+  "zh": "衣物箱"
+ },
+ {
+  "id": 568,
+  "en": "Z-Powwer Ring",
+  "es": "Superpulsera Z",
+  "zh": "Ｚ强力手环"
+ },
+ {
+  "id": 569,
+  "en": "Shed Shell",
+  "es": "Muda concha",
+  "zh": "美丽空壳"
+ },
+ {
+  "id": 570,
+  "en": "Protective Pads",
+  "es": "Paracontacto",
+  "zh": "部位护具"
+ },
+ {
+  "id": 571,
+  "en": "Lucky Punch",
+  "es": "Puño suerte",
+  "zh": "吉利拳"
+ },
+ {
+  "id": 572,
+  "en": "Shoal Salt",
+  "es": "Sal cardumen",
+  "zh": "浅滩海盐"
+ },
+ {
+  "id": 573,
+  "en": "Weakness Policy",
+  "es": "Seguro debilidad",
+  "zh": "弱点保险"
+ },
+ {
+  "id": 574,
+  "en": "Misty Seed",
+  "es": "Semilla bruma",
+  "zh": "薄雾种子"
+ },
+ {
+  "id": 575,
+  "en": "Electric Seed",
+  "es": "Semilla electro",
+  "zh": "电气种子"
+ },
+ {
+  "id": 576,
+  "en": "Miracle Seed",
+  "es": "Semilla hierba",
+  "zh": "奇迹种子"
+ },
+ {
+  "id": 577,
+  "en": "Psychic Seed",
+  "es": "Semilla psique",
+  "zh": "精神种子"
+ },
+ {
+  "id": 578,
+  "en": "Old Charm",
+  "es": "Talismán",
+  "zh": "古代护符"
+ },
+ {
+  "id": 579,
+  "en": "Tea",
+  "es": "Té",
+  "zh": "茶"
+ },
+ {
+  "id": 580,
+  "en": "Berry Juice",
+  "es": "Zumo de baya",
+  "zh": "树果汁"
+ },
+ {
+  "id": 581,
+  "en": "Discount Coupon",
+  "es": "Vale descuento",
+  "zh": "折价券"
+ },
+ {
+  "id": 582,
+  "en": "Old Gateau",
+  "es": "Barrita plus",
+  "zh": "森之羊羹"
+ },
+ {
+  "id": 583,
+  "en": "Shoal shell",
+  "es": "Concha cardumen",
+  "zh": "浅滩贝壳"
+ },
+ {
+  "id": 584,
+  "en": "Red card",
+  "es": "Tarjeta roja",
+  "zh": "红牌"
+ },
+ {
+  "id": 585,
+  "en": "Plasma Card",
+  "es": "Tarjeta Plasma",
+  "zh": "等离子卡"
+ },
+ {
+  "id": 586,
+  "en": "Health Wing",
+  "es": "Pluma vigor",
+  "zh": "体力之羽"
+ },
+ {
+  "id": 587,
+  "en": "Muscle Wing",
+  "es": "Pluma músculo",
+  "zh": "肌力之羽"
+ },
+ {
+  "id": 588,
+  "en": "Resist Wing",
+  "es": "Pluma aguante",
+  "zh": "抵抗之羽"
+ },
+ {
+  "id": 589,
+  "en": "Genius Wing",
+  "es": "Pluma intelecto",
+  "zh": "智力之羽"
+ },
+ {
+  "id": 590,
+  "en": "Clever Wing",
+  "es": "Pluma mente",
+  "zh": "精神之羽"
+ },
+ {
+  "id": 591,
+  "en": "Swift Wing",
+  "es": "Pluma ímpetu",
+  "zh": "瞬发之羽"
+ },
+ {
+  "id": 592,
+  "en": "Pretty Wing",
+  "es": "Pluma bella",
+  "zh": "美丽之羽"
+ },
+ {
+  "id": 593,
+  "en": "Terrain Extender",
+  "es": "Cubresuelos",
+  "zh": "大地膜"
+ },
+ {
+  "id": 594,
+  "en": "Grip Claw",
+  "es": "Garra garfio",
+  "zh": "紧缠钩爪"
+ },
+ {
+  "id": 595,
+  "en": "Rage Candy Bar",
+  "es": "Caramelo furia",
+  "zh": "愤怒馒头"
+ },
+ {
+  "id": 596,
+  "en": "Lava Cookie",
+  "es": "Galleta lava",
+  "zh": "釜炎仙贝"
+ },
+ {
+  "id": 597,
+  "en": "Casteliacone",
+  "es": "Porcehelado",
+  "zh": "飞云冰淇淋"
+ },
+ {
+  "id": 598,
+  "en": "Lumiose Galette",
+  "es": "Crepe Luminalia",
+  "zh": "密阿雷格雷派饼"
+ },
+ {
+  "id": 599,
+  "en": "Shalour Sable",
+  "es": "Galleta Yantra",
+  "zh": "娑罗沙布蕾"
+ },
+ {
+  "id": 600,
+  "en": "Big Malasada",
+  "es": "Malasada maxi",
+  "zh": "大马拉萨达"
+ },
+ {
+  "id": 601,
+  "en": "Desert Stone",
+  "es": "Piedra Desierto",
+  "zh": "沙漠之石",
+  "note": "自译（参照官方“××之石”）"
+ },
+ {
+  "id": 602,
+  "en": "Bug Stone",
+  "es": "Piedra Bicho",
+  "zh": "虫之石",
+  "note": "自译"
+ },
+ {
+  "id": 603,
+  "en": "Sky Stone",
+  "es": "Piedra Celeste",
+  "zh": "天空之石",
+  "note": "自译"
+ },
+ {
+  "id": 604,
+  "en": "Venus Stone",
+  "es": "Piedra Venus",
+  "zh": "金星之石",
+  "note": "自译"
+ },
+ {
+  "id": 605,
+  "en": "Mars Stone",
+  "es": "Piedra Marte",
+  "zh": "火星之石",
+  "note": "自译"
+ },
+ {
+  "id": 606,
+  "en": "Metal Stone",
+  "es": "Piedra Metálica",
+  "zh": "金属之石",
+  "note": "自译"
+ },
+ {
+  "id": 607,
+  "en": "Green Cable",
+  "es": "Cable Verde",
+  "zh": "绿色电缆",
+  "note": "自译"
+ },
+ {
+  "id": 608,
+  "en": "Blue Cable",
+  "es": "Cable Azul",
+  "zh": "蓝色电缆",
+  "note": "自译"
+ },
+ {
+  "id": 609,
+  "en": "Violet Cable",
+  "es": "Cable Violeta",
+  "zh": "紫色电缆",
+  "note": "自译"
+ },
+ {
+  "id": 610,
+  "en": "Red Cable",
+  "es": "Cable Rojo",
+  "zh": "红色电缆",
+  "note": "自译"
+ },
+ {
+  "id": 611,
+  "en": "Yellow Cable",
+  "es": "Cable Amarillo",
+  "zh": "黄色电缆",
+  "note": "自译"
+ },
+ {
+  "id": 612,
+  "en": "Ruby Scepter",
+  "es": "Cetro Esmeralda",
+  "zh": "红宝石权杖",
+  "note": "自译"
+ },
+ {
+  "id": 613,
+  "en": "Sapphire Scepter",
+  "es": "Cetro Rubí",
+  "zh": "蓝宝石权杖",
+  "note": "自译"
+ },
+ {
+  "id": 614,
+  "en": "Emerald Scepter",
+  "es": "Cetro Zafiro",
+  "zh": "绿宝石权杖",
+  "note": "自译"
+ },
+ {
+  "id": 615,
+  "en": "Bronze Scepter",
+  "es": "Cetro Bronce",
+  "zh": "青铜权杖",
+  "note": "自译"
+ },
+ {
+  "id": 616,
+  "en": "Silver Scepter",
+  "es": "Cetro Plateado",
+  "zh": "白银权杖",
+  "note": "自译"
+ },
+ {
+  "id": 617,
+  "en": "Golden Scepter",
+  "es": "Cetro Dorado",
+  "zh": "黄金权杖",
+  "note": "自译"
+ },
+ {
+  "id": 618,
+  "en": "TM91 Steel Wing",
+  "es": "MT91 Ala De Acero",
+  "zh": "招式学习器91 钢翼",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 619,
+  "en": "TM92 Dazzling Gleam",
+  "es": "MT92 Brillo Mágico",
+  "zh": "招式学习器92 魔法闪耀",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 620,
+  "en": "TM93 Grass Knot",
+  "es": "MT93 Hierba Lazo",
+  "zh": "招式学习器93 打草结",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 621,
+  "en": "TM94 Swords Dance",
+  "es": "MT94 Danza Espada",
+  "zh": "招式学习器94 剑舞",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 622,
+  "en": "TM95 Brutal Swing",
+  "es": "MT95 Giro Vil",
+  "zh": "招式学习器95 狂舞挥打",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 623,
+  "en": "TM96 Play Rough",
+  "es": "MT96 Carantoña",
+  "zh": "招式学习器96 嬉闹",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 624,
+  "en": "TM97 Knock Off",
+  "es": "MT97 Desarme",
+  "zh": "招式学习器97 拍落",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 625,
+  "en": "TM98 Payback",
+  "es": "MT98 Vendetta",
+  "zh": "招式学习器98 以牙还牙",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 626,
+  "en": "TM99 Stomping Tantrum",
+  "es": "MT99 Pataleta",
+  "zh": "招式学习器99 跺脚",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 627,
+  "en": "TM100 Moonblast",
+  "es": "MT100 Fuerza Lunar",
+  "zh": "招式学习器100 月亮之力",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 628,
+  "en": "TM101 Shadow Punch",
+  "es": "MT101 Puño Sombra",
+  "zh": "招式学习器101 暗影拳",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 629,
+  "en": "TM102 Hydro Pump",
+  "es": "MT102 Hidrobomba",
+  "zh": "招式学习器102 水炮",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 630,
+  "en": "TM103 Draining Kiss",
+  "es": "MT103 Beso Drenaje",
+  "zh": "招式学习器103 吸取之吻",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 631,
+  "en": "TM104 Power Gem",
+  "es": "MT104 Joya De Luz",
+  "zh": "招式学习器104 力量宝石",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 632,
+  "en": "TM105 Hurricane",
+  "es": "MT105 Vendaval",
+  "zh": "招式学习器105 暴风",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 633,
+  "en": "TM106 Brave Bird",
+  "es": "MT106 Pájaro Osado",
+  "zh": "招式学习器106 勇鸟猛攻",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 634,
+  "en": "TM107 Trick",
+  "es": "MT107 Truco",
+  "zh": "招式学习器107 戏法",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 635,
+  "en": "TM108 Crunch",
+  "es": "MT108 Triturar",
+  "zh": "招式学习器108 咬碎",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 636,
+  "en": "TM109 Bug Buzz",
+  "es": "MT109 Zumbido",
+  "zh": "招式学习器109 虫鸣",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 637,
+  "en": "TM110 Megahorn",
+  "es": "MT110 Megacuerno",
+  "zh": "招式学习器110 超级角击",
+  "note": "规则：学习器+招式名"
+ },
+ {
+  "id": 638,
+  "en": "Star Earring",
+  "es": "Pendiente Star",
+  "zh": "星之耳环",
+  "note": "自译"
+ },
+ {
+  "id": 639,
+  "en": "Ancient Vessel",
+  "es": "Vasija Ancestral",
+  "zh": "古代容器",
+  "note": "自译"
+ },
+ {
+  "id": 640,
+  "en": "Secret Scroll",
+  "es": "Pergamino Secreto",
+  "zh": "秘传卷轴",
+  "note": "自译"
+ },
+ {
+  "id": 641,
+  "en": "Cursed Ring",
+  "es": "Anillo Maldito",
+  "zh": "诅咒戒指",
+  "note": "自译"
+ },
+ {
+  "id": 642,
+  "en": "Tart Apple",
+  "es": "Manzana Ácida",
+  "zh": "酸酸苹果"
+ },
+ {
+  "id": 643,
+  "en": "Sweet Apple",
+  "es": "Manzana Dulce",
+  "zh": "甜甜苹果"
+ },
+ {
+  "id": 644,
+  "en": "Chipped Pot",
+  "es": "Tetera Rota",
+  "zh": "缺损的茶壶"
+ },
+ {
+  "id": 645,
+  "en": "Lagging Tail",
+  "es": "Cola Plúmbea",
+  "zh": "后攻之尾"
+ },
+ {
+  "id": 646,
+  "en": "Large Leek",
+  "es": "Puerro Grueso",
+  "zh": "粗枝大葱"
+ },
+ {
+  "id": 647,
+  "en": "Galarica Cuff",
+  "es": "Brazal Galanuez",
+  "zh": "伽勒豆蔻手环"
+ },
+ {
+  "id": 648,
+  "en": "Galarica Wreath",
+  "es": "Corona Galanuez",
+  "zh": "伽勒豆蔻花圈"
+ },
+ {
+  "id": 649,
+  "en": "Strawberry Sweet",
+  "es": "Confite Fresa",
+  "zh": "草莓糖饰"
+ },
+ {
+  "id": 650,
+  "en": "Love Sweet",
+  "es": "Confite Corazón",
+  "zh": "爱心糖饰"
+ },
+ {
+  "id": 651,
+  "en": "Flower Sweet",
+  "es": "Confite Flor",
+  "zh": "花朵糖饰"
+ },
+ {
+  "id": 652,
+  "en": "Star Sweet",
+  "es": "Confite Estrella",
+  "zh": "星星糖饰"
+ },
+ {
+  "id": 653,
+  "en": "Clover Sweet",
+  "es": "Confite Trébol",
+  "zh": "幸运草糖饰"
+ },
+ {
+  "id": 654,
+  "en": "Berry Sweet",
+  "es": "Confite Fruto",
+  "zh": "野莓糖饰"
+ },
+ {
+  "id": 655,
+  "en": "Ribbon Sweet",
+  "es": "Confite Lazo",
+  "zh": "蝴蝶结糖饰"
+ },
+ {
+  "id": 656,
+  "en": "Rusted Shield",
+  "es": "Escudo Oxidado",
+  "zh": "腐朽的盾"
+ },
+ {
+  "id": 657,
+  "en": "Rusted Sword",
+  "es": "Espada Oxidada",
+  "zh": "腐朽的剑"
+ },
+ {
+  "id": 658,
+  "en": "Dynamax Band",
+  "es": "Maximuñequera",
+  "zh": "极巨腕带"
+ },
+ {
+  "id": 659,
+  "en": "Dynamax Crystal",
+  "es": "Cristal Dinamax",
+  "zh": "极巨结晶"
+ },
+ {
+  "id": 660,
+  "en": "Dynamax Candy",
+  "es": "Caramelo Dinamax",
+  "zh": "极巨糖果"
+ },
+ {
+  "id": 661,
+  "en": "White Mane Hair",
+  "es": "Crin Blanca",
+  "zh": "白色鬃毛"
+ },
+ {
+  "id": 662,
+  "en": "Black Mane Hair",
+  "es": "Crin Negra",
+  "zh": "黑色鬃毛"
+ },
+ {
+  "id": 663,
+  "en": "Radiant Petal",
+  "es": "Pétalo Fulgor",
+  "zh": "光辉花瓣"
+ },
+ {
+  "id": 664,
+  "en": "Reins of Unity",
+  "es": "Riendas Unión",
+  "zh": "牵绊缰绳"
+ },
+ {
+  "id": 665,
+  "en": "Wishing Star",
+  "es": "Estrella Deseo",
+  "zh": "许愿星"
+ },
+ {
+  "id": 666,
+  "en": "Fossilized Fish",
+  "es": "Ictiofósil",
+  "zh": "化石鱼"
+ },
+ {
+  "id": 667,
+  "en": "Fossilized Drake",
+  "es": "Dracofósil",
+  "zh": "化石龙"
+ },
+ {
+  "id": 668,
+  "en": "Fossilized Bird",
+  "es": "Ornitofósil",
+  "zh": "化石鸟"
+ },
+ {
+  "id": 669,
+  "en": "Fossilized Dino",
+  "es": "Plesiofósil",
+  "zh": "化石海兽"
+ },
+ {
+  "id": 670,
+  "en": "Peat Block",
+  "es": "Bloque Turba",
+  "zh": "泥炭块"
+ },
+ {
+  "id": 671,
+  "en": "Black Augurite",
+  "es": "Mineral Negro",
+  "zh": "黑奇石"
+ },
+ {
+  "id": 672,
+  "en": "Raichite",
+  "es": "Raichita Star",
+  "zh": "雷丘进化石"
+ },
+ {
+  "id": 673,
+  "en": "Eeveeite",
+  "es": "Eeveeita",
+  "zh": "伊布进化石",
+  "note": "规则：××进化石"
+ },
+ {
+  "id": 674,
+  "en": "Drone Star",
+  "es": "Dron Star",
+  "zh": "星之无人机",
+  "note": "自译"
+ },
+ {
+  "id": 675,
+  "en": "Exp. Charm",
+  "es": "Amuleto Exp.",
+  "zh": "经验护符"
+ },
+ {
+  "id": 676,
+  "en": "Pure Amulet",
+  "es": "Amuleto Puro",
+  "zh": "清净坠饰"
+ },
+ {
+  "id": 677,
+  "en": "Level Stone",
+  "es": "Piedra Nivel",
+  "zh": "等级之石",
+  "note": "自译"
+ },
+ {
+  "id": 678,
+  "en": "Pre-Evolution Stone",
+  "es": "Piedra Pre-Evolutiva",
+  "zh": "退化之石",
+  "note": "自译"
+ },
+ {
+  "id": 679,
+  "en": "Coins Bag",
+  "es": "Bolsa de Monedas",
+  "zh": "钱币袋",
+  "note": "自译"
+ },
+ {
+  "id": 680,
+  "en": "Heavy-Duty Boots",
+  "es": "Botas Gruesas",
+  "zh": "厚底靴"
+ },
+ {
+  "id": 681,
+  "en": "Sweet Heart",
+  "es": "Corazón Dulce",
+  "zh": "心形甜点"
+ },
+ {
+  "id": 682,
+  "en": "Pewter Crunchies",
+  "es": "Rokikos",
+  "zh": "深灰米果"
+ },
+ {
+  "id": 683,
+  "en": "Exp. Candy XS",
+  "es": "Caramelo Exp. XS",
+  "zh": "经验糖果ＸＳ"
+ },
+ {
+  "id": 684,
+  "en": "Exp. Candy S",
+  "es": "Caramelo Exp. S",
+  "zh": "经验糖果Ｓ"
+ },
+ {
+  "id": 685,
+  "en": "Exp. Candy M",
+  "es": "Caramelo Exp. M",
+  "zh": "经验糖果Ｍ"
+ },
+ {
+  "id": 686,
+  "en": "Exp. Candy L",
+  "es": "Caramelo Exp. L",
+  "zh": "经验糖果Ｌ"
+ },
+ {
+  "id": 687,
+  "en": "Exp. Candy XL",
+  "es": "Caramelo Exp. XL",
+  "zh": "经验糖果ＸＬ"
+ },
+ {
+  "id": 688,
+  "en": "Metronome",
+  "es": "Metrónomo",
+  "zh": "节拍器"
+ },
+ {
+  "id": 689,
+  "en": "Auspicious Armor",
+  "es": "Armadura Auspiciosa",
+  "zh": "庆祝之铠"
+ },
+ {
+  "id": 690,
+  "en": "Malicious Armor",
+  "es": "Armadura Maldita",
+  "zh": "咒术之铠"
+ },
+ {
+  "id": 691,
+  "en": "Syrupy Apple",
+  "es": "Manzana Melosa",
+  "zh": "蜜汁苹果"
+ },
+ {
+  "id": 692,
+  "en": "Masterpiece Teacup",
+  "es": "Cuenco Exquisito",
+  "zh": "杰作茶碗"
+ },
+ {
+  "id": 693,
+  "en": "Metal Alloy",
+  "es": "Metal Compuesto",
+  "zh": "复合金属"
+ },
+ {
+  "id": 694,
+  "en": "Teal Mask",
+  "es": "Mascara Turquesa",
+  "zh": "碧草面具"
+ },
+ {
+  "id": 695,
+  "en": "Cornerstone Mask",
+  "es": "Mascara Cimiento",
+  "zh": "础石面具"
+ },
+ {
+  "id": 696,
+  "en": "Wellspring Mask",
+  "es": "Mascara Fuente",
+  "zh": "水井面具"
+ },
+ {
+  "id": 697,
+  "en": "Hearthflame Mask",
+  "es": "Mascara Horno",
+  "zh": "火灶面具"
+ },
+ {
+  "id": 698,
+  "en": "Vigor Mochi",
+  "es": "Mochi Vigor",
+  "zh": "体力粘糕"
+ },
+ {
+  "id": 699,
+  "en": "Muscle Mochi",
+  "es": "Mochi Músculo",
+  "zh": "肌力粘糕"
+ },
+ {
+  "id": 700,
+  "en": "Stamina Mochi",
+  "es": "Mochi Aguante",
+  "zh": "抵抗粘糕"
+ },
+ {
+  "id": 701,
+  "en": "Intellect Mochi",
+  "es": "Mochi Intelecto",
+  "zh": "智力粘糕"
+ },
+ {
+  "id": 702,
+  "en": "Mind Mochi",
+  "es": "Mochi Mente",
+  "zh": "精神粘糕"
+ },
+ {
+  "id": 703,
+  "en": "Impetus Mochi",
+  "es": "Mochi Impetu",
+  "zh": "瞬发粘糕"
+ },
+ {
+  "id": 704,
+  "en": "Reset Mochi",
+  "es": "Mochi Reinicio",
+  "zh": "重置年糕",
+  "note": "自译（参照官方“××年糕”）"
+ },
+ {
+  "id": 705,
+  "en": "Normal Tera Shard",
+  "es": "Teralito Normal",
+  "zh": "一般太晶碎块"
+ },
+ {
+  "id": 706,
+  "en": "Fire Tera Shard",
+  "es": "Teralito Fuego",
+  "zh": "火太晶碎块"
+ },
+ {
+  "id": 707,
+  "en": "Water Tera Shard",
+  "es": "Teralito Agua",
+  "zh": "水太晶碎块"
+ },
+ {
+  "id": 708,
+  "en": "Grass Tera Shard",
+  "es": "Teralito Planta",
+  "zh": "草太晶碎块"
+ },
+ {
+  "id": 709,
+  "en": "Electric Tera Shard",
+  "es": "Teralito Eléctrico",
+  "zh": "电太晶碎块"
+ },
+ {
+  "id": 710,
+  "en": "Rock Tera Shard",
+  "es": "Teralito Roca",
+  "zh": "岩石太晶碎块"
+ },
+ {
+  "id": 711,
+  "en": "Fighting Tera Shard",
+  "es": "Teralito Lucha",
+  "zh": "格斗太晶碎块"
+ },
+ {
+  "id": 712,
+  "en": "Ground Tera Shard",
+  "es": "Teralito Tierra",
+  "zh": "地面太晶碎块"
+ },
+ {
+  "id": 713,
+  "en": "Psychic Tera Shard",
+  "es": "Teralito Psíquico",
+  "zh": "超能力太晶碎块"
+ },
+ {
+  "id": 714,
+  "en": "Poison Tera Shard",
+  "es": "Teralito Veneno",
+  "zh": "毒太晶碎块"
+ },
+ {
+  "id": 715,
+  "en": "Bug Tera Shard",
+  "es": "Teralito Bicho",
+  "zh": "虫太晶碎块"
+ },
+ {
+  "id": 716,
+  "en": "Ice Tera Shard",
+  "es": "Teralito Hielo",
+  "zh": "冰太晶碎块"
+ },
+ {
+  "id": 717,
+  "en": "Dark Tera Shard",
+  "es": "Teralito Siniestro",
+  "zh": "恶太晶碎块"
+ },
+ {
+  "id": 718,
+  "en": "Steel Tera Shard",
+  "es": "Teralito Acero",
+  "zh": "钢太晶碎块"
+ },
+ {
+  "id": 719,
+  "en": "Flying Tera Shard",
+  "es": "Teralito Volador",
+  "zh": "飞行太晶碎块"
+ },
+ {
+  "id": 720,
+  "en": "Ghost Tera Shard",
+  "es": "Teralito Fantasma",
+  "zh": "幽灵太晶碎块"
+ },
+ {
+  "id": 721,
+  "en": "Dragon Tera Shard",
+  "es": "Teralito Dragón",
+  "zh": "龙太晶碎块"
+ },
+ {
+  "id": 722,
+  "en": "Fairy Tera Shard",
+  "es": "Teralito Hada",
+  "zh": "妖精太晶碎块"
+ },
+ {
+  "id": 723,
+  "en": "Stellar Tera Shard",
+  "es": "Teralito Astral",
+  "zh": "星晶太晶碎块"
+ },
+ {
+  "id": 724,
+  "en": "Lure",
+  "es": "Colonia",
+  "zh": "引虫香水"
+ },
+ {
+  "id": 725,
+  "en": "Super Lure",
+  "es": "Supercolonia",
+  "zh": "白银香水"
+ },
+ {
+  "id": 726,
+  "en": "Max Lure",
+  "es": "Colonia Máxima",
+  "zh": "黄金香水"
+ },
+ {
+  "id": 727,
+  "en": "Copy Herb",
+  "es": "Hierba Copia",
+  "zh": "模仿香草"
+ },
+ {
+  "id": 728,
+  "en": "Stealth Cape",
+  "es": "Capa Furtiva",
+  "zh": "密探斗篷"
+ },
+ {
+  "id": 729,
+  "en": "Boxing Glove",
+  "es": "Guante de Boxeo",
+  "zh": "拳击手套"
+ },
+ {
+  "id": 730,
+  "en": "Super Stoppers",
+  "es": "Supertapones",
+  "zh": "厉害耳塞"
+ },
+ {
+  "id": 731,
+  "en": "Mouth Spray",
+  "es": "Espray Bucal",
+  "zh": "爽喉喷雾"
+ },
+ {
+  "id": 732,
+  "en": "Cocktail Dice",
+  "es": "Dado Trucado",
+  "zh": "机变骰子"
+ },
+ {
+  "id": 733,
+  "en": "Goggles",
+  "es": "Gafa protectora",
+  "zh": "防尘护目镜"
+ },
+ {
+  "id": 734,
+  "en": "Offensive Bean",
+  "es": "Gragea Ofensiva",
+  "zh": "攻击豆",
+  "note": "自译"
+ },
+ {
+  "id": 735,
+  "en": "Defensive Bean",
+  "es": "Gragea Defensiva",
+  "zh": "防御豆",
+  "note": "自译"
+ },
+ {
+  "id": 736,
+  "en": "Multi Bean",
+  "es": "Gragea Multi",
+  "zh": "万能豆",
+  "note": "自译"
+ },
+ {
+  "id": 737,
+  "en": "Critical Bean",
+  "es": "Gragea Crítica",
+  "zh": "会心豆",
+  "note": "自译"
+ },
+ {
+  "id": 738,
+  "en": "Evasive Bean",
+  "es": "Gragea Evasiva",
+  "zh": "闪避豆",
+  "note": "自译"
+ },
+ {
+  "id": 739,
+  "en": "Adrenaline Orb",
+  "es": "Nerviosfera",
+  "zh": "胆怯球"
+ },
+ {
+  "id": 740,
+  "en": "Legend Plate",
+  "es": "Tabla Legendaria",
+  "zh": "传说石板"
+ },
+ {
+  "id": 741,
+  "en": "Chilan Berry",
+  "es": "Baya Chilan",
+  "zh": "灯浆果"
+ },
+ {
+  "id": 742,
+  "en": "Occa Berry",
+  "es": "Baya Caoca",
+  "zh": "巧可果"
+ },
+ {
+  "id": 743,
+  "en": "Passho Berry",
+  "es": "Baya Pasio",
+  "zh": "千香果"
+ },
+ {
+  "id": 744,
+  "en": "Rindo Berry",
+  "es": "Baya Tamar",
+  "zh": "罗子果"
+ },
+ {
+  "id": 745,
+  "en": "Wacan Berry",
+  "es": "Baya Gualot",
+  "zh": "烛木果"
+ },
+ {
+  "id": 746,
+  "en": "Charti Berry",
+  "es": "Baya Alcho",
+  "zh": "草蚕果"
+ },
+ {
+  "id": 747,
+  "en": "Chople Berry",
+  "es": "Baya Pomaro",
+  "zh": "莲蒲果"
+ },
+ {
+  "id": 748,
+  "en": "Shuca Berry",
+  "es": "Baya Acardo",
+  "zh": "腰木果"
+ },
+ {
+  "id": 749,
+  "en": "Payapa Berry",
+  "es": "Baya Payapa",
+  "zh": "福禄果"
+ },
+ {
+  "id": 750,
+  "en": "Kebia Berry",
+  "es": "Baya Kebia",
+  "zh": "通通果"
+ },
+ {
+  "id": 751,
+  "en": "Tanga Berry",
+  "es": "Baya Yecana",
+  "zh": "扁樱果"
+ },
+ {
+  "id": 752,
+  "en": "Yache Berry",
+  "es": "Baya Rimoya",
+  "zh": "番荔果"
+ },
+ {
+  "id": 753,
+  "en": "Colbur Berry",
+  "es": "Baya Dillo",
+  "zh": "刺耳果"
+ },
+ {
+  "id": 754,
+  "en": "Babiri Berry",
+  "es": "Baya Bariba",
+  "zh": "霹霹果"
+ },
+ {
+  "id": 755,
+  "en": "Coba Berry",
+  "es": "Baya Kouba",
+  "zh": "棱瓜果"
+ },
+ {
+  "id": 756,
+  "en": "Kasib Berry",
+  "es": "Baya Drasi",
+  "zh": "佛柑果"
+ },
+ {
+  "id": 757,
+  "en": "Haban Berry",
+  "es": "Baya Anjiro",
+  "zh": "莓榴果"
+ },
+ {
+  "id": 758,
+  "en": "Roseli Berry",
+  "es": "Baya Hibis",
+  "zh": "洛玫果"
+ },
+ {
+  "id": 759,
+  "en": "Micle Berry",
+  "es": "Baya Lagro",
+  "zh": "奇秘果"
+ },
+ {
+  "id": 760,
+  "en": "Custap Berry",
+  "es": "Baya Chiri",
+  "zh": "释陀果"
+ },
+ {
+  "id": 761,
+  "en": "Jaboca Berry",
+  "es": "Baya Jaboca",
+  "zh": "嘉珍果"
+ },
+ {
+  "id": 762,
+  "en": "Rowap Berry",
+  "es": "Baya Magua",
+  "zh": "雾莲果"
+ },
+ {
+  "id": 763,
+  "en": "Maranga Berry",
+  "es": "Baya Maranga",
+  "zh": "香罗果"
+ },
+ {
+  "id": 764,
+  "en": "Kee Berry",
+  "es": "Baya Biglia",
+  "zh": "亚开果"
+ },
+ {
+  "id": 765,
+  "en": "Hopo Berry",
+  "es": "Baya Lupu",
+  "zh": "苹野果"
+ },
+ {
+  "id": 766,
+  "en": "Full Incense",
+  "es": "Incienso Suave",
+  "zh": "饱腹薰香"
+ },
+ {
+  "id": 767,
+  "en": "Rock Incense",
+  "es": "Incienso Roca",
+  "zh": "岩石薰香"
+ },
+ {
+  "id": 768,
+  "en": "Wave Incense",
+  "es": "Incienso Acua",
+  "zh": "涟漪薰香"
+ },
+ {
+  "id": 769,
+  "en": "Rose Incense",
+  "es": "Incienso Floral",
+  "zh": "花朵薰香"
+ },
+ {
+  "id": 770,
+  "en": "Sea Incense",
+  "es": "Incienso Marino",
+  "zh": "海潮薰香"
+ },
+ {
+  "id": 771,
+  "en": "Lax Incense",
+  "es": "Incienso Lento",
+  "zh": "悠闲薰香"
+ },
+ {
+  "id": 772,
+  "en": "Luck Incense",
+  "es": "Incienso Duplo",
+  "zh": "幸运薰香"
+ },
+ {
+  "id": 773,
+  "en": "Odd Incense",
+  "es": "Incienso Raro",
+  "zh": "奇异薰香"
+ },
+ {
+  "id": 774,
+  "en": "Pure Incense",
+  "es": "Incienso Puro",
+  "zh": "洁净薰香"
+ },
+ {
+  "id": 775,
+  "en": "Scyclawite",
+  "es": "Scyclawita",
+  "zh": "毒爪螳螂进化石",
+  "note": "规则：××进化石"
+ },
+ {
+  "id": 776,
+  "en": "Cryogelixite",
+  "es": "Cryogelixita",
+  "zh": "大冰蛇进化石",
+  "note": "规则：××进化石"
+ },
+ {
+  "id": 777,
+  "en": "Starminite",
+  "es": "Starmita",
+  "zh": "宝石海星进化石"
+ },
+ {
+  "id": 778,
+  "en": "Clefablite",
+  "es": "Clefablita",
+  "zh": "皮可西进化石"
+ },
+ {
+  "id": 779,
+  "en": "Victreebelite",
+  "es": "Victreebelita",
+  "zh": "大食花进化石"
+ },
+ {
+  "id": 780,
+  "en": "Dragoninite",
+  "es": "Dragonitita",
+  "zh": "快龙进化石"
+ },
+ {
+  "id": 781,
+  "en": "Meganiumite",
+  "es": "Meganiumita",
+  "zh": "大竺葵进化石"
+ },
+ {
+  "id": 782,
+  "en": "Feraligite",
+  "es": "Feraligatrita",
+  "zh": "大力鳄进化石"
+ },
+ {
+  "id": 783,
+  "en": "Skarmorite",
+  "es": "Skarmorita",
+  "zh": "盔甲鸟进化石"
+ },
+ {
+  "id": 784,
+  "en": "Froslassite",
+  "es": "Froslassita",
+  "zh": "雪妖女进化石"
+ },
+ {
+  "id": 785,
+  "en": "Emboarite",
+  "es": "Emboarita",
+  "zh": "炎武王进化石"
+ },
+ {
+  "id": 786,
+  "en": "Excadrite",
+  "es": "Excadrillita",
+  "zh": "龙头地鼠进化石"
+ },
+ {
+  "id": 787,
+  "en": "Scolipite",
+  "es": "Scolipedita",
+  "zh": "蜈蚣王进化石"
+ },
+ {
+  "id": 788,
+  "en": "Scraftinite",
+  "es": "Scraftita",
+  "zh": "头巾混混进化石"
+ },
+ {
+  "id": 789,
+  "en": "Eelektrossite",
+  "es": "Eelektrossita",
+  "zh": "麻麻鳗鱼王进化石"
+ },
+ {
+  "id": 790,
+  "en": "Chandelurite",
+  "es": "Chandelurita",
+  "zh": "水晶灯火灵进化石"
+ },
+ {
+  "id": 791,
+  "en": "Chesnaughtite",
+  "es": "Chesnaughtita",
+  "zh": "布里卡隆进化石"
+ },
+ {
+  "id": 792,
+  "en": "Delphoxite",
+  "es": "Delphoxita",
+  "zh": "妖火红狐进化石"
+ },
+ {
+  "id": 793,
+  "en": "Greninjite",
+  "es": "Greninjanita",
+  "zh": "甲贺忍蛙进化石"
+ },
+ {
+  "id": 794,
+  "en": "Pyroarite",
+  "es": "Pyroarita",
+  "zh": "火炎狮进化石"
+ },
+ {
+  "id": 795,
+  "en": "Floettite",
+  "es": "Floettita",
+  "zh": "花叶蒂进化石"
+ },
+ {
+  "id": 796,
+  "en": "Malamarite",
+  "es": "Malamarita",
+  "zh": "乌贼王进化石"
+ },
+ {
+  "id": 797,
+  "en": "Barbaracite",
+  "es": "Barbaraclita",
+  "zh": "龟足巨铠进化石"
+ },
+ {
+  "id": 798,
+  "en": "Dragalgite",
+  "es": "Dragalgita",
+  "zh": "毒藻龙进化石"
+ },
+ {
+  "id": 799,
+  "en": "Hawluchanite",
+  "es": "Hawluchanita",
+  "zh": "摔角鹰人进化石"
+ },
+ {
+  "id": 800,
+  "en": "Zygardite",
+  "es": "Zygardita",
+  "zh": "基格尔德进化石"
+ },
+ {
+  "id": 801,
+  "en": "Drampanite",
+  "es": "Drampanita",
+  "zh": "老翁龙进化石"
+ },
+ {
+  "id": 802,
+  "en": "Falinksite",
+  "es": "Falinksita",
+  "zh": "列阵兵进化石"
+ },
+ {
+  "id": 803,
+  "en": "Raichunite X",
+  "es": "Raichita X",
+  "zh": "雷丘进化石X"
+ },
+ {
+  "id": 804,
+  "en": "Raichunite Y",
+  "es": "Raichita Y",
+  "zh": "雷丘进化石Y"
+ },
+ {
+  "id": 805,
+  "en": "Baxcalibrite",
+  "es": "Baxcaliburita",
+  "zh": "戟脊龙进化石"
+ },
+ {
+  "id": 806,
+  "en": "Chimechite",
+  "es": "Chimechita",
+  "zh": "风铃铃进化石"
+ },
+ {
+  "id": 807,
+  "en": "Absolite Z",
+  "es": "Absolita Z",
+  "zh": "阿勃梭鲁进化石Z"
+ },
+ {
+  "id": 808,
+  "en": "Garchompite Z",
+  "es": "Garchompita Z",
+  "zh": "烈咬陆鲨进化石Z"
+ },
+ {
+  "id": 809,
+  "en": "Staraptorite",
+  "es": "Staraptorita",
+  "zh": "姆克鹰进化石"
+ },
+ {
+  "id": 810,
+  "en": "Lucarionite Z",
+  "es": "Lucarita Z",
+  "zh": "路卡利欧进化石Z"
+ },
+ {
+  "id": 811,
+  "en": "Heatranite",
+  "es": "Heatranita",
+  "zh": "席多蓝恩进化石"
+ },
+ {
+  "id": 812,
+  "en": "Darkrainite",
+  "es": "Darkrainita",
+  "zh": "达克莱伊进化石"
+ },
+ {
+  "id": 813,
+  "en": "Golurkite",
+  "es": "Golurkita",
+  "zh": "泥偶巨人进化石"
+ },
+ {
+  "id": 814,
+  "en": "Meowsticite",
+  "es": "Meowsticita",
+  "zh": "超能妙喵进化石"
+ },
+ {
+  "id": 815,
+  "en": "Crabominablite",
+  "es": "Crabominablita",
+  "zh": "好胜毛蟹进化石"
+ },
+ {
+  "id": 816,
+  "en": "Golisopodite",
+  "es": "Golisopodita",
+  "zh": "具甲武者进化石"
+ },
+ {
+  "id": 817,
+  "en": "Magearnite",
+  "es": "Magearnita",
+  "zh": "玛机雅娜进化石"
+ },
+ {
+  "id": 818,
+  "en": "Zeraoranite",
+  "es": "Zeraoranita",
+  "zh": "捷拉奥拉进化石"
+ },
+ {
+  "id": 819,
+  "en": "Scovillainite",
+  "es": "Scovillainita",
+  "zh": "狠辣椒进化石"
+ },
+ {
+  "id": 820,
+  "en": "Glimmornite",
+  "es": "Glimmoranita",
+  "zh": "晶光花进化石"
+ },
+ {
+  "id": 821,
+  "en": "Tatsugirite",
+  "es": "Tatsugirita",
+  "zh": "米立龙进化石"
+ }
+]

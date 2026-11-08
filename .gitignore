@@ -1,0 +1,13 @@
+# 游戏本体与原作素材一律不进仓库
+game/
+download/
+*.exe
+*.zip
+data/
+# 本地工作区、参考资料
+work/
+ref/
+tools/mega_dl.py
+__pycache__/
+*.pyc
+.DS_Store

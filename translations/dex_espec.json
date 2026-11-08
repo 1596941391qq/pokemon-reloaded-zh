@@ -1,0 +1,8574 @@
+[
+ {
+  "id": 1,
+  "en": "Seed",
+  "es": "Semilla",
+  "zh": "种子",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 2,
+  "en": "Seed",
+  "es": "Semilla",
+  "zh": "种子",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 3,
+  "en": "Seed",
+  "es": "Semilla",
+  "zh": "种子",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 4,
+  "en": "Lizard",
+  "es": "Lagarto",
+  "zh": "蜥蜴",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 5,
+  "en": "Flame",
+  "es": "Llama",
+  "zh": "火焰",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 6,
+  "en": "Flame",
+  "es": "Llama",
+  "zh": "火焰",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 7,
+  "en": "Tiny Turtle",
+  "es": "Tortuguita",
+  "zh": "小龟",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 8,
+  "en": "Turtle",
+  "es": "Tortuga",
+  "zh": "龟",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 9,
+  "en": "Shellfish",
+  "es": "Marisco",
+  "zh": "甲壳",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 10,
+  "en": "Worm",
+  "es": "Gusano",
+  "zh": "虫宝宝",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 11,
+  "en": "Cocoon",
+  "es": "Capullo",
+  "zh": "蛹",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 12,
+  "en": "Butterfly",
+  "es": "Mariposa",
+  "zh": "蝴蝶",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 13,
+  "en": "Hairy Bug",
+  "es": "Oruga",
+  "zh": "毛毛虫",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 14,
+  "en": "Cocoon",
+  "es": "Capullo",
+  "zh": "蛹",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 15,
+  "en": "Poison Bee",
+  "es": "Abeja Ven.",
+  "zh": "毒蜂",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 16,
+  "en": "Tiny Bird",
+  "es": "Pajarito",
+  "zh": "小鸟",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 17,
+  "en": "Bird ",
+  "es": "Pájaro",
+  "zh": "鸟",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 18,
+  "en": "Bird",
+  "es": "Pájaro",
+  "zh": "鸟",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 19,
+  "en": "Mouse",
+  "es": "Ratón",
+  "zh": "鼠",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 20,
+  "en": "Mouse",
+  "es": "Ratón",
+  "zh": "鼠",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 21,
+  "en": "Tiny Bird",
+  "es": "Pajarito",
+  "zh": "小鸟",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 22,
+  "en": "Beak",
+  "es": "Pico",
+  "zh": "鸟嘴",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 23,
+  "en": "Snake",
+  "es": "Serpiente",
+  "zh": "蛇",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 24,
+  "en": "Cobra",
+  "es": "Cobra",
+  "zh": "眼镜蛇",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 25,
+  "en": "Mouse",
+  "es": "Ratón",
+  "zh": "鼠",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 26,
+  "en": "Mouse",
+  "es": "Ratón",
+  "zh": "鼠",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 27,
+  "en": "Mouse",
+  "es": "Ratón",
+  "zh": "鼠",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 28,
+  "en": "Mouse",
+  "es": "Ratón",
+  "zh": "鼠",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 29,
+  "en": "Poison Pin",
+  "es": "Pin Veneno",
+  "zh": "毒针",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 30,
+  "en": "Poison Pin",
+  "es": "Pin Veneno",
+  "zh": "毒针",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 31,
+  "en": "Drill",
+  "es": "Taladro",
+  "zh": "钻锥",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 32,
+  "en": "Poison Pin",
+  "es": "Pin Veneno",
+  "zh": "毒针",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 33,
+  "en": "Poison Pin",
+  "es": "Pin Veneno",
+  "zh": "毒针",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 34,
+  "en": "Drill",
+  "es": "Taladro",
+  "zh": "钻锥",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 35,
+  "en": "Fairy",
+  "es": "Hada",
+  "zh": "妖精",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 36,
+  "en": "Fairy",
+  "es": "Hada",
+  "zh": "妖精",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 37,
+  "en": "Fox",
+  "es": "Zorro",
+  "zh": "狐狸",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 38,
+  "en": "Fox",
+  "es": "Zorro",
+  "zh": "狐狸",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 39,
+  "en": "Balloon",
+  "es": "Globo",
+  "zh": "气球",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 40,
+  "en": "Balloon",
+  "es": "Globo",
+  "zh": "气球",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 41,
+  "en": "Bat",
+  "es": "Murciélago",
+  "zh": "蝙蝠",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 42,
+  "en": "Bat",
+  "es": "Murciélago",
+  "zh": "蝙蝠",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 43,
+  "en": "Weed",
+  "es": "Hierbajo",
+  "zh": "杂草",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 44,
+  "en": "Weed",
+  "es": "Hierbajo",
+  "zh": "杂草",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 45,
+  "en": "Flower",
+  "es": "Flor",
+  "zh": "花",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 46,
+  "en": "Mushroom",
+  "es": "Hongo",
+  "zh": "蘑菇",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 47,
+  "en": "Mushroom",
+  "es": "Hongo",
+  "zh": "蘑菇",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 48,
+  "en": "Insect",
+  "es": "Insecto",
+  "zh": "昆虫",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 49,
+  "en": "Poison Moth",
+  "es": "Polilla V.",
+  "zh": "毒蛾",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 50,
+  "en": "Mole",
+  "es": "Topo",
+  "zh": "鼹鼠",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 51,
+  "en": "Mole",
+  "es": "Topo",
+  "zh": "鼹鼠",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 52,
+  "en": "Scratch Cat",
+  "es": "Gato Araña",
+  "zh": "妖怪猫",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 53,
+  "en": "Classy Cat",
+  "es": "Gato Fino",
+  "zh": "暹罗猫",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 54,
+  "en": "Duck",
+  "es": "Pato",
+  "zh": "鸭",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 55,
+  "en": "Duck",
+  "es": "Pato",
+  "zh": "鸭",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 56,
+  "en": "Pig Monkey",
+  "es": "Mono Cerdo",
+  "zh": "猪猴",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 57,
+  "en": "Pig Monkey",
+  "es": "Mono Cerdo",
+  "zh": "猪猴",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 58,
+  "en": "Puppy",
+  "es": "Perrito",
+  "zh": "小狗",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 59,
+  "en": "Legendary",
+  "es": "Legendario",
+  "zh": "传说",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 60,
+  "en": "Tadpole",
+  "es": "Renacuajo",
+  "zh": "蝌蚪",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 61,
+  "en": "Tadpole",
+  "es": "Renacuajo",
+  "zh": "蝌蚪",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 62,
+  "en": "Tadpole",
+  "es": "Renacuajo",
+  "zh": "蝌蚪",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 63,
+  "en": "Psi",
+  "es": "Psi",
+  "zh": "念力",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 64,
+  "en": "Psi",
+  "es": "Psi",
+  "zh": "念力",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 65,
+  "en": "Psi",
+  "es": "Psi",
+  "zh": "念力",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 66,
+  "en": "Superpower",
+  "es": "Superpoder",
+  "zh": "怪力",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 67,
+  "en": "Superpower",
+  "es": "Superpoder",
+  "zh": "怪力",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 68,
+  "en": "Superpower",
+  "es": "Superpoder",
+  "zh": "怪力",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 69,
+  "en": "Flower",
+  "es": "Flor",
+  "zh": "花",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 70,
+  "en": "Flycatcher",
+  "es": "Matamoscas",
+  "zh": "捕蝇",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 71,
+  "en": "Flycatcher",
+  "es": "Matamoscas",
+  "zh": "捕蝇",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 72,
+  "en": "Jellyfish",
+  "es": "Medusa",
+  "zh": "水母",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 73,
+  "en": "Jellyfish",
+  "es": "Medusa",
+  "zh": "水母",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 74,
+  "en": "Rock",
+  "es": "Roca",
+  "zh": "岩石",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 75,
+  "en": "Rock",
+  "es": "Roca",
+  "zh": "岩石",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 76,
+  "en": "Megaton",
+  "es": "Megatón",
+  "zh": "重量级",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 77,
+  "en": "Fire Horse",
+  "es": "Caballo F.",
+  "zh": "火马",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 78,
+  "en": "Fire Horse",
+  "es": "Caballo F.",
+  "zh": "火马",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 79,
+  "en": "Dopey",
+  "es": "Atontado",
+  "zh": "憨憨",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 80,
+  "en": "Hermit Crab",
+  "es": "Ermitaño",
+  "zh": "寄居蟹",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 81,
+  "en": "Magnet",
+  "es": "Imán",
+  "zh": "磁铁",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 82,
+  "en": "Magnet",
+  "es": "Imán",
+  "zh": "磁铁",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 83,
+  "en": "Wild Duck",
+  "es": "Pato salvaje",
+  "zh": "黄嘴鸭",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 84,
+  "en": "Twin Bird",
+  "es": "Ave Gemela",
+  "zh": "两头鸟",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 85,
+  "en": "Triple Bird",
+  "es": "Ave Triple",
+  "zh": "三头鸟",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 86,
+  "en": "Sea Lion",
+  "es": "León Mar.",
+  "zh": "海狮",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 87,
+  "en": "Sea Lion",
+  "es": "León Mar.",
+  "zh": "海狮",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 88,
+  "en": "Sludge",
+  "es": "Lodo",
+  "zh": "污泥",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 89,
+  "en": "Sludge",
+  "es": "Lodo",
+  "zh": "污泥",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 90,
+  "en": "Bivalve",
+  "es": "Bivalvo",
+  "zh": "双壳贝",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 91,
+  "en": "Bivalve",
+  "es": "Bivalvo",
+  "zh": "双壳贝",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 92,
+  "en": "Gas",
+  "es": "Gas",
+  "zh": "气体状",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 93,
+  "en": "Gas",
+  "es": "Gas",
+  "zh": "气体状",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 94,
+  "en": "Shadow",
+  "es": "Sombra",
+  "zh": "影子",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 95,
+  "en": "Rock Snake",
+  "es": "Serpiente Roca",
+  "zh": "岩蛇",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 96,
+  "en": "Hypnosis",
+  "es": "Hipnosis",
+  "zh": "催眠",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 97,
+  "en": "Hypnosis",
+  "es": "Hipnosis",
+  "zh": "催眠",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 98,
+  "en": "River Crab",
+  "es": "Cangrejo",
+  "zh": "清水蟹",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 99,
+  "en": "Pincer",
+  "es": "Tenaza",
+  "zh": "钳子",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 100,
+  "en": "Ball",
+  "es": "Bola",
+  "zh": "球",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 101,
+  "en": "Ball",
+  "es": "Bola",
+  "zh": "球",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 102,
+  "en": "Egg",
+  "es": "Huevo",
+  "zh": "蛋",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 103,
+  "en": "Coconut",
+  "es": "Coco",
+  "zh": "椰子",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 104,
+  "en": "Lonely",
+  "es": "Solitario",
+  "zh": "孤独",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 105,
+  "en": "Bone Keeper",
+  "es": "Apilahueso",
+  "zh": "爱骨",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 106,
+  "en": "Kicking",
+  "es": "Patada",
+  "zh": "踢腿",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 107,
+  "en": "Punching",
+  "es": "Puñetazo",
+  "zh": "拳击",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 108,
+  "en": "Licking",
+  "es": "Lametazo",
+  "zh": "舔舔",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 109,
+  "en": "Poison Gas",
+  "es": "Gas venenoso",
+  "zh": "毒气",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 110,
+  "en": "Poison Gas",
+  "es": "Gas venenoso",
+  "zh": "毒气",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 111,
+  "en": "Spikes",
+  "es": "Clavos",
+  "zh": "尖尖",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 112,
+  "en": "Drill",
+  "es": "Taladro",
+  "zh": "钻锥",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 113,
+  "en": "Egg",
+  "es": "Huevo",
+  "zh": "蛋",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 114,
+  "en": "Vine",
+  "es": "Enredadera",
+  "zh": "藤蔓状",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 115,
+  "en": "Parent",
+  "es": "Padres",
+  "zh": "亲子",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 116,
+  "en": "Dragon",
+  "es": "Dragón",
+  "zh": "龙",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 117,
+  "en": "Dragon",
+  "es": "Dragón",
+  "zh": "龙",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 118,
+  "en": "Goldfish",
+  "es": "Pez Color",
+  "zh": "金鱼",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 119,
+  "en": "Goldfish",
+  "es": "Pez Color",
+  "zh": "金鱼",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 120,
+  "en": "Star Shape",
+  "es": "Estrellada",
+  "zh": "星形",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 121,
+  "en": "Mysterious",
+  "es": "Misterioso",
+  "zh": "谜",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 122,
+  "en": "Barrier",
+  "es": "Barrera",
+  "zh": "屏障",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 123,
+  "en": "Mantis",
+  "es": "Mantis",
+  "zh": "螳螂",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 124,
+  "en": "Human Shape",
+  "es": "F. Humana",
+  "zh": "人形",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 125,
+  "en": "Electric",
+  "es": "Eléctrico",
+  "zh": "电击",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 126,
+  "en": "Spitfire",
+  "es": "Escupefuego",
+  "zh": "吐火",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 127,
+  "en": "Stag Beetle",
+  "es": "Escarabajo",
+  "zh": "锹形虫",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 128,
+  "en": "Wild Bull",
+  "es": "Toro Bravo",
+  "zh": "暴牛",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 129,
+  "en": "Fish",
+  "es": "Pez",
+  "zh": "鱼",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 130,
+  "en": "Atrocious",
+  "es": "Atrocidad",
+  "zh": "凶恶",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 131,
+  "en": "Transport",
+  "es": "Transporte",
+  "zh": "乘载",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 132,
+  "en": "Transform",
+  "es": "Transform.",
+  "zh": "变身",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 133,
+  "en": "Evolution",
+  "es": "Evolución",
+  "zh": "进化",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 134,
+  "en": "Bubble Jet",
+  "es": "Burbuja",
+  "zh": "吐泡",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 135,
+  "en": "Lightning",
+  "es": "Relámpago",
+  "zh": "雷",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 136,
+  "en": "Flame",
+  "es": "Llama",
+  "zh": "火",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 137,
+  "en": "Virtual",
+  "es": "Virtual",
+  "zh": "虚拟",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 138,
+  "en": "Spiral",
+  "es": "Espiral",
+  "zh": "漩涡",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 139,
+  "en": "Spiral",
+  "es": "Espiral",
+  "zh": "漩涡",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 140,
+  "en": "Shellfish",
+  "es": "Marisco",
+  "zh": "甲壳",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 141,
+  "en": "Shellfish",
+  "es": "Marisco",
+  "zh": "甲壳",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 142,
+  "en": "Fossil",
+  "es": "Fósil",
+  "zh": "化石",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 143,
+  "en": "Sleeping",
+  "es": "Dormir",
+  "zh": "瞌睡",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 144,
+  "en": "Freeze",
+  "es": "Congelar",
+  "zh": "冰冻",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 145,
+  "en": "Electric",
+  "es": "Eléctrico",
+  "zh": "电击",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 146,
+  "en": "Flame",
+  "es": "Llama",
+  "zh": "火焰",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 147,
+  "en": "Dragon",
+  "es": "Dragón",
+  "zh": "龙",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 148,
+  "en": "Dragon",
+  "es": "Dragón",
+  "zh": "龙",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 149,
+  "en": "Dragon",
+  "es": "Dragón",
+  "zh": "龙",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 150,
+  "en": "Genetic",
+  "es": "Genético",
+  "zh": "基因",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 151,
+  "en": "New Species",
+  "es": "N. Especie",
+  "zh": "新种",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 152,
+  "en": "Leaf",
+  "es": "Hoja",
+  "zh": "叶子",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 153,
+  "en": "Leaf",
+  "es": "Hoja",
+  "zh": "叶子",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 154,
+  "en": "Herb",
+  "es": "Hierba",
+  "zh": "芳草",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 155,
+  "en": "Fire",
+  "es": "Ratónfuego",
+  "zh": "火鼠"
+ },
+ {
+  "id": 156,
+  "en": "Volcano",
+  "es": "Volcán",
+  "zh": "火山",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 157,
+  "en": "Volcano",
+  "es": "Volcán",
+  "zh": "火山",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 158,
+  "en": "Big Jaw",
+  "es": "Fauces",
+  "zh": "大颚",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 159,
+  "en": "Big Jaw",
+  "es": "Fauces",
+  "zh": "大颚",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 160,
+  "en": "Big Jaw",
+  "es": "Fauces",
+  "zh": "大颚",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 161,
+  "en": "Scout",
+  "es": "Explorador",
+  "zh": "放哨",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 162,
+  "en": "Long Body",
+  "es": "Alargado",
+  "zh": "长躯干",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 163,
+  "en": "Owl",
+  "es": "Búho",
+  "zh": "猫头鹰",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 164,
+  "en": "Owl",
+  "es": "Búho",
+  "zh": "猫头鹰",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 165,
+  "en": "Five Star",
+  "es": "5 estrellas",
+  "zh": "五星",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 166,
+  "en": "Five Star",
+  "es": "5 estrellas",
+  "zh": "五星",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 167,
+  "en": "String Spit",
+  "es": "Escupesoga",
+  "zh": "吐丝",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 168,
+  "en": "Long Leg",
+  "es": "Pata Larga",
+  "zh": "长腿",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 169,
+  "en": "Bat",
+  "es": "Murciélago",
+  "zh": "蝙蝠",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 170,
+  "en": "Angler",
+  "es": "Rape",
+  "zh": "琵琶鱼",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 171,
+  "en": "Light",
+  "es": "Luz",
+  "zh": "灯",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 172,
+  "en": "Tiny Mouse",
+  "es": "Ratoncito",
+  "zh": "小鼠",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 173,
+  "en": "Star Shape",
+  "es": "Estrellada",
+  "zh": "星形",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 174,
+  "en": "Balloon",
+  "es": "Globo",
+  "zh": "气球",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 175,
+  "en": "Spike Ball",
+  "es": "Bolaclavos",
+  "zh": "针球",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 176,
+  "en": "Happiness",
+  "es": "Felicidad",
+  "zh": "幸福",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 177,
+  "en": "Tiny Bird",
+  "es": "Pajarito",
+  "zh": "小鸟",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 178,
+  "en": "Mystic",
+  "es": "Místico",
+  "zh": "神秘",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 179,
+  "en": "Wool",
+  "es": "Lana",
+  "zh": "绵毛",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 180,
+  "en": "Wool",
+  "es": "Lana",
+  "zh": "绵毛",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 181,
+  "en": "Light",
+  "es": "Luz",
+  "zh": "灯",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 182,
+  "en": "Flower",
+  "es": "Flor",
+  "zh": "花",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 183,
+  "en": "Aqua Mouse",
+  "es": "Ratón Agua",
+  "zh": "水鼠",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 184,
+  "en": "Aqua Rabbit",
+  "es": "Conejoagua",
+  "zh": "水兔",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 185,
+  "en": "Imitation",
+  "es": "Imitación",
+  "zh": "模仿",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 186,
+  "en": "Frog",
+  "es": "Rana",
+  "zh": "蛙",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 187,
+  "en": "Cottonweed",
+  "es": "Algadón",
+  "zh": "棉草",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 188,
+  "en": "Cottonweed",
+  "es": "Algadón",
+  "zh": "棉草",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 189,
+  "en": "Cottonweed",
+  "es": "Algadón",
+  "zh": "棉草",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 190,
+  "en": "Long Tail",
+  "es": "Cola Larga",
+  "zh": "长尾",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 191,
+  "en": "Seed",
+  "es": "Semilla",
+  "zh": "种子",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 192,
+  "en": "Sun",
+  "es": "Sol",
+  "zh": "太阳",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 193,
+  "en": "Clear Wing",
+  "es": "Ala Clara",
+  "zh": "薄翼",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 194,
+  "en": "Water Fish",
+  "es": "Pez Agua",
+  "zh": "水鱼",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 195,
+  "en": "Water Fish",
+  "es": "Pez Agua",
+  "zh": "水鱼",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 196,
+  "en": "Sun",
+  "es": "Sol",
+  "zh": "太阳",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 197,
+  "en": "Moonlight",
+  "es": "Luz Lunar",
+  "zh": "月光",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 198,
+  "en": "Darkness",
+  "es": "Oscuridad",
+  "zh": "黑暗",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 199,
+  "en": "Royal",
+  "es": "Regio",
+  "zh": "王者",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 200,
+  "en": "Screech",
+  "es": "Chirrido",
+  "zh": "夜啼",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 201,
+  "en": "Symbol",
+  "es": "Símbolo",
+  "zh": "象征",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 202,
+  "en": "Patient",
+  "es": "Paciente",
+  "zh": "忍耐",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 203,
+  "en": "Long Neck",
+  "es": "Grancuello",
+  "zh": "长颈",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 204,
+  "en": "Bagworm",
+  "es": "Larva",
+  "zh": "蓑衣虫",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 205,
+  "en": "Bagworm",
+  "es": "Larva",
+  "zh": "蓑衣虫",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 206,
+  "en": "Land Snake",
+  "es": "Serptierra",
+  "zh": "地蛇",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 207,
+  "en": "Fly Scorpion",
+  "es": "Escorpiala",
+  "zh": "飞蝎",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 208,
+  "en": "Iron Snake",
+  "es": "Serpiente Férrea",
+  "zh": "铁蛇",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 209,
+  "en": "Fairy",
+  "es": "Hada",
+  "zh": "妖精",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 210,
+  "en": "Fairy",
+  "es": "Hada",
+  "zh": "妖精",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 211,
+  "en": "Balloon",
+  "es": "Globo",
+  "zh": "气球",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 212,
+  "en": "Pincer",
+  "es": "Tenaza",
+  "zh": "钳子",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 213,
+  "en": "Mold",
+  "es": "Moho",
+  "zh": "发酵",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 214,
+  "en": "Single Horn",
+  "es": "Unicornio",
+  "zh": "独角",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 215,
+  "en": "Sharp Claw",
+  "es": "Garra Filo",
+  "zh": "钩爪",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 216,
+  "en": "Little Bear",
+  "es": "Osito",
+  "zh": "小熊",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 217,
+  "en": "Hibernator",
+  "es": "Hibernante",
+  "zh": "冬眠",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 218,
+  "en": "Lava\t",
+  "es": "Lava",
+  "zh": "熔岩",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 219,
+  "en": "Lava",
+  "es": "Lava",
+  "zh": "熔岩",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 220,
+  "en": "Pig",
+  "es": "Cerdo",
+  "zh": "小猪",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 221,
+  "en": "Swine",
+  "es": "Puerco",
+  "zh": "野猪",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 222,
+  "en": "Coral",
+  "es": "Coral",
+  "zh": "珊瑚",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 223,
+  "en": "Jet",
+  "es": "Reactor",
+  "zh": "喷射",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 224,
+  "en": "Jet",
+  "es": "Reactor",
+  "zh": "喷射",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 225,
+  "en": "Delivery",
+  "es": "Reparto",
+  "zh": "搬运",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 226,
+  "en": "Kite",
+  "es": "Milano",
+  "zh": "风筝",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 227,
+  "en": "Armor Bird",
+  "es": "Coraza Ave",
+  "zh": "钢甲鸟",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 228,
+  "en": "Dark",
+  "es": "Siniestro",
+  "zh": "阴暗",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 229,
+  "en": "Dark",
+  "es": "Siniestro",
+  "zh": "阴暗",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 230,
+  "en": "Dragon",
+  "es": "Dragón",
+  "zh": "龙",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 231,
+  "en": "Long Nose",
+  "es": "Narizotas",
+  "zh": "长鼻",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 232,
+  "en": "Armor",
+  "es": "Coraza",
+  "zh": "铠甲",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 233,
+  "en": "Virtual",
+  "es": "Virtual",
+  "zh": "虚拟",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 234,
+  "en": "Big Horn",
+  "es": "Grancuerno",
+  "zh": "大角",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 235,
+  "en": "Painter",
+  "es": "Pintor",
+  "zh": "画画",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 236,
+  "en": "Scuffle",
+  "es": "Peleón",
+  "zh": "打斗",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 237,
+  "en": "Handstand",
+  "es": "Boca Abajo",
+  "zh": "倒立",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 238,
+  "en": "Kiss",
+  "es": "Beso",
+  "zh": "亲吻",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 239,
+  "en": "Electric",
+  "es": "Eléctrico",
+  "zh": "电气",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 240,
+  "en": "Live Coal",
+  "es": "Ascuas",
+  "zh": "火种",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 241,
+  "en": "Milk Cow",
+  "es": "Lechera",
+  "zh": "奶牛",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 242,
+  "en": "Happiness",
+  "es": "Felicidad",
+  "zh": "幸福",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 243,
+  "en": "Thunder",
+  "es": "Trueno",
+  "zh": "天雷",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 244,
+  "en": "Volcano",
+  "es": "Volcán",
+  "zh": "火山",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 245,
+  "en": "Aurora",
+  "es": "Aurora",
+  "zh": "极光",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 246,
+  "en": "Rock Skin",
+  "es": "Piel Roca",
+  "zh": "岩石肤",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 247,
+  "en": "Hard Shell",
+  "es": "Caparazón",
+  "zh": "子弹",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 248,
+  "en": "Armor",
+  "es": "Coraza",
+  "zh": "铠甲",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 249,
+  "en": "Diving",
+  "es": "Buceo",
+  "zh": "潜水",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 250,
+  "en": "Rainbow",
+  "es": "Arco Iris",
+  "zh": "虹色",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 251,
+  "en": "Time Travel",
+  "es": "Viajetiempo",
+  "zh": "时空穿越",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 252,
+  "en": "Wood Gecko",
+  "es": "Geco Bosque",
+  "zh": "林蜥",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 253,
+  "en": "Wood Gecko",
+  "es": "Geco Bosque",
+  "zh": "林蜥",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 254,
+  "en": "Forest",
+  "es": "Monte",
+  "zh": "密林",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 255,
+  "en": "Chick",
+  "es": "Polluelo",
+  "zh": "雏鸡",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 256,
+  "en": "Young Fowl",
+  "es": "Ave Corral",
+  "zh": "幼鸡",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 257,
+  "en": "Blaze",
+  "es": "Llameante",
+  "zh": "猛火",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 258,
+  "en": "Mud Fish",
+  "es": "Pez Lodo",
+  "zh": "沼鱼",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 259,
+  "en": "Mud Fish",
+  "es": "Pez Lodo",
+  "zh": "沼鱼",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 260,
+  "en": "Mud Fish",
+  "es": "Pez Lodo",
+  "zh": "沼鱼",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 261,
+  "en": "Bite",
+  "es": "Mordisco",
+  "zh": "紧咬",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 262,
+  "en": "Bite",
+  "es": "Mordisco",
+  "zh": "紧咬",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 263,
+  "en": "Tiny Raccoon",
+  "es": "Mapachito",
+  "zh": "豆狸",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 264,
+  "en": "Rushing",
+  "es": "Lanzado",
+  "zh": "猛冲",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 265,
+  "en": "Worm",
+  "es": "Gusano",
+  "zh": "虫宝宝",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 266,
+  "en": "Cocoon",
+  "es": "Capullo",
+  "zh": "蛹",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 267,
+  "en": "Butterfly",
+  "es": "Mariposa",
+  "zh": "蝴蝶",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 268,
+  "en": "Cocoon",
+  "es": "Capullo",
+  "zh": "蛹",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 269,
+  "en": "Poison Moth",
+  "es": "Polilla V.",
+  "zh": "毒蛾",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 270,
+  "en": "Water Weed",
+  "es": "Alga",
+  "zh": "浮萍",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 271,
+  "en": "Jolly",
+  "es": "Alegre",
+  "zh": "爽朗",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 272,
+  "en": "Carefree",
+  "es": "Optimista",
+  "zh": "乐天",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 273,
+  "en": "Acorn",
+  "es": "Bellota",
+  "zh": "橡实",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 274,
+  "en": "Wily",
+  "es": "Astuto",
+  "zh": "捉弄",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 275,
+  "en": "Wicked",
+  "es": "Malvado",
+  "zh": "邪恶",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 276,
+  "en": "Tiny Swallow",
+  "es": "Pequebuche",
+  "zh": "幼燕",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 277,
+  "en": "Swallow",
+  "es": "Buche",
+  "zh": "燕子",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 278,
+  "en": "Seagull",
+  "es": "Gaviota",
+  "zh": "海鸥",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 279,
+  "en": "Water Bird",
+  "es": "Ave Agua",
+  "zh": "水鸟",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 280,
+  "en": "Feeling",
+  "es": "Sensible",
+  "zh": "心情",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 281,
+  "en": "Emotion",
+  "es": "Sensorio",
+  "zh": "感情",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 282,
+  "en": "Embrace",
+  "es": "Envolvente",
+  "zh": "包容",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 283,
+  "en": "Pond Skater",
+  "es": "Zapatero",
+  "zh": "水黾",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 284,
+  "en": "Eyeball",
+  "es": "Globocular",
+  "zh": "眼珠",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 285,
+  "en": "Mushroom",
+  "es": "Hongo",
+  "zh": "蘑菇",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 286,
+  "en": "Mushroom",
+  "es": "Hongo",
+  "zh": "蘑菇",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 287,
+  "en": "Slaker",
+  "es": "Gandul",
+  "zh": "懒惰"
+ },
+ {
+  "id": 288,
+  "en": "Wild Monkey",
+  "es": "Mono Feroz",
+  "zh": "暴猿",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 289,
+  "en": "Lazy",
+  "es": "Holgazán",
+  "zh": "怕麻烦",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 290,
+  "en": "Trainee",
+  "es": "Aprendiz",
+  "zh": "入门",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 291,
+  "en": "Ninja",
+  "es": "Ninja",
+  "zh": "忍者",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 292,
+  "en": "Shed",
+  "es": "Muda",
+  "zh": "空壳",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 293,
+  "en": "Whisper",
+  "es": "Susurro",
+  "zh": "细语",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 294,
+  "en": "Big Voice",
+  "es": "Chillón",
+  "zh": "大声",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 295,
+  "en": "Loud Noise",
+  "es": "Escandaloso",
+  "zh": "噪音",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 296,
+  "en": "Guts",
+  "es": "Valiente",
+  "zh": "毅力",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 297,
+  "en": "Arm Thrust",
+  "es": "Empuje",
+  "zh": "猛推",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 298,
+  "en": "Polka Dot",
+  "es": "A Topos",
+  "zh": "水珠",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 299,
+  "en": "Compass",
+  "es": "Brújula",
+  "zh": "罗盘",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 300,
+  "en": "Kitten",
+  "es": "Gatito",
+  "zh": "小猫",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 301,
+  "en": "Prim ",
+  "es": "Cursi",
+  "zh": "清高",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 302,
+  "en": "Darkness ",
+  "es": "Oscuridad",
+  "zh": "黑暗",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 303,
+  "en": "Deceiver",
+  "es": "Tramposo",
+  "zh": "欺骗",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 304,
+  "en": "Iron Armor",
+  "es": "Cor. Férrea",
+  "zh": "铁铠",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 305,
+  "en": "Iron Armor",
+  "es": "Cor. Férrea",
+  "zh": "铁铠",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 306,
+  "en": "Iron Armor",
+  "es": "Cor. Férrea",
+  "zh": "铁铠",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 307,
+  "en": "Meditate",
+  "es": "Meditador",
+  "zh": "冥想",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 308,
+  "en": "Meditate",
+  "es": "Meditador",
+  "zh": "冥想",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 309,
+  "en": "Lightning",
+  "es": "Calambre",
+  "zh": "闪电",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 310,
+  "en": "Discharge",
+  "es": "Descarga",
+  "zh": "放电",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 311,
+  "en": "Cheering",
+  "es": "Ánimo",
+  "zh": "加油",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 312,
+  "en": "Cheering",
+  "es": "Ánimo",
+  "zh": "加油",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 313,
+  "en": "Firefly",
+  "es": "Luciérnaga",
+  "zh": "萤火虫",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 314,
+  "en": "Firefly",
+  "es": "Luciérnaga",
+  "zh": "萤火虫",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 315,
+  "en": "Thorn",
+  "es": "Espina",
+  "zh": "荆棘",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 316,
+  "en": "Stomach",
+  "es": "Estómago",
+  "zh": "胃袋",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 317,
+  "en": "Poison Bag",
+  "es": "Bolsa Ven.",
+  "zh": "毒袋",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 318,
+  "en": "Savage",
+  "es": "Feroz",
+  "zh": "凶猛",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 319,
+  "en": "Brutal",
+  "es": "Voraz",
+  "zh": "凶暴",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 320,
+  "en": "Ball Whale",
+  "es": "Ballenabola",
+  "zh": "球鲸",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 321,
+  "en": "Float Whale",
+  "es": "Ballenaflot",
+  "zh": "浮鲸",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 322,
+  "en": "Numb",
+  "es": "Torpe",
+  "zh": "迟钝",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 323,
+  "en": "Eruption",
+  "es": "Erupción",
+  "zh": "喷火",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 324,
+  "en": "Coal",
+  "es": "Carbón",
+  "zh": "煤炭",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 325,
+  "en": "Bounce",
+  "es": "Saltarín",
+  "zh": "弹跳",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 326,
+  "en": "Manipulate",
+  "es": "Manipulador",
+  "zh": "操纵",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 327,
+  "en": "Spot Panda",
+  "es": "Panda Topos",
+  "zh": "斑点熊猫",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 328,
+  "en": "Ant Pit",
+  "es": "Hormigaleón",
+  "zh": "蚁狮",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 329,
+  "en": "Vibration",
+  "es": "Vibrante",
+  "zh": "振动",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 330,
+  "en": "Mystic",
+  "es": "Místico",
+  "zh": "神秘",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 331,
+  "en": "Cactus",
+  "es": "Cactus",
+  "zh": "仙人掌",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 332,
+  "en": "Scarecrow",
+  "es": "Espantajo",
+  "zh": "稻草人",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 333,
+  "en": "Cotton Bird",
+  "es": "Ave Algodón",
+  "zh": "绵鸟",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 334,
+  "en": "Humming",
+  "es": "Cantor",
+  "zh": "哼唱",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 335,
+  "en": "Cat Ferret",
+  "es": "Gato Hurón",
+  "zh": "猫鼬",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 336,
+  "en": "Fang Snake",
+  "es": "Colmillos",
+  "zh": "牙蛇",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 337,
+  "en": "Meteorite",
+  "es": "Meteorito",
+  "zh": "陨石",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 338,
+  "en": "Meteorite",
+  "es": "Meteorito",
+  "zh": "陨石",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 339,
+  "en": "Whiskers",
+  "es": "Bigotudo",
+  "zh": "须鱼",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 340,
+  "en": "Whiskers",
+  "es": "Bigotudo",
+  "zh": "须鱼",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 341,
+  "en": "Ruffian",
+  "es": "Rufián",
+  "zh": "无赖",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 342,
+  "en": "Rogue",
+  "es": "Granuja",
+  "zh": "流氓",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 343,
+  "en": "Clay Doll",
+  "es": "Muñ. Barro",
+  "zh": "泥偶",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 344,
+  "en": "Clay Doll",
+  "es": "Muñ. Barro",
+  "zh": "泥偶",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 345,
+  "en": "Sea Lily",
+  "es": "Lila Mar",
+  "zh": "海百合",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 346,
+  "en": "Barnacle",
+  "es": "Percebe",
+  "zh": "藤壶",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 347,
+  "en": "Old Shrimp",
+  "es": "Camarón",
+  "zh": "古虾",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 348,
+  "en": "Plate",
+  "es": "Armadura",
+  "zh": "甲胄",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 349,
+  "en": "Fish",
+  "es": "Pez",
+  "zh": "鱼",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 350,
+  "en": "Tender",
+  "es": "Tierno",
+  "zh": "慈爱",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 351,
+  "en": "Weather",
+  "es": "Clima",
+  "zh": "天气",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 352,
+  "en": "Color Swap",
+  "es": "Camaleónico",
+  "zh": "变色",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 353,
+  "en": "Puppet",
+  "es": "Títere",
+  "zh": "人偶",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 354,
+  "en": "Marionette",
+  "es": "Marioneta",
+  "zh": "布偶",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 355,
+  "en": "Requiem",
+  "es": "Réquiem",
+  "zh": "渡魂",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 356,
+  "en": "Beckon",
+  "es": "Atrayente",
+  "zh": "招手",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 357,
+  "en": "Fruit",
+  "es": "Fruto",
+  "zh": "水果",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 358,
+  "en": "Wind Chime",
+  "es": "Sonido Aire",
+  "zh": "风铃",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 359,
+  "en": "Disaster",
+  "es": "Catástrofe",
+  "zh": "灾祸",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 360,
+  "en": "Bright",
+  "es": "Radiante",
+  "zh": "开朗",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 361,
+  "en": "Snow Hat",
+  "es": "Gorro Nieve",
+  "zh": "雪笠",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 362,
+  "en": "Face",
+  "es": "Cara",
+  "zh": "脸面",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 363,
+  "en": "Clap",
+  "es": "Aplauso",
+  "zh": "拍手",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 364,
+  "en": "Ball Roll",
+  "es": "Rodabola",
+  "zh": "滚球",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 365,
+  "en": "Ice Break",
+  "es": "Rompehielo",
+  "zh": "破冰",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 366,
+  "en": "Bivalve",
+  "es": "Bivalvo",
+  "zh": "双壳贝",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 367,
+  "en": "Deep Sea",
+  "es": "Abisal",
+  "zh": "深海",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 368,
+  "en": "South Sea",
+  "es": "Mar Del Sur",
+  "zh": "南海",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 369,
+  "en": "Longevity",
+  "es": "Longevo",
+  "zh": "长寿",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 370,
+  "en": "Rendezvous",
+  "es": "Cita",
+  "zh": "相随",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 371,
+  "en": "Rock Head",
+  "es": "CabezaRoca",
+  "zh": "坚硬脑袋",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 372,
+  "en": "Endurance",
+  "es": "Resistencia",
+  "zh": "耐力",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 373,
+  "en": "Dragon",
+  "es": "Dragón",
+  "zh": "龙",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 374,
+  "en": "Iron Ball",
+  "es": "Bola Hierro",
+  "zh": "铁球",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 375,
+  "en": "Iron Claw",
+  "es": "Garrahierro",
+  "zh": "铁爪",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 376,
+  "en": "Iron Leg",
+  "es": "Pata Hierro",
+  "zh": "铁足",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 377,
+  "en": "Rock Peak",
+  "es": "Pico Roca",
+  "zh": "岩山",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 378,
+  "en": "Iceberg",
+  "es": "Iceberg",
+  "zh": "冰山",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 379,
+  "en": "Iron",
+  "es": "Hierro",
+  "zh": "黑金",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 380,
+  "en": "Eon",
+  "es": "Eón",
+  "zh": "无限",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 381,
+  "en": "Eon",
+  "es": "Eón",
+  "zh": "无限",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 382,
+  "en": "Sea Basin",
+  "es": "Cuenca Mar",
+  "zh": "海底",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 383,
+  "en": "Continent",
+  "es": "Continente",
+  "zh": "大陆",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 384,
+  "en": "Sky High",
+  "es": "Cielo",
+  "zh": "天空",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 385,
+  "en": "Wish ",
+  "es": "Deseo",
+  "zh": "祈愿",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 386,
+  "en": "DNA",
+  "es": "ADN",
+  "zh": "ＤＮＡ",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 387,
+  "en": "Tiny Leaf",
+  "es": "Hojita",
+  "zh": "嫩叶",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 388,
+  "en": "Grove",
+  "es": "Arboleda",
+  "zh": "树丛",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 389,
+  "en": "Continent",
+  "es": "Continente",
+  "zh": "大陆",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 390,
+  "en": "Chimp",
+  "es": "Chimpancé",
+  "zh": "小猴",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 391,
+  "en": "Playful",
+  "es": "Juguetón",
+  "zh": "顽皮",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 392,
+  "en": "Flame",
+  "es": "Llama",
+  "zh": "火焰",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 393,
+  "en": "Penguin",
+  "es": "Pingüino",
+  "zh": "企鹅",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 394,
+  "en": "Penguin",
+  "es": "Pingüino",
+  "zh": "企鹅",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 395,
+  "en": "Emperor",
+  "es": "Emperador",
+  "zh": "皇帝",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 396,
+  "en": "Starling",
+  "es": "Estornino",
+  "zh": "椋鸟",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 397,
+  "en": "Starling",
+  "es": "Estornino",
+  "zh": "椋鸟",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 398,
+  "en": "Predator",
+  "es": "Depredador",
+  "zh": "猛禽",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 399,
+  "en": "Plump Mouse",
+  "es": "Gran Ratón",
+  "zh": "圆鼠",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 400,
+  "en": "Beaver",
+  "es": "Castor",
+  "zh": "河狸",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 401,
+  "en": "Cricket",
+  "es": "Grillo",
+  "zh": "蟋蟀",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 402,
+  "en": "Cricket ",
+  "es": "Grillo",
+  "zh": "蟋蟀",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 403,
+  "en": "Flash",
+  "es": "Flash",
+  "zh": "闪光",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 404,
+  "en": "Spark",
+  "es": "Chispa",
+  "zh": "电光",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 405,
+  "en": "Gleam Eyes",
+  "es": "Chispa Ojos",
+  "zh": "目光",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 406,
+  "en": "Bud",
+  "es": "Brote",
+  "zh": "花苞",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 407,
+  "en": "Bouquet",
+  "es": "Ramillete",
+  "zh": "花束",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 408,
+  "en": "Head Butt",
+  "es": "Cabezazo",
+  "zh": "头锤",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 409,
+  "en": "Head Butt",
+  "es": "Cabezazo",
+  "zh": "头锤",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 410,
+  "en": "Shield",
+  "es": "Escudo",
+  "zh": "护盾",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 411,
+  "en": "SHield",
+  "es": "Escudo",
+  "zh": "护盾",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 412,
+  "en": "Bagworm",
+  "es": "Larva",
+  "zh": "蓑衣虫",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 413,
+  "en": "Bagworm",
+  "es": "Larva",
+  "zh": "蓑衣虫",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 414,
+  "en": "Moth",
+  "es": "Polilla",
+  "zh": "蓑衣蛾",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 415,
+  "en": "Tiny Bee",
+  "es": "Abejita",
+  "zh": "幼蜂",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 416,
+  "en": "Beehive",
+  "es": "Colmena",
+  "zh": "蜂巢",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 417,
+  "en": "EleSquirrel",
+  "es": "Ardillalec",
+  "zh": "电松鼠",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 418,
+  "en": "Sea Weasel",
+  "es": "Nutria Mar.",
+  "zh": "海鼬",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 419,
+  "en": "Sea Weasel",
+  "es": "Nutria Mar.",
+  "zh": "海鼬",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 420,
+  "en": "Cherry",
+  "es": "Cereza",
+  "zh": "樱桃",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 421,
+  "en": "Blossom",
+  "es": "Floración",
+  "zh": "樱花",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 422,
+  "en": "Sea Slug",
+  "es": "Babosa Mar.",
+  "zh": "海兔",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 423,
+  "en": "Sea Slug",
+  "es": "Babosa Mar.",
+  "zh": "海兔",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 424,
+  "en": "Long Tail",
+  "es": "Cola Larga",
+  "zh": "长尾",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 425,
+  "en": "Balloon",
+  "es": "Globo",
+  "zh": "气球",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 426,
+  "en": "Blimp",
+  "es": "Dirigible",
+  "zh": "热气球",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 427,
+  "en": "Rabbit",
+  "es": "Conejo",
+  "zh": "兔子",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 428,
+  "en": "Rabbit",
+  "es": "Conejo",
+  "zh": "兔子",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 429,
+  "en": "Magical",
+  "es": "Mágico",
+  "zh": "魔法",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 430,
+  "en": "Big Boss",
+  "es": "Gran Jefe",
+  "zh": "大头目",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 431,
+  "en": "Catty",
+  "es": "Gastuto",
+  "zh": "装乖",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 432,
+  "en": "Tiger Cat",
+  "es": "Tigre Gato",
+  "zh": "虎斑猫",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 433,
+  "en": "Bell",
+  "es": "Campana",
+  "zh": "铃铛",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 434,
+  "en": "Skunk",
+  "es": "Mofeta",
+  "zh": "臭鼬",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 435,
+  "en": "Skunk",
+  "es": "Mofeta",
+  "zh": "臭鼬",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 436,
+  "en": "Bronze",
+  "es": "Bronce",
+  "zh": "青铜",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 437,
+  "en": "Bronze Bell",
+  "es": "Cam. Bronce",
+  "zh": "铜钟",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 438,
+  "en": "Bonsai",
+  "es": "Bonsái",
+  "zh": "盆栽",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 439,
+  "en": "Mime",
+  "es": "Mimo",
+  "zh": "默剧",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 440,
+  "en": "Playhose",
+  "es": "Casita",
+  "zh": "玩具屋"
+ },
+ {
+  "id": 441,
+  "en": "Music Note",
+  "es": "Corchea",
+  "zh": "音符",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 442,
+  "en": "Forbidden",
+  "es": "Prohibido",
+  "zh": "封印",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 443,
+  "en": "Land Shark",
+  "es": "Terrascualo",
+  "zh": "陆鲨",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 444,
+  "en": "Cave",
+  "es": "Cueva",
+  "zh": "洞穴",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 445,
+  "en": "Mach",
+  "es": "Mach",
+  "zh": "音速",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 446,
+  "en": "Big Eater",
+  "es": "Comilón",
+  "zh": "大胃王",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 447,
+  "en": "Emanation",
+  "es": "Emanación",
+  "zh": "波纹",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 448,
+  "en": "Aura",
+  "es": "Aura",
+  "zh": "波导",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 449,
+  "en": "Hippo",
+  "es": "Hipo",
+  "zh": "河马",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 450,
+  "en": "Heavyweight",
+  "es": "Peso Pesado",
+  "zh": "重量",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 451,
+  "en": "Scorpion",
+  "es": "Escorpión",
+  "zh": "蝎子",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 452,
+  "en": "Ogre Scorpion",
+  "es": "Escorpiogro",
+  "zh": "蝎怪",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 453,
+  "en": "Toxic Mouth",
+  "es": "Boca Tóxica",
+  "zh": "毒击",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 454,
+  "en": "Toxic Mouth",
+  "es": "Boca Tóxica",
+  "zh": "毒击",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 455,
+  "en": "Bug Catcher",
+  "es": "Caza Bichos",
+  "zh": "捕虫",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 456,
+  "en": "Wing Fish",
+  "es": "Pez Ala",
+  "zh": "飞翅鱼",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 457,
+  "en": "Neon",
+  "es": "Neón",
+  "zh": "霓虹",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 458,
+  "en": "Kite",
+  "es": "Milano",
+  "zh": "风筝",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 459,
+  "en": "Frost Tree",
+  "es": "Árbol Nieve",
+  "zh": "树冰",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 460,
+  "en": "Frost Tree",
+  "es": "Árbol Nieve",
+  "zh": "树冰",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 461,
+  "en": "Sharp Claw",
+  "es": "Garra Filo",
+  "zh": "钩爪",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 462,
+  "en": "Magnet Area",
+  "es": "Magnético",
+  "zh": "磁场",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 463,
+  "en": "Licking",
+  "es": "Lametazo",
+  "zh": "舔舔",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 464,
+  "en": "Drill",
+  "es": "Taladro",
+  "zh": "钻锥",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 465,
+  "en": "Vine",
+  "es": "Enredadera",
+  "zh": "藤蔓状",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 466,
+  "en": "Thunderbolt",
+  "es": "Rayo",
+  "zh": "雷电",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 467,
+  "en": "Blast",
+  "es": "Explosión",
+  "zh": "爆炎",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 468,
+  "en": "Jubilee",
+  "es": "Festejo",
+  "zh": "祝福",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 469,
+  "en": "Ogre Darner",
+  "es": "Libélula",
+  "zh": "勾蜓",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 470,
+  "en": "Verdant",
+  "es": "Verdor",
+  "zh": "新绿",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 471,
+  "en": "Fresh Snow",
+  "es": "Nievefresca",
+  "zh": "新雪",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 472,
+  "en": "Fang Scorpion",
+  "es": "Colmicorpio",
+  "zh": "牙蝎",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 473,
+  "en": "Twin Tusk",
+  "es": "2colmillos",
+  "zh": "双牙",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 474,
+  "en": "Virtual",
+  "es": "Virtual",
+  "zh": "虚拟",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 475,
+  "en": "Blade",
+  "es": "Cuchilla",
+  "zh": "利刃",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 476,
+  "en": "Compass",
+  "es": "Brújula",
+  "zh": "罗盘",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 477,
+  "en": "Gripper",
+  "es": "Grilletes",
+  "zh": "抓握",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 478,
+  "en": "Snow Land",
+  "es": "Tierra Fría",
+  "zh": "雪国",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 479,
+  "en": "Plasma ",
+  "es": "Plasma",
+  "zh": "等离子",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 480,
+  "en": "Knowledge",
+  "es": "Sabiduría",
+  "zh": "知识",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 481,
+  "en": "Emotion",
+  "es": "Sensorio",
+  "zh": "感情",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 482,
+  "en": "Willpower",
+  "es": "Voluntad",
+  "zh": "意志",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 483,
+  "en": "Temporal",
+  "es": "Temporal",
+  "zh": "时间",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 484,
+  "en": "Spatial",
+  "es": "Espacial",
+  "zh": "空间",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 485,
+  "en": "Lava Dome",
+  "es": "Domo Lava",
+  "zh": "火山口",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 486,
+  "en": "Colossal",
+  "es": "Colosal",
+  "zh": "巨大",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 487,
+  "en": "Renegade",
+  "es": "Renegado",
+  "zh": "反抗",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 488,
+  "en": "Lunar",
+  "es": "Lunar",
+  "zh": "新月",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 489,
+  "en": "Sea Drifter",
+  "es": "Marino",
+  "zh": "海洋",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 490,
+  "en": "Seafaring",
+  "es": "Náutico",
+  "zh": "回游",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 491,
+  "en": "Pitch-Black",
+  "es": "Oscuridad",
+  "zh": "暗黑",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 492,
+  "en": "Gratitude",
+  "es": "Gratitud",
+  "zh": "感谢",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 493,
+  "en": "Alpha",
+  "es": "Alfa",
+  "zh": "创造",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 494,
+  "en": "Victory",
+  "es": "Victoria",
+  "zh": "胜利",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 495,
+  "en": "Grass Snake",
+  "es": "Serp. Hierba",
+  "zh": "草蛇",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 496,
+  "en": "Grass Snake",
+  "es": "Serp. Hierba",
+  "zh": "草蛇",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 497,
+  "en": "Regal",
+  "es": "Realeza",
+  "zh": "皇家",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 498,
+  "en": "Fire Pig",
+  "es": "Cerdo Fuego",
+  "zh": "火猪",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 499,
+  "en": "Fire Pig",
+  "es": "Cerdo Fuego",
+  "zh": "火猪",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 500,
+  "en": "Mega Fire Pig",
+  "es": "Cerdo Ígneo",
+  "zh": "大火猪",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 501,
+  "en": "Sea Otter",
+  "es": "Nutria",
+  "zh": "海獭",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 502,
+  "en": "Discipline",
+  "es": "Superación",
+  "zh": "修行",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 503,
+  "en": "Formidable",
+  "es": "Majestuoso",
+  "zh": "威严",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 504,
+  "en": "Scout",
+  "es": "Explorador",
+  "zh": "放哨",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 505,
+  "en": "Lookout",
+  "es": "Alerta",
+  "zh": "警戒",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 506,
+  "en": "Puppy",
+  "es": "Perrito",
+  "zh": "小狗",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 507,
+  "en": "Loyal Dog",
+  "es": "Leal",
+  "zh": "忠犬",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 508,
+  "en": "Big-Hearted",
+  "es": "Magnánimo",
+  "zh": "宽大",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 509,
+  "en": "Devious",
+  "es": "Malicioso",
+  "zh": "坏心眼",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 510,
+  "en": "Cruel",
+  "es": "Calculador",
+  "zh": "冷酷",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 511,
+  "en": "Grass Monkey",
+  "es": "Mono Hierba",
+  "zh": "草猴",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 512,
+  "en": "Thorn Monkey",
+  "es": "Mono Pincho",
+  "zh": "刺猴",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 513,
+  "en": "High Temp",
+  "es": "Ardiente",
+  "zh": "高温",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 514,
+  "en": "Ember",
+  "es": "Lumbre",
+  "zh": "火花",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 515,
+  "en": "Spray",
+  "es": "Salpicadura",
+  "zh": "泼水",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 516,
+  "en": "Geyser",
+  "es": "Drenaje",
+  "zh": "放水",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 517,
+  "en": "Dream Eater",
+  "es": "Comesueños",
+  "zh": "食梦",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 518,
+  "en": "Drowsing",
+  "es": "Duermevela",
+  "zh": "半梦半醒",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 519,
+  "en": "Tiny Pigeon",
+  "es": "Pichón",
+  "zh": "小鸽",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 520,
+  "en": "Wild Pigeon",
+  "es": "Torcaz",
+  "zh": "野鸽",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 521,
+  "en": "Proud",
+  "es": "Altanero",
+  "zh": "自尊心",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 522,
+  "en": "Electrified",
+  "es": "Electrizado",
+  "zh": "带电",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 523,
+  "en": "Thunderbolt",
+  "es": "Rayo",
+  "zh": "雷电",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 524,
+  "en": "Mantle",
+  "es": "Manto",
+  "zh": "地幔",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 525,
+  "en": "Ore",
+  "es": "Mineral",
+  "zh": "矿石",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 526,
+  "en": "Compressed",
+  "es": "Presurizado",
+  "zh": "高压",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 527,
+  "en": "Bat",
+  "es": "Murciélago",
+  "zh": "蝙蝠",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 528,
+  "en": "Courting",
+  "es": "Galante",
+  "zh": "求爱",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 529,
+  "en": "Mole",
+  "es": "Topo",
+  "zh": "鼹鼠",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 530,
+  "en": "Subterrene",
+  "es": "Subterráneo",
+  "zh": "地底",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 531,
+  "en": "Hearing",
+  "es": "Escucha",
+  "zh": "听力",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 532,
+  "en": "Muscular",
+  "es": "Musculoso",
+  "zh": "筋骨",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 533,
+  "en": "Muscular",
+  "es": "Musculoso",
+  "zh": "筋骨",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 534,
+  "en": "Muscular",
+  "es": "Musculoso",
+  "zh": "筋骨",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 535,
+  "en": "Tadpole",
+  "es": "Renacuajo",
+  "zh": "蝌蚪",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 536,
+  "en": "Vibration",
+  "es": "Vibrante",
+  "zh": "振动",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 537,
+  "en": "Vibration",
+  "es": "Vibrante",
+  "zh": "振动",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 538,
+  "en": "Judo",
+  "es": "Judo",
+  "zh": "柔道",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 539,
+  "en": "Karate",
+  "es": "Kárate",
+  "zh": "空手道",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 540,
+  "en": "Sewing",
+  "es": "Sastre",
+  "zh": "裁缝",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 541,
+  "en": "Leaf-Wrapped",
+  "es": "Arropado",
+  "zh": "足不出叶",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 542,
+  "en": "Nurturing",
+  "es": "Cuidador",
+  "zh": "育儿",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 543,
+  "en": "Centipede",
+  "es": "Ciempiés",
+  "zh": "蜈蚣",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 544,
+  "en": "Curlipede",
+  "es": "Pupaciempiés",
+  "zh": "茧蜈蚣",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 545,
+  "en": "Megapede",
+  "es": "Megaciempiés",
+  "zh": "巨蜈蚣",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 546,
+  "en": "Cotton Puff",
+  "es": "Bolalgodón",
+  "zh": "棉球",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 547,
+  "en": "Windveiled",
+  "es": "Vuelalviento",
+  "zh": "风隐",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 548,
+  "en": "Bulb",
+  "es": "Bulbo",
+  "zh": "根茎",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 549,
+  "en": "Flowering",
+  "es": "Adornofloral",
+  "zh": "花饰",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 550,
+  "en": "Hostile",
+  "es": "Violento",
+  "zh": "粗暴",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 551,
+  "en": "Desert Croc",
+  "es": "Desierdrilo",
+  "zh": "沙漠鳄鱼",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 552,
+  "en": "Desert Croc",
+  "es": "Desierdrilo",
+  "zh": "沙漠鳄鱼",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 553,
+  "en": "Intimidation",
+  "es": "Amenazador",
+  "zh": "威吓",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 554,
+  "en": "Zen Charm",
+  "es": "Daruma",
+  "zh": "不倒翁",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 555,
+  "en": "Blazing",
+  "es": "Candente",
+  "zh": "爆燃",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 556,
+  "en": "Cactus",
+  "es": "Cactus",
+  "zh": "仙人掌",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 557,
+  "en": "Rock Inn",
+  "es": "Casapiedra",
+  "zh": "石居",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 558,
+  "en": "Stone Home",
+  "es": "Casarroca",
+  "zh": "岩居",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 559,
+  "en": "Shedding",
+  "es": "Mudapiel",
+  "zh": "蜕皮",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 560,
+  "en": "Hoodlum",
+  "es": "Gamberro",
+  "zh": "恶党",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 561,
+  "en": "Avianoid",
+  "es": "Pseudopájaro",
+  "zh": "似鸟",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 562,
+  "en": "Spirit",
+  "es": "Espíritu",
+  "zh": "魂",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 563,
+  "en": "Coffin",
+  "es": "Sepultura",
+  "zh": "棺木",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 564,
+  "en": "Prototurtle",
+  "es": "Pretortuga",
+  "zh": "古代龟",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 565,
+  "en": "Prototurtle",
+  "es": "Pretortuga",
+  "zh": "古代龟",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 566,
+  "en": "First Bird",
+  "es": "Protopájaro",
+  "zh": "远古鸟",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 567,
+  "en": "First Bird",
+  "es": "Protopájaro",
+  "zh": "远古鸟",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 568,
+  "en": "Trash Bag",
+  "es": "Bolsabasura",
+  "zh": "垃圾袋",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 569,
+  "en": "Trash Heap",
+  "es": "Vertedero",
+  "zh": "垃圾场",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 570,
+  "en": "Tricky Fox",
+  "es": "Zorropillo",
+  "zh": "恶狐",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 571,
+  "en": "Illusion Fox",
+  "es": "Disfrazorro",
+  "zh": "妖狐",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 572,
+  "en": "Chinchilla",
+  "es": "Chinchilla",
+  "zh": "栗鼠",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 573,
+  "en": "Scarf",
+  "es": "Estola",
+  "zh": "围巾",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 574,
+  "en": "Fixation",
+  "es": "Inquisitivo",
+  "zh": "凝视",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 575,
+  "en": "Manipulate",
+  "es": "Manipulador",
+  "zh": "操纵",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 576,
+  "en": "Astral Body",
+  "es": "Astro",
+  "zh": "天体",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 577,
+  "en": "Cell",
+  "es": "Célula",
+  "zh": "细胞",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 578,
+  "en": "Mitosis",
+  "es": "Mitosis",
+  "zh": "分割",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 579,
+  "en": "Multiplying",
+  "es": "Ampliación",
+  "zh": "增幅",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 580,
+  "en": "Water Bird",
+  "es": "Ave Agua",
+  "zh": "水鸟",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 581,
+  "en": "White Bird",
+  "es": "Cisne",
+  "zh": "白鸟",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 582,
+  "en": "Fresh Snow",
+  "es": "Nievefresca",
+  "zh": "新雪",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 583,
+  "en": "Icy Snow",
+  "es": "Nievehelada",
+  "zh": "冰雪",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 584,
+  "en": "Snowstorm",
+  "es": "Nievegélida",
+  "zh": "暴风雪",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 585,
+  "en": "Season",
+  "es": "Estacional",
+  "zh": "季节",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 586,
+  "en": "Season",
+  "es": "Estacional",
+  "zh": "季节",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 587,
+  "en": "Sky Squirrel",
+  "es": "Vuelardilla",
+  "zh": "飞鼠",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 588,
+  "en": "Clamping",
+  "es": "Bocado",
+  "zh": "啃咬",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 589,
+  "en": "Cavalry",
+  "es": "Soldado",
+  "zh": "骑兵",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 590,
+  "en": "Mushroom",
+  "es": "Hongo",
+  "zh": "蘑菇",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 591,
+  "en": "Mushroom",
+  "es": "Hongo",
+  "zh": "蘑菇",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 592,
+  "en": "Floating",
+  "es": "Ingrávido",
+  "zh": "漂浮",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 593,
+  "en": "Floating",
+  "es": "Ingrávido",
+  "zh": "漂浮",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 594,
+  "en": "Caring",
+  "es": "Socorrista",
+  "zh": "看护",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 595,
+  "en": "Attaching",
+  "es": "Lapa",
+  "zh": "吸附",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 596,
+  "en": "EleSpider",
+  "es": "Electroaraña",
+  "zh": "电蜘蛛",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 597,
+  "en": "Thorn Seed",
+  "es": "Frutoespina",
+  "zh": "刺果",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 598,
+  "en": "Thorn Pod",
+  "es": "Bolaespina",
+  "zh": "刺球",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 599,
+  "en": "Gear",
+  "es": "Engranaje",
+  "zh": "齿轮",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 600,
+  "en": "Gear",
+  "es": "Engranaje",
+  "zh": "齿轮",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 601,
+  "en": "Gear",
+  "es": "Engranaje",
+  "zh": "齿轮",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 602,
+  "en": "EleFish",
+  "es": "Electropez",
+  "zh": "电鱼",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 603,
+  "en": "EleFish",
+  "es": "Electropez",
+  "zh": "电鱼",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 604,
+  "en": "EleFish",
+  "es": "Electropez",
+  "zh": "电鱼",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 605,
+  "en": "Cerebral",
+  "es": "Cerebro",
+  "zh": "脑",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 606,
+  "en": "Cerebral",
+  "es": "Cerebro",
+  "zh": "脑",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 607,
+  "en": "Candle",
+  "es": "Vela",
+  "zh": "蜡烛",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 608,
+  "en": "Lamp",
+  "es": "Farolillo",
+  "zh": "油灯",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 609,
+  "en": "Luring",
+  "es": "Señuelo",
+  "zh": "引诱",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 610,
+  "en": "Tusk",
+  "es": "Colmillo",
+  "zh": "牙",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 611,
+  "en": "Axe Jaw",
+  "es": "Bocahancha",
+  "zh": "颚斧",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 612,
+  "en": "Axe Jaw",
+  "es": "Bocahancha",
+  "zh": "颚斧",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 613,
+  "en": "Chill",
+  "es": "Congelación",
+  "zh": "结冰",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 614,
+  "en": "Freezing",
+  "es": "Glaciación",
+  "zh": "冻结",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 615,
+  "en": "Crystallizing",
+  "es": "Cristal",
+  "zh": "结晶",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 616,
+  "en": "Snail",
+  "es": "Caracol",
+  "zh": "蜗牛",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 617,
+  "en": "Shell Out",
+  "es": "Sincaparazón",
+  "zh": "脱壳",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 618,
+  "en": "Trap",
+  "es": "Trampa",
+  "zh": "陷阱",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 619,
+  "en": "Martial Arts",
+  "es": "Artemarcial",
+  "zh": "武术",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 620,
+  "en": "Martial Arts",
+  "es": "Artemarcial",
+  "zh": "武术",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 621,
+  "en": "Cave",
+  "es": "Cueva",
+  "zh": "洞穴",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 622,
+  "en": "Automaton",
+  "es": "Autómata",
+  "zh": "魔像",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 623,
+  "en": "Automaton",
+  "es": "Autómata",
+  "zh": "魔像",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 624,
+  "en": "Sharp Blade",
+  "es": "Tajo",
+  "zh": "利器",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 625,
+  "en": "Sword Blade",
+  "es": "Filo",
+  "zh": "刀刃",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 626,
+  "en": "Barsh Buffalo",
+  "es": "Torocabezazo",
+  "zh": "头锤"
+ },
+ {
+  "id": 627,
+  "en": "Eaglet",
+  "es": "Aguilucho",
+  "zh": "雏鹰",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 628,
+  "en": "Valiant",
+  "es": "Aguerrido",
+  "zh": "勇猛",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 629,
+  "en": "Diapered",
+  "es": "Pañal",
+  "zh": "尿布",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 630,
+  "en": "Bone Vulture",
+  "es": "Aguilahueso",
+  "zh": "骨鹰",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 631,
+  "en": "Anteater",
+  "es": "Hormiguero",
+  "zh": "食蚁兽",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 632,
+  "en": "Iron Ant",
+  "es": "Hormigacero",
+  "zh": "铁蚁",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 633,
+  "en": "Irate",
+  "es": "Tosco",
+  "zh": "粗鲁",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 634,
+  "en": "Hostile",
+  "es": "Violento",
+  "zh": "粗暴",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 635,
+  "en": "Brutal",
+  "es": "Voraz",
+  "zh": "凶暴",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 636,
+  "en": "Torch ",
+  "es": "Antorcha",
+  "zh": "火炬",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 637,
+  "en": "Sun",
+  "es": "Sol",
+  "zh": "太阳",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 638,
+  "en": "Iron Will",
+  "es": "Tesón Acero",
+  "zh": "铁心",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 639,
+  "en": "Cavern",
+  "es": "Gruta",
+  "zh": "岩窟",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 640,
+  "en": "Grassland",
+  "es": "Prado",
+  "zh": "草原",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 641,
+  "en": "Cyclone",
+  "es": "Torbellino",
+  "zh": "旋风",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 642,
+  "en": "Bolt Strike",
+  "es": "Centella",
+  "zh": "雷击",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 643,
+  "en": "Vast White",
+  "es": "Blanco Veraz",
+  "zh": "白阳",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 644,
+  "en": "Deep Black",
+  "es": "Negro Puro",
+  "zh": "黑阴",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 645,
+  "en": "Abundant",
+  "es": "Fertilidad",
+  "zh": "丰饶"
+ },
+ {
+  "id": 646,
+  "en": "Boundary",
+  "es": "Frontera",
+  "zh": "境界",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 647,
+  "en": "Colt",
+  "es": "Potro",
+  "zh": "幼马",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 648,
+  "en": "Melody",
+  "es": "Melodía",
+  "zh": "旋律",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 649,
+  "en": "Paleozoic",
+  "es": "Paleozoico",
+  "zh": "古生代",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 650,
+  "en": "Spiny Nut",
+  "es": "Erizo",
+  "zh": "刺栗",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 651,
+  "en": "Spiny Armor",
+  "es": "Corazaespín",
+  "zh": "刺铠",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 652,
+  "en": "Spiny Armor",
+  "es": "Corazaespín",
+  "zh": "刺铠",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 653,
+  "en": "Fox",
+  "es": "Zorro",
+  "zh": "狐狸",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 654,
+  "en": "Fox",
+  "es": "Zorro",
+  "zh": "狐狸",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 655,
+  "en": "Fox",
+  "es": "Zorro",
+  "zh": "狐狸",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 656,
+  "en": "Bubble Frog",
+  "es": "Burburrana",
+  "zh": "泡蛙",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 657,
+  "en": "Bubble Frog",
+  "es": "Burburrana",
+  "zh": "泡蛙",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 658,
+  "en": "Ninja",
+  "es": "Ninja",
+  "zh": "忍者",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 659,
+  "en": "Digging",
+  "es": "Excavador",
+  "zh": "挖洞",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 660,
+  "en": "Digging",
+  "es": "Excavador",
+  "zh": "挖洞",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 661,
+  "en": "Tiny Robin",
+  "es": "Petirrojo",
+  "zh": "知更鸟",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 662,
+  "en": "Ember",
+  "es": "Petirrojo",
+  "zh": "火花",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 663,
+  "en": "Scorching",
+  "es": "Flamígero",
+  "zh": "烈火",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 664,
+  "en": "Scatterdust",
+  "es": "Tiraescamas",
+  "zh": "喷粉",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 665,
+  "en": "Scatterdust",
+  "es": "Tiraescamas",
+  "zh": "喷粉",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 666,
+  "en": "Scale",
+  "es": "Escamaposa",
+  "zh": "鳞粉",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 667,
+  "en": "Lion Cub",
+  "es": "Leoncito",
+  "zh": "幼狮",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 668,
+  "en": "Royal",
+  "es": "Regio",
+  "zh": "王者",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 669,
+  "en": "Single Bloom",
+  "es": "Monoflor",
+  "zh": "单朵",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 670,
+  "en": "Single Bloom",
+  "es": "Monoflor",
+  "zh": "单朵",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 671,
+  "en": "Garden",
+  "es": "Jardín",
+  "zh": "花园",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 672,
+  "en": "Mount",
+  "es": "Montura",
+  "zh": "坐骑",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 673,
+  "en": "Mount",
+  "es": "Montura",
+  "zh": "坐骑",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 674,
+  "en": "Playful",
+  "es": "Juguetón",
+  "zh": "顽皮",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 675,
+  "en": "Daunting",
+  "es": "Rostro Fiero",
+  "zh": "恶颜",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 676,
+  "en": "Poodle",
+  "es": "Caniche",
+  "zh": "贵宾犬",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 677,
+  "en": "Restraint",
+  "es": "Moderación",
+  "zh": "自制",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 678,
+  "en": "Constraint",
+  "es": "Autocontrol",
+  "zh": "抑制",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 679,
+  "en": "Sword",
+  "es": "Tizona",
+  "zh": "刀剑",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 680,
+  "en": "Sword",
+  "es": "Tizona",
+  "zh": "刀剑",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 681,
+  "en": "Royal Sword",
+  "es": "Espada Real",
+  "zh": "王剑",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 682,
+  "en": "Perfume",
+  "es": "Aroma",
+  "zh": "香水",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 683,
+  "en": "Fragance",
+  "es": "Fragancia",
+  "zh": "芳香"
+ },
+ {
+  "id": 684,
+  "en": "Cotton Candy",
+  "es": "Chuchería",
+  "zh": "棉花糖",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 685,
+  "en": "Meringue",
+  "es": "Nata",
+  "zh": "泡沫奶油",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 686,
+  "en": "Revolving",
+  "es": "Rotación",
+  "zh": "回转",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 687,
+  "en": "Overturning",
+  "es": "Revolución",
+  "zh": "倒转",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 688,
+  "en": "Two-Handed",
+  "es": "Dos Manos",
+  "zh": "双手",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 689,
+  "en": "Collective",
+  "es": "Combinación",
+  "zh": "集合",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 690,
+  "en": "Mock Kelp",
+  "es": "Pseudoalga",
+  "zh": "似草",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 691,
+  "en": "Mock Kelp",
+  "es": "Pseudoalga",
+  "zh": "似草",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 692,
+  "en": "Water Gun",
+  "es": "Proyectagua",
+  "zh": "水枪",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 693,
+  "en": "Howitzer",
+  "es": "Lanzachorro",
+  "zh": "发射器",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 694,
+  "en": "Generator",
+  "es": "Generador",
+  "zh": "发电",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 695,
+  "en": "Generator",
+  "es": "Lagarto Generador",
+  "zh": "发电",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 696,
+  "en": "Royal Heir",
+  "es": "Heredero",
+  "zh": "幼君",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 697,
+  "en": "Despot",
+  "es": "Tirano",
+  "zh": "暴君",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 698,
+  "en": "Tundra",
+  "es": "Tundra",
+  "zh": "冻原",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 699,
+  "en": "Tundra",
+  "es": "Tundra",
+  "zh": "冻原",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 700,
+  "en": "Intertwinning",
+  "es": "Vínculo",
+  "zh": "牵绊"
+ },
+ {
+  "id": 701,
+  "en": "Wrestling",
+  "es": "Lucha Libre",
+  "zh": "摔角",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 702,
+  "en": "Antenna",
+  "es": "Antenas",
+  "zh": "天线",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 703,
+  "en": "Jewel",
+  "es": "Joya",
+  "zh": "宝石",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 704,
+  "en": "Soft Tissue",
+  "es": "Molusco",
+  "zh": "软体生物",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 705,
+  "en": "Soft Tissue",
+  "es": "Molusco",
+  "zh": "软体生物",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 706,
+  "en": "Dragon",
+  "es": "Dragón",
+  "zh": "龙",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 707,
+  "en": "Key Ring",
+  "es": "Llavero",
+  "zh": "钥匙串",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 708,
+  "en": "Stump ",
+  "es": "Tronco",
+  "zh": "树桩",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 709,
+  "en": "Elder Tree",
+  "es": "Árbol Viejo",
+  "zh": "老树",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 710,
+  "en": "Pumpkin",
+  "es": "Calabaza",
+  "zh": "南瓜",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 711,
+  "en": "Pumpkin",
+  "es": "Calabaza",
+  "zh": "南瓜",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 712,
+  "en": "Ice Chunk",
+  "es": "Témpano",
+  "zh": "冰块",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 713,
+  "en": "Iceberg",
+  "es": "Iceberg",
+  "zh": "冰山",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 714,
+  "en": "Sound Wave",
+  "es": "Onda Sónica",
+  "zh": "音波",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 715,
+  "en": "Sound Wave",
+  "es": "Onda Sónica",
+  "zh": "音波",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 716,
+  "en": "Life",
+  "es": "Creación",
+  "zh": "生命",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 717,
+  "en": "Destruction",
+  "es": "Destrucción",
+  "zh": "破坏",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 718,
+  "en": "Order",
+  "es": "Equilibrio",
+  "zh": "秩序",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 719,
+  "en": "Jewel",
+  "es": "Joya",
+  "zh": "宝石",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 720,
+  "en": "Mischief",
+  "es": "Travesura",
+  "zh": "顽童",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 721,
+  "en": "Steam",
+  "es": "Vapor",
+  "zh": "蒸汽",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 722,
+  "en": "Grass Quill",
+  "es": "Pluma hoja",
+  "zh": "草羽",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 723,
+  "en": "Blade Quill",
+  "es": "Pluma filo",
+  "zh": "刃羽",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 724,
+  "en": "Arrow Quill",
+  "es": "Pluma flecha",
+  "zh": "箭羽",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 725,
+  "en": "Fire Cat",
+  "es": "Gato fuego",
+  "zh": "火猫",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 726,
+  "en": "Fire Cat",
+  "es": "Gato fuego",
+  "zh": "火猫",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 727,
+  "en": "Heel",
+  "es": "Rudo",
+  "zh": "反派",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 728,
+  "en": "Sea Lion",
+  "es": "León marino",
+  "zh": "海狮",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 729,
+  "en": "Pop Star",
+  "es": "Fama",
+  "zh": "偶像",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 730,
+  "en": "Soloist",
+  "es": "Solista",
+  "zh": "独唱者",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 731,
+  "en": "Woodpecker",
+  "es": "Carpintero",
+  "zh": "啄木鸟",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 732,
+  "en": "Bugle Beak",
+  "es": "Trompeta",
+  "zh": "喇叭喙",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 733,
+  "en": "Cannon",
+  "es": "Tucán",
+  "zh": "铳炮",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 734,
+  "en": "Loitering",
+  "es": "Patrulla",
+  "zh": "巡回",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 735,
+  "en": "Stakeout",
+  "es": "Vigilante",
+  "zh": "蹲守",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 736,
+  "en": "Larva",
+  "es": "Pupa",
+  "zh": "幼虫",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 737,
+  "en": "Battery",
+  "es": "Batería",
+  "zh": "蓄电池",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 738,
+  "en": "Stag Beetle",
+  "es": "Escarabajo",
+  "zh": "锹形虫",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 739,
+  "en": "Boxing",
+  "es": "Púgil",
+  "zh": "拳斗",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 740,
+  "en": "Woolly Crab",
+  "es": "Cangrejo lanudo",
+  "zh": "毛蟹",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 741,
+  "en": "Dancing",
+  "es": "Danza",
+  "zh": "舞蹈",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 742,
+  "en": "Bee Fly",
+  "es": "Mosca Abeja",
+  "zh": "蜂虻",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 743,
+  "en": "Bee Fly",
+  "es": "Mosca Abeja",
+  "zh": "蜂虻",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 744,
+  "en": "Puppy",
+  "es": "Perrito",
+  "zh": "小狗",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 745,
+  "en": "Wolf",
+  "es": "Lobo",
+  "zh": "狼",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 746,
+  "en": "Small Fry",
+  "es": "Pececillo",
+  "zh": "小鱼",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 747,
+  "en": "Brutal Star",
+  "es": "Estrellatroz",
+  "zh": "非星",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 748,
+  "en": "Brutal Star",
+  "es": "Estrellatroz",
+  "zh": "非星",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 749,
+  "en": "Donkey",
+  "es": "Asno",
+  "zh": "驴",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 750,
+  "en": "Draft Horse",
+  "es": "Caballo Tiro",
+  "zh": "挽马",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 751,
+  "en": "Water Bubble",
+  "es": "Pompa",
+  "zh": "水泡",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 752,
+  "en": "Water Bubble",
+  "es": "Pompa",
+  "zh": "水泡",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 753,
+  "en": "Sickle Grass",
+  "es": "Filo Hoja",
+  "zh": "镰草",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 754,
+  "en": "Bloom Sickle",
+  "es": "Filo Flor",
+  "zh": "花镰",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 755,
+  "en": "Illuminating",
+  "es": "Luminiscente",
+  "zh": "发光",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 756,
+  "en": "Illuminating",
+  "es": "Luminiscente",
+  "zh": "发光",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 757,
+  "en": "Toxic Lizard",
+  "es": "Lagartoxina",
+  "zh": "毒蜥",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 758,
+  "en": "Toxic Lizard",
+  "es": "Lagartoxina",
+  "zh": "毒蜥",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 759,
+  "en": "Flailing",
+  "es": "Rabieta",
+  "zh": "抓狂",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 760,
+  "en": "Strong Arm",
+  "es": "Brazo Fuerte",
+  "zh": "强臂",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 761,
+  "en": "Fruit",
+  "es": "Fruto",
+  "zh": "水果",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 762,
+  "en": "Fruit",
+  "es": "Fruto",
+  "zh": "水果",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 763,
+  "en": "Fruit",
+  "es": "Fruto",
+  "zh": "水果",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 764,
+  "en": "Posy Picker",
+  "es": "Recogeflores",
+  "zh": "摘花",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 765,
+  "en": "Sage",
+  "es": "Sabio",
+  "zh": "贤者",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 766,
+  "en": "Teamwork",
+  "es": "Cooperación",
+  "zh": "配合",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 767,
+  "en": "Turn Tail",
+  "es": "Huidizo",
+  "zh": "疾行",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 768,
+  "en": "Hard Scale",
+  "es": "Blindaje",
+  "zh": "装甲",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 769,
+  "en": "Sand Heap",
+  "es": "Montearena",
+  "zh": "沙丘",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 770,
+  "en": "Sand Castle",
+  "es": "Castiarena",
+  "zh": "沙堡",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 771,
+  "en": "Sea Cucumber",
+  "es": "Pepino Mar",
+  "zh": "海参",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 772,
+  "en": "Synthetic",
+  "es": "Multigénico",
+  "zh": "人工",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 773,
+  "en": "Synthetic",
+  "es": "Multigénico",
+  "zh": "人工",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 774,
+  "en": "Meteor",
+  "es": "Meteoro",
+  "zh": "流星",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 775,
+  "en": "Drowsing",
+  "es": "Duermevela",
+  "zh": "半梦半醒",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 776,
+  "en": "Blast Turtle",
+  "es": "Tortugabomba",
+  "zh": "爆炸龟",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 777,
+  "en": "Roly-Poly",
+  "es": "Bolita",
+  "zh": "蜷缩",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 778,
+  "en": "Disguise",
+  "es": "Disfraz",
+  "zh": "画皮",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 779,
+  "en": "Gnash Teeth",
+  "es": "Rechinante",
+  "zh": "磨牙",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 780,
+  "en": "Placid",
+  "es": "Sosiego",
+  "zh": "悠游",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 781,
+  "en": "Sea Creeper",
+  "es": "Alga Ancla",
+  "zh": "碎藻",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 782,
+  "en": "Scaly",
+  "es": "Escamas",
+  "zh": "鳞片",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 783,
+  "en": "Scaly",
+  "es": "Escamas",
+  "zh": "鳞片",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 784,
+  "en": "Scaly",
+  "es": "Escamas",
+  "zh": "鳞片",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 785,
+  "en": "Land Spirit",
+  "es": "Dios Nativo",
+  "zh": "土地神",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 786,
+  "en": "Land Spirit",
+  "es": "Dios Nativo",
+  "zh": "土地神",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 787,
+  "en": "Land Spirit",
+  "es": "Dios Nativo",
+  "zh": "土地神",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 788,
+  "en": "Land Spirit",
+  "es": "Dios Nativo",
+  "zh": "土地神",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 789,
+  "en": "Nebula",
+  "es": "Nebulosa",
+  "zh": "星云",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 790,
+  "en": "Protostar",
+  "es": "Protostrella",
+  "zh": "原始星",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 791,
+  "en": "Sunne",
+  "es": "Corona Solar",
+  "zh": "日轮",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 792,
+  "en": "Moone",
+  "es": "Corona Lunar",
+  "zh": "月轮",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 793,
+  "en": "Parasite",
+  "es": "Parásito",
+  "zh": "寄生",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 794,
+  "en": "Swollen",
+  "es": "Hinchado",
+  "zh": "膨胀",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 795,
+  "en": "Lissome",
+  "es": "Elegancia",
+  "zh": "美艳",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 796,
+  "en": "Glowing",
+  "es": "Luminaria",
+  "zh": "灯饰",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 797,
+  "en": "Launch",
+  "es": "Lanzamiento",
+  "zh": "发射",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 798,
+  "en": "Drawn Sword",
+  "es": "Desenvaine",
+  "zh": "拔刀",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 799,
+  "en": "Junkivore",
+  "es": "Tragaldabas",
+  "zh": "异食",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 800,
+  "en": "Prism",
+  "es": "Prisma",
+  "zh": "棱镜",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 801,
+  "en": "Artificial",
+  "es": "Artificial",
+  "zh": "人造",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 802,
+  "en": "Gloomdweller",
+  "es": "Penumbra",
+  "zh": "栖影",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 803,
+  "en": "Poison Pin",
+  "es": "Pin Veneno",
+  "zh": "毒针",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 804,
+  "en": "Poison Pin",
+  "es": "Pin Veneno",
+  "zh": "毒针",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 805,
+  "en": "Rampart",
+  "es": "Muro",
+  "zh": "石墙",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 806,
+  "en": "Fireworks",
+  "es": "Pirotecnia",
+  "zh": "烟火",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 807,
+  "en": "Thunderclap",
+  "es": "Fulgor",
+  "zh": "奔雷",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 808,
+  "en": "Hex Nut",
+  "es": "Tuerca",
+  "zh": "螺帽",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 809,
+  "en": "Hex Nut",
+  "es": "Tuerca",
+  "zh": "螺帽",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 810,
+  "en": "Chimp",
+  "es": "Chimpancé",
+  "zh": "小猴",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 811,
+  "en": "Beat",
+  "es": "Ritmo",
+  "zh": "节拍",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 812,
+  "en": "Drummer",
+  "es": "Percusión",
+  "zh": "鼓手",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 813,
+  "en": "Rabbit",
+  "es": "Conejo",
+  "zh": "兔子",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 814,
+  "en": "Rabbit",
+  "es": "Conejo",
+  "zh": "兔子",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 815,
+  "en": "Striker",
+  "es": "Delantero",
+  "zh": "前锋",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 816,
+  "en": "Water Lizard",
+  "es": "Acuartija",
+  "zh": "水蜥",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 817,
+  "en": "Water Lizard",
+  "es": "Acuartija",
+  "zh": "水蜥",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 818,
+  "en": "Secret Agent",
+  "es": "Agente",
+  "zh": "特工",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 819,
+  "en": "Cheeky",
+  "es": "Abazón",
+  "zh": "贪吃",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 820,
+  "en": "Greedy",
+  "es": "Avaricia",
+  "zh": "贪欲",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 821,
+  "en": "Tiny Bird",
+  "es": "Pajarito",
+  "zh": "小鸟",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 822,
+  "en": "Raven",
+  "es": "Cuervo",
+  "zh": "乌鸦",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 823,
+  "en": "Raven",
+  "es": "Cuervo",
+  "zh": "乌鸦",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 824,
+  "en": "Larva",
+  "es": "Pupa",
+  "zh": "幼虫",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 825,
+  "en": "Radome",
+  "es": "Radomo",
+  "zh": "天线罩",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 826,
+  "en": "Seven Spot",
+  "es": "Siete Puntos",
+  "zh": "七星",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 827,
+  "en": "Fox",
+  "es": "Zorro",
+  "zh": "狐狸",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 828,
+  "en": "Fox",
+  "es": "Zorro",
+  "zh": "狐狸",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 829,
+  "en": "Flowering",
+  "es": "Adornofloral",
+  "zh": "花饰",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 830,
+  "en": "Cotton Bloom",
+  "es": "Adornalgodón",
+  "zh": "棉饰",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 831,
+  "en": "Sheep",
+  "es": "Oveja",
+  "zh": "绵羊",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 832,
+  "en": "Sheep",
+  "es": "Oveja",
+  "zh": "绵羊",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 833,
+  "en": "Snapping",
+  "es": "Mordedura",
+  "zh": "咬住",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 834,
+  "en": "Bite",
+  "es": "Mordisco",
+  "zh": "紧咬",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 835,
+  "en": "Puppy",
+  "es": "Perrito",
+  "zh": "小狗",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 836,
+  "en": "Dog",
+  "es": "Perro",
+  "zh": "狗",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 837,
+  "en": "Coal",
+  "es": "Carbón",
+  "zh": "煤炭",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 838,
+  "en": "Coal",
+  "es": "Carbón",
+  "zh": "煤炭",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 839,
+  "en": "Coal",
+  "es": "Carbón",
+  "zh": "煤炭",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 840,
+  "en": "Apple Core",
+  "es": "Manzanido",
+  "zh": "苹果居",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 841,
+  "en": "Apple Wing",
+  "es": "Manzanala",
+  "zh": "苹果翅",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 842,
+  "en": "Apple Nectar",
+  "es": "Manzanéctar",
+  "zh": "苹果汁",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 843,
+  "en": "Sand Snake",
+  "es": "Serp. Arena",
+  "zh": "沙蛇",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 844,
+  "en": "Sand Snake",
+  "es": "Serp. Arena",
+  "zh": "沙蛇",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 845,
+  "en": "Gulp",
+  "es": "Tragón",
+  "zh": "一口吞",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 846,
+  "en": "Rush",
+  "es": "Arremetida",
+  "zh": "突击",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 847,
+  "en": "Skewer",
+  "es": "Ensarta",
+  "zh": "穿刺",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 848,
+  "en": "Baby",
+  "es": "Retoño",
+  "zh": "婴儿",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 849,
+  "en": "Punk",
+  "es": "Punki",
+  "zh": "庞克",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 850,
+  "en": "Radiator",
+  "es": "Radiador",
+  "zh": "发热",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 851,
+  "en": "Radiator",
+  "es": "Radiador",
+  "zh": "发热",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 852,
+  "en": "Tantrum",
+  "es": "Malcriado",
+  "zh": "缠人",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 853,
+  "en": "Jujitsu",
+  "es": "Jiu-Jitsu",
+  "zh": "柔术",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 854,
+  "en": "Black Tea",
+  "es": "Té",
+  "zh": "红茶",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 855,
+  "en": "Black Tea",
+  "es": "Té",
+  "zh": "红茶",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 856,
+  "en": "Calm",
+  "es": "Calma",
+  "zh": "宁静",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 857,
+  "en": "Serene",
+  "es": "Serenidad",
+  "zh": "肃静",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 858,
+  "en": "Silent",
+  "es": "Silencio",
+  "zh": "寂静",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 859,
+  "en": "Wily",
+  "es": "Astuto",
+  "zh": "捉弄",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 860,
+  "en": "Devious",
+  "es": "Malicioso",
+  "zh": "坏心眼",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 861,
+  "en": "Bulk Up",
+  "es": "Voluminoso",
+  "zh": "健美",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 862,
+  "en": "Blocking",
+  "es": "Bloqueador",
+  "zh": "停止",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 863,
+  "en": "Viking",
+  "es": "Vikingo",
+  "zh": "维京",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 864,
+  "en": "Coral",
+  "es": "Coral",
+  "zh": "珊瑚",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 865,
+  "en": "Wild Duck",
+  "es": "Pato Salvaje",
+  "zh": "黄嘴鸭",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 866,
+  "en": "Comedian",
+  "es": "Cómico",
+  "zh": "喜剧演员",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 867,
+  "en": "Grudge",
+  "es": "Resquemor",
+  "zh": "怨念",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 868,
+  "en": "Cream",
+  "es": "Nata",
+  "zh": "鲜奶油",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 869,
+  "en": "Cream",
+  "es": "Nata",
+  "zh": "鲜奶油",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 870,
+  "en": "Formation",
+  "es": "Formación",
+  "zh": "阵形",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 871,
+  "en": "Sea Urchin",
+  "es": "Erizo de Mar",
+  "zh": "海胆",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 872,
+  "en": "Worm",
+  "es": "Gusano",
+  "zh": "虫宝宝",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 873,
+  "en": "Frost Moth",
+  "es": "Polillahielo",
+  "zh": "冰蛾",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 874,
+  "en": "Big Rock",
+  "es": "Megalito",
+  "zh": "巨石",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 875,
+  "en": "Penguin",
+  "es": "Pingüino",
+  "zh": "企鹅",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 876,
+  "en": "Emotion",
+  "es": "Sensorio",
+  "zh": "感情",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 877,
+  "en": "Two-Sided",
+  "es": "Dos Caras",
+  "zh": "双面",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 878,
+  "en": "Copperderm",
+  "es": "Broncefante",
+  "zh": "像铜",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 879,
+  "en": "Copperderm",
+  "es": "Broncefante",
+  "zh": "像铜",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 880,
+  "en": "Fossil",
+  "es": "Fósil",
+  "zh": "化石",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 881,
+  "en": "Fossil",
+  "es": "Fósil",
+  "zh": "化石",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 882,
+  "en": "Fossil",
+  "es": "Fósil",
+  "zh": "化石",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 883,
+  "en": "Fossil",
+  "es": "Fósil",
+  "zh": "化石",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 884,
+  "en": "Alloy",
+  "es": "Aleación",
+  "zh": "合金",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 885,
+  "en": "Lingering",
+  "es": "Resentido",
+  "zh": "哀怨",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 886,
+  "en": "Caretaker",
+  "es": "Cuidador",
+  "zh": "保姆",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 887,
+  "en": "Stealth",
+  "es": "Furtivo",
+  "zh": "隐形",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 888,
+  "en": "Warrior",
+  "es": "Guerrero",
+  "zh": "强者",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 889,
+  "en": "Warrior",
+  "es": "Guerrero",
+  "zh": "强者",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 890,
+  "en": "Gigantic",
+  "es": "Gigantesco",
+  "zh": "超极巨",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 891,
+  "en": "Wushu",
+  "es": "Kung-fu",
+  "zh": "拳法",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 892,
+  "en": "Wushu",
+  "es": "Kung-fu",
+  "zh": "拳法",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 893,
+  "en": "Rogue Monkey",
+  "es": "Simiestro",
+  "zh": "恶猿",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 894,
+  "en": "Electron",
+  "es": "Electrón",
+  "zh": "电子",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 895,
+  "en": "Dragon Orb",
+  "es": "Dragosfera",
+  "zh": "龙玉",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 896,
+  "en": "Wild Horse",
+  "es": "Corcel Feroz",
+  "zh": "烈马",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 897,
+  "en": "Swift Horse",
+  "es": "Corcel Veloz",
+  "zh": "骏马",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 898,
+  "en": "King",
+  "es": "Rey",
+  "zh": "国王",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 899,
+  "en": "Big Horn",
+  "es": "Gran Cuerno",
+  "zh": "大角",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 900,
+  "en": "Axe",
+  "es": "Hacha",
+  "zh": "斧钺",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 901,
+  "en": "Peat",
+  "es": "Turba",
+  "zh": "泥炭",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 902,
+  "en": "Big Fish",
+  "es": "Gran Pez",
+  "zh": "大鱼",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 903,
+  "en": "Free Climb",
+  "es": "Escalada",
+  "zh": "攀崖",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 904,
+  "en": "Pin Cluster",
+  "es": "Espinoso",
+  "zh": "剑山",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 905,
+  "en": "Love-Hate",
+  "es": "Amorodio",
+  "zh": "爱憎",
+  "note": "官方分类（PokeAPI）"
+ },
+ {
+  "id": 906,
+  "en": "Fawn",
+  "es": "Cervatillo",
+  "zh": "小鹿"
+ },
+ {
+  "id": 907,
+  "en": "Scaler",
+  "es": "Escalador",
+  "zh": "攀登者"
+ },
+ {
+  "id": 908,
+  "en": "Mountain Royalty",
+  "es": "Realeza Montaña",
+  "zh": "山岳王族"
+ },
+ {
+  "id": 909,
+  "en": "Rabbit Forest",
+  "es": "Conejo Bosque",
+  "zh": "森林兔"
+ },
+ {
+  "id": 910,
+  "en": "Naughty Rabbit",
+  "es": "Conejo Travieso",
+  "zh": "淘气兔"
+ },
+ {
+  "id": 911,
+  "en": "Mystic Rabbit",
+  "es": "Conejo Mistico",
+  "zh": "神秘兔"
+ },
+ {
+  "id": 912,
+  "en": "Current",
+  "es": "Corriente",
+  "zh": "电流"
+ },
+ {
+  "id": 913,
+  "en": "Apprentice",
+  "es": "Aprendiz",
+  "zh": "学徒"
+ },
+ {
+  "id": 914,
+  "en": "Big woodcutter",
+  "es": "Gran leñador",
+  "zh": "大樵夫"
+ },
+ {
+  "id": 915,
+  "en": "Mouse",
+  "es": "Ratón",
+  "zh": "鼠"
+ },
+ {
+  "id": 916,
+  "en": "Flame Pegasus",
+  "es": "Pegaso Fuego",
+  "zh": "火焰天马"
+ },
+ {
+  "id": 917,
+  "en": "Dark Beak",
+  "es": "Pico Oscuro",
+  "zh": "暗喙"
+ },
+ {
+  "id": 918,
+  "en": "Rapacious",
+  "es": "Rapaz",
+  "zh": "猛禽"
+ },
+ {
+  "id": 919,
+  "en": "Melody",
+  "es": "Melodía",
+  "zh": "旋律"
+ },
+ {
+  "id": 920,
+  "en": "Brood",
+  "es": "Cría",
+  "zh": "雏鸟"
+ },
+ {
+  "id": 921,
+  "en": "Fossil",
+  "es": "Fósil",
+  "zh": "化石"
+ },
+ {
+  "id": 922,
+  "en": "Spirit",
+  "es": "Espiritu",
+  "zh": "灵魂"
+ },
+ {
+  "id": 923,
+  "en": "Swords",
+  "es": "Espadas",
+  "zh": "刀剑"
+ },
+ {
+  "id": 924,
+  "en": "Human Shape",
+  "es": "F. Humana",
+  "zh": "人形"
+ },
+ {
+  "id": 925,
+  "en": "Transformation",
+  "es": "Transform.",
+  "zh": "变形"
+ },
+ {
+  "id": 926,
+  "en": "Normal Evolution",
+  "es": "Evol. Normal",
+  "zh": "普通进化"
+ },
+ {
+  "id": 927,
+  "en": "Mineral",
+  "es": "Mineral",
+  "zh": "矿物"
+ },
+ {
+  "id": 928,
+  "en": "Skywalker",
+  "es": "Gran Vuelo",
+  "zh": "翱翔"
+ },
+ {
+  "id": 929,
+  "en": "Moth",
+  "es": "Polilla",
+  "zh": "蛾"
+ },
+ {
+  "id": 930,
+  "en": "Sphinx",
+  "es": "Esfinge",
+  "zh": "狮身人面像"
+ },
+ {
+  "id": 931,
+  "en": "Fighter",
+  "es": "Luchador",
+  "zh": "战士"
+ },
+ {
+  "id": 932,
+  "en": "Fragrance",
+  "es": "Fragancia",
+  "zh": "芳香"
+ },
+ {
+  "id": 933,
+  "en": "Biomineral",
+  "es": "Biomineral",
+  "zh": "生物矿物"
+ },
+ {
+  "id": 934,
+  "en": "Spirit",
+  "es": "Espíritu",
+  "zh": "灵魂"
+ },
+ {
+  "id": 935,
+  "en": "Dragon",
+  "es": "Dragón",
+  "zh": "龙"
+ },
+ {
+  "id": 936,
+  "en": "Charged Rock",
+  "es": "Roca Cargada",
+  "zh": "带电岩石"
+ },
+ {
+  "id": 937,
+  "en": "Coal",
+  "es": "Carbón",
+  "zh": "煤炭"
+ },
+ {
+  "id": 938,
+  "en": "Coal",
+  "es": "Carbón",
+  "zh": "煤炭"
+ },
+ {
+  "id": 939,
+  "en": "Protector",
+  "es": "Protector",
+  "zh": "守护者"
+ },
+ {
+  "id": 940,
+  "en": "Eon",
+  "es": "Eón",
+  "zh": "悠久"
+ },
+ {
+  "id": 941,
+  "en": "Diving",
+  "es": "Buceo",
+  "zh": "潜水"
+ },
+ {
+  "id": 942,
+  "en": "Dimenshadow",
+  "es": "Dimensombra",
+  "zh": "暗影次元"
+ },
+ {
+  "id": 943,
+  "en": "Experiment",
+  "es": "Experimento",
+  "zh": "实验"
+ },
+ {
+  "id": 944,
+  "en": "Griffon",
+  "es": "Grifo",
+  "zh": "狮鹫"
+ },
+ {
+  "id": 945,
+  "en": "Chimera",
+  "es": "Quimera",
+  "zh": "奇美拉"
+ },
+ {
+  "id": 946,
+  "en": "Seed",
+  "es": "Semilla",
+  "zh": "种子",
+  "note": "官方分类（PokeAPI，超级妙蛙花）"
+ },
+ {
+  "id": 947,
+  "en": "Flame",
+  "es": "Llama",
+  "zh": "火焰",
+  "note": "官方分类（PokeAPI，超级喷火龙X）"
+ },
+ {
+  "id": 948,
+  "en": "Flame",
+  "es": "Llama",
+  "zh": "火焰",
+  "note": "官方分类（PokeAPI，超级喷火龙Y）"
+ },
+ {
+  "id": 949,
+  "en": "Shellfish",
+  "es": "Marisco",
+  "zh": "甲壳",
+  "note": "官方分类（PokeAPI，超级水箭龟）"
+ },
+ {
+  "id": 950,
+  "en": "Psi",
+  "es": "Psi",
+  "zh": "念力",
+  "note": "官方分类（PokeAPI，超级胡地）"
+ },
+ {
+  "id": 951,
+  "en": "Shadow",
+  "es": "Sombra",
+  "zh": "影子",
+  "note": "官方分类（PokeAPI，超级耿鬼）"
+ },
+ {
+  "id": 952,
+  "en": "Parent",
+  "es": "Padres",
+  "zh": "亲子",
+  "note": "官方分类（PokeAPI，超级袋兽）"
+ },
+ {
+  "id": 953,
+  "en": "Stag Beetle",
+  "es": "Escarabajo",
+  "zh": "锹形虫",
+  "note": "官方分类（PokeAPI，超级凯罗斯）"
+ },
+ {
+  "id": 954,
+  "en": "Atrocious",
+  "es": "Atrocidad",
+  "zh": "凶恶",
+  "note": "官方分类（PokeAPI，超级暴鲤龙）"
+ },
+ {
+  "id": 955,
+  "en": "Fossil",
+  "es": "Fósil",
+  "zh": "化石",
+  "note": "官方分类（PokeAPI，超级化石翼龙）"
+ },
+ {
+  "id": 956,
+  "en": "Genetic",
+  "es": "Genético",
+  "zh": "基因",
+  "note": "官方分类（PokeAPI，超级超梦X）"
+ },
+ {
+  "id": 957,
+  "en": "Genetic",
+  "es": "Genético",
+  "zh": "基因",
+  "note": "官方分类（PokeAPI，超级超梦Y）"
+ },
+ {
+  "id": 958,
+  "en": "Light",
+  "es": "Luz",
+  "zh": "灯",
+  "note": "官方分类（PokeAPI，超级电龙）"
+ },
+ {
+  "id": 959,
+  "en": "Pincer",
+  "es": "Tenaza",
+  "zh": "钳子",
+  "note": "官方分类（PokeAPI，超级巨钳螳螂）"
+ },
+ {
+  "id": 960,
+  "en": "Single Horn",
+  "es": "Unicornio",
+  "zh": "独角",
+  "note": "官方分类（PokeAPI，超级赫拉克罗斯）"
+ },
+ {
+  "id": 961,
+  "en": "Dark",
+  "es": "Siniestro",
+  "zh": "阴暗",
+  "note": "官方分类（PokeAPI，超级黑鲁加）"
+ },
+ {
+  "id": 962,
+  "en": "Armor",
+  "es": "Coraza",
+  "zh": "铠甲",
+  "note": "官方分类（PokeAPI，超级班基拉斯）"
+ },
+ {
+  "id": 963,
+  "en": "Blaze",
+  "es": "Llameante",
+  "zh": "猛火",
+  "note": "官方分类（PokeAPI，超级火焰鸡）"
+ },
+ {
+  "id": 964,
+  "en": "Embrace",
+  "es": "Envolvente",
+  "zh": "包容",
+  "note": "官方分类（PokeAPI，超级沙奈朵）"
+ },
+ {
+  "id": 965,
+  "en": "Deceiver",
+  "es": "Tramposo",
+  "zh": "欺骗",
+  "note": "官方分类（PokeAPI，超级大嘴娃）"
+ },
+ {
+  "id": 966,
+  "en": "Iron Armor",
+  "es": "Cor. Férrea",
+  "zh": "铁铠",
+  "note": "官方分类（PokeAPI，超级波士可多拉）"
+ },
+ {
+  "id": 967,
+  "en": "Meditate",
+  "es": "Meditador",
+  "zh": "冥想",
+  "note": "官方分类（PokeAPI，超级恰雷姆）"
+ },
+ {
+  "id": 968,
+  "en": "Discharge",
+  "es": "Descarga",
+  "zh": "放电",
+  "note": "官方分类（PokeAPI，超级雷电兽）"
+ },
+ {
+  "id": 969,
+  "en": "Marionette",
+  "es": "Marioneta",
+  "zh": "布偶",
+  "note": "官方分类（PokeAPI，超级诅咒娃娃）"
+ },
+ {
+  "id": 970,
+  "en": "Disaster",
+  "es": "Catástrofe",
+  "zh": "灾祸",
+  "note": "官方分类（PokeAPI，超级阿勃梭鲁）"
+ },
+ {
+  "id": 971,
+  "en": "Mach",
+  "es": "Mach",
+  "zh": "音速",
+  "note": "官方分类（PokeAPI，超级烈咬陆鲨）"
+ },
+ {
+  "id": 972,
+  "en": "Aura",
+  "es": "Aura",
+  "zh": "波导",
+  "note": "官方分类（PokeAPI，超级路卡利欧）"
+ },
+ {
+  "id": 973,
+  "en": "Frost Tree",
+  "es": "Árbol Nieve",
+  "zh": "树冰",
+  "note": "官方分类（PokeAPI，超级暴雪王）"
+ },
+ {
+  "id": 974,
+  "en": "Mouse",
+  "es": "Ratón",
+  "zh": "鼠"
+ },
+ {
+  "id": 975,
+  "en": "Poison Bee",
+  "es": "Abeja Ven.",
+  "zh": "毒蜂",
+  "note": "官方分类（PokeAPI，超级大针蜂）"
+ },
+ {
+  "id": 976,
+  "en": "Bird",
+  "es": "Pájaro",
+  "zh": "鸟",
+  "note": "官方分类（PokeAPI，超级大比鸟）"
+ },
+ {
+  "id": 977,
+  "en": "Hermit Crab",
+  "es": "Ermitaño",
+  "zh": "寄居蟹",
+  "note": "官方分类（PokeAPI，超级呆壳兽）"
+ },
+ {
+  "id": 978,
+  "en": "Iron Snake",
+  "es": "Serpférrea",
+  "zh": "铁蛇",
+  "note": "官方分类（PokeAPI，超级大钢蛇）"
+ },
+ {
+  "id": 979,
+  "en": "Forest",
+  "es": "Monte",
+  "zh": "密林",
+  "note": "官方分类（PokeAPI，超级蜥蜴王）"
+ },
+ {
+  "id": 980,
+  "en": "Mud Fish",
+  "es": "Pez Lodo",
+  "zh": "沼鱼",
+  "note": "官方分类（PokeAPI，超级巨沼怪）"
+ },
+ {
+  "id": 981,
+  "en": "Darkness ",
+  "es": "Oscuridad",
+  "zh": "黑暗",
+  "note": "官方分类（PokeAPI，超级勾魂眼）"
+ },
+ {
+  "id": 982,
+  "en": "Brutal",
+  "es": "Voraz",
+  "zh": "凶暴",
+  "note": "官方分类（PokeAPI，超级巨牙鲨）"
+ },
+ {
+  "id": 983,
+  "en": "Eruption",
+  "es": "Erupción",
+  "zh": "喷火",
+  "note": "官方分类（PokeAPI，超级喷火驼）"
+ },
+ {
+  "id": 984,
+  "en": "Humming",
+  "es": "Cantor",
+  "zh": "哼唱",
+  "note": "官方分类（PokeAPI，超级七夕青鸟）"
+ },
+ {
+  "id": 985,
+  "en": "Face",
+  "es": "Cara",
+  "zh": "脸面",
+  "note": "官方分类（PokeAPI，超级冰鬼护）"
+ },
+ {
+  "id": 986,
+  "en": "Dragon",
+  "es": "Dragón",
+  "zh": "龙",
+  "note": "官方分类（PokeAPI，超级暴飞龙）"
+ },
+ {
+  "id": 987,
+  "en": "Iron Leg",
+  "es": "Pata Hierro",
+  "zh": "铁足",
+  "note": "官方分类（PokeAPI，超级巨金怪）"
+ },
+ {
+  "id": 988,
+  "en": "Eon",
+  "es": "Eón",
+  "zh": "无限",
+  "note": "官方分类（PokeAPI，超级拉帝亚斯）"
+ },
+ {
+  "id": 989,
+  "en": "Eon",
+  "es": "Eón",
+  "zh": "无限",
+  "note": "官方分类（PokeAPI，超级拉帝欧斯）"
+ },
+ {
+  "id": 990,
+  "en": "Sky High",
+  "es": "Cielo",
+  "zh": "天空",
+  "note": "官方分类（PokeAPI，超级烈空坐）"
+ },
+ {
+  "id": 991,
+  "en": "Rabbit",
+  "es": "Conejo",
+  "zh": "兔子",
+  "note": "官方分类（PokeAPI，超级长耳兔）"
+ },
+ {
+  "id": 992,
+  "en": "Blade",
+  "es": "Cuchilla",
+  "zh": "利刃",
+  "note": "官方分类（PokeAPI，超级艾路雷朵）"
+ },
+ {
+  "id": 993,
+  "en": "Hearing",
+  "es": "Escucha",
+  "zh": "听力",
+  "note": "官方分类（PokeAPI，超级差不多娃娃）"
+ },
+ {
+  "id": 994,
+  "en": "Jewel",
+  "es": "Joya",
+  "zh": "宝石",
+  "note": "官方分类（PokeAPI，超级蒂安希）"
+ },
+ {
+  "id": 995,
+  "en": "Ninja",
+  "es": "Ninja",
+  "zh": "忍者",
+  "note": "官方分类（PokeAPI，甲贺忍蛙）"
+ },
+ {
+  "id": 996,
+  "en": "Crystal Snake",
+  "es": "Serpiente Cristal",
+  "zh": "水晶蛇"
+ },
+ {
+  "id": 997,
+  "en": "Mouse",
+  "es": "Ratón",
+  "zh": "鼠",
+  "note": "官方分类（PokeAPI，小拉达）"
+ },
+ {
+  "id": 998,
+  "en": "Mouse",
+  "es": "Ratón",
+  "zh": "鼠",
+  "note": "官方分类（PokeAPI，拉达）"
+ },
+ {
+  "id": 999,
+  "en": "Mouse",
+  "es": "Ratón",
+  "zh": "鼠",
+  "note": "官方分类（PokeAPI，雷丘）"
+ },
+ {
+  "id": 1000,
+  "en": "Mouse",
+  "es": "Ratón",
+  "zh": "鼠",
+  "note": "官方分类（PokeAPI，穿山鼠）"
+ },
+ {
+  "id": 1001,
+  "en": "Mouse",
+  "es": "Ratón",
+  "zh": "鼠",
+  "note": "官方分类（PokeAPI，穿山王）"
+ },
+ {
+  "id": 1002,
+  "en": "Fox",
+  "es": "Zorro",
+  "zh": "狐狸",
+  "note": "官方分类（PokeAPI，六尾）"
+ },
+ {
+  "id": 1003,
+  "en": "Fox",
+  "es": "Zorro",
+  "zh": "狐狸",
+  "note": "官方分类（PokeAPI，九尾）"
+ },
+ {
+  "id": 1004,
+  "en": "Mole",
+  "es": "Topo",
+  "zh": "鼹鼠",
+  "note": "官方分类（PokeAPI，地鼠）"
+ },
+ {
+  "id": 1005,
+  "en": "Mole",
+  "es": "Topo",
+  "zh": "鼹鼠",
+  "note": "官方分类（PokeAPI，三地鼠）"
+ },
+ {
+  "id": 1006,
+  "en": "Scratch Cat",
+  "es": "Gato Araña",
+  "zh": "妖怪猫",
+  "note": "官方分类（PokeAPI，喵喵）"
+ },
+ {
+  "id": 1007,
+  "en": "Classy Cat",
+  "es": "Gato Fino",
+  "zh": "暹罗猫",
+  "note": "官方分类（PokeAPI，猫老大）"
+ },
+ {
+  "id": 1008,
+  "en": "Rock",
+  "es": "Roca",
+  "zh": "岩石",
+  "note": "官方分类（PokeAPI，小拳石）"
+ },
+ {
+  "id": 1009,
+  "en": "Rock",
+  "es": "Roca",
+  "zh": "岩石",
+  "note": "官方分类（PokeAPI，隆隆石）"
+ },
+ {
+  "id": 1010,
+  "en": "Megaton",
+  "es": "Megatón",
+  "zh": "重量级",
+  "note": "官方分类（PokeAPI，隆隆岩）"
+ },
+ {
+  "id": 1011,
+  "en": "Sludge",
+  "es": "Lodo",
+  "zh": "污泥",
+  "note": "官方分类（PokeAPI，臭泥）"
+ },
+ {
+  "id": 1012,
+  "en": "Sludge",
+  "es": "Lodo",
+  "zh": "污泥",
+  "note": "官方分类（PokeAPI，臭臭泥）"
+ },
+ {
+  "id": 1013,
+  "en": "Coconut",
+  "es": "Coco",
+  "zh": "椰子",
+  "note": "官方分类（PokeAPI，椰蛋树）"
+ },
+ {
+  "id": 1014,
+  "en": "Bone Keeper",
+  "es": "Apilahueso",
+  "zh": "爱骨",
+  "note": "官方分类（PokeAPI，嘎啦嘎啦）"
+ },
+ {
+  "id": 1015,
+  "en": "Sea Basin",
+  "es": "Cuenca Mar",
+  "zh": "海底",
+  "note": "官方分类（PokeAPI，盖欧卡）"
+ },
+ {
+  "id": 1016,
+  "en": "Continent",
+  "es": "Continente",
+  "zh": "大陆",
+  "note": "官方分类（PokeAPI，固拉多）"
+ },
+ {
+  "id": 1017,
+  "en": "Mischief",
+  "es": "Travesura",
+  "zh": "顽童",
+  "note": "官方分类（PokeAPI，胡帕）"
+ },
+ {
+  "id": 1018,
+  "en": "Order",
+  "es": "Equilibrio",
+  "zh": "秩序",
+  "note": "官方分类（PokeAPI，基格尔德）"
+ },
+ {
+  "id": 1019,
+  "en": "Order",
+  "es": "Equilibrio",
+  "zh": "秩序",
+  "note": "官方分类（PokeAPI，基格尔德）"
+ },
+ {
+  "id": 1020,
+  "en": "Order",
+  "es": "Equilibrio",
+  "zh": "秩序",
+  "note": "官方分类（PokeAPI，基格尔德）"
+ },
+ {
+  "id": 1021,
+  "en": "Order",
+  "es": "Equilibrio",
+  "zh": "秩序",
+  "note": "官方分类（PokeAPI，基格尔德）"
+ },
+ {
+  "id": 1022,
+  "en": "Wolf",
+  "es": "Lobo",
+  "zh": "狼",
+  "note": "官方分类（PokeAPI，鬃岩狼人）"
+ },
+ {
+  "id": 1023,
+  "en": "Wolf",
+  "es": "Lobo",
+  "zh": "狼",
+  "note": "官方分类（PokeAPI，鬃岩狼人）"
+ },
+ {
+  "id": 1024,
+  "en": "Prism",
+  "es": "Prisma",
+  "zh": "棱镜",
+  "note": "官方分类（PokeAPI，奈克洛兹玛）"
+ },
+ {
+  "id": 1025,
+  "en": "Prism",
+  "es": "Prisma",
+  "zh": "棱镜",
+  "note": "官方分类（PokeAPI，奈克洛兹玛）"
+ },
+ {
+  "id": 1026,
+  "en": "Prism",
+  "es": "Prisma",
+  "zh": "棱镜",
+  "note": "官方分类（PokeAPI，奈克洛兹玛）"
+ },
+ {
+  "id": 1027,
+  "en": "Small Fry",
+  "es": "Pececillo",
+  "zh": "小鱼",
+  "note": "官方分类（PokeAPI，弱丁鱼）"
+ },
+ {
+  "id": 1028,
+  "en": "Snowman",
+  "es": "Muñeco Nieve",
+  "zh": "雪人"
+ },
+ {
+  "id": 1029,
+  "en": "Dark Armor",
+  "es": "Coraza Oscura",
+  "zh": "暗黑铠甲"
+ },
+ {
+  "id": 1030,
+  "en": "Diabolical",
+  "es": "Diabólico",
+  "zh": "凶恶"
+ },
+ {
+  "id": 1031,
+  "en": "Diabolical Chimera",
+  "es": "Quimera Diabólica",
+  "zh": "凶恶奇美拉"
+ },
+ {
+  "id": 1032,
+  "en": "Dark Armor",
+  "es": "Coraza Oscura",
+  "zh": "暗黑铠甲"
+ },
+ {
+  "id": 1033,
+  "en": "Diabolical",
+  "es": "Diabólico",
+  "zh": "凶恶"
+ },
+ {
+  "id": 1034,
+  "en": "Diabolical",
+  "es": "Diabólico",
+  "zh": "凶恶"
+ },
+ {
+  "id": 1035,
+  "en": "Tiny Raccoon",
+  "es": "Mapachito",
+  "zh": "豆狸",
+  "note": "官方分类（PokeAPI，蛇纹熊）"
+ },
+ {
+  "id": 1036,
+  "en": "Rushing",
+  "es": "Lanzado",
+  "zh": "猛冲",
+  "note": "官方分类（PokeAPI，直冲熊）"
+ },
+ {
+  "id": 1037,
+  "en": "Scratch Cat",
+  "es": "Gato araña",
+  "zh": "妖怪猫",
+  "note": "官方分类（PokeAPI，喵喵）"
+ },
+ {
+  "id": 1038,
+  "en": "Coral",
+  "es": "Coral",
+  "zh": "珊瑚",
+  "note": "官方分类（PokeAPI，太阳珊瑚）"
+ },
+ {
+  "id": 1039,
+  "en": "Wild Duck",
+  "es": "Pato salvaje",
+  "zh": "黄嘴鸭",
+  "note": "官方分类（PokeAPI，大葱鸭）"
+ },
+ {
+  "id": 1040,
+  "en": "Dancing",
+  "es": "Danza",
+  "zh": "舞蹈"
+ },
+ {
+  "id": 1041,
+  "en": "Unique Horn",
+  "es": "Unicorne",
+  "zh": "独角"
+ },
+ {
+  "id": 1042,
+  "en": "Unique Horn",
+  "es": "Unicorne",
+  "zh": "独角"
+ },
+ {
+  "id": 1043,
+  "en": "Poison Gas",
+  "es": "Gas venenoso",
+  "zh": "毒气",
+  "note": "官方分类（PokeAPI，双弹瓦斯）"
+ },
+ {
+  "id": 1044,
+  "en": "Zen Charm",
+  "es": "Daruma",
+  "zh": "不倒翁",
+  "note": "官方分类（PokeAPI，火红不倒翁）"
+ },
+ {
+  "id": 1045,
+  "en": "Zen Charm",
+  "es": "Daruma",
+  "zh": "达摩"
+ },
+ {
+  "id": 1046,
+  "en": "Spirit",
+  "es": "Espíritu",
+  "zh": "魂",
+  "note": "官方分类（PokeAPI，哭哭面具）"
+ },
+ {
+  "id": 1047,
+  "en": "Trap",
+  "es": "Trampa",
+  "zh": "陷阱",
+  "note": "官方分类（PokeAPI，泥巴鱼）"
+ },
+ {
+  "id": 1048,
+  "en": "Penguin",
+  "es": "Pingüino",
+  "zh": "企鹅",
+  "note": "官方分类（PokeAPI，冰砌鹅）"
+ },
+ {
+  "id": 1049,
+  "en": "Cruel",
+  "es": "Calculador",
+  "zh": "冷酷"
+ },
+ {
+  "id": 1050,
+  "en": "Strong Legs",
+  "es": "Patas Recias",
+  "zh": "强腿"
+ },
+ {
+  "id": 1051,
+  "en": "Malevolent",
+  "es": "Malignidad",
+  "zh": "恶意"
+ },
+ {
+  "id": 1052,
+  "en": "Dopey",
+  "es": "Atontado",
+  "zh": "憨憨",
+  "note": "官方分类（PokeAPI，呆呆兽）"
+ },
+ {
+  "id": 1053,
+  "en": "Hermit Crab",
+  "es": "Ermitaño",
+  "zh": "寄居蟹",
+  "note": "官方分类（PokeAPI，呆壳兽）"
+ },
+ {
+  "id": 1054,
+  "en": "Hexpert",
+  "es": "Chamán",
+  "zh": "咒术师"
+ },
+ {
+  "id": 1055,
+  "en": "High King",
+  "es": "Emperador",
+  "zh": "皇帝"
+ },
+ {
+  "id": 1056,
+  "en": "High King",
+  "es": "Emperador",
+  "zh": "皇帝"
+ },
+ {
+  "id": 1057,
+  "en": "Battle Cry",
+  "es": "Grito guerra",
+  "zh": "战吼"
+ },
+ {
+  "id": 1058,
+  "en": "Scout",
+  "es": "Explorador",
+  "zh": "斥候"
+ },
+ {
+  "id": 1059,
+  "en": "Legendary",
+  "es": "Leyenda",
+  "zh": "传说",
+  "note": "官方分类（PokeAPI，风速狗）"
+ },
+ {
+  "id": 1060,
+  "en": "Spiteful Fox",
+  "es": "Zorro rencor",
+  "zh": "怨恨狐"
+ },
+ {
+  "id": 1061,
+  "en": "Baneful Fox",
+  "es": "Maldizorro",
+  "zh": "凶咒狐"
+ },
+ {
+  "id": 1062,
+  "en": "Sharp Claw",
+  "es": "Garra Filo",
+  "zh": "钩爪",
+  "note": "官方分类（PokeAPI，狃拉）"
+ },
+ {
+  "id": 1063,
+  "en": "Balloon",
+  "es": "Globo",
+  "zh": "气球",
+  "note": "官方分类（PokeAPI，千针鱼）"
+ },
+ {
+  "id": 1064,
+  "en": "Sphere",
+  "es": "Esfera",
+  "zh": "球体"
+ },
+ {
+  "id": 1065,
+  "en": "Sphere",
+  "es": "Esfera",
+  "zh": "球体"
+ },
+ {
+  "id": 1066,
+  "en": "Ghost Flame",
+  "es": "Fuego fatuo",
+  "zh": "鬼火"
+ },
+ {
+  "id": 1067,
+  "en": "Formidable",
+  "es": "Majestuoso",
+  "zh": "威严",
+  "note": "官方分类（PokeAPI，大剑鬼）"
+ },
+ {
+  "id": 1068,
+  "en": "Arrow Quill",
+  "es": "Pluma flecha",
+  "zh": "箭羽",
+  "note": "官方分类（PokeAPI，狙射树枭）"
+ },
+ {
+  "id": 1069,
+  "en": "Spinning",
+  "es": "Pirueta",
+  "zh": "回旋"
+ },
+ {
+  "id": 1070,
+  "en": "Iceberg",
+  "es": "Iceberg",
+  "zh": "冰山",
+  "note": "官方分类（PokeAPI，冰岩怪）"
+ },
+ {
+  "id": 1071,
+  "en": "Snail",
+  "es": "Caracol",
+  "zh": "蜗牛"
+ },
+ {
+  "id": 1072,
+  "en": "Shell Bunker",
+  "es": "Retracción",
+  "zh": "缩壳"
+ },
+ {
+  "id": 1073,
+  "en": "Renegade",
+  "es": "Renegado",
+  "zh": "反抗",
+  "note": "官方分类（PokeAPI，骑拉帝纳）"
+ },
+ {
+  "id": 1074,
+  "en": "Temporal",
+  "es": "Temporal",
+  "zh": "时间",
+  "note": "官方分类（PokeAPI，帝牙卢卡）"
+ },
+ {
+  "id": 1075,
+  "en": "Spatial",
+  "es": "Espacial",
+  "zh": "空间",
+  "note": "官方分类（PokeAPI，帕路奇亚）"
+ },
+ {
+  "id": 1076,
+  "en": "Butterfly",
+  "es": "Mariposa",
+  "zh": "蝴蝶",
+  "note": "官方分类（PokeAPI，巴大蝶）"
+ },
+ {
+  "id": 1077,
+  "en": "Diving",
+  "es": "Buceo",
+  "zh": "潜水",
+  "note": "官方分类（PokeAPI，洛奇亚）"
+ },
+ {
+  "id": 1078,
+  "en": "Temporal",
+  "es": "Temporal",
+  "zh": "时间",
+  "note": "官方分类（PokeAPI，帝牙卢卡）"
+ },
+ {
+  "id": 1079,
+  "en": "Cyclone",
+  "es": "Torbellino",
+  "zh": "旋风",
+  "note": "官方分类（PokeAPI，龙卷云）"
+ },
+ {
+  "id": 1080,
+  "en": "Bolt Strike",
+  "es": "Centella",
+  "zh": "雷击",
+  "note": "官方分类（PokeAPI，雷电云）"
+ },
+ {
+  "id": 1081,
+  "en": "Abundance",
+  "es": "Fertilidad",
+  "zh": "丰饶",
+  "note": "官方分类（PokeAPI，土地云）"
+ },
+ {
+  "id": 1082,
+  "en": "Love-Hate",
+  "es": "Amorodio",
+  "zh": "爱憎",
+  "note": "官方分类（PokeAPI，眷恋云）"
+ },
+ {
+  "id": 1083,
+  "en": "Zen Charm",
+  "es": "Daruma",
+  "zh": "达摩"
+ },
+ {
+  "id": 1084,
+  "en": "Zen Charm",
+  "es": "Daruma",
+  "zh": "达摩"
+ },
+ {
+  "id": 1085,
+  "en": "Mouse",
+  "es": "Ratón",
+  "zh": "鼠",
+  "note": "官方分类（PokeAPI，超级雷丘Z）"
+ },
+ {
+  "id": 1086,
+  "en": "Mouse",
+  "es": "Ratón",
+  "zh": "鼠"
+ },
+ {
+  "id": 1087,
+  "en": "Hostile",
+  "es": "Violento",
+  "zh": "粗暴",
+  "note": "官方分类（PokeAPI，野蛮鲈鱼）"
+ },
+ {
+  "id": 1088,
+  "en": "Mellow",
+  "es": "Manso",
+  "zh": "温顺"
+ },
+ {
+  "id": 1089,
+  "en": "Unique Horn",
+  "es": "Unicorne",
+  "zh": "独角"
+ },
+ {
+  "id": 1090,
+  "en": "Rage Monkey",
+  "es": "Mono Furia",
+  "zh": "愤怒猴",
+  "note": "官方分类（PokeAPI，弃世猴）"
+ },
+ {
+  "id": 1091,
+  "en": "Grass Cat",
+  "es": "Gato Planta",
+  "zh": "草猫",
+  "note": "官方分类（PokeAPI，新叶喵）"
+ },
+ {
+  "id": 1092,
+  "en": "Grass Cat",
+  "es": "Gato Planta",
+  "zh": "草猫",
+  "note": "官方分类（PokeAPI，蒂蕾喵）"
+ },
+ {
+  "id": 1093,
+  "en": "Magician",
+  "es": "Mago",
+  "zh": "魔术师",
+  "note": "官方分类（PokeAPI，魔幻假面喵）"
+ },
+ {
+  "id": 1094,
+  "en": "Fire Croc",
+  "es": "Fuegodrilo",
+  "zh": "火鳄",
+  "note": "官方分类（PokeAPI，呆火鳄）"
+ },
+ {
+  "id": 1095,
+  "en": "Fire Croc",
+  "es": "Fuegodrilo",
+  "zh": "火鳄",
+  "note": "官方分类（PokeAPI，炙烫鳄）"
+ },
+ {
+  "id": 1096,
+  "en": "Singer",
+  "es": "Cantante",
+  "zh": "歌手",
+  "note": "官方分类（PokeAPI，骨纹巨声鳄）"
+ },
+ {
+  "id": 1097,
+  "en": "Duckling",
+  "es": "Patito",
+  "zh": "小鸭",
+  "note": "官方分类（PokeAPI，润水鸭）"
+ },
+ {
+  "id": 1098,
+  "en": "Practicing",
+  "es": "Disciplinado",
+  "zh": "习艺",
+  "note": "官方分类（PokeAPI，涌跃鸭）"
+ },
+ {
+  "id": 1099,
+  "en": "Dancer",
+  "es": "Bailarín",
+  "zh": "舞者",
+  "note": "官方分类（PokeAPI，狂欢浪舞鸭）"
+ },
+ {
+  "id": 1100,
+  "en": "Poison Fish",
+  "es": "Pez Veneno",
+  "zh": "毒鱼"
+ },
+ {
+  "id": 1101,
+  "en": "Spiny Fish",
+  "es": "Pez Púas",
+  "zh": "刺鱼",
+  "note": "官方分类（PokeAPI，土王）"
+ },
+ {
+  "id": 1102,
+  "en": "Wild Bull",
+  "es": "Toro Bravo",
+  "zh": "暴牛",
+  "note": "官方分类（PokeAPI，肯泰罗）"
+ },
+ {
+  "id": 1103,
+  "en": "Wild Bull",
+  "es": "Toro Bravo",
+  "zh": "暴牛",
+  "note": "官方分类（PokeAPI，肯泰罗）"
+ },
+ {
+  "id": 1104,
+  "en": "Wild Bull",
+  "es": "Toro Bravo",
+  "zh": "暴牛",
+  "note": "官方分类（PokeAPI，肯泰罗）"
+ },
+ {
+  "id": 1105,
+  "en": "Hog",
+  "es": "Gorrino",
+  "zh": "猪",
+  "note": "官方分类（PokeAPI，爱吃豚）"
+ },
+ {
+  "id": 1106,
+  "en": "Hog",
+  "es": "Gorrino",
+  "zh": "猪",
+  "note": "官方分类（PokeAPI，飘香豚）"
+ },
+ {
+  "id": 1107,
+  "en": "String Ball",
+  "es": "Ovillo",
+  "zh": "线球",
+  "note": "官方分类（PokeAPI，团珠蛛）"
+ },
+ {
+  "id": 1108,
+  "en": "Trap",
+  "es": "Trampa",
+  "zh": "陷阱",
+  "note": "官方分类（PokeAPI，操陷蛛）"
+ },
+ {
+  "id": 1109,
+  "en": "Grasshopper",
+  "es": "Saltamontes",
+  "zh": "蝗虫",
+  "note": "官方分类（PokeAPI，豆蟋蟀）"
+ },
+ {
+  "id": 1110,
+  "en": "Grasshopper",
+  "es": "Saltamontes",
+  "zh": "蝗虫",
+  "note": "官方分类（PokeAPI，烈腿蝗）"
+ },
+ {
+  "id": 1111,
+  "en": "Mouse",
+  "es": "Ratón",
+  "zh": "鼠",
+  "note": "官方分类（PokeAPI，布拨）"
+ },
+ {
+  "id": 1112,
+  "en": "Mouse",
+  "es": "Ratón",
+  "zh": "鼠",
+  "note": "官方分类（PokeAPI，布土拨）"
+ },
+ {
+  "id": 1113,
+  "en": "Hands-On",
+  "es": "Palmada",
+  "zh": "押掌",
+  "note": "官方分类（PokeAPI，巴布土拨）"
+ },
+ {
+  "id": 1114,
+  "en": "Long Neck",
+  "es": "Gran Cuello",
+  "zh": "长颈",
+  "note": "官方分类（PokeAPI，奇麒麟）"
+ },
+ {
+  "id": 1115,
+  "en": "Hog",
+  "es": "Gorrina",
+  "zh": "猪",
+  "note": "官方分类（PokeAPI，飘香豚）"
+ },
+ {
+  "id": 1116,
+  "en": "Couple",
+  "es": "Pareja",
+  "zh": "成对",
+  "note": "官方分类（PokeAPI，一对鼠）"
+ },
+ {
+  "id": 1117,
+  "en": "Family",
+  "es": "Familia",
+  "zh": "家族",
+  "note": "官方分类（PokeAPI，一家鼠）"
+ },
+ {
+  "id": 1118,
+  "en": "Puppy",
+  "es": "Perrito",
+  "zh": "小狗",
+  "note": "官方分类（PokeAPI，狗仔包）"
+ },
+ {
+  "id": 1119,
+  "en": "Dog",
+  "es": "Perro",
+  "zh": "狗",
+  "note": "官方分类（PokeAPI，麻花犬）"
+ },
+ {
+  "id": 1120,
+  "en": "Olive",
+  "es": "Aceituna",
+  "zh": "橄榄",
+  "note": "官方分类（PokeAPI，迷你芙）"
+ },
+ {
+  "id": 1121,
+  "en": "Olive",
+  "es": "Aceituna",
+  "zh": "橄榄",
+  "note": "官方分类（PokeAPI，奥利纽）"
+ },
+ {
+  "id": 1122,
+  "en": "Olive",
+  "es": "Aceituna",
+  "zh": "橄榄",
+  "note": "官方分类（PokeAPI，奥利瓦）"
+ },
+ {
+  "id": 1123,
+  "en": "Parrot",
+  "es": "Loro",
+  "zh": "鹦鹉",
+  "note": "官方分类（PokeAPI，怒鹦哥）"
+ },
+ {
+  "id": 1124,
+  "en": "Rock Salt",
+  "es": "Halita",
+  "zh": "岩盐",
+  "note": "官方分类（PokeAPI，盐石宝）"
+ },
+ {
+  "id": 1125,
+  "en": "Rock Salt",
+  "es": "Halita",
+  "zh": "岩盐",
+  "note": "官方分类（PokeAPI，盐石垒）"
+ },
+ {
+  "id": 1126,
+  "en": "Rock Salt",
+  "es": "Halita",
+  "zh": "岩盐",
+  "note": "官方分类（PokeAPI，盐石巨灵）"
+ },
+ {
+  "id": 1127,
+  "en": "Fire Child",
+  "es": "Piroescudero",
+  "zh": "小火星",
+  "note": "官方分类（PokeAPI，炭小侍）"
+ },
+ {
+  "id": 1128,
+  "en": "Fire Warrior",
+  "es": "Piroguerrero",
+  "zh": "火战士",
+  "note": "官方分类（PokeAPI，红莲铠骑）"
+ },
+ {
+  "id": 1129,
+  "en": "Fire Blades",
+  "es": "Piroespada",
+  "zh": "火剑士",
+  "note": "官方分类（PokeAPI，苍炎刃鬼）"
+ },
+ {
+  "id": 1130,
+  "en": "Land Snake",
+  "es": "Serpiente tierra",
+  "zh": "地蛇",
+  "note": "官方分类（PokeAPI，土龙节节）"
+ },
+ {
+  "id": 1131,
+  "en": "Family",
+  "es": "Familia",
+  "zh": "家族",
+  "note": "官方分类（PokeAPI，一家鼠）"
+ },
+ {
+  "id": 1132,
+  "en": "Land Snake",
+  "es": "Serpiente tierra",
+  "zh": "地蛇",
+  "note": "官方分类（PokeAPI，土龙节节）"
+ },
+ {
+  "id": 1133,
+  "en": "Parrot",
+  "es": "Loro",
+  "zh": "鹦鹉",
+  "note": "官方分类（PokeAPI，怒鹦哥）"
+ },
+ {
+  "id": 1134,
+  "en": "Parrot",
+  "es": "Loro",
+  "zh": "鹦鹉",
+  "note": "官方分类（PokeAPI，怒鹦哥）"
+ },
+ {
+  "id": 1135,
+  "en": "Parrot",
+  "es": "Loro",
+  "zh": "鹦鹉",
+  "note": "官方分类（PokeAPI，怒鹦哥）"
+ },
+ {
+  "id": 1136,
+  "en": "Metalsmith",
+  "es": "Forja",
+  "zh": "锤炼",
+  "note": "官方分类（PokeAPI，小锻匠）"
+ },
+ {
+  "id": 1137,
+  "en": "Hammer",
+  "es": "Martillo",
+  "zh": "锤子",
+  "note": "官方分类（PokeAPI，巧锻匠）"
+ },
+ {
+  "id": 1138,
+  "en": "Hammer",
+  "es": "Martillo",
+  "zh": "锤子",
+  "note": "官方分类（PokeAPI，巨锻匠）"
+ },
+ {
+  "id": 1139,
+  "en": "EleTadpole",
+  "es": "Electrocuajo",
+  "zh": "电蝌蚪",
+  "note": "官方分类（PokeAPI，光蚪仔）"
+ },
+ {
+  "id": 1140,
+  "en": "EleFrog",
+  "es": "Electrorrana",
+  "zh": "电蛙",
+  "note": "官方分类（PokeAPI，电肚蛙）"
+ },
+ {
+  "id": 1141,
+  "en": "Storm Petrel",
+  "es": "Paíño",
+  "zh": "海燕",
+  "note": "官方分类（PokeAPI，电海燕）"
+ },
+ {
+  "id": 1142,
+  "en": "Frigatebird",
+  "es": "Fregata",
+  "zh": "军舰鸟",
+  "note": "官方分类（PokeAPI，大电海燕）"
+ },
+ {
+  "id": 1143,
+  "en": "Rascal",
+  "es": "Bisoño",
+  "zh": "小辈",
+  "note": "官方分类（PokeAPI，偶叫獒）"
+ },
+ {
+  "id": 1144,
+  "en": "Boss",
+  "es": "Jefazo",
+  "zh": "大佬",
+  "note": "官方分类（PokeAPI，獒教父）"
+ },
+ {
+  "id": 1145,
+  "en": "Toxic Mouse",
+  "es": "Ratón Veneno",
+  "zh": "毒鼠",
+  "note": "官方分类（PokeAPI，滋汁鼹）"
+ },
+ {
+  "id": 1146,
+  "en": "Toxic Monkey",
+  "es": "Mono Veneno",
+  "zh": "毒猴",
+  "note": "官方分类（PokeAPI，涂标客）"
+ },
+ {
+  "id": 1147,
+  "en": "Tumbleweed",
+  "es": "Estepicursor",
+  "zh": "滚草",
+  "note": "官方分类（PokeAPI，纳噬草）"
+ },
+ {
+  "id": 1148,
+  "en": "Tumbleweed",
+  "es": "Estepicursor",
+  "zh": "滚草",
+  "note": "官方分类（PokeAPI，怖纳噬草）"
+ },
+ {
+  "id": 1149,
+  "en": "Woodear",
+  "es": "Auricularia",
+  "zh": "木耳",
+  "note": "官方分类（PokeAPI，原野水母）"
+ },
+ {
+  "id": 1150,
+  "en": "Woodear",
+  "es": "Auricularia",
+  "zh": "木耳",
+  "note": "官方分类（PokeAPI，陆地水母）"
+ },
+ {
+  "id": 1151,
+  "en": "Ambush",
+  "es": "Emboscada",
+  "zh": "埋伏",
+  "note": "官方分类（PokeAPI，毛崖蟹）"
+ },
+ {
+  "id": 1152,
+  "en": "Spicy Pepper",
+  "es": "Habanero",
+  "zh": "热辣",
+  "note": "官方分类（PokeAPI，热辣娃）"
+ },
+ {
+  "id": 1153,
+  "en": "Spicy Pepper",
+  "es": "Habanero",
+  "zh": "热辣",
+  "note": "官方分类（PokeAPI，狠辣椒）"
+ },
+ {
+  "id": 1154,
+  "en": "Rolling",
+  "es": "Pelotero",
+  "zh": "滚动",
+  "note": "官方分类（PokeAPI，虫滚泥）"
+ },
+ {
+  "id": 1155,
+  "en": "Rolling",
+  "es": "Pelotero",
+  "zh": "滚动",
+  "note": "官方分类（PokeAPI，虫甲圣）"
+ },
+ {
+  "id": 1156,
+  "en": "Frill",
+  "es": "Volantes",
+  "zh": "褶边",
+  "note": "官方分类（PokeAPI，飘飘雏）"
+ },
+ {
+  "id": 1157,
+  "en": "Ostrich",
+  "es": "Avestruz",
+  "zh": "鸵鸟",
+  "note": "官方分类（PokeAPI，超能艳鸵）"
+ },
+ {
+  "id": 1158,
+  "en": "Garden Eel",
+  "es": "Cóngrido",
+  "zh": "糯鳗",
+  "note": "官方分类（PokeAPI，海地鼠）"
+ },
+ {
+  "id": 1159,
+  "en": "Garden Eel",
+  "es": "Cóngrido",
+  "zh": "糯鳗",
+  "note": "官方分类（PokeAPI，三海地鼠）"
+ },
+ {
+  "id": 1160,
+  "en": "Big Blade",
+  "es": "Gran Espada",
+  "zh": "大刀",
+  "note": "官方分类（PokeAPI，仆刀将军）"
+ },
+ {
+  "id": 1161,
+  "en": "Earthworm",
+  "es": "Lombriz",
+  "zh": "蚯蚓",
+  "note": "官方分类（PokeAPI，拖拖蚓）"
+ },
+ {
+  "id": 1162,
+  "en": "Ore",
+  "es": "Mineral",
+  "zh": "矿石",
+  "note": "官方分类（PokeAPI，晶光芽）"
+ },
+ {
+  "id": 1163,
+  "en": "Ore",
+  "es": "Mineral",
+  "zh": "矿石",
+  "note": "官方分类（PokeAPI，晶光花）"
+ },
+ {
+  "id": 1164,
+  "en": "Synchronize",
+  "es": "Sincronizado",
+  "zh": "同步",
+  "note": "官方分类（PokeAPI，缠红鹤）"
+ },
+ {
+  "id": 1165,
+  "en": "Terra Whale",
+  "es": "Geoballena",
+  "zh": "陆鲸",
+  "note": "官方分类（PokeAPI，走鲸）"
+ },
+ {
+  "id": 1166,
+  "en": "Terra Whale",
+  "es": "Geoballena",
+  "zh": "陆鲸",
+  "note": "官方分类（PokeAPI，浩大鲸）"
+ },
+ {
+  "id": 1167,
+  "en": "Jettison",
+  "es": "Sueltalastre",
+  "zh": "卸除",
+  "note": "官方分类（PokeAPI，轻身鳕）"
+ },
+ {
+  "id": 1168,
+  "en": "Big Catfish",
+  "es": "Gran Siluro",
+  "zh": "大鲶",
+  "note": "官方分类（PokeAPI，吃吼霸）"
+ },
+ {
+  "id": 1169,
+  "en": "Mimicry",
+  "es": "Mimetismo",
+  "zh": "拟态",
+  "note": "官方分类（PokeAPI，米立龙）"
+ },
+ {
+  "id": 1170,
+  "en": "Mimicry",
+  "es": "Mimetismo",
+  "zh": "拟态",
+  "note": "官方分类（PokeAPI，米立龙）"
+ },
+ {
+  "id": 1171,
+  "en": "Mimicry",
+  "es": "Mimetismo",
+  "zh": "拟态",
+  "note": "官方分类（PokeAPI，米立龙）"
+ },
+ {
+  "id": 1172,
+  "en": "Ghost Dog",
+  "es": "Can Fantasma",
+  "zh": "鬼犬",
+  "note": "官方分类（PokeAPI，墓仔狗）"
+ },
+ {
+  "id": 1173,
+  "en": "Ghost Dog",
+  "es": "Can Fantasma",
+  "zh": "鬼犬",
+  "note": "官方分类（PokeAPI，墓扬犬）"
+ },
+ {
+  "id": 1174,
+  "en": "Item Drop",
+  "es": "Arrojador",
+  "zh": "掉东西",
+  "note": "官方分类（PokeAPI，下石鸟）"
+ },
+ {
+  "id": 1175,
+  "en": "Dolphin",
+  "es": "Delfín",
+  "zh": "海豚",
+  "note": "官方分类（PokeAPI，波普海豚）"
+ },
+ {
+  "id": 1176,
+  "en": "Dolphin",
+  "es": "Delfín",
+  "zh": "海豚",
+  "note": "官方分类（PokeAPI，海豚侠）"
+ },
+ {
+  "id": 1177,
+  "en": "Single-Cyl",
+  "es": "Monocilindro",
+  "zh": "单汽缸",
+  "note": "官方分类（PokeAPI，噗隆隆）"
+ },
+ {
+  "id": 1178,
+  "en": "Multi-Cyl",
+  "es": "Policilindro",
+  "zh": "多汽缸",
+  "note": "官方分类（PokeAPI，普隆隆姆）"
+ },
+ {
+  "id": 1179,
+  "en": "Mount",
+  "es": "Montura",
+  "zh": "坐骑",
+  "note": "官方分类（PokeAPI，摩托蜥）"
+ },
+ {
+  "id": 1180,
+  "en": "Ice Fin",
+  "es": "Aleta Hielo",
+  "zh": "冰鳍",
+  "note": "官方分类（PokeAPI，凉脊龙）"
+ },
+ {
+  "id": 1181,
+  "en": "Ice Fin",
+  "es": "Aleta Hielo",
+  "zh": "冰鳍",
+  "note": "官方分类（PokeAPI，冻脊龙）"
+ },
+ {
+  "id": 1182,
+  "en": "Ice Dragon",
+  "es": "Dragón Hielo",
+  "zh": "冰龙",
+  "note": "官方分类（PokeAPI，戟脊龙）"
+ },
+ {
+  "id": 1183,
+  "en": "Dolphin",
+  "es": "Delfín",
+  "zh": "海豚",
+  "note": "官方分类（PokeAPI，海豚侠）"
+ },
+ {
+  "id": 1184,
+  "en": "Coin Chest",
+  "es": "Cofre",
+  "zh": "宝箱",
+  "note": "官方分类（PokeAPI，索财灵）"
+ },
+ {
+  "id": 1185,
+  "en": "Coin Entity",
+  "es": "Tesoro",
+  "zh": "宝者",
+  "note": "官方分类（PokeAPI，赛富豪）"
+ },
+ {
+  "id": 1186,
+  "en": "Coin Hunter",
+  "es": "Cazatesoros",
+  "zh": "寻宝"
+ },
+ {
+  "id": 1187,
+  "en": "Alloy",
+  "es": "Aleación",
+  "zh": "合金"
+ },
+ {
+  "id": 1188,
+  "en": "Candy Apple",
+  "es": "Manzamelo",
+  "zh": "糖苹果"
+ },
+ {
+  "id": 1189,
+  "en": "Apple Hydra",
+  "es": "Manzanhidra",
+  "zh": "苹果九头蛇"
+ },
+ {
+  "id": 1190,
+  "en": "Matcha",
+  "es": "Matcha",
+  "zh": "抹茶"
+ },
+ {
+  "id": 1191,
+  "en": "Matcha",
+  "es": "Matcha",
+  "zh": "抹茶"
+ },
+ {
+  "id": 1192,
+  "en": "Peat",
+  "es": "Turba",
+  "zh": "泥炭",
+  "note": "官方分类（PokeAPI，月月熊）"
+ },
+ {
+  "id": 1193,
+  "en": "Genuine",
+  "es": "Genuino",
+  "zh": "正宗"
+ },
+ {
+  "id": 1194,
+  "en": "Ice Snake",
+  "es": "Serpiente Hielo",
+  "zh": "冰蛇"
+ },
+ {
+  "id": 1195,
+  "en": "Swords",
+  "es": "Espadas",
+  "zh": "刀剑"
+ },
+ {
+  "id": 1196,
+  "en": "Ice Snake",
+  "es": "Serpiente Hielo",
+  "zh": "冰蛇"
+ },
+ {
+  "id": 1197,
+  "en": "Mysterious",
+  "es": "Misterioso",
+  "zh": "谜",
+  "note": "官方分类（PokeAPI，超级宝石海星）"
+ },
+ {
+  "id": 1198,
+  "en": "Fairy",
+  "es": "Hada",
+  "zh": "妖精",
+  "note": "官方分类（PokeAPI，超级皮可西）"
+ },
+ {
+  "id": 1199,
+  "en": "Flycatcher",
+  "es": "Matamoscas",
+  "zh": "捕蝇",
+  "note": "官方分类（PokeAPI，超级大食花）"
+ },
+ {
+  "id": 1200,
+  "en": "Dragon",
+  "es": "Dragón",
+  "zh": "龙",
+  "note": "官方分类（PokeAPI，超级快龙）"
+ },
+ {
+  "id": 1201,
+  "en": "Armor Bird",
+  "es": "Coraza Ave",
+  "zh": "钢甲鸟",
+  "note": "官方分类（PokeAPI，超级盔甲鸟）"
+ },
+ {
+  "id": 1202,
+  "en": "Wind Chime",
+  "es": "Sonido Aire",
+  "zh": "风铃"
+ },
+ {
+  "id": 1203,
+  "en": "Luring",
+  "es": "Señuelo",
+  "zh": "引诱",
+  "note": "官方分类（PokeAPI，超级水晶灯火灵）"
+ },
+ {
+  "id": 1204,
+  "en": "Hoodlum",
+  "es": "Gamberro",
+  "zh": "恶党",
+  "note": "官方分类（PokeAPI，超级头巾混混）"
+ },
+ {
+  "id": 1205,
+  "en": "Royal",
+  "es": "Regio",
+  "zh": "王者",
+  "note": "官方分类（PokeAPI，超级火炎狮）"
+ },
+ {
+  "id": 1206,
+  "en": "Overturning",
+  "es": "Revolución",
+  "zh": "倒转",
+  "note": "官方分类（PokeAPI，超级乌贼王）"
+ },
+ {
+  "id": 1207,
+  "en": "Wrestling",
+  "es": "Lucha Libre",
+  "zh": "摔角",
+  "note": "官方分类（PokeAPI，超级摔角鹰人）"
+ },
+ {
+  "id": 1208,
+  "en": "Thunderclap",
+  "es": "Fulgor",
+  "zh": "奔雷",
+  "note": "官方分类（PokeAPI，超级捷拉奥拉）"
+ },
+ {
+  "id": 1209,
+  "en": "Herb",
+  "es": "Hierba",
+  "zh": "芳草",
+  "note": "官方分类（PokeAPI，超级大竺葵）"
+ },
+ {
+  "id": 1210,
+  "en": "Big Jaw",
+  "es": "Dos Fauces",
+  "zh": "大颚",
+  "note": "官方分类（PokeAPI，超级大力鳄）"
+ },
+ {
+  "id": 1211,
+  "en": "Snow Land",
+  "es": "Tierra Fría",
+  "zh": "雪国",
+  "note": "官方分类（PokeAPI，超级雪妖女）"
+ },
+ {
+  "id": 1212,
+  "en": "Mega Fire Pig",
+  "es": "Cerdo Ígneo",
+  "zh": "大火猪",
+  "note": "官方分类（PokeAPI，超级炎武王）"
+ },
+ {
+  "id": 1213,
+  "en": "Spiny Armor",
+  "es": "Corazaespín",
+  "zh": "刺铠",
+  "note": "官方分类（PokeAPI，超级布里卡隆）"
+ },
+ {
+  "id": 1214,
+  "en": "Fox",
+  "es": "Zorro",
+  "zh": "狐狸",
+  "note": "官方分类（PokeAPI，超级妖火红狐）"
+ },
+ {
+  "id": 1215,
+  "en": "Ninja",
+  "es": "Ninja",
+  "zh": "忍者",
+  "note": "官方分类（PokeAPI，超级甲贺忍蛙）"
+ },
+ {
+  "id": 1216,
+  "en": "Formation",
+  "es": "Formación",
+  "zh": "阵形",
+  "note": "官方分类（PokeAPI，超级列阵兵）"
+ },
+ {
+  "id": 1217,
+  "en": "Lava Dome",
+  "es": "Domo Lava",
+  "zh": "火山口",
+  "note": "官方分类（PokeAPI，超级席多蓝恩）"
+ },
+ {
+  "id": 1218,
+  "en": "Automaton",
+  "es": "Autómata",
+  "zh": "魔像",
+  "note": "官方分类（PokeAPI，超级泥偶巨人）"
+ },
+ {
+  "id": 1219,
+  "en": "Megapede",
+  "es": "Megaciempiés",
+  "zh": "巨蜈蚣",
+  "note": "官方分类（PokeAPI，超级蜈蚣王）"
+ },
+ {
+  "id": 1220,
+  "en": "EleFish",
+  "es": "Electropez",
+  "zh": "电鱼",
+  "note": "官方分类（PokeAPI，超级麻麻鳗鱼王）"
+ },
+ {
+  "id": 1221,
+  "en": "Constraint",
+  "es": "Autocontrol",
+  "zh": "抑制",
+  "note": "官方分类（PokeAPI，超级超能妙喵）"
+ },
+ {
+  "id": 1222,
+  "en": "Collective",
+  "es": "Combinación",
+  "zh": "集合",
+  "note": "官方分类（PokeAPI，超级龟足巨铠）"
+ },
+ {
+  "id": 1223,
+  "en": "Mock Kelp",
+  "es": "Pseudoalga",
+  "zh": "似草",
+  "note": "官方分类（PokeAPI，超级毒藻龙）"
+ },
+ {
+  "id": 1224,
+  "en": "Single Bloom",
+  "es": "Monoflor",
+  "zh": "单朵",
+  "note": "官方分类（PokeAPI，超级花叶蒂）"
+ },
+ {
+  "id": 1225,
+  "en": "Woolly Crab",
+  "es": "Cangrejo lanudo",
+  "zh": "毛蟹",
+  "note": "官方分类（PokeAPI，超级好胜毛蟹）"
+ },
+ {
+  "id": 1226,
+  "en": "Solemn",
+  "es": "Solemne",
+  "zh": "庄严"
+ },
+ {
+  "id": 1227,
+  "en": "Order",
+  "es": "Equilibrio",
+  "zh": "秩序",
+  "note": "官方分类（PokeAPI，超级基格尔德）"
+ },
+ {
+  "id": 1228,
+  "en": "Spicy Pepper",
+  "es": "Habanero",
+  "zh": "热辣",
+  "note": "官方分类（PokeAPI，超级狠辣椒）"
+ },
+ {
+  "id": 1229,
+  "en": "Ore",
+  "es": "Mineral",
+  "zh": "矿石",
+  "note": "官方分类（PokeAPI，超级晶光花）"
+ },
+ {
+  "id": 1230,
+  "en": "Ice Dragon",
+  "es": "Dragón Hielo",
+  "zh": "冰龙",
+  "note": "官方分类（PokeAPI，超级戟脊龙）"
+ },
+ {
+  "id": 1231,
+  "en": "Mouse",
+  "es": "Ratón",
+  "zh": "鼠",
+  "note": "官方分类（PokeAPI，超级雷丘X）"
+ },
+ {
+  "id": 1232,
+  "en": "Mouse",
+  "es": "Ratón",
+  "zh": "鼠",
+  "note": "官方分类（PokeAPI，超级雷丘Y）"
+ },
+ {
+  "id": 1233,
+  "en": "Disaster",
+  "es": "Catástrofe",
+  "zh": "灾祸",
+  "note": "官方分类（PokeAPI，超级阿勃梭鲁Z）"
+ },
+ {
+  "id": 1234,
+  "en": "Mach",
+  "es": "Mach",
+  "zh": "音速",
+  "note": "官方分类（PokeAPI，超级烈咬陆鲨Z）"
+ },
+ {
+  "id": 1235,
+  "en": "Aura",
+  "es": "Aura",
+  "zh": "波导",
+  "note": "官方分类（PokeAPI，超级路卡利欧Z）"
+ },
+ {
+  "id": 1236,
+  "en": "Subterrene",
+  "es": "Subterráneo",
+  "zh": "地底",
+  "note": "官方分类（PokeAPI，超级龙头地鼠）"
+ },
+ {
+  "id": 1237,
+  "en": "Predator",
+  "es": "Depredador",
+  "zh": "猛禽",
+  "note": "官方分类（PokeAPI，超级姆克鹰）"
+ },
+ {
+  "id": 1238,
+  "en": "Pitch-Black",
+  "es": "Oscuridad",
+  "zh": "暗黑",
+  "note": "官方分类（PokeAPI，超级达克莱伊）"
+ }
+]

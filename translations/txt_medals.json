@@ -1,0 +1,716 @@
+[
+ {
+  "id": 1,
+  "en": "??? Badge",
+  "es": "Medalla ???",
+  "zh": "???徽章"
+ },
+ {
+  "id": 2,
+  "en": "Rock Badge",
+  "es": "Medalla Pedrusco",
+  "zh": "岩石徽章"
+ },
+ {
+  "id": 3,
+  "en": "Downpour Badge",
+  "es": "Medalla Aguacero",
+  "zh": "骤雨徽章"
+ },
+ {
+  "id": 4,
+  "en": "Mystery Badge",
+  "es": "Medalla Misterio",
+  "zh": "神秘徽章"
+ },
+ {
+  "id": 5,
+  "en": "Iceberg Badge",
+  "es": "Medalla Iceberg",
+  "zh": "冰山徽章"
+ },
+ {
+  "id": 6,
+  "en": "Sequoia Badge",
+  "es": "Medalla Secuoya",
+  "zh": "红杉徽章"
+ },
+ {
+  "id": 7,
+  "en": "Flame Badge",
+  "es": "Medalla Llama",
+  "zh": "火焰徽章"
+ },
+ {
+  "id": 8,
+  "en": "Fable Badge",
+  "es": "Medalla Fábula",
+  "zh": "寓言徽章"
+ },
+ {
+  "id": 9,
+  "en": "Psychic Badge",
+  "es": "Medalla Psíquica",
+  "zh": "超能力徽章"
+ },
+ {
+  "id": 10,
+  "en": "Boulder Badge",
+  "es": "Medalla Roca",
+  "zh": "灰色徽章"
+ },
+ {
+  "id": 11,
+  "en": "Cascade Badge",
+  "es": "Medalla Cascada",
+  "zh": "蓝色徽章"
+ },
+ {
+  "id": 12,
+  "en": "Thunder Badge",
+  "es": "Medalla Trueno",
+  "zh": "橙色徽章"
+ },
+ {
+  "id": 13,
+  "en": "Rainbow Badge",
+  "es": "Medalla Arcoíris",
+  "zh": "彩虹徽章"
+ },
+ {
+  "id": 14,
+  "en": "Soul Badge",
+  "es": "Medalla Alma",
+  "zh": "粉红徽章"
+ },
+ {
+  "id": 15,
+  "en": "Marsh Badge",
+  "es": "Medalla Pantano",
+  "zh": "金色徽章"
+ },
+ {
+  "id": 16,
+  "en": "Volcano Badge",
+  "es": "Medalla Volcán",
+  "zh": "深红徽章"
+ },
+ {
+  "id": 17,
+  "en": "Earth Badge",
+  "es": "Medalla Tierra",
+  "zh": "绿色徽章"
+ },
+ {
+  "id": 18,
+  "en": "Zephyr Badge",
+  "es": "Medalla Céfiro",
+  "zh": "飞翼徽章"
+ },
+ {
+  "id": 19,
+  "en": "Hive Badge",
+  "es": "Medalla Colmena",
+  "zh": "虫之徽章"
+ },
+ {
+  "id": 20,
+  "en": "Plain Badge",
+  "es": "Medalla Planicie",
+  "zh": "一般徽章"
+ },
+ {
+  "id": 21,
+  "en": "Fog Badge",
+  "es": "Medalla Niebla",
+  "zh": "幽灵徽章"
+ },
+ {
+  "id": 22,
+  "en": "Storm Badge",
+  "es": "Medalla Tormenta",
+  "zh": "风暴徽章"
+ },
+ {
+  "id": 23,
+  "en": "Mineral Badge",
+  "es": "Medalla Mineral",
+  "zh": "钢铁徽章"
+ },
+ {
+  "id": 24,
+  "en": "Glacier Badge",
+  "es": "Medalla Glacial",
+  "zh": "冰柱徽章"
+ },
+ {
+  "id": 25,
+  "en": "Rising Badge",
+  "es": "Medalla Dragón",
+  "zh": "龙之徽章"
+ },
+ {
+  "id": 26,
+  "en": "Stone Badge",
+  "es": "Medalla Piedra",
+  "zh": "石头徽章"
+ },
+ {
+  "id": 27,
+  "en": "Knuckle Badge",
+  "es": "Medalla Puño",
+  "zh": "拳头徽章"
+ },
+ {
+  "id": 28,
+  "en": "Dynamo Badge",
+  "es": "Medalla Dinamo",
+  "zh": "发电徽章"
+ },
+ {
+  "id": 29,
+  "en": "Heat Badge",
+  "es": "Medalla Calor",
+  "zh": "热力徽章"
+ },
+ {
+  "id": 30,
+  "en": "Balance Badge",
+  "es": "Medalla Equilibrio",
+  "zh": "平衡徽章"
+ },
+ {
+  "id": 31,
+  "en": "Feather Badge",
+  "es": "Medalla Pluma",
+  "zh": "羽毛徽章"
+ },
+ {
+  "id": 32,
+  "en": "Mind Badge",
+  "es": "Medalla Mente",
+  "zh": "心灵徽章"
+ },
+ {
+  "id": 33,
+  "en": "Rain Badge",
+  "es": "Medalla Lluvia",
+  "zh": "雨滴徽章"
+ },
+ {
+  "id": 34,
+  "en": "Coal Badge",
+  "es": "Medalla Lignito",
+  "zh": "煤炭徽章"
+ },
+ {
+  "id": 35,
+  "en": "Forest Badge",
+  "es": "Medalla Bosque",
+  "zh": "森林徽章"
+ },
+ {
+  "id": 36,
+  "en": "Cobble Badge",
+  "es": "Medalla Adoquín",
+  "zh": "圆石徽章"
+ },
+ {
+  "id": 37,
+  "en": "Fen Badge",
+  "es": "Medalla Ciénaga",
+  "zh": "沼泽徽章"
+ },
+ {
+  "id": 38,
+  "en": "Relic Badge",
+  "es": "Medalla Reliquia",
+  "zh": "遗迹徽章"
+ },
+ {
+  "id": 39,
+  "en": "Mine Badge",
+  "es": "Medalla Mina",
+  "zh": "矿山徽章"
+ },
+ {
+  "id": 40,
+  "en": "Icicle Badge",
+  "es": "Medalla Carámbano",
+  "zh": "冰碴徽章"
+ },
+ {
+  "id": 41,
+  "en": "Beacon Badge",
+  "es": "Medalla Faro",
+  "zh": "灯塔徽章"
+ },
+ {
+  "id": 42,
+  "en": "Trio Badge",
+  "es": "Medalla Trío",
+  "zh": "三重徽章"
+ },
+ {
+  "id": 43,
+  "en": "Basic Badge",
+  "es": "Medalla Base",
+  "zh": "基本徽章"
+ },
+ {
+  "id": 44,
+  "en": "Insect Badge",
+  "es": "Medalla Élitro",
+  "zh": "昆虫徽章"
+ },
+ {
+  "id": 45,
+  "en": "Bolt Badge",
+  "es": "Medalla Voltio",
+  "zh": "螺旋徽章"
+ },
+ {
+  "id": 46,
+  "en": "Quake Badge",
+  "es": "Medalla Temblor",
+  "zh": "地震徽章"
+ },
+ {
+  "id": 47,
+  "en": "Jet Badge",
+  "es": "Medalla Jet",
+  "zh": "喷射徽章"
+ },
+ {
+  "id": 48,
+  "en": "Freeze Badge",
+  "es": "Medalla Candelizo",
+  "zh": "冻结徽章"
+ },
+ {
+  "id": 49,
+  "en": "Legend Badge",
+  "es": "Medalla Leyenda",
+  "zh": "传奇徽章"
+ },
+ {
+  "id": 50,
+  "en": "??? Symbol",
+  "es": "Símbolo ???",
+  "zh": "???纹章"
+ },
+ {
+  "id": 51,
+  "en": "Confidence Symbol",
+  "es": "Símbolo de la Confianza",
+  "zh": "信心纹章"
+ },
+ {
+  "id": 52,
+  "en": "Loyalty Symbol",
+  "es": "Símbolo de la Fidelidad",
+  "zh": "忠诚纹章"
+ },
+ {
+  "id": 53,
+  "en": "Intelligence Symbol",
+  "es": "Símbolo de la Inteligencia",
+  "zh": "智慧纹章"
+ },
+ {
+  "id": 54,
+  "en": "Resistance Symbol",
+  "es": "Símbolo de la Resistencia",
+  "zh": "抵抗纹章"
+ },
+ {
+  "id": 55,
+  "en": "Serenity Symbol",
+  "es": "Símbolo de la Serenidad",
+  "zh": "平静纹章"
+ },
+ {
+  "id": 56,
+  "en": "Patience Symbol",
+  "es": "Símbolo de la Paciencia",
+  "zh": "耐心纹章"
+ },
+ {
+  "id": 57,
+  "en": "Strength Symbol",
+  "es": "Símbolo de la Fuerza",
+  "zh": "力量纹章"
+ },
+ {
+  "id": 58,
+  "en": "Silvered Special Symbol",
+  "es": "Símbolo Especial de Plata",
+  "zh": "银色特别纹章"
+ },
+ {
+  "id": 59,
+  "en": "Friendship Symbol",
+  "es": "Símbolo de la Amistad",
+  "zh": "友情纹章"
+ },
+ {
+  "id": 60,
+  "en": "Ambition Symbol",
+  "es": "Símbolo de la Ambición",
+  "zh": "野心纹章"
+ },
+ {
+  "id": 61,
+  "en": "Wisdom Symbol",
+  "es": "Símbolo de la Sabiduría",
+  "zh": "睿智纹章"
+ },
+ {
+  "id": 62,
+  "en": "Bravery Symbol",
+  "es": "Símbolo de la Valentía",
+  "zh": "勇气纹章"
+ },
+ {
+  "id": 63,
+  "en": "Adaptability Symbol",
+  "es": "Símbolo de la Adaptabilidad",
+  "zh": "适应纹章"
+ },
+ {
+  "id": 64,
+  "en": "Tenacity Symbol",
+  "es": "Símbolo de la Persistencia",
+  "zh": "坚韧纹章"
+ },
+ {
+  "id": 65,
+  "en": "Mastery Symbol",
+  "es": "Símbolo de la Maestría",
+  "zh": "精通纹章"
+ },
+ {
+  "id": 66,
+  "en": "Golden Special Symbol",
+  "es": "Símbolo Especial de Oro",
+  "zh": "金色特别纹章"
+ },
+ {
+  "id": 67,
+  "en": "Star Region Badges",
+  "es": "Medallas Región Star",
+  "zh": "星辰地区徽章"
+ },
+ {
+  "id": 68,
+  "en": "Kanto Region Badges",
+  "es": "Medallas Región Kanto",
+  "zh": "关都地区徽章"
+ },
+ {
+  "id": 69,
+  "en": "Johto Region Badges",
+  "es": "Medallas Región Johto",
+  "zh": "城都地区徽章"
+ },
+ {
+  "id": 70,
+  "en": "Hoenn Region Badges",
+  "es": "Medallas Región Hoenn",
+  "zh": "丰缘地区徽章"
+ },
+ {
+  "id": 71,
+  "en": "Sinnoh Region Badges",
+  "es": "Medallas Región Sinnoh",
+  "zh": "神奥地区徽章"
+ },
+ {
+  "id": 72,
+  "en": "Unova Region Badges",
+  "es": "Medallas Región Teselia",
+  "zh": "合众地区徽章"
+ },
+ {
+  "id": 73,
+  "en": "Silvered Frontier Symbols",
+  "es": "Símbolos de Plata del Frente",
+  "zh": "开拓区银色纹章"
+ },
+ {
+  "id": 74,
+  "en": "Golden Frontier Symbols",
+  "es": "Símbolos de Oro del Frente",
+  "zh": "开拓区金色纹章"
+ },
+ {
+  "id": 75,
+  "en": "Star League Champion",
+  "es": "Campeón Liga Star",
+  "zh": "星辰联盟冠军"
+ },
+ {
+  "id": 76,
+  "en": "Star League Champion",
+  "es": "Campeona Liga Star",
+  "zh": "星辰联盟冠军"
+ },
+ {
+  "id": 77,
+  "en": "Kanto League Champion",
+  "es": "Campeón Liga Kanto",
+  "zh": "关都联盟冠军"
+ },
+ {
+  "id": 78,
+  "en": "Kanto League Champion",
+  "es": "Campeona Liga Kanto",
+  "zh": "关都联盟冠军"
+ },
+ {
+  "id": 79,
+  "en": "Johto League Champion",
+  "es": "Campeón Liga Johto",
+  "zh": "城都联盟冠军"
+ },
+ {
+  "id": 80,
+  "en": "Johto League Champion",
+  "es": "Campeona Liga Johto",
+  "zh": "城都联盟冠军"
+ },
+ {
+  "id": 81,
+  "en": "Hoenn League Champion",
+  "es": "Campeón Liga Hoenn",
+  "zh": "丰缘联盟冠军"
+ },
+ {
+  "id": 82,
+  "en": "Hoenn League Champion",
+  "es": "Campeona Liga Hoenn",
+  "zh": "丰缘联盟冠军"
+ },
+ {
+  "id": 83,
+  "en": "Sinnoh League Champion",
+  "es": "Campeón Liga Sinnoh",
+  "zh": "神奥联盟冠军"
+ },
+ {
+  "id": 84,
+  "en": "Sinnoh League Champion",
+  "es": "Campeona Liga Sinnoh",
+  "zh": "神奥联盟冠军"
+ },
+ {
+  "id": 85,
+  "en": "Unova League Champion",
+  "es": "Campeón Liga Teselia",
+  "zh": "合众联盟冠军"
+ },
+ {
+  "id": 86,
+  "en": "Unova League Champion",
+  "es": "Campeona Liga Teselia",
+  "zh": "合众联盟冠军"
+ },
+ {
+  "id": 87,
+  "en": "Battle Points: ",
+  "es": "Puntos de Batalla: ",
+  "zh": "对战点数："
+ },
+ {
+  "id": 88,
+  "en": "ID No.: ",
+  "es": "ID Entr.: ",
+  "zh": "训练家ID："
+ },
+ {
+  "id": 89,
+  "en": "Name: ",
+  "es": "Nombre: ",
+  "zh": "姓名："
+ },
+ {
+  "id": 90,
+  "en": "Money: $par1$ $",
+  "es": "Dinero: $par1$ €",
+  "zh": "金钱：$par1$元"
+ },
+ {
+  "id": 91,
+  "en": "Seen: ",
+  "es": "Avistados: ",
+  "zh": "见过："
+ },
+ {
+  "id": 92,
+  "en": "Caught: ",
+  "es": "Capturados: ",
+  "zh": "捕获："
+ },
+ {
+  "id": 93,
+  "en": "Time Played: ",
+  "es": "Tiempo Jugado: ",
+  "zh": "游戏时间："
+ },
+ {
+  "id": 94,
+  "en": "Defeated Trainers: ",
+  "es": "Ent. Vencidos: ",
+  "zh": "击败的训练家："
+ },
+ {
+  "id": 95,
+  "en": "Wave Badge",
+  "es": "Medalla Ola",
+  "zh": "波浪徽章"
+ },
+ {
+  "id": 96,
+  "en": "Toxic Badge",
+  "es": "Medalla Ponzoña",
+  "zh": "毒素徽章"
+ },
+ {
+  "id": 97,
+  "en": "Kalos Region Badges",
+  "es": "Medallas Región Kalos",
+  "zh": "卡洛斯地区徽章"
+ },
+ {
+  "id": 98,
+  "en": "Alola Region Petals",
+  "es": "Pétalos Región Alola",
+  "zh": "阿罗拉地区花瓣"
+ },
+ {
+  "id": 99,
+  "en": "Kalos League Champion",
+  "es": "Campeón Liga Kalos",
+  "zh": "卡洛斯联盟冠军"
+ },
+ {
+  "id": 100,
+  "en": "Kalos League Champion",
+  "es": "Campeona Liga Kalos",
+  "zh": "卡洛斯联盟冠军"
+ },
+ {
+  "id": 101,
+  "en": "Alola League Champion",
+  "es": "Campeón Liga Alola",
+  "zh": "阿罗拉联盟冠军"
+ },
+ {
+  "id": 102,
+  "en": "Alola League Champion",
+  "es": "Campeona Liga Alola",
+  "zh": "阿罗拉联盟冠军"
+ },
+ {
+  "id": 103,
+  "en": "Bug Badge",
+  "es": "Medalla Insecto",
+  "zh": "虫徽章"
+ },
+ {
+  "id": 104,
+  "en": "Cliff Badge",
+  "es": "Medalla Muro",
+  "zh": "岩壁徽章"
+ },
+ {
+  "id": 105,
+  "en": "Rumble Badge",
+  "es": "Medalla Lid",
+  "zh": "喧闹徽章"
+ },
+ {
+  "id": 106,
+  "en": "Plant Badge",
+  "es": "Medalla Hoja",
+  "zh": "植物徽章"
+ },
+ {
+  "id": 107,
+  "en": "Voltage Badge",
+  "es": "Medalla Voltaje",
+  "zh": "电压徽章"
+ },
+ {
+  "id": 108,
+  "en": "Fairy Badge",
+  "es": "Medalla Hada",
+  "zh": "妖精徽章"
+ },
+ {
+  "id": 109,
+  "en": "Psychic Badge",
+  "es": "Medalla Psique",
+  "zh": "精神徽章"
+ },
+ {
+  "id": 110,
+  "en": "Snowbelle Badge",
+  "es": "Medalla Fractal",
+  "zh": "冰雪徽章"
+ },
+ {
+  "id": 111,
+  "en": "Orange Petal",
+  "es": "Pétalo Naranja",
+  "zh": "橙色花瓣"
+ },
+ {
+  "id": 112,
+  "en": "Blue Petal",
+  "es": "Pétalo Azul",
+  "zh": "蓝色花瓣"
+ },
+ {
+  "id": 113,
+  "en": "Red Petal",
+  "es": "Pétalo Rojo",
+  "zh": "红色花瓣"
+ },
+ {
+  "id": 114,
+  "en": "Green Petal",
+  "es": "Pétalo Verde",
+  "zh": "绿色花瓣"
+ },
+ {
+  "id": 115,
+  "en": "Yellow Petal",
+  "es": "Pétalo Amarillo",
+  "zh": "黄色花瓣"
+ },
+ {
+  "id": 116,
+  "en": "Pink Petal",
+  "es": "Pétalo Rosa",
+  "zh": "粉色花瓣"
+ },
+ {
+  "id": 117,
+  "en": "Purple Petal",
+  "es": "Pétalo Violeta",
+  "zh": "紫色花瓣"
+ },
+ {
+  "id": 118,
+  "en": "White Petal",
+  "es": "Pétalo Blanco",
+  "zh": "白色花瓣"
+ },
+ {
+  "id": 119,
+  "en": "??? Petal",
+  "es": "Pétalo ???",
+  "zh": "???花瓣"
+ }
+]

@@ -1,0 +1,5833 @@
+[
+ {
+  "id": 1,
+  "en": "A weak attack that can cause burn.",
+  "es": "Ligero ataque que puede causar quemaduras.",
+  "zh": "向对手发射小型火焰进行攻击。有时会让对手陷入灼伤状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 2,
+  "en": "A powerful attack that can cause burn.",
+  "es": "Fuerte ataque que puede causar quemaduras.",
+  "zh": "向对手发射烈焰进行攻击。有时会让对手陷入灼伤状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 3,
+  "en": "Fire that scorches everything and usually causes burn.",
+  "es": "Llama que lo chamusca todo y suele causar quemadura.",
+  "zh": "用大字形状的火焰烧尽对手。有时会让对手陷入灼伤状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 4,
+  "en": "Throws cutting leaves to the enemy.",
+  "es": "Lanza al enemigo hojas cortantes.",
+  "zh": "飞出叶片，切斩对手进行攻击。容易击中要害。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 5,
+  "en": "Absorbs sunlight and emits it in a devastating way.",
+  "es": "Absorbe luz solar y la emite de forma devastadora.",
+  "zh": "第１回合收集满满的日光，第２回合发射光束进行攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 6,
+  "en": "An electric attack that can paralyze the enemy.",
+  "es": "Ataque eléctrico que puede paralizar al enemigo.",
+  "zh": "发出电流刺激对手进行攻击。有时会让对手陷入麻痹状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 7,
+  "en": "A thunder that can paralyze the enemy.",
+  "es": "Un estruendo que puede paralizar al enemigo.",
+  "zh": "向对手劈下暴雷进行攻击。有时会让对手陷入麻痹状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 8,
+  "en": "Sprays water to attack the enemy.",
+  "es": "Rocía agua para atacar.",
+  "zh": "向对手猛烈地喷射水流进行攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 9,
+  "en": "Creates a huge wave and throws it at the enemy.",
+  "es": "Crea una ola enorme y se la lanza al enemigo.",
+  "zh": "利用大浪攻击自己周围所有的宝可梦。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 10,
+  "en": "Charges with the whole body.",
+  "es": "Embiste con todo el cuerpo.",
+  "zh": "用整个身体撞向对手进行攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 11,
+  "en": "A fast attack that strikes first.",
+  "es": "Ataque rápido que permite atacar en primer lugar.",
+  "zh": "以迅雷不及掩耳之势扑向对手。必定能够先制攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 12,
+  "en": "Scares the enemy to reduce Def.",
+  "es": "Asusta al enemigo para bajar su Def.",
+  "zh": "用犀利的眼神使其害怕，从而降低对手的防御。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 13,
+  "en": "Creates a tornado with wings.",
+  "es": "Crea un tornado con las alas.",
+  "zh": "用翅膀将刮起的狂风袭向对手进行攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 14,
+  "en": "A whirlwind of fire that traps the enemy.",
+  "es": "Torbellino de fuego que atrapa al enemigo.",
+  "zh": "将对手困在激烈的火焰旋涡中，在４～５回合内进行攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 15,
+  "en": "A whirlwind of water that traps the enemy.",
+  "es": "Torbellino de agua que atrapa al enemigo.",
+  "zh": "将对手困在激烈的水流旋涡中，在４～５回合内进行攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 16,
+  "en": "Throws a dark ball that can reduce Sp. Def.",
+  "es": "Lanza una bola oscura que puede bajar la Def. Esp.",
+  "zh": "投掷一团黑影进行攻击。有时会降低对手的特防。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 17,
+  "en": "Strong, but useless against Flying type Pokémon.",
+  "es": "Fuerte, pero inútil contra voladores.",
+  "zh": "利用地震的冲击，攻击自己周围所有的宝可梦。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 18,
+  "en": "A cute growl that reduces the At. of the enemy.",
+  "es": "Dulce gruñido que reduce el At. del enemigo.",
+  "zh": "让对手听可爱的叫声，引开注意力使其疏忽，从而降低对手的攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 19,
+  "en": "Whips the enemy with thin branches.",
+  "es": "Azota al enemigo con ramas finas.",
+  "zh": "用如同鞭子般弯曲而细长的藤蔓摔打对手进行攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 20,
+  "en": "A deluge of bubbles that can reduce Speed.",
+  "es": "Diluvio de burbujas que puede bajar la Vel.",
+  "zh": "向对手猛烈地喷射泡沫进行攻击。有时会降低对手的速度。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 21,
+  "en": "Throws a web to the enemy that reduce the Speed.",
+  "es": "Lanza al enemigo una tela que baja su Vel.",
+  "zh": "用口中吐出的丝缠绕对手，从而大幅降低对手的速度。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 22,
+  "en": "A poisonous sting. Usually poisons the enemy.",
+  "es": "Picotazo venenoso. Suele envenenar al enemigo.",
+  "zh": "将有毒的针刺入对手进行攻击。有时会让对手陷入中毒状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 23,
+  "en": "Pounds with the legs or the tail.",
+  "es": "Golpea con las patas o la cola.",
+  "zh": "使用长长的尾巴或手等拍打对手进行攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 24,
+  "en": "Cut that can make the opponent flinch.",
+  "es": "Golpe cortante que puede hacer retroceder al rival.",
+  "zh": "用锋利的手刀劈向对手进行攻击。容易击中要害。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 25,
+  "en": "Slaps the enemy 2 to 5 times.",
+  "es": "Abofetea al enemigo de 2 a 5 veces.",
+  "zh": "用连环巴掌拍打对手进行攻击。连续攻击２～５次。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 26,
+  "en": "Hits the enemy 2 to 5 times.",
+  "es": "Golpea al enemigo de 2 a 5 veces.",
+  "zh": "用拳头怒涛般的殴打对手进行攻击。连续攻击２～５次。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 27,
+  "en": "A punch with incredible power.",
+  "es": "Un puñetazo de gran potencia.",
+  "zh": "用充满力量的拳头攻击对手。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 28,
+  "en": "Throws coins and gets them back later.",
+  "es": "Arroja monedas que luego recupera.",
+  "zh": "向对手的身体投掷小金币进行攻击。战斗后可以拿到钱。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 29,
+  "en": "A punch that can burn the enemy ",
+  "es": "Puñetazo que puede quemar al enemigo.",
+  "zh": "用充满火焰的拳头攻击对手。有时会让对手陷入灼伤状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 30,
+  "en": "A punch that can freeze the enemy.",
+  "es": "Puñetazo que puede congelar al enemigo.",
+  "zh": "用充满寒气的拳头攻击对手。有时会让对手陷入冰冻状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 31,
+  "en": "A punch that can paralyze the enemy.",
+  "es": "Puñetazo que puede paralizar al enemigo.",
+  "zh": "用充满电流的拳头攻击对手。有时会让对手陷入麻痹状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 32,
+  "en": "A scratch with sharp claws.",
+  "es": "Araña con afiladas garras.",
+  "zh": "用坚硬且无比锋利的爪子抓对手进行攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 33,
+  "en": "Grips with powerful pincers.",
+  "es": "Atrapa con potentes pinzas.",
+  "zh": "将对手从两侧夹住，给予伤害。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 34,
+  "en": "A one-hit K.O. attack, but it usually fails.",
+  "es": "Deja K.O. al enemigo de un golpe. Pero suele fallar.",
+  "zh": "用大钳子或剪刀等夹断对手进行攻击。只要命中就会一击濒死。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 35,
+  "en": "Prepares and throws a powerful cutting wind.",
+  "es": "Lanza un poderoso viento cortante.",
+  "zh": "制造风之刃，于第２回合攻击对手。容易击中要害。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 36,
+  "en": "Performs a dance and raises Atk. 2 levels.",
+  "es": "Realiza una danza y sube su At. en 2 niveles.",
+  "zh": "激烈地跳起战舞提高气势。大幅提高自己的攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 37,
+  "en": "Cuts with claws, scythes, etc.",
+  "es": "Corta con garras, guadañas, etc.",
+  "zh": "用镰刀或爪子等切斩对手进行攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 38,
+  "en": "Hits the target with wings.",
+  "es": "Golpea al objetivo con las alas.",
+  "zh": "大大地展开美丽的翅膀，将其撞向对手进行攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 39,
+  "en": "Blows the enemy away and ends the battle.",
+  "es": "Se lleva al enemigo y termina el combate.",
+  "zh": "吹飞对手，强制拉后备宝可梦上场。如果对手为野生宝可梦，战斗将直接结束。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 40,
+  "en": "Flies high and then attacks the enemy.",
+  "es": "Vuela alto y después ataca al enemigo.",
+  "zh": "第１回合飞上天空，第２回合攻击对手。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 41,
+  "en": "A powerful electric attack that can paralyze.",
+  "es": "Poderoso ataque eléctrico que puede paralizar.",
+  "zh": "向对手发出强力电击进行攻击。有时会让对手陷入麻痹状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 42,
+  "en": "A psychic attack that can cause confusion.",
+  "es": "Ataque psíquico que puede causar confusión.",
+  "zh": "向对手发送微弱的念力进行攻击。有时会使对手混乱。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 43,
+  "en": "A powerful psychic attack that can reduce Sp. Def.",
+  "es": "Fuerte ataque psíquico que puede bajar la Def. Esp.",
+  "zh": "向对手发送强大的念力进行攻击。有时会降低对手的特防。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 44,
+  "en": "Uses ropes to catch the foe. Prevents fleeing.",
+  "es": "Usa unas cuerdas y atrapa al enemigo. No permite huir.",
+  "zh": "使用长长的身体或藤蔓等，在４～５回合内绑紧对手进行攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 45,
+  "en": "Uses the extremities or the tail to hit the enemy.",
+  "es": "Usa las extremidades o la cola para golpear al enemigo.",
+  "zh": "使用长长的尾巴或藤蔓等摔打对手进行攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 46,
+  "en": "A huge stomp that can make the enemy flinch.",
+  "es": "Tremendo pisotón que hace al enemigo retroceder.",
+  "zh": "用大脚踩踏对手进行攻击。有时会使对手畏缩。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 47,
+  "en": "A double kick. Hits twice.",
+  "es": "Una patada doble. Golpea dos veces.",
+  "zh": "用２只脚踢飞对手进行攻击。连续２次给予伤害。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 48,
+  "en": "A kick with huge power.",
+  "es": "Una patada de gran potencia.",
+  "zh": "使出力大无穷的重踢踢飞对手进行攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 49,
+  "en": "Gains momentum in the air to do a powerful kick.",
+  "es": "Toma impulso en el aire para dar una patada.",
+  "zh": "使出高高的腾空踢攻击对手。如果踢偏则自己会受到伤害。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 50,
+  "en": "Gains momentum while spinning to do a kick.",
+  "es": "Toma impulso girando para dar una patada.",
+  "zh": "一边使身体快速旋转，一边踢飞对手进行攻击。有时会使对手畏缩。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 51,
+  "en": "Throws sand to reduce the enemy's accuracy.",
+  "es": "Arroja arena para bajar la precisión del enemigo.",
+  "zh": "向对手脸上泼沙子，从而降低命中率。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 52,
+  "en": "Headbutt that can make the enemy flinch.",
+  "es": "Cabezazo que puede hacer retroceder al enemigo.",
+  "zh": "将头伸出，笔直地扑向对手进行攻击。有时会使对手畏缩。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 53,
+  "en": "Attack the enemy with sharp horns.",
+  "es": "Ataque al enemigo con afilados cuernos.",
+  "zh": "用尖锐的角攻击对手。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 54,
+  "en": "Gores the enemy. Its power is variable.",
+  "es": "Cornea al enemigo. Su fuerza es variable.",
+  "zh": "用角或喙刺向对手进行攻击。连续攻击２～５次。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 55,
+  "en": "Drill attack. Can one-hit K.O.",
+  "es": "Ataque taladro. Fulmina de un solo ataque.",
+  "zh": "用旋转的角刺入对手进行攻击。只要命中就会一击濒死。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 56,
+  "en": "Attacks using the body. Can cause paralysis.",
+  "es": "Ataca usando el cuerpo. Puede causar parálisis.",
+  "zh": "用整个身体压住对手进行攻击。有时会让对手陷入麻痹状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 57,
+  "en": "Uses cords and traps the enemy. Prevents fleeing.",
+  "es": "Usa unas cuerdas y atrapa al enemigo. No permite huir.",
+  "zh": "使用长长的身体或藤蔓等，在４～５回合内紧束对手进行攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 58,
+  "en": "Unmeasured charge that also hurts the attacker.",
+  "es": "Carga desmedida que también hiere al agresor.",
+  "zh": "以惊人的气势撞向对手进行攻击。自己也会受到少许伤害。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 59,
+  "en": "Hits the enemy and sometimes causes confusion to the user.",
+  "es": "Golpea al enemigo y a veces causa confusión al agresor.",
+  "zh": "在２～３回合内，乱打一气地攻击对手。大闹一番后自己会陷入混乱。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 60,
+  "en": "Risky attack that also hurts the user.",
+  "es": "Ataque arriesgado que también hiere al agresor.",
+  "zh": "拼命地猛撞向对手进行攻击。自己也会受到不小的伤害。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 61,
+  "en": "Uses the tail to hit the enemy, reducing its Def.",
+  "es": "Usa la cola contra el enemigo para bajar su Def.",
+  "zh": "可爱地左右摇晃尾巴，诱使对手疏忽大意。会降低对手的防御。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 62,
+  "en": "Attacks with two extremities and can poison.",
+  "es": "Ataca con dos extremidades y puede envenenar.",
+  "zh": "将２根针刺入对手，连续２次给予伤害。有时会让对手陷入中毒状态。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 63,
+  "en": "Throws thin spikes that hit 2 to 5 times.",
+  "es": "Lanza finas púas que hieren de 2 a 5 veces.",
+  "zh": "向对手发射锐针进行攻击。连续攻击２～５次。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 64,
+  "en": "A raging bite that makes the enemy flinch.",
+  "es": "Un voraz bocado que hace retroceder al enemigo.",
+  "zh": "用尖锐的牙咬住对手进行攻击。有时会使对手畏缩。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 65,
+  "en": "Emits an scary sound that makes the enemy flee.",
+  "es": "Emite un sonido aterrador que hace huir al enemigo.",
+  "zh": "放走对手，强制拉后备宝可梦上场。如果对手为野生宝可梦，战斗将直接结束。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 66,
+  "en": "Sings a melody that makes the enemy sleep.",
+  "es": "Canta una melodía que duerme al enemigo.",
+  "zh": "让对手听舒适、美妙的歌声，从而陷入睡眠状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 67,
+  "en": "Emits an inaudible ultrasound, that confuses the enemy.",
+  "es": "Emite un ultrasonido inaudible, que confunden al enemigo.",
+  "zh": "从身体发出特殊的音波，从而使对手混乱。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 68,
+  "en": "Causes some vibrations that deals fixed damage.",
+  "es": "Provoca unas vibraciones que restan daño fijo al enemigo.",
+  "zh": "将冲击波撞向对手进行攻击。必定会给予20的伤害。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 69,
+  "en": "Prevent the enemy from using the last move it used.",
+  "es": "Impide al enemigo usar el último movimiento que usó.",
+  "zh": "阻碍对手行动，之前使出的招式将在４回合内无法使用。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 70,
+  "en": "Throws acid at enemy that can reduce Sp. Def.",
+  "es": "Lanza al enemigo ácido que puede bajar la Def. Esp.",
+  "zh": "将强酸泼向对手进行攻击。有时会降低对手的特防。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 71,
+  "en": "User can't suffer stats variations.",
+  "es": "El usuario no podrá sufrir variaciones de stats.",
+  "zh": "用白雾覆盖身体。在５回合内不会让对手降低自己的能力。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 72,
+  "en": "Throws a water blast of great power.",
+  "es": "Lanza un chorro de agua de gran potencia.",
+  "zh": "向对手猛烈地喷射大量水流进行攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 73,
+  "en": "Ice beam that can even freeze.",
+  "es": "Rayo de hielo que puede llegar a congelar.",
+  "zh": "向对手发射冰冻光束进行攻击。有时会让对手陷入冰冻状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 74,
+  "en": "Ice storm that can even freeze.",
+  "es": "Tormenta de hielo que puede llegar a congelar.",
+  "zh": "将猛烈的暴风雪刮向对手进行攻击。有时会让对手陷入冰冻状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 75,
+  "en": "Strange beam that can cause confusion.",
+  "es": "Extraño rayo que puede causar confusión.",
+  "zh": "向对手发射神奇的光线进行攻击。有时会使对手混乱。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 76,
+  "en": "Frozen wave that can reduce the enemy's Atk.",
+  "es": "Onda helada que puede bajar el At. al enemigo.",
+  "zh": "向对手发射虹色光束进行攻击。有时会降低对手的攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 77,
+  "en": "Powerful vital beam that requires a lot of energy.",
+  "es": "Poderoso rayo vital que requiere mucha energía.",
+  "zh": "向对手发射强烈的光线进行攻击。下一回合自己将无法动弹。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 78,
+  "en": "Uses the beak or spike to hurt the enemy.",
+  "es": "Usa el pico o pincho para dañar al enemigo.",
+  "zh": "用尖锐的喙或角刺向对手进行攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 79,
+  "en": "Spinning beak or spike that hurts the enemy.",
+  "es": "Pico o pincho giratorio que hiere al enemigo.",
+  "zh": "一边旋转，一边将尖喙刺入对手进行攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 80,
+  "en": "Throws the enemy but the user receives damage.",
+  "es": "Se lanza al enemigo pero el atacante recibe daño.",
+  "zh": "将对手连同自己一起摔向地面进行攻击。自己也会受到少许伤害。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 81,
+  "en": "Kicks the enemy in a way it falls by its own weight.",
+  "es": "Patea al enemigo de modo que caiga por su peso.",
+  "zh": "用力踢对手的脚，使其摔倒进行攻击。对手越重，威力越大。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 82,
+  "en": "Causes a damage double than a physical attack received.",
+  "es": "Infringe un daño doble al de un ataque físico recibido.",
+  "zh": "从对手那里受到物理攻击的伤害将以２倍返还给同一个对手。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 83,
+  "en": "The causing damage depends on the level of the user.",
+  "es": "El daño provocado depende del nivel del que lo usa.",
+  "zh": "利用引力将对手甩飞出去。给予对手和自己等级相同的伤害。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 84,
+  "en": "Physical attack that can move heavy rocks.",
+  "es": "Ataque físico que permite mover rocas pesadas.",
+  "zh": "使出浑身力气殴打对手进行攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 85,
+  "en": "Absorbs half the damage produced by attacking.",
+  "es": "Absorbe la mitad del daño producido al acertar.",
+  "zh": "吸取对手的养分进行攻击。可以回复给予对手伤害的一半ＨＰ。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 86,
+  "en": "Absorbs half the damage produced by hitting.",
+  "es": "Absorbe la mitad del daño producido al impactar.",
+  "zh": "吸取对手的养分进行攻击。可以回复给予对手伤害的一半ＨＰ。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 87,
+  "en": "Throws a seed at the enemy that can infect it.",
+  "es": "Lanza una semilla al enemigo que puede infectarlo.",
+  "zh": "植入寄生种子后，将在每回合一点一点吸取对手的ＨＰ，从而用来回复自己的ＨＰ。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 88,
+  "en": "Strengthens its body and rises Atk. and Sp. Atk.",
+  "es": "Fortalece su cuerpo y aumenta At. y At. Esp.",
+  "zh": "让身体一下子长大，从而提高攻击和特攻。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 89,
+  "en": "Secretes a dust that poisons the enemy.",
+  "es": "Segrega un polvo que envenena al enemigo.",
+  "zh": "撒出毒粉，从而让对手陷入中毒状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 90,
+  "en": "Secretes a dust that paralyzes the enemy.",
+  "es": "Segrega un polvo que paraliza al enemigo.",
+  "zh": "撒出麻痹粉，从而让对手陷入麻痹状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 91,
+  "en": "Secretes a dust that sleeps the enemy.",
+  "es": "Segrega un polvo que duerme al enemigo.",
+  "zh": "撒出催眠粉，从而让对手陷入睡眠状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 92,
+  "en": "Throws petals and sometimes causes confusion to the user.",
+  "es": "Lanza pétalos y a veces causa confusión al agresor.",
+  "zh": "在２～３回合内，散落花瓣攻击对手。之后自己会陷入混乱。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 93,
+  "en": "Uses an inner power that deals a fixed damage.",
+  "es": "Usa un poder interno que resta un daño fijo al enemigo.",
+  "zh": "将愤怒的冲击波撞向对手进行攻击。必定会给予40的伤害。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 94,
+  "en": "Throws static electricity that paralyzes.",
+  "es": "Lanza electricidad estática capaz de paralizar.",
+  "zh": "向对手发出微弱的电击，从而让对手陷入麻痹状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 95,
+  "en": "Throws small rocks at the enemy.",
+  "es": "Lanza pequeñas rocas al enemigo.",
+  "zh": "拿起小岩石，投掷对手进行攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 96,
+  "en": "Can end up with the enemy at once.",
+  "es": "Puede acabar con el oponente de un golpe.",
+  "zh": "让对手掉落于地裂的裂缝中进行攻击。只要命中就会一击濒死。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 97,
+  "en": "Digs a hole under ground for surprising the enemy.",
+  "es": "Cava un agujero bajo tierra para sorprender al enemigo.",
+  "zh": "第１回合钻入，第２回合攻击对手。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 98,
+  "en": "Throws a very powerful poison for intoxicating the enemy.",
+  "es": "Lanza un veneno muy potente para intoxicar al enemigo.",
+  "zh": "让对手陷入剧毒状态。随着回合的推进，中毒伤害会增加。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 99,
+  "en": "Uses extrasensory powers for causing sleep.",
+  "es": "Usa poderes extrasensoriales para provocar sueño.",
+  "zh": "施以诱导睡意的暗示，让对手陷入睡眠状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 100,
+  "en": "User concentrates for rising its Atk.",
+  "es": "El usuario se concentra para subir su At.",
+  "zh": "唤醒身体深处沉睡的力量，从而提高自己的攻击。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 101,
+  "en": "Increase Speed of the user in two levels.",
+  "es": "Aumenta la Vel. del usuario en dos niveles.",
+  "zh": "让身体放松变得轻盈，以便高速移动。大幅提高自己的速度。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 102,
+  "en": "Releases its fury towards the enemy and raises its Attack.",
+  "es": "Desfoga su furia hacia el enemigo y sube su At.",
+  "zh": "如果在使出招式后受到攻击的话，会因愤怒的力量而提高攻击。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 103,
+  "en": "The user teleports and surprises the enemy.",
+  "es": "El usuario se teletransporta y sorprende al enemigo.",
+  "zh": "当有后备宝可梦在时，如果使用就可以进行替换。野生的宝可梦会逃走。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 104,
+  "en": "Attack whose power only depends of the level.",
+  "es": "Ataque cuyo poder solo depende del nivel.",
+  "zh": "显示恐怖幻影，只给予对手和自己等级相同的伤害。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 105,
+  "en": "Learn momentarily the enemy last attack.",
+  "es": "Aprende momentáneamente el último ataque del enemigo.",
+  "zh": "可以将对手最后使用的招式，在战斗内变成自己的招式。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 106,
+  "en": "Lowers the enemy 2 levels of Defense.",
+  "es": "Baja al enemigo 2 niveles la Def.",
+  "zh": "发出不由自主想要捂起耳朵的刺耳声，从而大幅降低对手的防御。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 107,
+  "en": "Creates a replica to distract the enemy.",
+  "es": "Crea una duplica para distraer al enemigo.",
+  "zh": "通过快速移动来制造分身，扰乱对手，从而提高闪避率。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 108,
+  "en": "Regenerates to restore health.",
+  "es": "Se regenera para restaurar la salud.",
+  "zh": "让细胞再生，从而回复自己最大ＨＰ的一半。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 109,
+  "en": "Hardens its body increasing the Defense.",
+  "es": "Endurece su cuerpo aumentando su Def.",
+  "zh": "全身使劲，让身体变硬，从而提高自己的防御。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 110,
+  "en": "Reduces its size so the enemy fails.",
+  "es": "Reduce su tamaño para que el enemigo falle.",
+  "zh": "蜷缩身体显得很小，从而大幅提高自己的闪避率。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 111,
+  "en": "Generates a dense smoke that reduces visibility.",
+  "es": "Genera un denso humo que reduce la visibilidad.",
+  "zh": "向对手喷出烟或墨汁等，从而降低对手的命中率。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 112,
+  "en": "Throws a special beam that confuses the enemy.",
+  "es": "Lanza un rayo especial que confunde al enemigo.",
+  "zh": "显示奇怪的光，扰乱对手。使对手混乱。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 113,
+  "en": "Aquatic movement that increases its defense.",
+  "es": "Movimiento acuático que aumenta su Def.",
+  "zh": "缩入壳里保护身体，从而提高自己的防御。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 114,
+  "en": "Increases Def. and doubles the power of Rollout and Ice Ball.",
+  "es": "Aumenta la Def. y dobla el poder de Rodar y Bola Hielo.",
+  "zh": "将身体蜷曲变圆，从而提高自己的防御。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 115,
+  "en": "Increases Defense of the user by two levels.",
+  "es": "Aumenta la Def. al usuario en dos niveles.",
+  "zh": "制造坚固的壁障，从而大幅提高自己的防御。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 116,
+  "en": "Reduces by half the physical special attacks received.",
+  "es": "Reduce a la mitad los ataques especiales recibidos.",
+  "zh": "利用神奇的墙壁，在５回合内减弱从对手那里受到的特殊攻击的伤害。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 117,
+  "en": "Removes all Stats variations.",
+  "es": "Elimina todas las variaciones de Stats.",
+  "zh": "升起黑雾，将正在场上战斗的全体宝可梦的能力变回原点。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 118,
+  "en": "Reduces by half the physical attacks received.",
+  "es": "Reduce a la mitad los ataques físicos recibidos.",
+  "zh": "利用神奇的墙壁，在５回合内减弱从对手那里受到的物理攻击的伤害。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 119,
+  "en": "Increases for a certain time the critical blows.",
+  "es": "Incrementa por un tiempo los golpes críticos.",
+  "zh": "深深地吸口气，集中精神。自己的攻击会变得容易击中要害。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 120,
+  "en": "Releases an energy equal to twice the damage suffered.",
+  "es": "Libera una energía igual al doble del daño sufrido.",
+  "zh": "在２回合内忍受攻击，受到的伤害会２倍返还给对手。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 121,
+  "en": "Performs a random attack.",
+  "es": "Realiza un ataque aleatorio.",
+  "zh": "挥动手指刺激自己的大脑，从所有的招式中任意使出１个。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 122,
+  "en": "Use the last move that the opponent used.",
+  "es": "Usa el último movimiento que ha utilizado el rival.",
+  "zh": "模仿对手使用的招式，自己也使用相同招式。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 123,
+  "en": "Self-destructs explosively to damage the opponent.",
+  "es": "Se autodestruye de forma explosiva para dañar al rival.",
+  "zh": "引发爆炸，攻击自己周围所有的宝可梦。使用后陷入濒死。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 124,
+  "en": "Throw an explosive egg to hurt the opponent.",
+  "es": "Lanza con fuerza un huevo con intención de herir al rival.",
+  "zh": "向对手用力投掷大大的蛋进行攻击。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 125,
+  "en": "Strikes with a long tongue. It can paralyze the opponent.",
+  "es": "Golpea con una lengua larga. Puede paralizar al rival.",
+  "zh": "用长长的舌头，舔遍对手进行攻击。有时会让对手陷入麻痹状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 126,
+  "en": "Exhale a poison that pollutes and can poison the opponent.",
+  "es": "Exhala un veneno que contamina y puede envenenar.",
+  "zh": "将肮脏的浓雾吹向对手进行攻击。有时会让对手陷入中毒状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 127,
+  "en": "Throw a polluting mud that sometimes poisons the opponent.",
+  "es": "Lanza un lodo contaminante que a veces envenena al rival.",
+  "zh": "用污泥投掷对手进行攻击。有时会让对手陷入中毒状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 128,
+  "en": "Hit the enemy with a bone or another object.",
+  "es": "Golpea al enemigo con un hueso u otro objeto.",
+  "zh": "用手中的骨头殴打对手进行攻击。有时会使对手畏缩。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 129,
+  "en": "Charge against the enemy at high speed.",
+  "es": "Carga contra el enemigo a gran velocidad.",
+  "zh": "以惊人的气势扑向对手。有时会使对手畏缩。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 130,
+  "en": "Catch the enemy and prevent it from fleeing.",
+  "es": "Atrapa al enemigo e impide huir.",
+  "zh": "用非常坚固且厚实的贝壳，在４～５回合内夹住对手进行攻击。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 131,
+  "en": "This attack follows the enemy.",
+  "es": "Este ataque persigue al enemigo.",
+  "zh": "发射星形的光攻击对手。攻击必定会命中。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 132,
+  "en": "Hit the enemy using the head. Can increase Def.",
+  "es": "Golpea al enemigo usando la cabeza. Puede aumentar la Def.",
+  "zh": "第１回合把头缩进去，从而提高防御。第２回合攻击对手。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 133,
+  "en": "Shoot spikes at the opponent 2 to 5 times.",
+  "es": "Dispara púas al rival de 2 a 5 veces.",
+  "zh": "向对手发射锐针进行攻击。连续攻击２～５次。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 134,
+  "en": "Use tentacles to catch the enemy.",
+  "es": "Usa tentáculos para apresar al enemigo.",
+  "zh": "用触手或青藤等缠绕进行攻击。有时会降低对手的速度。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 135,
+  "en": "Sharply raises Special Defense.",
+  "es": "Aumenta dos niveles la Def. Esp.",
+  "zh": "将头脑清空，瞬间忘记某事，从而大幅提高自己的特防。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 136,
+  "en": "Distract the opponent to lower their accuracy.",
+  "es": "Distrae al rival para bajar su precisión.",
+  "zh": "折弯汤匙引开注意，从而降低对手的命中率。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 137,
+  "en": "Restore health.",
+  "es": "Recupera la salud.",
+  "zh": "回复自己最大ＨＰ的一半。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 138,
+  "en": "Throw a kick after a high jump.",
+  "es": "Pega una patada tras un gran salto.",
+  "zh": "跳起后用膝盖撞对手进行攻击。如果撞偏则自己会受到伤害。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 139,
+  "en": "Intimidates the opponent and paralyzes it with the look.",
+  "es": "Intimida al rival con la mirada y lo paraliza.",
+  "zh": "用腹部的花纹使对手害怕，从而让其陷入麻痹状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 140,
+  "en": "If the enemy sleeps steals its health.",
+  "es": "Si el enemigo duerme roba su salud.",
+  "zh": "吃掉正在睡觉的对手的梦进行攻击。回复对手所受到伤害的一半ＨＰ。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 141,
+  "en": "Drop a poisonous gas that can poison.",
+  "es": "Suelta un gas venenoso que puede envenenar.",
+  "zh": "将毒瓦斯吹到对手的脸上，从而让对手陷入中毒状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 142,
+  "en": "Throw round objects 2 to 5 times.",
+  "es": "Lanza objetos redondos de 2 a 5 veces.",
+  "zh": "向对手投掷圆形物体进行攻击。连续攻击２～５次。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 143,
+  "en": "Bite the enemy and extract its health.",
+  "es": "Muerde al enemigo y le extrae salud.",
+  "zh": "吸取血液攻击对手。可以回复给予对手伤害的一半ＨＰ。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 144,
+  "en": "Throw a kiss that makes the enemy sleep.",
+  "es": "Lanza un beso que duerme al enemigo.",
+  "zh": "用恐怖的脸强吻对手。让对手陷入睡眠状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 145,
+  "en": "Powerful flying attack that can cause recoil.",
+  "es": "Poderoso ataque volador que puede causar retroceso.",
+  "zh": "第２回合攻击对手。偶尔使对手畏缩。也容易击中要害。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 146,
+  "en": "Copy the appearance and the attacks of the opponent.",
+  "es": "Copia el aspecto y los ataques del rival.",
+  "zh": "变身成对手宝可梦的样子，能够使用和对手完全相同的招式。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 147,
+  "en": "Throw bubbles at the enemy. It can lower the Speed.",
+  "es": "Lanza burbujas al enemigo. Puede bajar su Vel.",
+  "zh": "向对手用力吹起无数泡泡进行攻击。有时会降低对手的速度。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 148,
+  "en": "Punch with the fist. It can confuse the enemy.",
+  "es": "Golpea con el puño. Puede confundir al enemigo.",
+  "zh": "有节奏地出拳攻击对手。有时会使对手混乱。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 149,
+  "en": "Segregate a spore that causes slumber.",
+  "es": "Segrega una espora que provoca sueño.",
+  "zh": "沙沙沙地撒满具有催眠效果的孢子，从而让对手陷入睡眠状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 150,
+  "en": "Emits a light to blind the enemy and lower its accuracy.",
+  "es": "Emite una luz para cegar al enemigo y bajar su precisión.",
+  "zh": "使出耀眼光芒，从而降低对手的命中率。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 151,
+  "en": "Psychic attack of varying intensity.",
+  "es": "Ataque psíquico que tiene un poder variable.",
+  "zh": "向对手发射神奇的念波进行攻击。每次使用，伤害都会改变。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 152,
+  "en": "Has no effect whatsoever.",
+  "es": "No tiene ningún efecto.",
+  "zh": "也不攻击只是一蹦一蹦地跳，什么都不会发生……",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 153,
+  "en": "Alters its cellular structure and raises its Def. by 2 levels.",
+  "es": "Altera su estructura celular y aumenta 2 niveles su Def.",
+  "zh": "通过细胞的变化进行液化，从而大幅提高自己的防御。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 154,
+  "en": "Hammers with a large pincer.",
+  "es": "Golpea al objetivo con una gran pinza.",
+  "zh": "用大钳子敲打对手进行攻击。容易击中要害。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 155,
+  "en": "The user explodes and faints to inflict damage to its enemy.",
+  "es": "Explota y se autodestruye para dañar al rival.",
+  "zh": "引发大爆炸，攻击自己周围所有的宝可梦。使用后自己会陷入濒死。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 156,
+  "en": "The foe is raked repeatedly with sharp claws.",
+  "es": "Golpea al rival varias veces con afiladas garras.",
+  "zh": "用爪子或镰刀等抓对手进行攻击。连续攻击２～５次。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 157,
+  "en": "Throws a bone at the enemy. Hits 2 times.",
+  "es": "Tira un hueso al enemigo. Golpea 2 veces.",
+  "zh": "用手中的骨头投掷对手，来回连续２次给予伤害。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 158,
+  "en": "The user goes to sleep and fully restores its HP.",
+  "es": "El usuario se echa a dormir y recupera su salud.",
+  "zh": "连续睡上２回合。回复自己的全部ＨＰ以及治愈所有异常状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 159,
+  "en": "Large boulders are hurled. May cause flinching.",
+  "es": "Lanza grandes pedruscos. Puede causar retroceso.",
+  "zh": "将大岩石猛烈地撞向对手进行攻击。有时会使对手畏缩。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 160,
+  "en": "Attacks with sharp fangs. May cause flinching",
+  "es": "Ataque con finos colmillos. Puede causar retroceso.",
+  "zh": "用锋利的门牙牢牢地咬住对手进行攻击。有时会使对手畏缩。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 161,
+  "en": "The user sharpens its edges and raise its Attack.",
+  "es": "El perfil del atacante se hace más afilado y su At. mejora.",
+  "zh": "增加身体的角，变得棱棱角角，从而提高自己的攻击。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 162,
+  "en": "Change user's type to match the type of one of its moves.",
+  "es": "Cambia el tipo del usuario por el de uno de sus ataques.",
+  "zh": "将自己的属性转换成和已学会的招式中第一个招式相同的属性。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 163,
+  "en": "A triple attack. It may freeze, burn or paralyze the target.",
+  "es": "Ataque triple que puede paralizar, quemar o congelar.",
+  "zh": "用３种光线进行攻击。有时会让对手陷入麻痹、灼伤或冰冻的状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 164,
+  "en": "Sharp-fanged attack that cuts half the target's HP.",
+  "es": "Finos colmillos que reducen a la mitad los PS del rival.",
+  "zh": "用锋利的门牙猛烈地咬住对手进行攻击。对手的ＨＰ减半。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 165,
+  "en": "Slash with claws, etc. It has a high critical-hit ratio.",
+  "es": "Acuchilla con pinzas, etc. Suele dar un golpe crítico.",
+  "zh": "用爪子或镰刀等劈开对手进行攻击。容易击中要害。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 166,
+  "en": "The user creates a substitute using some of its HP.",
+  "es": "Utiliza parte de la salud para crear un sustituto.",
+  "zh": "削减少许自己的ＨＰ，制造分身。分身将成为自己的替身。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 167,
+  "en": "A basic offensive move. It is used in desperation.",
+  "es": "Técnica ofensiva básica. Se usa como ultimo recurso.",
+  "zh": "当自己的ＰＰ耗尽时，努力挣扎攻击对手。自己也会受到少许伤害。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 168,
+  "en": "Lowers the foe's evasion, making it easier to hit.",
+  "es": "Baja la evasión para que sea mas fácil acertar al enemigo.",
+  "zh": "用香气大幅降低对手的闪避率。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 169,
+  "en": "Switches the target's ability by Insomnia.",
+  "es": "Sustituye la habilidad del rival por Insomnio.",
+  "zh": "种植心神不宁的种子。使对手不能入眠，并将特性变成不眠。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 170,
+  "en": "Restores HP. Its power varies with the weather.",
+  "es": "Recupera salud. Su poder depende del clima.",
+  "zh": "回复自己的ＨＰ。根据天气的不同，回复量也会有所变化。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 171,
+  "en": "The user slams a barrage of hard seeds that explode.",
+  "es": "Lanza duras semillas que hacen explosión.",
+  "zh": "将外壳坚硬的大种子，从上方砸下攻击对手。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 172,
+  "en": "A powerful hit with an enormous branch.",
+  "es": "Poderoso ataque de raíces con pinchos afilados.",
+  "zh": "用大树摔打对手进行攻击。下一回合自己将无法动弹。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 173,
+  "en": "The foe is attacked with wind. It may raise all the stats.",
+  "es": "Genera un viento hacia el rival y puede subir los stats.",
+  "zh": "在风中掺入鳞粉攻击对手。有时会提高自己的全部能力。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 174,
+  "en": "The users whips up a whirlwind that raises its Speed.",
+  "es": "Provoca un viento que incrementa su Vel.",
+  "zh": "刮起猛烈的旋风，在４回合内提高我方全员的速度。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 175,
+  "en": "Prevents all status problems.",
+  "es": "Impide cambios de estado con un Velo Sagrado.",
+  "zh": "在５回合内被神奇的力量守护，从而不会陷入异常状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 176,
+  "en": "Reduces the target's Sp. Atk. and may charm it.",
+  "es": "Reduce el At. Esp. y puede enamorar al enemigo.",
+  "zh": "♂诱惑♀或♀诱惑♂，从而大幅降低对手的特攻。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 177,
+  "en": "A sound wave that damages the opponent with vibrations.",
+  "es": "Onda sonora que daña al rival con su vibración.",
+  "zh": "利用振动发出音波进行攻击。有时会降低对手的特防。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 178,
+  "en": "An electric attack that may paralyze the foe.",
+  "es": "Ataque eléctrico que puede llegar a paralizar.",
+  "zh": "让电流覆盖全身，猛撞向对手进行攻击。有时会让对手陷入麻痹状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 179,
+  "en": "The attack is stronger if the foe protects itself.",
+  "es": "El ataque es mas fuerte si el enemigo se protege.",
+  "zh": "能够攻击正在使用守住或看穿等招式的对手。解除其守护效果。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 180,
+  "en": "A powerful electric attack that may cause paralysis.",
+  "es": "Fuerte ataque eléctrico que puede paralizar.",
+  "zh": "用耀眼的电击攻击自己周围所有的宝可梦。有时会陷入麻痹状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 181,
+  "en": "The user electrifies itself and charges at the foe.",
+  "es": "Choca contra el enemigo cargado de electricidad.",
+  "zh": "让电流覆盖全身猛撞向对手。自己也会受到不小的伤害。有时会让对手陷入麻痹状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 182,
+  "en": "Increase the damage done by the objective for a while.",
+  "es": "Aumenta la potencia de ataque del objetivo.",
+  "zh": "帮助伙伴。被帮助的宝可梦，其招式威力变得比平时大。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 183,
+  "en": "The user switches out while keeping effects in play.",
+  "es": "Cambia de Pokémon sin perder el Estado actual.",
+  "zh": "和后备宝可梦进行替换。换上的宝可梦能直接继承其能力的变化。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 184,
+  "en": "Only works if every move has been used before.",
+  "es": "Solo funciona si antes ha usado los demás ataques.",
+  "zh": "当战斗中已学会的招式全部使用过后，才能开始使出珍藏的招式。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 185,
+  "en": "Its power increases every time it is used. Only works 10 times.",
+  "es": "Va aumentando su poder. Solo funciona 10 veces.",
+  "zh": "王牌招式的剩余PP越少，招式的威力越大。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 186,
+  "en": "Neutralizes the foe's evasion and Ghost-type immunity.",
+  "es": "Anula la evasión del rival y la inmunidad de Fantasmas.",
+  "zh": "使出后对幽灵属性宝可梦没有效果的招式以及闪避率高的对手，变得能够打中。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 187,
+  "en": "Endures its body to not faint.",
+  "es": "Fortalece su cuerpo para no debilitarse.",
+  "zh": "即使受到攻击，也至少会留下１ＨＰ。连续使出则容易失败。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 188,
+  "en": "The foe is attack with a shock wave that may paralyze.",
+  "es": "Golpea al enemigo con una onda que puede paralizar.",
+  "zh": "向对手的身体发出冲击波进行攻击。有时会让对手陷入麻痹状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 189,
+  "en": "The user mimics the move used immediately before it.",
+  "es": "Usa el último movimiento que ha sido realizado.",
+  "zh": "模仿对手刚才使出的招式，并使出相同招式。如果对手还没出招则会失败。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 190,
+  "en": "Stronger if the user's HP is low.",
+  "es": "Mucho mas fuerte cuando al usuario le quedan pocos PS.",
+  "zh": "竭尽全力进行攻击。自己的ＨＰ越少，招式的威力越大。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 191,
+  "en": "Frightens the foe with a scary face to reduce Speed.",
+  "es": "Asusta con una aterradora cara para bajar la Vel.",
+  "zh": "用恐怖的表情瞪着对手，使其害怕，从而大幅降低对手的速度。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 192,
+  "en": "Bites with charged fangs. The foe may flinch or become paralyzed.",
+  "es": "Ataca con cargados colmillos. Causa retroceso o parálisis.",
+  "zh": "用蓄满电流的牙齿咬住对手。有时会使对手畏缩或陷入麻痹状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 193,
+  "en": "Bites with flaming fangs. May make the foe flinch or burn.",
+  "es": "Ataca con ardientes colmillos. Causa retroceso o quema.",
+  "zh": "用覆盖着火焰的牙齿咬住对手。有时会使对手畏缩或陷入灼伤状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 194,
+  "en": "Bites with cold fangs. May make the foe flinch or freeze.",
+  "es": "Ataca con fríos colmillos. Causa retroceso o congela.",
+  "zh": "用藏有冷气的牙齿咬住对手。有时会使对手畏缩或陷入冰冻状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 195,
+  "en": "The foe is hit with a powerful fiery explosion.",
+  "es": "Lanza un devastador ataque de fuego muy potente.",
+  "zh": "用爆炸的火焰烧尽对手进行攻击。下一回合自己将无法动弹。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 196,
+  "en": "The foe is hit with a powerful watery cannon.",
+  "es": "Lanza un devastador ataque de agua muy potente.",
+  "zh": "向对手喷射水炮进行攻击。下一回合自己将无法动弹。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 197,
+  "en": "The user slashes the target with huge sharp claws.",
+  "es": "Ataca al enemigo brutalmente con unas garras afiladas.",
+  "zh": "用尖锐的巨爪劈开对手进行攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 198,
+  "en": "The user slashes with a sharp claw made from shadows.",
+  "es": "Ataca con una Garra Afilada creada de sombras.",
+  "zh": "以影子做成的锐爪，劈开对手。容易击中要害。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 199,
+  "en": "A blade of air that may make the target flinch.",
+  "es": "Ráfaga cortante de aire que puede causar retroceso.",
+  "zh": "用连天空也能劈开的空气之刃进行攻击。有时会使对手畏缩。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 200,
+  "en": "A double-chopping attack with a high critical-hit ratio.",
+  "es": "Doble golpe cortante con alto índice de golpe crítico.",
+  "zh": "用两手呈十字劈打对手进行攻击。容易击中要害。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 201,
+  "en": "Heat wave that can burn the enemy.",
+  "es": "Onda de calor que puede quemar al enemigo.",
+  "zh": "将炎热的气息吹向对手进行攻击。有时会让对手陷入灼伤状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 202,
+  "en": "Charges against the enemy loaded with fire.",
+  "es": "Choca contra el enemigo cargado de fuego.",
+  "zh": "让火焰覆盖全身猛撞向对手。自己也会受到不小的伤害。有时会让对手陷入灼伤状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 203,
+  "en": "Spin attack used to escape from traps and Infections.",
+  "es": "Ataque giratorio que permite huir de trampas e Infecciones.",
+  "zh": "通过旋转来攻击对手。可以摆脱绑紧、紧束、寄生种子等招式。还能提高自己的速度。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 204,
+  "en": "Creates a protective shield to prevent attacks.",
+  "es": "Crea un escudo protector para evitar ataques.",
+  "zh": "完全抵挡对手的攻击。连续使出则容易失败。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 205,
+  "en": "Water pulse that can confuse the enemy.",
+  "es": "Pulso de agua que puede confundir al enemigo.",
+  "zh": "用水的震动攻击对手。有时会使对手混乱。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 206,
+  "en": "Hits the enemy with the tail creating an atrocious wave.",
+  "es": "Golpea al enemigo con la cola creando una ola atroz.",
+  "zh": "如惊涛骇浪般挥动大尾巴攻击对手。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 207,
+  "en": "Increases two levels of user's Def.",
+  "es": "Aumenta dos niveles la Def. del que lo usa.",
+  "zh": "将皮肤变得坚硬如铁，从而大幅提高自己的防御。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 208,
+  "en": "Changes the weather to a rainstorm.",
+  "es": "Modifica el clima y empieza a llover.",
+  "zh": "在５回合内一直降雨，从而提高水属性的招式威力。火属性的招式威力则降低。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 209,
+  "en": "Changes the weather to bright sunlight.",
+  "es": "Modifica el clima y el sol empieza a brillar.",
+  "zh": "在５回合内让日照变得强烈，从而提高火属性的招式威力。水属性的招式威力则降低。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 210,
+  "en": "Changes the weather to a sandstorm",
+  "es": "Modifica el clima creando una tormenta de arena.",
+  "zh": "在５回合内扬起沙暴，除岩石、地面和钢属性以外的宝可梦，都会受到伤害。岩石属性的特防还会提高。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 211,
+  "en": "Changes the weather to a hailstorm.",
+  "es": "Modifica el clima y empieza a granizar.",
+  "zh": "在５回合内一直降冰雹，除冰属性的宝可梦以外，给予全体宝可梦伤害。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 212,
+  "en": "A strong bite that can lower the def.",
+  "es": "Un fuerte bocado que puede bajar la Def.",
+  "zh": "用利牙咬碎对手进行攻击。有时会降低对手的防御。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 213,
+  "en": "Accumulate all your light energy and release it.",
+  "es": "Acumula toda su energía luminosa para liberarla.",
+  "zh": "将身体的光芒聚集在一点释放出去。有时会降低对手的特防。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 214,
+  "en": "Attacks the enemy using your Berry in case you have it.",
+  "es": "Ataca al enemigo usando su Baya en caso de tenerla.",
+  "zh": "咬住进行攻击。当对手携带树果时，可以食用并获得其效果。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 215,
+  "en": "If the enemy is being changed, it doubles its power.",
+  "es": "Si el enemigo esta siendo cambiado, duplica su poder.",
+  "zh": "当对手替换宝可梦上场时使出此招式的话，能够以２倍的威力进行攻击。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 216,
+  "en": "electric jolt that never fails.",
+  "es": "Sacudida eléctrica que nunca falla.",
+  "zh": "向对手快速发出电击。攻击必定会命中。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 217,
+  "en": "Double your power if enemy is trapped.",
+  "es": "Duplica su poder si el enemigo está atrapado.",
+  "zh": "如果此回合内对手已经受到伤害的话，招式威力会变成２倍。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 218,
+  "en": "It strikes with a tentacle or arm soaked in poison.",
+  "es": "Hiere con un tentáculo ó brazo empapado en veneno.",
+  "zh": "用带毒的触手或手臂刺入对手。有时会让对手陷入中毒状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 219,
+  "en": "Cause damage to opponent's HP to equal the user's HP.",
+  "es": "Causa daño al rival para que tenga sus mismos PS.",
+  "zh": "给予伤害，使对手的ＨＰ变得和自己的ＨＰ一样。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 220,
+  "en": "Learn the last movement made by the opponent.",
+  "es": "Aprende el ultimo movimiento realizado por el rival.",
+  "zh": "将对手使用的招式变成自己的招式。使用１次后写生消失。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 221,
+  "en": "Hits up to three times with the lower limbs.",
+  "es": "Golpea hasta tres veces con las extremidades inferiores.",
+  "zh": "连续３次踢对手进行攻击。每踢中一次，威力就会提高。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 222,
+  "en": "Takes advantage of the blow to steal the object from the target.",
+  "es": "Aprovecha el golpe para robar el objeto al rival.",
+  "zh": "攻击的同时盗取道具。当自己携带道具时，不会去盗取。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 223,
+  "en": "Catches the opponent with a thin, viscous silk thread.",
+  "es": "Atrapa al rival con un fino y viscoso hilo de seda.",
+  "zh": "将黏糊糊的细丝一层一层缠住对手，使其不能从战斗中逃走。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 224,
+  "en": "Reads the opponent's mind to not fail the next attack.",
+  "es": "Lee la mente al rival para no fallar el siguiente ataque.",
+  "zh": "用心感受对手的行动，下次攻击必定会击中对手。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 225,
+  "en": "If the enemy is asleep it causes nightmares.",
+  "es": "Si el enemigo está dormido le provoca pesadillas.",
+  "zh": "让在睡眠状态下的对手做恶梦，每回合会缓缓减少HP。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 226,
+  "en": "Charges against the enemy like a ball of fire.",
+  "es": "Carga contra el enemigo como una bola de fuego.",
+  "zh": "让火焰覆盖全身，猛撞向对手进行攻击。有时会让对手陷入灼伤状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 227,
+  "en": "If the user sleeps causes a sound wave.",
+  "es": "Si el usuario duerme provoca una onda sonora.",
+  "zh": "在自己睡觉时，发出噪音进行攻击。有时会使对手畏缩。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 228,
+  "en": "Lower your Speed And up At. And Def. Ghosts curse.",
+  "es": "Baja su Vel. y sube At. y Def. Los fantasmas maldicen.",
+  "zh": "使用该招式的宝可梦，其属性是幽灵属性或其他属性时，效果会不一样。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 229,
+  "en": "Much stronger when the user has few HP.",
+  "es": "Mucho mas fuerte cuando al usuario le quedan pocos PS.",
+  "zh": "抓狂般乱打进行攻击。自己的ＨＰ越少，招式的威力越大。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 230,
+  "en": "Changes the user's type to one that is resistant to the enemy.",
+  "es": "Cambia el tipo del usuario por uno resistente al enemigo.",
+  "zh": "为了可以抵抗对手最后使用的招式，从而使自己的属性发生变化。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 231,
+  "en": "Shoots an air vortex to damage the enemy.",
+  "es": "Dispara un vórtice de aire para dañar al enemigo.",
+  "zh": "发射空气旋涡进行攻击。容易击中要害。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 232,
+  "en": "Secretes a spore that decreases the Speed of the opponent.",
+  "es": "Segrega una espora que baja mucho la Vel. al rival.",
+  "zh": "将棉花般柔软的孢子紧贴对手，从而大幅降低对手的速度。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 233,
+  "en": "Reduces enemy PP.",
+  "es": "Reduce los PP del enemigo.",
+  "zh": "对对手最后使用的招式怀有怨恨，减少４ＰＰ该招式。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 234,
+  "en": "Frost blast of snow powder that can freeze.",
+  "es": "Ráfaga helada de polvo de nieve que puede congelar.",
+  "zh": "将冰冷的细雪吹向对手进行攻击。有时会让对手陷入冰冻状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 235,
+  "en": "Fast punch that attacks first.",
+  "es": "Puñetazo rápido que permite atacar en primer lugar.",
+  "zh": "以迅雷不及掩耳之势出拳。必定能够先制攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 236,
+  "en": "If the enemy is close strike it without fail.",
+  "es": "Si el enemigo está próximo lo golpea sin fallo.",
+  "zh": "悄悄地靠近对手，趁其不备进行殴打。攻击必定会命中。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 237,
+  "en": "Throw a kiss at the enemy, making them fall in love.",
+  "es": "Lanza un beso al enemigo para causarle enamoramiento.",
+  "zh": "像天使般可爱地亲吻对手，从而使对手混乱。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 238,
+  "en": "Reduces your health by half to double the power of At.",
+  "es": "Reduce su salud a la mitad para duplicar el poder de At.",
+  "zh": "将自己的ＨＰ减少到最大ＨＰ的一半，从而最大限度提高自己的攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 239,
+  "en": "Shoots a powerful blast of mud and grime",
+  "es": "Lanza al rival un potente chorro de lodo.",
+  "zh": "用污泥投掷对手进行攻击。有时会让对手陷入中毒状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 240,
+  "en": "Hits the enemy with earth or mud to lower its accuracy.",
+  "es": "Proyecta al enemigo tierra ó lodo para bajar su precisión.",
+  "zh": "向对手的脸等投掷泥块进行攻击。会降低对手的命中率。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 241,
+  "en": "Spray the opponent with ink that can lower its accuracy.",
+  "es": "Pulveriza al rival con tinta pudiendo bajar su precisión.",
+  "zh": "向对手的脸等喷出墨汁进行攻击。有时会降低对手的命中率。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 242,
+  "en": "Scatter spikes around the battle zone to hurt the enemy.",
+  "es": "Dispersa púas por la zona de batalla para herir al rival.",
+  "zh": "在对手的脚下扔撒菱。对替换出场的对手的宝可梦给予伤害。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 243,
+  "en": "Shoots a shock wave that paralyzes the enemy.",
+  "es": "Dispara una onda de choque que paraliza al enemigo.",
+  "zh": "发射大炮一样的电流进行攻击。让对手陷入麻痹状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 244,
+  "en": "If the user faints after this attack, the opponent also faints.",
+  "es": "Si el usuario cae tras este ataque, el rival también cae.",
+  "zh": "使出招式后，当受到对手攻击陷入濒死时，对手也会一同濒死。连续使出则会失败。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 245,
+  "en": "After a while the Pokemon will weaken.",
+  "es": "Al cabo de un tiempo se debilitarán los Pokémon.",
+  "zh": "倾听歌声的宝可梦经过３回合陷入濒死。替换后效果消失。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 246,
+  "en": "It generates a cold wind that lowers the Speed.",
+  "es": "Genera un viento frío que baja la Vel.",
+  "zh": "将结冰的冷气吹向对手进行攻击。会降低对手的速度。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 247,
+  "en": "Concentrates to stop the next attack.",
+  "es": "Se concentra para detener el siguiente ataque.",
+  "zh": "完全抵挡对手的攻击。连续使出则容易失败。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 248,
+  "en": "Hits the opponent with a hard bone repeatedly.",
+  "es": "Golpea al rival con un duro hueso repetidas veces.",
+  "zh": "用坚硬的骨头殴打对手进行攻击。连续攻击２～５次。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 249,
+  "en": "Locates the opponent to not fail the next attack.",
+  "es": "Localiza al rival para no fallar el siguiente ataque.",
+  "zh": "紧紧瞄准对手，下次攻击必定会打中。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 250,
+  "en": "Powerful Dragon attack that can confuse the user.",
+  "es": "Poderoso ataque Dragón que puede confundir al usuario.",
+  "zh": "在２～３回合内，乱打一气地进行攻击。大闹一番后自己会陷入混乱。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 251,
+  "en": "Scratches the opponent with steel claws and can upload the At.",
+  "es": "Rasga al rival con garras de acero. Puede subir el At.",
+  "zh": "用钢铁之爪劈开对手进行攻击。有时会提高自己的攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 252,
+  "en": "Absorbs half damage produced when colliding.",
+  "es": "Absorbe la mitad del daño producido al colisionar.",
+  "zh": "吸取对手的养分进行攻击。可以回复给予对手伤害的一半ＨＰ。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 253,
+  "en": "Use natural charm to lower the Attack of the enemy.",
+  "es": "Usa el encanto natural para bajar el At. al enemigo.",
+  "zh": "可爱地凝视，诱使对手疏忽大意，从而大幅降低对手的攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 254,
+  "en": "Start spinning to hit harder and harder.",
+  "es": "Comienza a girar para golpear cada vez con mas fuerza.",
+  "zh": "在５回合内连续滚动攻击对手。招式每次击中，威力就会提高。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 255,
+  "en": "Measured strike that prevents weaken the enemy.",
+  "es": "Golpe medido que evita debilitar al enemigo.",
+  "zh": "对手的ＨＰ至少会留下１ＨＰ，如此般手下留情地攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 256,
+  "en": "Increases the At of the enemy and confuses it.",
+  "es": "Aumenta el At. del enemigo y lo confunde.",
+  "zh": "激怒对手，使其混乱。因为愤怒，对手的攻击会大幅提高。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 257,
+  "en": "Recover health.",
+  "es": "Recupera la salud.",
+  "zh": "回复自己最大ＨＰ的一半。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 258,
+  "en": "Cut that intensifies each time it is used.",
+  "es": "Corte que se intensifica cada vez que es usado.",
+  "zh": "用镰刀或爪子等切斩对手进行攻击。连续击中，威力就会提高。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 259,
+  "en": "Hit the enemy by holding stiff wings.",
+  "es": "Golpea al enemigo manteniendo las alas rígidas.",
+  "zh": "用坚硬的翅膀敲打对手进行攻击。有时会提高自己的防御。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 260,
+  "en": "If he reaches the target, he can not flee combat.",
+  "es": "Si alcanza al objetivo, no podrá huir del combate.",
+  "zh": "用好似要勾人心魂的黑色目光一动不动地凝视对手，使其不能从战斗中逃走。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 261,
+  "en": "Falls in love with precision if they have different gender",
+  "es": "Enamora con precisión cuando tienen distinto sexo.",
+  "zh": "♂诱惑♀或♀诱惑♂，让对手着迷。对手将很难使出招式。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 262,
+  "en": "Use one of its attacks while asleep.",
+  "es": "Usa uno de sus ataques mientras permanece dormido.",
+  "zh": "从自己已学会的招式中任意使出１个。只能在自己睡觉时使用。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 263,
+  "en": "Heals the status of all Pokémon on the team.",
+  "es": "Cura el estado de todos los Pokémon del equipo.",
+  "zh": "让同伴听舒适的铃音，从而治愈我方全员的异常状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 264,
+  "en": "Power increases with happiness of the user.",
+  "es": "Su poder aumenta con la felicidad del usuario.",
+  "zh": "为了训练家而全力攻击对手。亲密度越高，威力越大。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 265,
+  "en": "It can damage the enemy, although sometimes recovers it.",
+  "es": "Puede dañar al enemigo, aunque a veces lo recupera.",
+  "zh": "递给对手设有圈套的盒子进行攻击。也有可能回复对手ＨＰ。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 266,
+  "en": "Its power increases with user frustration.",
+  "es": "Su poder aumenta con la frustración del usuario.",
+  "zh": "为了发泄不满而全力攻击对手。亲密度越低，威力越大。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 267,
+  "en": "Divide the HP of the fighters evenly.",
+  "es": "Reparte los PS de los combatientes para igualarlos.",
+  "zh": "将自己的ＨＰ和对手的ＨＰ相加，然后自己和对手友好地平分。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 268,
+  "en": "Throw a mystic fire of great intensity.",
+  "es": "Lanza un fuego místico de gran intensidad.",
+  "zh": "用神秘的火焰烧尽对手进行攻击。有时会让对手陷入灼伤状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 269,
+  "en": "Ground attack of variable intensity.",
+  "es": "Ataque de tierra de intensidad variable.",
+  "zh": "晃动地面，攻击自己周围所有的宝可梦。招式的威力会有各种变化。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 270,
+  "en": "Concentrate all the power in the fist.It causes confusion.",
+  "es": "Concentra todo el poder en el puño. Causa confusión.",
+  "zh": "使出浑身力气出拳进行攻击。必定会使对手混乱。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 271,
+  "en": "Roll with the horn bluntly.",
+  "es": "Arremete con el cuerno de forma contundente.",
+  "zh": "用坚硬且华丽的角狠狠地刺入对手进行攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 272,
+  "en": "Exhale a powerful blow that can paralyze the enemy.",
+  "es": "Exhala un poderoso soplo que puede paralizar al enemigo.",
+  "zh": "将强烈的气息吹向对手进行攻击。有时会让对手陷入麻痹状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 273,
+  "en": "Forces the enemy to use the last move it used.",
+  "es": "Obliga al enemigo usar el último movimiento que usó.",
+  "zh": "让对手接受再来一次，连续３次使出最后使用的招式。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 274,
+  "en": "Hit the enemy with hardened tail.",
+  "es": "Golpea al enemigo con la cola endurecida.",
+  "zh": "使用坚硬的尾巴摔打对手进行攻击。有时会降低对手的防御。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 275,
+  "en": "Hit something slow but directly at the enemy.",
+  "es": "Golpe algo lento pero directo al enemigo.",
+  "zh": "会在对手之后进行攻击。但是自己的攻击必定会命中。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 276,
+  "en": "Restore health. Its power depends on the weather.",
+  "es": "Recupera salud. Su poder depende del clima.",
+  "zh": "回复自己的ＨＰ。根据天气的不同，回复量也会有所变化。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 277,
+  "en": "Restore health. Its power depends on the weather.",
+  "es": "Recupera salud. Su poder depende del clima.",
+  "zh": "回复自己的ＨＰ。根据天气的不同，回复量也会有所变化。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 278,
+  "en": "It depends on the Pokémon that use it.",
+  "es": "Depende del Pokémon que lo usa.",
+  "zh": "招式的属性会随着使用此招式的宝可梦而改变。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 279,
+  "en": "Generates a twister to damage the opponent.",
+  "es": "Genera un tornado para dañar al rival.",
+  "zh": "兴起龙卷风，将对手卷入进行攻击。有时会使对手畏缩。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 280,
+  "en": "Inflicts double damage of the last Sp. attack received.",
+  "es": "Infringe un daño doble al del último At. Esp. recibido.",
+  "zh": "从对手那里受到特殊攻击的伤害将以２倍返还给同一个对手。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 281,
+  "en": "Copy the opponent's stats modifiers.",
+  "es": "Copia del rival los modificadores de stats.",
+  "zh": "向自己施以自我暗示，将能力变化的状态变得和对手一样。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 282,
+  "en": "Strong and very fast attack.",
+  "es": "Ataque fuerte y rapidísimo.",
+  "zh": "以迅雷不及掩耳之势猛撞向对手进行攻击。必定能够先制攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 283,
+  "en": "Attacks with a prehistoric power.",
+  "es": "Ataca con un poder prehistórico.",
+  "zh": "用原始之力进行攻击。有时会提高自己所有的能力。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 284,
+  "en": "He envisions an attack that will strike in the future.",
+  "es": "Vislumbra un ataque que golpeará en el futuro.",
+  "zh": "在使用招式２回合后，向对手发送一团念力进行攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 285,
+  "en": "Blow that destroys rocks out of combat.",
+  "es": "Golpe que permite destrozar rocas fuera del combate.",
+  "zh": "用拳头进行攻击。有时会降低对手的防御。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 286,
+  "en": "You get as many hits as healthy members on your team.",
+  "es": "Se dan tantos golpes como miembros sanos en su equipo.",
+  "zh": "我方全员进行攻击。同行的宝可梦越多，招式的攻击次数越多。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 287,
+  "en": "Flinches the target. Only works if done first.",
+  "es": "Causa retroceso. Solo hiere si se realiza en primer lugar. ",
+  "zh": "进行先制攻击，使对手畏缩。要在出场后立刻使出才能成功。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 288,
+  "en": "Cause an unbearable uproar to harm the enemy.",
+  "es": "Provoca un alboroto insoportable para dañar al enemigo.",
+  "zh": "在３回合内用骚乱攻击对手。在此期间谁都不能入眠。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 289,
+  "en": "Go up the Def. And Def. Sp Increases the Reserve by one.",
+  "es": "Sube la Def. y Def. Esp. Aumenta la Reserva en uno.",
+  "zh": "积蓄力量，提高自己的防御和特防。最多积蓄３次。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 290,
+  "en": "If you used Reserve before, increases attack power.",
+  "es": "Si antes ha usado Reserva, aumenta el poder de ataque.",
+  "zh": "将积蓄的力量撞向对手进行攻击。积蓄得越多，威力越大。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 291,
+  "en": "If you used Reserve before, recover health.",
+  "es": "Si antes ha usado Reserva, recupera salud.",
+  "zh": "将积蓄的力量吞下，从而回复自己的ＨＰ。积蓄得越多，回复越大。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 292,
+  "en": "Prevents the opponent from repeating the same attack twice .",
+  "es": "Impide al rival repetir el mismo ataque dos veces seguidas.",
+  "zh": "向对手无理取闹，令其不能连续２次使出相同招式。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 293,
+  "en": "Increases At. Sp of the enemy and confuses it.",
+  "es": "Aumenta el At. Esp. del enemigo y lo confunde.",
+  "zh": "吹捧对手，使其混乱。同时还会提高对手的特攻。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 294,
+  "en": "Throw a sinister blue flame that burns the opponent.",
+  "es": "Lanza una siniestra llama azulada que quema al rival.",
+  "zh": "放出怪异的火焰，从而让对手陷入灼伤状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 295,
+  "en": "Faints, but reduces the At. and the Sp At. of the enemy.",
+  "es": "Se debilita para reducir el At. y el At. Esp. al enemigo.",
+  "zh": "虽然会使自己陷入濒死，但是能够大幅降低对手的攻击和特攻。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 296,
+  "en": "Doubles its power if user suffers a change of state.",
+  "es": "Duplica su poder si el usuario sufre un cambio de estado.",
+  "zh": "当自己处于中毒、麻痹、灼伤状态时，向对手使出此招式的话，威力会变成２倍。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 297,
+  "en": "Attack that requires load but is very powerful.",
+  "es": "Ataque que requiere carga pero es muy potente.",
+  "zh": "集中精神出拳。在招式使出前若受到攻击则会失败。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 298,
+  "en": "It doubles the power against paralyzed,but heal its paralysis.",
+  "es": "Duplica el poder contra paralizados y cura su estado.",
+  "zh": "对于麻痹状态下的对手，威力会变成２倍。但相反对手的麻痹也会被治愈。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 299,
+  "en": "Create a copy of yourself that attracts attacks.",
+  "es": "Crea una copia de si mismo que atrae los ataques rivales.",
+  "zh": "引起对手的注意，将对手的攻击全部转移到自己身上。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 300,
+  "en": "Perform an adapted attack for the combat scenario.",
+  "es": "Realiza un ataque adaptado para el escenario de combate.",
+  "zh": "用自然之力进行攻击。根据所使用场所的不同，使出的招式也会有所变化。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 301,
+  "en": "Doubles the power of the electric attack and raises Sp. Def.",
+  "es": "Duplica el poder del ataque eléctrico, y sube Def. Esp.",
+  "zh": "提高下一回合使出的电属性的招式威力。自己的特防也会提高。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 302,
+  "en": "Mocks the opponent and forces them to use direct damage attacks.",
+  "es": "Se burla del rival y le obliga a usar ataques de daño directo.",
+  "zh": "使对手愤怒。在３回合内让对手只能使出给予伤害的招式。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 303,
+  "en": "Exchange objects in case someone has it.",
+  "es": "Intercambio de objetos en caso de que alguno lo tenga.",
+  "zh": "抓住对手的空隙，交换自己和对手的持有物。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 304,
+  "en": "Copy the special enemy ability.",
+  "es": "Copia la habilidad especial del enemigo.",
+  "zh": "扮演对手，让自己的特性变得和对手相同。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 305,
+  "en": "After a while recovers the health of the Pokemon in battle.",
+  "es": "Pasado un tiempo recupera la salud del Pokémon en batalla.",
+  "zh": "在下一回合回复自己或是替换出场的宝可梦最大ＨＰ的一半。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 306,
+  "en": "Use a randomly chosen attack of your team's Pokemon.",
+  "es": "Usa un ataque elegido al azar de los Pokémon de su equipo.",
+  "zh": "向同伴紧急求助，从我方宝可梦已学会的招式中随机使用１个。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 307,
+  "en": "Roots to heal, preventing it from switching out.",
+  "es": "Echa raíces para curarse impidiendo ser cambiado.",
+  "zh": "在大地上扎根，每回合回复自己的ＨＰ。因为扎根了，所以不能替换宝可梦。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 308,
+  "en": "Powerful attack that lowers the Def. and Atk. of the user.",
+  "es": "Poderoso ataque de lucha que baja la Def. y At. al usuario.",
+  "zh": "发挥惊人的力量攻击对手。自己的攻击和防御会降低。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 309,
+  "en": "Returns the effect of attacks that do not harm.",
+  "es": "Devuelve al enemigo el efecto de ataques que no dañan.",
+  "zh": "当对手使出会变成异常状态的招式或寄生种子等时，会将对手的招式反射回去。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 310,
+  "en": "Recycles the previously consumed object in combat.",
+  "es": "Recicla el objeto previamente consumido en el combate.",
+  "zh": "使战斗中已经消耗掉的自己的持有物再生，并可以再次使用。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 311,
+  "en": "If the enemy has just attacked double your base power.",
+  "es": "Si el enemigo acaba de atacar duplica su poder base.",
+  "zh": "如果受到对手的招式攻击，就能给予对手２倍的伤害。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 312,
+  "en": "Even though it fails, it destroys Reflections and Light Screens.",
+  "es": "Aunque falle, destruye Reflejos y Pantallas Luz.",
+  "zh": "将手刀猛烈地挥下攻击对手。还可以破坏光墙和反射壁等。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 313,
+  "en": "Makes the enemy fall asleep after a while.",
+  "es": "Provoca sueño al enemigo al cabo de un rato.",
+  "zh": "打个大哈欠引起睡意。在下一回合让对手陷入睡眠状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 314,
+  "en": "In case the enemy has an object, it loses it.",
+  "es": "En caso de que el enemigo tenga objeto, lo pierde.",
+  "zh": "拍落对手的持有物，直到战斗结束都不能使用。对手携带道具时会增加伤害。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 315,
+  "en": "The power of the attack depends on the user's health.",
+  "es": "El poder del ataque depende de la Salud del usuario.",
+  "zh": "爆发怒火攻击对手。自己的ＨＰ越少，招式的威力越小。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 316,
+  "en": "The user and the enemy interchange their skills.",
+  "es": "El usuario y el enemigo intercambian sus habilidades.",
+  "zh": "利用超能力互换自己和对手的特性。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 317,
+  "en": "Prevents the enemy from using attacks known to the user.",
+  "es": "Impide al rival usar ataques que el usuario conozca.",
+  "zh": "如果对手有和自己相同的招式，那么只有对手无法使用该招式。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 318,
+  "en": "Heals the status conditions that stop attacks.",
+  "es": "Se cura de los cambios de estado que le permiten atacar.",
+  "zh": "让身体休息，治愈自己身上所中的毒、麻痹、灼伤的异常状态。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 319,
+  "en": "If the opponent faints the user won't be able to use the attack.",
+  "es": "Si el rival debilita al usuario le impedirá usar el ataque.",
+  "zh": "因对手的招式而陷入濒死时给对手施加怨念，让该招式的ＰＰ变成０。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 320,
+  "en": "Steals the effect of the next opponent's move.",
+  "es": "Roba al enemigo el efecto de su siguiente movimiento.",
+  "zh": "将对手打算使用的回复招式或能力变化招式夺为己用。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 321,
+  "en": "Its effect varies depending on the battlefield.",
+  "es": "Su efecto varía dependiendo del terreno de batalla.",
+  "zh": "根据使用场所不同，该招式的追加效果也会有所变化。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 322,
+  "en": "Dives into the water to surprise the enemy.",
+  "es": "Se sumerge en el agua para sorprender al enemigo.",
+  "zh": "第１回合潜入，第２回合浮上来进行攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 323,
+  "en": "Repeatedly hit the enemy with open palms.",
+  "es": "Empuja con las manos abiertas al enemigo repetidas veces.",
+  "zh": "用张开着的双手猛推对手进行攻击。连续攻击２～５次。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 324,
+  "en": "Modifies the type depending on the battleground.",
+  "es": "Modifica su tipo dependiendo del terreno de batalla.",
+  "zh": "根据所在场所不同，如水边、草丛和洞窟等，可以改变自己的属性。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 325,
+  "en": "Increases the user's Sp. Atk. 3 levels.",
+  "es": "Aumenta al usuario su At. Esp. en 3 niveles.",
+  "zh": "凝视闪烁的光芒，集中自己的精神，从而巨幅提高特攻。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 326,
+  "en": "Makes an explosion of light. Can reduce Sp. Def. ",
+  "es": "Lanza una explosión de luz. Puede reducir la Def. Esp.",
+  "zh": "释放耀眼的光芒进行攻击。有时会降低对手的特防。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 327,
+  "en": "Blast that damages the enemy. Can reduce Sp. Atk.",
+  "es": "Ráfaga que daña al enemigo. Puede reducir el At. Esp.",
+  "zh": "用围绕着雾状羽毛的球进行攻击。有时会降低对手的特攻。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 328,
+  "en": "Throws feathers wrapping the opponent and lowering Atk. ",
+  "es": "Lanza plumas que envuelven al rival bajando su At.",
+  "zh": "撒出羽毛，笼罩在对手的周围。大幅降低对手的攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 329,
+  "en": "Strange attack which confuses the enemy.",
+  "es": "Extraño ataque por el cual provoca confusión al enemigo.",
+  "zh": "摇摇晃晃地跳起舞蹈，让自己周围的宝可梦陷入混乱状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 330,
+  "en": "Kick that can burn. High critical strike rate.",
+  "es": "Patada que puede quemar. Alto indice de golpe crítico.",
+  "zh": "攻击对手后，有时会使其陷入灼伤状态。也容易击中要害。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 331,
+  "en": "Spreads mud on the ground and weakens electric strikes.",
+  "es": "Esparce lodo por el suelo y debilita ataques eléctricos.",
+  "zh": "一旦使用此招式，周围就会弄得到处是泥。在５回合内减弱电属性的招式。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 332,
+  "en": "Throws several more and more powerful iceballs.",
+  "es": "Lanza varias bolas de hielo cada vez mas poderosas.",
+  "zh": "在５回合内攻击对手。招式每次击中，威力就会提高。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 333,
+  "en": "Strikes with an arm with needles that cause recoil.",
+  "es": "Golpea con un brazo con pinchos y causa retroceso.",
+  "zh": "用带刺的手臂猛烈地挥舞进行攻击。有时会使对手畏缩。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 334,
+  "en": "The user relaxes recovering health.",
+  "es": "El usuario se relaja recuperando la salud.",
+  "zh": "偷懒休息。回复自己最大ＨＰ的一半。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 335,
+  "en": "Releases a horrible scream that inflicts damage.",
+  "es": "Suelta un horrible grito que inflige daño.",
+  "zh": "给予对手又吵又响的巨大震动进行攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 336,
+  "en": "Bites the enemy with toxic fangs. It can poison.",
+  "es": "Muerde al enemigo con tóxicos colmillos. Puede envenenar.",
+  "zh": "用有毒的牙齿咬住对手进行攻击。有时会使对手中剧毒。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 337,
+  "en": "Strong scratch that can lower Def.",
+  "es": "Fuerte arañazo que puede bajar la Def. al rival.",
+  "zh": "用坚硬的锐爪劈开对手进行攻击。有时会降低对手的防御。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 338,
+  "en": "Hard strike with the fist like a meteorite.",
+  "es": "Duro golpe con el puño encendido como un meteorito.",
+  "zh": "使出彗星般的拳头攻击对手。有时会提高自己的攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 339,
+  "en": "Surprises the opponent and causes flinch.",
+  "es": "Sorprende al rival para causarle retroceso.",
+  "zh": "用尖叫声等突然惊吓对手进行攻击。有时会使对手畏缩。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 340,
+  "en": "Attack whose power and type depend on the weather.",
+  "es": "Ataque cuyo poder y tipo dependen del clima.",
+  "zh": "根据使用时的天气，招式属性和威力会改变。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 341,
+  "en": "Fragrance that heals all status conditions of the team.",
+  "es": "Aroma que cura todos los cambios de estado del equipo.",
+  "zh": "让同伴闻沁人心脾的香气，从而治愈我方全员的异常状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 342,
+  "en": "Crocodile tears that decrease the opponent Sp. Def.",
+  "es": "Lagrimas de cocodrilo que bajan al rival la Def. Esp.",
+  "zh": "装哭流泪。使对手不知所措，从而大幅降低对手的特防。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 343,
+  "en": "Hits the enemy with a sharpened wind.",
+  "es": "Lanza al enemigo un viento que corta.",
+  "zh": "用锐利的风切斩对手进行攻击。容易击中要害。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 344,
+  "en": "The user attacks with their full strength, reducing Sp.Atk.",
+  "es": "El usuario ataca con toda su fuerza reduciendo su At. Esp.",
+  "zh": "使出全部力量攻击对手。使用之后会因为反作用力，自己的特攻大幅降低。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 345,
+  "en": "Cancels the opponent's evasion and Ghosts immunity.",
+  "es": "Anula la evasión del rival y la inmunidad de Fantasmas.",
+  "zh": "使出后对幽灵属性宝可梦没有效果的招式以及闪避率高的对手，变得能够打中。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 346,
+  "en": "Throws rocks at enemy to lower their Speed.",
+  "es": "Tira rocas al enemigo para bajar su Vel.",
+  "zh": "投掷岩石进行攻击。封住对手的行动，从而降低速度。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 347,
+  "en": "Metallic sound that reduces Sp. Def. of the opponent.",
+  "es": "Sonido metálico que baja al rival la Def. Esp.",
+  "zh": "让对手听摩擦金属般讨厌的声音。大幅降低对手的特防。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 348,
+  "en": "Emits a whistle that sleeps the enemy.",
+  "es": "Emite un silbido que duerme al enemigo.",
+  "zh": "让对手听舒适的笛声，从而陷入睡眠状态。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 349,
+  "en": "It tickles the opponent and lowers Atk. And Def.",
+  "es": "Hace cosquillas al rival y baja su At. y Def.",
+  "zh": "给对手挠痒，使其发笑，从而降低对手的攻击和防御。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 350,
+  "en": "Absorbs power from space and raise its Def. and Sp. Def.",
+  "es": "Absorbe poder del espacio y sube su Def. y Def. Esp.",
+  "zh": "汲取宇宙中神秘的力量，从而提高自己的防御和特防。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 351,
+  "en": "The power of the attack depends of the user’s Health.",
+  "es": "El poder del ataque depende de la Salud del usuario.",
+  "zh": "掀起潮水进行攻击。自己的ＨＰ越少，招式的威力越小。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 352,
+  "en": "Shoot a dark thunderbolt light that can cause confusion.",
+  "es": "Dispara un siniestro rayo de luz que puede confundir.",
+  "zh": "发射神奇的光线进行攻击。有时会使对手混乱。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 353,
+  "en": "If the enemy is near the hit fails.",
+  "es": "Si el enemigo anda cerca lo golpea sin fallo.",
+  "zh": "使出混影之拳。攻击必定会命中。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 354,
+  "en": "Invisible mental attack can get back.",
+  "es": "Ataque mental invisible que puede hacer retroceder.",
+  "zh": "发出看不见的神奇力量进行攻击。有时会使对手畏缩。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 355,
+  "en": "Hit the enemy taking impulse from the air.",
+  "es": "Golpea al enemigo tomando impulso desde el aire.",
+  "zh": "用冲向天空般高高的上勾拳顶起对手进行攻击。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 356,
+  "en": "Sand whirlpool that caught.",
+  "es": "Torbellino de arena que atrapa.",
+  "zh": "将对手困在铺天盖地的沙暴中，在４～５回合内进行攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 357,
+  "en": "Attacks in the less temperature and can faint the enemy.",
+  "es": "Ataca a la ínfima temperatura y puede acabar con el rival.",
+  "zh": "给对手一击濒死。如果是冰属性以外的宝可梦使用，就会难以打中。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 358,
+  "en": "Make a mudball and throw it at the enemy.",
+  "es": "Crea una ola de lodo y la lanza al enemigo.",
+  "zh": "向对手喷射浑浊的水进行攻击。有时会降低对手的命中率。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 359,
+  "en": "Shoot little seeds from the mouth.",
+  "es": "Lanza por la boca una pequeña oleada de semillas.",
+  "zh": "向对手猛烈地发射种子进行攻击。连续攻击２～５次。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 360,
+  "en": "Uses Spd. to hit the enemy.",
+  "es": "El usuario usa su Vel. para atacar al enemigo.",
+  "zh": "以敏捷的动作戏弄对手后进行切斩。攻击必定会命中。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 361,
+  "en": "Throws ice sharps and hits 2 to 5 times.",
+  "es": "Lanza púas de hielo que hieren de 2 a 5 veces.",
+  "zh": "向对手发射锋利的冰柱进行攻击。连续攻击２～５次。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 362,
+  "en": "The enemy can not escape or be shifted.",
+  "es": "Impide al rival huir o ser cambiado.",
+  "zh": "张开双手进行阻挡，封住对手的退路，使其不能逃走。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 363,
+  "en": "Howl that can motivate and increase the Atk.",
+  "es": "Emite un aullido que motiva al usuario subiendo su At.",
+  "zh": "大声吼叫提高气势，从而提高自己和同伴的攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 364,
+  "en": "The user increases their Atk. and Def.",
+  "es": "El usuario aumenta su Def. y At.",
+  "zh": "使出全身力气绷紧肌肉，从而提高自己的攻击和防御。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 365,
+  "en": "Jump high in the air. Can paralyze.",
+  "es": "Da un gran bote para atacar. Puede causar parálisis.",
+  "zh": "弹跳到高高的空中，第２回合攻击对手。有时会让对手陷入麻痹状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 366,
+  "en": "Shoot mud to attack.",
+  "es": "Dispara lodo para atacar.",
+  "zh": "向对手投掷泥块进行攻击。同时降低对手的速度。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 367,
+  "en": "Poisoned attack with the tail. High range of critical attack.",
+  "es": "Ataque venenoso con la cola. Alto indice de golpe crítico.",
+  "zh": "用尾巴拍打。有时会让对手陷入中毒状态，也容易击中要害。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 368,
+  "en": "Use the attack to steal an enemy’s object.",
+  "es": "Aprovecha el golpe para coger el objeto al rival.",
+  "zh": "一边可爱地撒娇，一边靠近对手进行攻击，还能夺取对手携带的道具。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 369,
+  "en": "Throws a cutting leaf and chase the enemy.",
+  "es": "Lanza una hoja cortante que persigue al enemigo.",
+  "zh": "散落可以追踪对手的神奇叶片。攻击必定会命中。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 370,
+  "en": "Spread water over the floor and weakens the enemy.",
+  "es": "Esparce agua por el suelo y debilita ataques de fuego.",
+  "zh": "用水湿透周围。在５回合内减弱火属性的招式。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 371,
+  "en": "The user concentrates to increase their Sp. Atk. and Sp. Def.",
+  "es": "El usuario se concentra para subir su At. Esp. y Def. Esp.",
+  "zh": "静心凝神，从而提高自己的特攻和特防。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 372,
+  "en": "Cut the enemy with a leaf. High range of critical attack.",
+  "es": "Corta al rival con una hoja. Alto indice de golpe crítico.",
+  "zh": "像用剑一般操纵叶片切斩对手进行攻击。容易击中要害。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 373,
+  "en": "Mystical and Powerful dance. Increase the Atk. and Spd.",
+  "es": "Mística y poderosa danza que sube su At. y Vel.",
+  "zh": "激烈地跳起神秘且强有力的舞蹈。从而提高自己的攻击和速度。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 374,
+  "en": "Throws little stones at the enemy.",
+  "es": "Lanza al enemigo pequeñas piedras repetidas veces.",
+  "zh": "向对手发射坚硬的岩石进行攻击。连续攻击２～５次。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 375,
+  "en": "Ask for a wish to hit in the future.",
+  "es": "Pide un deseo para que un ataque golpee en el futuro.",
+  "zh": "使用招式２回合后，会用无数道光束攻击对手。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 376,
+  "en": "The user attacks with all their strength, decreasing Sp. Atk.",
+  "es": "El usuario ataca con toda su fuerza reduciendo su At. Esp.",
+  "zh": "使出全部力量攻击对手。使用之后会因为反作用力，自己的特攻大幅降低。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 377,
+  "en": "Recover health but if is Flying type lose that type.",
+  "es": "Recupera salud pero si es Volador pierde este tipo.",
+  "zh": "降到地面，使身体休息。回复自己最大ＨＰ的一半。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 378,
+  "en": "Increase the gravity and grounds flying and levitating Pokémon.",
+  "es": "Aumenta la gravedad y afecta a voladores y levitadores.",
+  "zh": "在５回合内，飘浮特性和飞行属性的宝可梦会被地面属性的招式击中。飞向空中的招式也将无法使用。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 379,
+  "en": "Allow use psycho attacks against dark attacks.",
+  "es": "Permite utilizar ataques Psíquicos contra Siniestros.",
+  "zh": "使出后对恶属性宝可梦没有效果的招式以及闪避率高的对手，变得能够打中。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 380,
+  "en": "Deals double damage against sleepers but wakes them.",
+  "es": "Duplica el poder contra dormidos, pero los despierta.",
+  "zh": "给予睡眠状态下的对手较大的伤害。但相反对手会从睡眠中醒过来。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 381,
+  "en": "A hard and strong hit but decreases Spd.",
+  "es": "Propina un duro y fuerte golpe pero baja la Vel.",
+  "zh": "挥舞强力而沉重的拳头，给予对手伤害。自己的速度会降低。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 382,
+  "en": "More powerful if the enemy is faster than the user.",
+  "es": "Más poderoso si el rival es más veloz que el usuario.",
+  "zh": "让身体高速旋转并撞击对手。速度比对手越慢，威力越大。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 383,
+  "en": "The user faints to cure the next Pokémon.",
+  "es": "El usuario se debilita para curar al siguiente Pokémon.",
+  "zh": "虽然自己陷入濒死，但可以治愈后备上场的宝可梦的异常状态以及回复ＨＰ。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 384,
+  "en": "Deals double damage to enemies with half or less HP.",
+  "es": "Su poder se dobla con rivales con menos de la mitad de PS.",
+  "zh": "当对手的ＨＰ负伤到一半左右时，招式威力会变成２倍。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 385,
+  "en": "If the user has a Berry they throw it at the enemy.",
+  "es": "Si el usuario tiene una Baya la usa y la lanza al rival.",
+  "zh": "从树果上获得力量进行攻击。根据携带的树果，招式属性和威力会改变。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 386,
+  "en": "Attacks the enemy with the beak and eats their Berry.",
+  "es": "Ataca al enemigo con el pico y se come su Baya.",
+  "zh": "用喙进行攻击。当对手携带树果时，可以食用并获得其效果。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 387,
+  "en": "Increase one Stat of the user by chance.",
+  "es": "Aumenta al usuario uno de sus Stats elegido al azar.",
+  "zh": "通过点穴让身体舒筋活络。大幅提高某１项能力。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 388,
+  "en": "If the user is blow it, return a stronger attack.",
+  "es": "Si el usuario es golpeado, devuelve un ataque más fuerte.",
+  "zh": "使出招式前，将最后受到的招式的伤害大力返还给对手。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 389,
+  "en": "Hit the opponent and switches. If trapped, escapes.",
+  "es": "Golpea al rival y es cambiado. Si está atrapado, se escapa.",
+  "zh": "在攻击之后急速返回，和后备宝可梦进行替换。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 390,
+  "en": "Hit with close combat.But decrease Def. And Sp. Def.",
+  "es": "Golpea al enemigo a bocajarro pero baja la Def. y Def. Esp.",
+  "zh": "放弃守护，向对手的怀里突击。自己的防御和特防会降低。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 391,
+  "en": "Increases in power if the opponent is faster than the user.",
+  "es": "Duplica su poder si el rival es más veloz que el usuario.",
+  "zh": "蓄力攻击。如果能在对手之后攻击，招式的威力会变成２倍。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 392,
+  "en": "The enemy and their trainer can not use objects.",
+  "es": "Impide al enemigo como a su entrenador el uso de objetos.",
+  "zh": "让对手在５回合内不能使用宝可梦携带的道具。训练家也不能给那只宝可梦使用道具。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 393,
+  "en": "The user throws their equipped object to injure the enemy.",
+  "es": "El usuario lanza al rival el objeto equipado para dañarlo.",
+  "zh": "快速投掷携带的道具进行攻击。根据道具不同，威力和效果会改变。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 394,
+  "en": "Transfers negative status to the enemy.",
+  "es": "Se ve curado de su estado alterado y se lo pasa al rival.",
+  "zh": "利用超能力施以暗示，从而将自己受到的异常状态转移给对手。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 395,
+  "en": "The enemy cannot recover health using attacks.",
+  "es": "El rival no podrá recuperar su salud por medio de ataques.",
+  "zh": "在５回合内无法通过招式、特性或携带的道具来回复HP。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 396,
+  "en": "The attack is powerful while the opponent has more HP.",
+  "es": "El poder del ataque es mayor cuanto más PS tenga el rival.",
+  "zh": "用力勒紧对手进行攻击。对手的HP越多，威力越大。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 397,
+  "en": "The user shifts their stats of Atk. And Def.",
+  "es": "El usuario intercambia sus stats de At. y Def.",
+  "zh": "利用超能力交换自己的攻击和防御的力量。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 398,
+  "en": "Cause a loss of ability on the enemy.",
+  "es": "Provoca al enemigo la pérdida de su habilidad.",
+  "zh": "将胃液吐向对手的身体。沾上的胃液会消除对手的特性效果。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 399,
+  "en": "Protects the team against critical attacks by a time.",
+  "es": "Protege al equipo de Golpes críticos durante un tiempo.",
+  "zh": "向天许愿，从而在５回合内不会被对手的攻击打中要害。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 400,
+  "en": "If the enemy is attacking response with more power.",
+  "es": "Si el enemigo está atacando responde con más poder.",
+  "zh": "提高威力，抢先使出对手想要使出的招式。如果不先使出则会失败。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 401,
+  "en": "The user switches their stats of Atk. and Sp. Atk.",
+  "es": "El usuario intercambia sus stats de At. y At. Esp.",
+  "zh": "利用超能力互换自己和对手的攻击以及特攻的能力变化。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 402,
+  "en": "The user switches their stats of Def. and Sp. Def.",
+  "es": "El usuario intercambia sus stats de Def. y Def. Esp.",
+  "zh": "利用超能力互换自己和对手的防御以及特防的能力变化。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 403,
+  "en": "Deals more damage when the target has stat increases.",
+  "es": "Arremete contra el rival para darle su merecido.",
+  "zh": "根据能力变化，对手提高的力量越大，招式的威力越大。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 404,
+  "en": "Hits the enemy with a cheap shot.",
+  "es": "Golpea al enemigo bajo cuerda.",
+  "zh": "可以比对手先攻击。对手使出的招式如果不是攻击招式则会失败。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 405,
+  "en": "Spreads on the ground toxic spikes that can poison.",
+  "es": "Esparce por el terreno púas tóxicas que pueden envenenar.",
+  "zh": "在对手的脚下撒毒菱。使对手替换出场的宝可梦中毒。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 406,
+  "en": "Swap stat modifiers with the enemy.",
+  "es": "Intercambia los modificadores de estadísticas con el rival.",
+  "zh": "利用超能力互换自己和对手之间的能力变化。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 407,
+  "en": "Uses a ring of water to slowly heal itself.",
+  "es": "Usa un manto de agua para curarse poco a poco.",
+  "zh": "在自己身体的周围覆盖用水制造的幕。每回合回复ＨＰ。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 408,
+  "en": "Levitates, gaining immunity to Ground Type.",
+  "es": "Se eleva del suelo para ser inmune a ataques tipo tierra.",
+  "zh": "利用电气产生的磁力浮在空中。在５回合内可以飘浮。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 409,
+  "en": "Sphere with the power of the aura that follows the enemy.",
+  "es": "Esfera formada con el poder del aura que sigue al enemigo.",
+  "zh": "从体内产生出波导之力，然后向对手发出。攻击必定会命中。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 410,
+  "en": "The user polishes their skin and increases their Speed.",
+  "es": "El usuario pule su piel y aumenta su Vel.",
+  "zh": "打磨自己的身体，减少空气阻力。可以大幅提高自己的速度。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 411,
+  "en": "Throws a dark pulse that flinch the target.",
+  "es": "Lanza un oscuro pulso que hace retroceder.",
+  "zh": "从体内发出充满恶意的恐怖气场。有时会使对手畏缩。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 412,
+  "en": "A cutting dark blast with high critical hit rate.",
+  "es": "Ráfaga oscura cortante con alto índice de golpe crítico.",
+  "zh": "抓住瞬间的空隙切斩对手。容易击中要害。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 413,
+  "en": "Cuts the enemy by crossing their scythes or claws.",
+  "es": "Corta al enemigo cruzando sus guadañas o garras.",
+  "zh": "将镰刀或爪子像剪刀般地交叉，顺势劈开对手。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 414,
+  "en": "Throws a powerful wave generated with the mouth.",
+  "es": "Lanza una potente onda generada con la boca.",
+  "zh": "从大大的口中掀起冲击波攻击对手。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 415,
+  "en": "Charges with strength against the enemy, can cause flinch.",
+  "es": "Carga con fuerza al enemigo y puede causar retroceso.",
+  "zh": "释放出骇人的杀气，一边威慑一边撞击对手。有时会使对手畏缩。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 416,
+  "en": "Attacks with a beam of light that comes from a gem.",
+  "es": "Ataca con un rayo de luz que proviene de una gema.",
+  "zh": "发射如宝石般闪耀的光芒攻击对手。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 417,
+  "en": "Hits the enemy and absorb health.",
+  "es": "Golpea al enemigo y absorbe salud.",
+  "zh": "用拳头吸取对手的力量。可以回复给予对手伤害的一半ＨＰ。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 418,
+  "en": "Whirls and create a void to launch a very fast wave.",
+  "es": "Gira y crea el vacío para lanzar una onda muy rápida.",
+  "zh": "挥动拳头，掀起真空波。必定能够先制攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 419,
+  "en": "Focuses and throw a wave that can lower the Sp. Def. ",
+  "es": "Se concentra y tira una onda que puede bajar la Def. Esp.",
+  "zh": "提高气势，释放出全部力量。有时会降低对手的特防。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 420,
+  "en": "Shoots a energy ball that can lower the Sp. Def.",
+  "es": "Dispara una bola de energía que puede bajar la Def. Esp.",
+  "zh": "发射从自然收集的生命力量。有时会降低对手的特防。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 421,
+  "en": "Powerful flying attack that also injures the user.",
+  "es": "Poderoso ataque volador que también hiere al usuario.",
+  "zh": "收拢翅膀，通过低空飞行突击对手。自己也会受到不小的伤害。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 422,
+  "en": "Attack that causes an underground eruption.",
+  "es": "Ataque que provoca una erupción subterránea.",
+  "zh": "向对手脚下释放出大地之力。有时会降低对手的特防。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 423,
+  "en": "Swaps objects in case anyone has it.",
+  "es": "Intercambio de objetos en caso de que alguno lo tenga.",
+  "zh": "用一闪而过的速度交换自己和对手的持有物。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 424,
+  "en": "It causes an impressive impact on the enemy.",
+  "es": "Ocasiona un impresionante impacto al enemigo.",
+  "zh": "使出自己浑身力量突击对手。下一回合自己将无法动弹。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 425,
+  "en": "Increases the user's Sp. Atk. 2 levels.",
+  "es": "Aumenta al usuario su At. Esp. en 2 niveles.",
+  "zh": "谋划诡计，激活头脑。大幅提高自己的特攻。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 426,
+  "en": "Strike the enemy with a quick steel fist.",
+  "es": "Golpea al enemigo con un puño de acero velozmente.",
+  "zh": "向对手使出如子弹般快速而坚硬的拳头。必定能够先制攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 427,
+  "en": "If the enemy has just attacked double your base power.",
+  "es": "Si el enemigo acaba de atacar duplica su poder base.",
+  "zh": "如果受到对手的招式攻击，就能给予该对手２倍威力的攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 428,
+  "en": "Ice attack tremendously fast.",
+  "es": "Ataque de hielo tremendamente rápido.",
+  "zh": "瞬间制作冰块，快速地扔向对手。必定能够先制攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 429,
+  "en": "The user uses their shadow to surprise the opponent.",
+  "es": "El usuario usa su sombra para sorprender al rival.",
+  "zh": "伸长影子，从对手的背后进行攻击。必定能够先制攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 430,
+  "en": "Throws a mudball. It can lower accuracy.",
+  "es": "Lanza una bola de lodo. Puede bajar la precisión.",
+  "zh": "向对手发射坚硬的泥弹进行攻击。有时会降低对手的命中率。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 431,
+  "en": "Cutting attack with power of the mind.",
+  "es": "Ataque cortante con el poder de la mente.",
+  "zh": "用实体化的心之利刃劈开对手。容易击中要害。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 432,
+  "en": "Concentrates power on its head before hit.",
+  "es": "Concentra su poder en la cabeza antes de golpear.",
+  "zh": "将思念的力量集中在前额进行攻击。有时会使对手畏缩。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 433,
+  "en": "Emits a bright light that can lower accuracy.",
+  "es": "Emite una luz de energía que puede bajar la precisión.",
+  "zh": "抛光自己的身体，向对手释放出闪光之力。有时会降低对手的命中率。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 434,
+  "en": "Punches the opponent and may confuse them.",
+  "es": "Arremete fuertemente contra el rival y puede confundirlo.",
+  "zh": "用尽全力扑向对手进行攻击。有时会使对手混乱。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 435,
+  "en": "Wind that cleans the ground and reduces the opponent's evasion.",
+  "es": "Viento que limpia el terreno y reduce la evasión del rival.",
+  "zh": "用强风吹开对手的反射壁或光墙等。也会降低对手的闪避率。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 436,
+  "en": "Modify the space making faster a slow Pokémon.",
+  "es": "Modifica el espacio haciendo veloces a los Pokémon lentos.",
+  "zh": "制造出离奇的空间。在５回合内速度慢的宝可梦可以先行动。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 437,
+  "en": "Attack with a powerful meteor reducing its Sp. Atk.",
+  "es": "Lanza al rival un poderoso cometa reduciendo su At. Esp.",
+  "zh": "从天空中向对手落下陨石。使用之后因为反作用力，自己的特攻会大幅降低。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 438,
+  "en": "Powerful fire attack that can burn the enemy.",
+  "es": "Poderoso ataque fuego que puede quemar al enemigo.",
+  "zh": "用熊熊烈火攻击自己周围所有的宝可梦。有时会陷入灼伤状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 439,
+  "en": "Hits the enemy with a storm of leaves, reducing its Sp. Atk.",
+  "es": "Lanza al rival una tormenta de hojas reduciendo su At. Esp.",
+  "zh": "用尖尖的叶片向对手卷起风暴。使用之后因为反作用力自己的特攻会大幅降低。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 440,
+  "en": "Hits the enemy with the strength of a whip.",
+  "es": "Golpea al enemigo con la fuerza de un látigo.",
+  "zh": "激烈地挥舞青藤或触手摔打对手进行攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 441,
+  "en": "Throws a devastating rock attack very powerful.",
+  "es": "Lanza un devastador ataque rocoso muy potente.",
+  "zh": "向对手发射巨大的岩石进行攻击。下一回合自己将无法动弹。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 442,
+  "en": "Attacks the enemy in an X form that can poison.",
+  "es": "Ataque al enemigo en forma de X que puede envenenar.",
+  "zh": "用毒刃劈开对手。有时会让对手陷入中毒状态，也容易击中要害。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 443,
+  "en": "Shoots lots of trash that can poison.",
+  "es": "Dispara gran cantidad de basura que puede envenenar.",
+  "zh": "用肮脏的垃圾撞向对手进行攻击。有时会让对手陷入中毒状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 444,
+  "en": "Strikes the enemy with a heavy iron head.",
+  "es": "Golpea al enemigo con su pesada cabeza de hierro.",
+  "zh": "用钢铁般坚硬的头部进行攻击。有时会使对手畏缩。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 445,
+  "en": "Throws a magnetic bomb that chases the enemy.",
+  "es": "Lanza una bomba magnética que persigue al enemigo.",
+  "zh": "发射吸住对手的钢铁炸弹。攻击必定会命中。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 446,
+  "en": "Hits the enemy by throwing sharp rocks.",
+  "es": "Golpea al enemigo lanzándole rocas afiladas.",
+  "zh": "用尖尖的岩石刺入对手进行攻击。容易击中要害。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 447,
+  "en": "Spreads in the field rocks that hurt the opponent.",
+  "es": "Esparce por el campo unas rocas que hieren al rival.",
+  "zh": "将无数岩石悬浮在对手的周围，从而对替换出场的对手的宝可梦给予伤害。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 448,
+  "en": "Uses grass to trip heavy enemies.",
+  "es": "Lanza una hierba que hace al enemigo tropezar.",
+  "zh": "用草缠住并绊倒对手。对手越重，威力越大。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 449,
+  "en": "Emits a strange sound that confuses the enemy.",
+  "es": "Emite un extraño sonido que confunde al rival.",
+  "zh": "用非常烦人的，喋喋不休的音波攻击对手。使对手混乱。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 450,
+  "en": "The type of attack depends on the equipped table.",
+  "es": "El tipo del ataque depende de la tabla equipada.",
+  "zh": "向对手放出无数的光弹。属性会根据自己携带的石板不同而改变。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 451,
+  "en": "Electric attack that usually increases the Sp.Atk.",
+  "es": "Ataque eléctrico que suele aumentar el At. Esp.",
+  "zh": "向对手发射电击光束。由于蓄满电流，有时会提高自己的特攻。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 452,
+  "en": "The user slams with its body. It also hurts the user.",
+  "es": "Golpea con todo el cuerpo. También hiere al agresor.",
+  "zh": "用坚硬的躯体撞击对手进行攻击。自己也会受到不小的伤害。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 453,
+  "en": "Quick water attack to hit the enemy.",
+  "es": "Ataque acuático rapidísimo para golpear al rival.",
+  "zh": "以迅雷不及掩耳之势扑向对手。必定能够先制攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 454,
+  "en": "User sends a team of bees to attack.",
+  "es": "Manda un equipo de abejas al ataque.",
+  "zh": "召唤手下，让其朝对手发起攻击。容易击中要害。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 455,
+  "en": "User increases its Def. and Sp.Def.",
+  "es": "El usuario aumenta su Def. y su Def. Esp.",
+  "zh": "召唤手下，让其附在自己的身体上。可以提高自己的防御和特防。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 456,
+  "en": "User asks for help and recovers its health.",
+  "es": "El usuario pide ayuda y recupera su salud.",
+  "zh": "召唤手下疗伤。回复自己最大HP的一半。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 457,
+  "en": "Hit with the head. So strong that it hurts the user.",
+  "es": "Golpe con la cabeza tan fuerte que hiere al usuario.",
+  "zh": "拼命使出浑身力气，向对手进行头锤攻击。自己也会受到非常大的伤害。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 458,
+  "en": "Attacks the enemy with two hits.",
+  "es": "Ataca al enemigo con dos golpes.",
+  "zh": "使用尾巴等拍打对手进行攻击。连续２次给予伤害。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 459,
+  "en": "User executes an attack that distorts time.",
+  "es": "El usuario lanza un ataque que distorsiona el tiempo.",
+  "zh": "释放出扭曲时间般的强大力量攻击对手。下一回合自己将无法动弹。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 460,
+  "en": "User executes an attack wrapped in the void.",
+  "es": "El usuario lanza un ataque envuelto en el vacío.",
+  "zh": "将对手连同周围的空间一起撕裂并给予伤害。容易击中要害。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 461,
+  "en": "User faints to restore the health of a teammate.",
+  "es": "Se debilita para restaurar la salud de su compañero.",
+  "zh": "虽然自己陷入濒死，但可以治愈后备上场的宝可梦的全部状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 462,
+  "en": "The attack is more powerful the more HP the target has.",
+  "es": "El poder del ataque es mayor cuanto más PS tenga el rival.",
+  "zh": "用骇人的力量捏碎对手。对手剩余的ＨＰ越多，威力越大。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 463,
+  "en": "Firestorm that wraps the enemy.",
+  "es": "Tormenta de fuego que atrapa al enemigo.",
+  "zh": "将对手困在熊熊燃烧的火焰中，在４～５回合内进行攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 464,
+  "en": "Introduce the enemy in the dark and makes them sleepy.",
+  "es": "Introduce al enemigo en las tinieblas y le provoca sueño.",
+  "zh": "将对手强制拖入黑暗的世界，从而让对手陷入睡眠状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 465,
+  "en": "Generates an energy wave that may reduce Sp.Def.",
+  "es": "Genera una onda de energía que puede reducir la Def. Esp.",
+  "zh": "从身体里产生冲击波。有时会大幅降低对手的特防。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 466,
+  "en": "Creates a repulsive wind. Its may increase Stats.",
+  "es": "Crea una especie de viento repulsivo. Puede subir Stats.",
+  "zh": "突然刮起毛骨悚然的暴风攻击对手。有时会提高自己的全部能力。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 467,
+  "en": "Enter the dark to attack later.",
+  "es": "Entra en las tinieblas para atacar posteriormente.",
+  "zh": "第１回合消失踪影，第２回合攻击对手。即使对手正受保护，也能击中。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 468,
+  "en": "Creates a big wave of lava and sends it to the target.",
+  "es": "Crea una ola enorme de lava y se la lanza al enemigo.",
+  "zh": "制造巨大的熔岩浪潮，向对手投掷过去。"
+ },
+ {
+  "id": 469,
+  "en": "Modify the room inverting the coordinates.",
+  "es": "Modifica el espacio invirtiendo las coordenadas.",
+  "zh": "通过颠倒坐标来扭曲空间。"
+ },
+ {
+  "id": 470,
+  "en": "Throws a powerful poisonous star that follows the target.",
+  "es": "Lanza una poderosa estrella venenosa que sigue al enemigo.",
+  "zh": "发射追踪对手的强力毒之星进行攻击。"
+ },
+ {
+  "id": 471,
+  "en": "Icy attack that freezes the target.",
+  "es": "Ataque gélido que provoca al enemigo congelación.",
+  "zh": "用极寒的攻击使对手陷入冰冻状态。"
+ },
+ {
+  "id": 472,
+  "en": "Powerful psychic attack that hits physically.",
+  "es": "Poderoso ataque Psíquico que golpea físicamente.",
+  "zh": "将神奇的念波实体化攻击对手。给予物理伤害。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 473,
+  "en": "Throws a whirlwind of leaves to reduce accuracy.",
+  "es": "Lanza un torbellino de hojas para bajar la precisión.",
+  "zh": "用锋利的叶片包裹住对手进行攻击。有时会降低对手的命中率。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 474,
+  "en": "Charges the enemy with fire and may increase Speed.",
+  "es": "Carga al enemigo con fuego y puede subir su Vel.",
+  "zh": "让火焰覆盖全身，攻击对手。积蓄力量并提高自己的速度。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 475,
+  "en": "Use the shell to hit the enemy.",
+  "es": "Usa la concha para golpear al enemigo.",
+  "zh": "用锋利的贝壳切斩对手进行攻击。有时会降低对手的防御。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 476,
+  "en": "Powerful dark attack that may reduce accuracy.",
+  "es": "Poderoso ataque siniestro que puede bajar la precisión.",
+  "zh": "放出黑暗的冲击波攻击对手。有时会降低对手的命中率。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 477,
+  "en": "Becomes stronger the faster the user is compared to the enemy.",
+  "es": "Mejora cuanto más rápido es el usuario frente al rival.",
+  "zh": "用电气团撞向对手。自己比对手速度越快，威力越大。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 478,
+  "en": "Spins like a drill to inflict damage.",
+  "es": "Gira sobre si mismo como una taladradora para golpear.",
+  "zh": "像钢钻一样，一边旋转身体一边撞击对手。容易击中要害。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 479,
+  "en": "Increases the Atk. and Accuracy of the user.",
+  "es": "Aumenta el At. y la Precisión del usuario.",
+  "zh": "将爪子磨得更加锋利。提高自己的攻击和命中率。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 480,
+  "en": "Damages the target using their own Atk. Stat.",
+  "es": "Golpea al rival utilizando su propio stat de At.",
+  "zh": "利用对手的力量进行攻击。正和自己战斗的对手，其攻击越高，伤害越大。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 481,
+  "en": "Attacks the target with a burning flame.",
+  "es": "Ataca al enemigo con una llama ardiente.",
+  "zh": "如果击中，爆裂的火焰会攻击到对手。爆裂出的火焰还会飞溅到旁边的对手。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 482,
+  "en": "Deals double damage if the opponent suffers a status change.",
+  "es": "Duplica su poder si el rival sufre un cambio de estado.",
+  "zh": "接二连三地进行攻击。对处于异常状态的对手给予较大的伤害。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 483,
+  "en": "Attacks the target with two hits.",
+  "es": "Ataca al enemigo con dos golpes.",
+  "zh": "用身体坚硬的部分拍打对手进行攻击。连续２次给予伤害。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 484,
+  "en": "Increases the Attack and the Sp.Atk.",
+  "es": "Aumenta el At. y el At. Esp.",
+  "zh": "激励自己，从而提高攻击和特攻。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 485,
+  "en": "Increases the Sp.Atk., Sp.Def., and Speed.",
+  "es": "Aumenta el At. Esp., Def. Esp., y la Vel.",
+  "zh": "轻巧地跳起神秘而又美丽的舞蹈。提高自己的特攻、特防和速度。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 486,
+  "en": "Fire type attack that may increase Sp.Atk.",
+  "es": "Ataque de tipo fuego que puede subir el At. Esp.",
+  "zh": "让火焰覆盖全身，振翅攻击对手。有时会提高自己的特攻。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 487,
+  "en": "Powerful electric discharge that can paralyze the target.",
+  "es": "Poderosa descarga eléctrica capaz de paralizar al enemigo.",
+  "zh": "让强大的电流覆盖全身，猛撞向对手进行攻击。有时会让对手陷入麻痹状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 488,
+  "en": "Powerful blue flare that can burn the target.",
+  "es": "Poderosa llama azulada capaz de quemar al enemigo.",
+  "zh": "用美丽而激烈的青焰包裹住对手进行攻击。有时会让对手陷入灼伤状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 489,
+  "en": "Deals double damage if the enemy uses Fusion Bolt.",
+  "es": "Duplica su poder si el enemigo usa Rayo Fusión.",
+  "zh": "释放出巨大的火焰。受到巨大的闪电影响时，招式威力会提高。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 490,
+  "en": "Deals double damage if the enemy uses Fusion Flare.",
+  "es": "Duplica su poder si el enemigo usa Llama Fusión.",
+  "zh": "释放出巨大的闪电。受到巨大的火焰影响时，招式威力会提高。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 491,
+  "en": "Attacks with its horns, ignoring Stat changes.",
+  "es": "Golpea con sus cuernos, ignorando cambios de Stats.",
+  "zh": "用长角切斩对手进行攻击。无视对手的能力变化，直接给予伤害。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 492,
+  "en": "Surrounds the enemy with a frightening cold that may burn.",
+  "es": "Rodea al enemigo de un frío aterrador que puede quemar.",
+  "zh": "用能够冻结一切的强烈冷气，在第２回合包裹住对手。有时会让对手陷入灼伤状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 493,
+  "en": "Attacks with electricity charged icy pieces.",
+  "es": "Golpea con trozos de hielo cargados de electricidad.",
+  "zh": "用覆盖着电流的冰块，在第２回合撞向对手。有时会让对手陷入麻痹状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 494,
+  "en": "Powerful sandstorm that may cause confusion.",
+  "es": "Poderosa tormenta de aire que puede confundir.",
+  "zh": "用强烈的风席卷对手进行攻击。有时会使对手混乱。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 495,
+  "en": "Shots an inferno of flames to burn the enemy.",
+  "es": "Dispara un infierno de llamas para quemar al enemigo.",
+  "zh": "用烈焰包裹住对手进行攻击。让对手陷入灼伤状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 496,
+  "en": "Electric net that deals damage and decreases enemy speed.",
+  "es": "Red eléctrica que causa daño y baja la Vel. al enemigo.",
+  "zh": "用电网捉住对手进行攻击。降低对手的速度。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 497,
+  "en": "User surrounds themself with fire to attack. May burn.",
+  "es": "Se cubre de fuego para atacar. Puede causar quemaduras.",
+  "zh": "用熊熊烈火攻击自己周围所有的宝可梦。有时会陷入灼伤状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 498,
+  "en": "Burns enemy berry, making it useless.",
+  "es": "Quema la baya del rival, haciéndola inservible.",
+  "zh": "用火焰攻击对手。对手携带树果等时，会烧掉，使其不能使用。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 499,
+  "en": "Is the most powerful fire attack.",
+  "es": "Es el ataque de tipo Fuego más poderoso de todos.",
+  "zh": "从前额产生灼热的火焰，舍身撞击对手。防御、特防和速度会降低。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 500,
+  "en": "User faints and deals damage equal to the HP they had left.",
+  "es": "Se debilita para quitar al rival tantos PS como le restan.",
+  "zh": "拼命攻击对手。虽然自己陷入濒死，但会给予对手和自己目前ＨＰ等量的伤害。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 501,
+  "en": "User attacks the target with stored power.",
+  "es": "Utiliza su energía acumulada para atacar al enemigo.",
+  "zh": "用蓄积起来的力量攻击对手。自己的能力提高得越多，威力就越大。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 502,
+  "en": "Hits its target with is flame-covered body.",
+  "es": "Golpea al enemigo con su cuerpo envuelto en llamas.",
+  "zh": "用燃烧的身体撞向对手进行攻击。自己比对手越重，威力越大。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 503,
+  "en": "Attacks with boiling water, it might burn.",
+  "es": "Lanza agua hirviendo capaz de quemar al enemigo.",
+  "zh": "向对手喷射煮得翻滚的开水进行攻击。有时会让对手陷入灼伤状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 504,
+  "en": "If user has no held item doubles its power.",
+  "es": "Si el usuario no lleva objeto, duplica su potencia.",
+  "zh": "轻巧地攻击对手。自己没有携带道具时，会给予较大的伤害。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 505,
+  "en": "Attacks target and rushes back to be switched.",
+  "es": "Ataca al rival y es cambiado. Si está atrapado, se escapa.",
+  "zh": "在攻击之后急速返回，和后备宝可梦进行替换。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 506,
+  "en": "After an ally faints it doubles the power.",
+  "es": "Duplica su poder tras ser derrotado un compañero.",
+  "zh": "为倒下的同伴报仇。如果上一回合有同伴倒下，威力就会提高。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 507,
+  "en": "Flying and levitating Pokémon will fall to the ground.",
+  "es": "Los enemigos levitadores y voladores caen al suelo.",
+  "zh": "扔石头或炮弹，攻击飞行的对手。对手会被击落，掉到地面。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 508,
+  "en": "Hits the target, no matter the changes in Def.",
+  "es": "Golpea al rival sin tener en cuenta cambios de Def.",
+  "zh": "看准机会稳步攻击。无视对手的能力变化，直接给予伤害。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 509,
+  "en": "Low kick that reduces enemy speed.",
+  "es": "Patada baja que reduce la Vel. del enemigo.",
+  "zh": "以敏捷的动作瞄准对手的脚进行攻击。降低对手的速度。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 510,
+  "en": "Makes a fierce blow. It's always a critical hit.",
+  "es": "Realiza una llave al enemigo. Siempre es golpe crítico.",
+  "zh": "向对手使出强烈的一击。攻击必定会击中要害。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 511,
+  "en": "Throws the target to end the battle.",
+  "es": "Realiza una llave al enemigo para acabar el combate.",
+  "zh": "扔飞对手，强制拉后备宝可梦上场。如果对手为野生宝可梦，战斗将直接结束。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 512,
+  "en": "Protects itself from priority moves.",
+  "es": "Se concentra para intentar evitar ataques rápidos.",
+  "zh": "守护自己和同伴，以防对手的先制攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 513,
+  "en": "Protects itself from wide ranging attacks for one turn.",
+  "es": "Se protege de ataques durante un breve periodo de tiempo.",
+  "zh": "在１回合内防住击打我方全员的攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 514,
+  "en": "Charges its head into its target.",
+  "es": "Carga contra el enemigo con la cabeza.",
+  "zh": "用厉害的爆炸头猛撞向对手进行攻击。自己也会受到少许伤害。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 515,
+  "en": "Blows cold wind. It reduces enemy speed.",
+  "es": "Viento helado que reduce la Vel. del enemigo.",
+  "zh": "将冰冻的冷气吹向对手进行攻击。会降低对手的速度。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 516,
+  "en": "Strong Fighting attack that hits physically.",
+  "es": "Fuerte ataque de lucha que golpea físicamente.",
+  "zh": "用长角切斩对手进行攻击。角上拥有的神奇力量将给予物理伤害。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 517,
+  "en": "Averages its Def and Sp Def stats with those of its target.",
+  "es": "Comparte los stats de Def. y Def. Esp. con el enemigo.",
+  "zh": "利用超能力将自己和对手的防御和特防相加，再进行平分。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 518,
+  "en": "Averages its Atk. and Sp Atk. stats with those of its target.",
+  "es": "Comparte los stats de At. y At. Esp. con el enemigo.",
+  "zh": "利用超能力将自己和对手的攻击和特攻相加，再进行平分。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 519,
+  "en": "Pokemon's Def and Sp Def stats are swapped.",
+  "es": "Todos los Pokémon cambian los stats de Def. y Def. Esp.",
+  "zh": "制造出离奇的空间。在５回合内互换所有宝可梦的防御和特防。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 520,
+  "en": "Strong psychic attack, does physical damage.",
+  "es": "Fuerte ataque psíquico que golpea físicamente.",
+  "zh": "将神奇的念波实体化攻击对手。给予物理伤害。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 521,
+  "en": "Its power is doubled if the target is poisoned.",
+  "es": "Duplica su poder si el enemigo está envenenado.",
+  "zh": "将特殊的毒液泼向对手。对处于中毒状态的对手，威力会变成２倍。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 522,
+  "en": "Reduces excess weight to increase speed.",
+  "es": "Desecha el exceso de peso para aumentar su Vel.",
+  "zh": "削掉身体上没用的部分。大幅提高自己的速度，同时体重也会变轻。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 523,
+  "en": "Secretes dust to provoke the target.",
+  "es": "Segrega un polvo al rival para provocarle ira.",
+  "zh": "将令人烦躁的粉末撒在自己身上，用以吸引对手的注意。使对手的攻击全部指向自己。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 524,
+  "en": "Lowers evasion to hit the enemy easier.",
+  "es": "Baja la evasión para que sea mas fácil acertar al enemigo.",
+  "zh": "利用超能力使对手浮起来。在３回合内攻击会变得容易打中对手。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 525,
+  "en": "Held items can't be use for a while.",
+  "es": "Durante un tiempo no podrán usarse los objetos equipados.",
+  "zh": "制造出离奇的空间。在５回合内所有宝可梦携带道具的效果都会消失。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 526,
+  "en": "Generates dangerous toxic liquid, it may poison.",
+  "es": "Genera un peligroso líquido tóxico que puede envenenar.",
+  "zh": "用污泥波攻击自己周围所有的宝可梦。有时会陷入中毒状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 527,
+  "en": "Slams into the target with its heavy body.",
+  "es": "Golpea al enemigo utilizando el peso de su cuerpo.",
+  "zh": "用沉重的身体撞向对手进行攻击。自己比对手越重，威力越大。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 528,
+  "en": "Works well if user has the same type as the target.",
+  "es": "Funciona bien si el usuario comparte tipo con el enemigo.",
+  "zh": "用神奇电波对周围所有和自己属性相同的宝可梦给予伤害。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 529,
+  "en": "Changes the target's type to water.",
+  "es": "Transforma al objetivo en un Pokémon de tipo agua.",
+  "zh": "将大量的水泼向对手，从而使其变成水属性。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 530,
+  "en": "It coils up and raises Atk., Def and accuracy.",
+  "es": "Se enrosca y aumenta el At., la Def. y la precisión.",
+  "zh": "盘蜷着集中精神。提高自己的攻击、防御和命中率。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 531,
+  "en": "Spits acid at the enemy, reduces Sp Def a lot.",
+  "es": "Lanza al enemigo ácido que baja mucho la Def. Esp.",
+  "zh": "喷出能溶化对手的液体进行攻击。大幅降低对手的特防。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 532,
+  "en": "Changes the target's ability to Simple.",
+  "es": "Cambia la habilidad del enemigo a Simple.",
+  "zh": "向对手发送谜之念波。接收到念波的对手，其特性会变为单纯。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 533,
+  "en": "Changes target's ability the same as the user's.",
+  "es": "Transforma la habilidad del enemigo en la del usuario.",
+  "zh": "用神奇的节奏跳舞。使对手模仿自己的动作，从而将特性变成一样。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 534,
+  "en": "Raises speed of user's attacks.",
+  "es": "Aumenta la Vel. de los ataques del usuario.",
+  "zh": "支援我方或对手的行动，使其紧接着此招式之后行动。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 535,
+  "en": "If no one uses another attack, doubles base power.",
+  "es": "Si nadie usa otro ataque, duplica su poder base.",
+  "zh": "用歌声攻击对手。同伴还可以接着使出轮唱招式，威力也会提高。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 536,
+  "en": "If no one uses another attack, doubles power.",
+  "es": "Si nadie usa otro ataque, va duplicando su poder.",
+  "zh": "用回声攻击对手。如果每回合都有宝可梦接着使用该招式，威力就会提高。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 537,
+  "en": "All target's status chan- ges are returned to normal.",
+  "es": "Persigue al enemigo y reinicia sus estadísticas de combate.",
+  "zh": "向对手投掷特殊的泥块进行攻击。使其能力变回原点。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 538,
+  "en": "Cold icicles that can make the target flinch.",
+  "es": "Carámbanos helados que pueden hacer retroceder.",
+  "zh": "用大冰柱激烈地撞向对手进行攻击。有时会使对手畏缩。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 539,
+  "en": "Switches positions with the enemy.",
+  "es": "Intercambia su posición por la del enemigo.",
+  "zh": "用神奇的力量瞬间移动，互换自己和同伴所在的位置。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 540,
+  "en": "Lows Def and Sp Def. Ups a lot Atk., Sp Atk. and speed.",
+  "es": "Baja los stats de Def. y sube mucho los de ataque y Vel.",
+  "zh": "打破外壳，降低自己的防御和特防，但大幅提高攻击、特攻和速度。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 541,
+  "en": "Healing wave which restores Hp. Bounce on the walls.",
+  "es": "Onda curativa que recupera salud. ¡Rebota en los límites!",
+  "zh": "放出治愈波动，从而回复对手最大ＨＰ的一半。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 542,
+  "en": "Takes the target into the sky, then drops it.",
+  "es": "Eleva al enemigo en el aire y lo lanza contra el suelo.",
+  "zh": "第１回合将对手带到空中，第２回合将其摔下进行攻击。被带到空中的对手不能动弹。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 543,
+  "en": "Raises in 2 stages speed 1 stage attack.",
+  "es": "Aumenta dos niveles la Vel. y un nivel el At.",
+  "zh": "转动齿轮，不仅提高自己的攻击，还会大幅提高速度。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 544,
+  "en": "Reduces speed of target's attacks.",
+  "es": "Reduce la Vel. de los ataques del enemigo.",
+  "zh": "压制对手，从而将其行动顺序放到最后。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 545,
+  "en": "The user reflects the target's type(s).",
+  "es": "El usuario adquiere el tipo o los tipos del enemigo.",
+  "zh": "反射对手的属性，让自己也变成一样的属性。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 546,
+  "en": "Passes its held item to the target.",
+  "es": "Entrega el objeto al enemigo.",
+  "zh": "当对手未携带道具时，能够将自己携带的道具交给对手。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 547,
+  "en": "Attacks with a column of grass.",
+  "es": "Ataca con un pilar de Planta.",
+  "zh": "用草柱进行攻击。如果和水组合，威力就会提高，周围会变成湿地。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 548,
+  "en": "Attacks with a column of fire.",
+  "es": "Ataca con un pilar de Fuego.",
+  "zh": "用火柱进行攻击。如果和草组合，威力就会提高，周围会变成火海。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 549,
+  "en": "Attacks with a column of water.",
+  "es": "Ataca con un pilar de Agua.",
+  "zh": "用水柱进行攻击。如果和火组合，威力就会提高，天空中会挂上彩虹。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 550,
+  "en": "Throws an aura at the enemy that reduces its Sp. At.",
+  "es": "Lanza al enemigo un aura que le baja el At. Esp.",
+  "zh": "抵抗并攻击对手。降低对手的特攻。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 551,
+  "en": "Causes an earth tremor that reduces enemy's Speed.",
+  "es": "Provoca un temblor de tierra que baja la Vel. al rival.",
+  "zh": "用力踩踏地面并攻击自己周围所有的宝可梦。降低对方的速度。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 552,
+  "en": "Attacks with its frosty breath. It's always a critical hit.",
+  "es": "Ataca con su gélido aliento. Siempre es golpe crítico.",
+  "zh": "将冰冷的气息吹向对手进行攻击。必定会击中要害。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 553,
+  "en": "Hits the enemy with a tail, forcing a switch.",
+  "es": "Da un coletazo al enemigo para acabar el combate.",
+  "zh": "弹飞对手，强制拉后备宝可梦上场。如果对手为野生宝可梦，战斗将直接结束。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 554,
+  "en": "Covers with electricity and charges towards the enemy.",
+  "es": "Se recubre de electricidad y carga contra el objetivo.",
+  "zh": "让电流覆盖全身，撞向对手进行攻击。自己也会受到少许伤害。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 555,
+  "en": "Attacks lovely and can cause flinching.",
+  "es": "Arremete amorosamente y puede hacer retroceder.",
+  "zh": "以可爱的动作使对手疏忽，乘机给出强烈的一击。有时会使对手畏缩。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 556,
+  "en": "Horns the enemy and absorbs half the damage.",
+  "es": "Cornea al enemigo y absorbe la mitad del daño.",
+  "zh": "将角刺入，吸取对手的养分。可以回复给予对手伤害的一半ＨＰ。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 557,
+  "en": "Runs over the enemy and can cause flinching.",
+  "es": "Atropella al enemigo y puede causar retroceso.",
+  "zh": "旋转揉成团的身体压扁对手。有时会使对手畏缩。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 558,
+  "en": "Rises the user Def. in three levels.",
+  "es": "Aumenta la Def. del usuario en tres niveles.",
+  "zh": "用软绵绵的绒毛包裹住自己的身体进行守护。巨幅提高自己的防御。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 559,
+  "en": "Hits the enemy 2 to 5 times.",
+  "es": "Golpea al enemigo de 2 a 5 veces.",
+  "zh": "用坚硬的尾巴拍打对手进行攻击。连续攻击２～５次。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 560,
+  "en": "Throws two spinning nuts for hurting the enemy.",
+  "es": "Lanza dos tuercas giratorias para herir al enemigo.",
+  "zh": "向对手投掷钢铁齿轮进行攻击。连续２次给予伤害。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 561,
+  "en": "Attack lovely and absorbs half the damage.",
+  "es": "Ataca amorosamente y absorbe la mitad del daño.",
+  "zh": "用一个吻吸取对手的ＨＰ。回复给予对手伤害的一半以上的ＨＰ。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 562,
+  "en": "Powerful attack which type depends on the equipped ROM.",
+  "es": "Potente ataque cuyo tipo depende de la ROM equipada.",
+  "zh": "向对手放出光弹。属性会根据自己携带的卡带不同而改变。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 563,
+  "en": "Strong loud attack that can sleep the enemy.",
+  "es": "Fuerte ataque sonoro que puede dormir al enemigo.",
+  "zh": "让对手听古老之歌，打动对手的内心进行攻击。有时会让对手陷入睡眠状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 564,
+  "en": "Emits a disturbing sound that reduces the enemy's Sp. At.",
+  "es": "Emite un inquietante sonido que baja el At. Esp. al rival.",
+  "zh": "没完没了地大声斥责，从而降低对手的特攻。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 565,
+  "en": "Creates a ferric gale that charges at the enemy.",
+  "es": "Crea un vendaval feérico que arremete contra el enemigo.",
+  "zh": "刮起妖精之风，吹向对手进行攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 566,
+  "en": "Powerful beam which power is obtained from moon light.",
+  "es": "Poderoso chorro cuyo poder se obtiene de la luz lunar.",
+  "zh": "借用月亮的力量攻击对手。有时会降低对手的特攻。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 567,
+  "en": "Strong Fairy physical attack that can reduce the At.",
+  "es": "Fuerte ataque físico Hada que puede bajar el At.",
+  "zh": "与对手嬉闹并攻击。有时会降低对手的攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 568,
+  "en": "Damage the enemies with a powerful light.",
+  "es": "Inflige daño a los oponentes con una potente luz.",
+  "zh": "向对手发射强光，并给予伤害。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 569,
+  "en": "Creates a fog that debilitates Dragon type attacks.",
+  "es": "Crea una niebla que debilita los ataques de tipo Dragón.",
+  "zh": "在５回合内，地面上的宝可梦不会陷入异常状态。龙属性招式的伤害也会减半。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 570,
+  "en": "Crushes the enemy impeding it from escaping.",
+  "es": "Oprime al enemigo impidiendo que escape.",
+  "zh": "在４～５回合内死缠烂打地进行攻击。在此期间对手将无法逃走。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 571,
+  "en": "Absorbs half the damage produced at hitting the target.",
+  "es": "Absorbe la mitad del daño producido al acertar.",
+  "zh": "给周围全体宝可梦造成伤害。可以回复给予伤害的一半HP。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 572,
+  "en": "Throws an odd flame that reduces Sp. At.",
+  "es": "Lanza al enemigo una singular llama que baja su At. Esp.",
+  "zh": "从口中喷出特别灼热的火焰进行攻击。降低对手的特攻。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 573,
+  "en": "Causes psy. damage to the enemy. It usually doesn't fail.",
+  "es": "Provoca daños emocionales al enemigo. No suele fallar.",
+  "zh": "发出魅惑的叫声，给予对手精神上的伤害。攻击必定会命中。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 574,
+  "en": "It's effective against aquatic. It can even freeze.",
+  "es": "Es efectivo contra acuáticos. Puede llegar a congelar.",
+  "zh": "急剧冷冻对手，有时会让对手陷入冰冻状态。对于水属性宝可梦也是效果绝佳。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 575,
+  "en": "Very powerful noisy attack that damages the enemy.",
+  "es": "Ataque sonoro muy potente que causa daño al enemigo.",
+  "zh": "通过震耳欲聋的爆炸声产生的破坏力，攻击自己周围所有的宝可梦。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 576,
+  "en": "It only works if user has eaten a berry.",
+  "es": "Solo funciona si el usuario se ha comido una baya. ",
+  "zh": "朝着对手打嗝，并给予伤害。如果不吃树果则无法使出。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 577,
+  "en": "Powerful attack that recovers 75% of caused damage.",
+  "es": "Poderoso ataque que recupera un 75% del daño producido.",
+  "zh": "从锁定的对手身上吸取ＨＰ。回复给予对手伤害的一半以上的ＨＰ。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 578,
+  "en": "Hits the enemy several times with throwing stars.",
+  "es": "Golpea al rival varias veces con estrellas arrojadizas.",
+  "zh": "用粘液制成的手里剑，连续攻击２～５次。必定能够先制攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 579,
+  "en": "Attacks using a sting. If it's lethal increases its attack.",
+  "es": "Ataca usando un aguijón. Si es letal aumenta su At.",
+  "zh": "如果使用此招式打倒对手，攻击会巨幅提高。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 580,
+  "en": "Throws spider webs that can reduce the enemy's speed.",
+  "es": "Lanza telarañas que pueden bajar la Vel. al enemigo.",
+  "zh": "在对手周围围上黏黏的网，降低替换出场的对手的速度。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 581,
+  "en": "Collides with the enemy full of static elec. and paralyzes it.",
+  "es": "Choca con el rival cargado de electricidad estática y lo paraliza.",
+  "zh": "将带电的脸颊蹭蹭对手进行攻击。让对手陷入麻痹状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 582,
+  "en": "Hides in the shadows for surprising the enemy.",
+  "es": "Se esconde en las sombras para sorprender al rival.",
+  "zh": "第１回合消失在某处，第２回合攻击对手。可以无视守护进行攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 583,
+  "en": "An aerial slam. Also a Flying type move.",
+  "es": "Se lanza al enemigo. Añade efectividades voladoras.",
+  "zh": "从空中俯冲向对手。此招式同时带有格斗属性和飞行属性。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 584,
+  "en": "Hits the enemy with a punch and increases its attack.",
+  "es": "Golpea con el puño al enemigo y sube su At.",
+  "zh": "通过反复击打对手，使自己的拳头慢慢变硬。打中对手攻击就会提高。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 585,
+  "en": "Creates a petal storm for hurting the enemy.",
+  "es": "Genera una tormenta de pétalos para herir al enemigo.",
+  "zh": "猛烈地刮起飞雪般的落花，攻击周围所有的宝可梦，并给予伤害。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 586,
+  "en": "Accumulates energy from the Earth and concentrates it.",
+  "es": "Acumula energía de la corteza terrestre y la concentra.",
+  "zh": "聚集大地的力量，将此力量集中攻击对手，并给予伤害。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 587,
+  "en": "Creates a protective shield that reduces the enemy's At.",
+  "es": "Crea un escudo protector que baja el At. al enemigo.",
+  "zh": "防住对手攻击的同时，自己变为防御姿态。能够降低所接触到的对手的攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 588,
+  "en": "Surrounds the enemy with dust that react with fire.",
+  "es": "Rodea al rival con polvo que reacciona a ataques de fuego. ",
+  "zh": "如果被撒到粉尘的对手使用火招式，则会爆炸并给予伤害。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 589,
+  "en": "A wave that harshly reduces the Sp. At. of the enemy.",
+  "es": "Onda extraña que baja mucho el At. Esp. al enemigo.",
+  "zh": "从身体放射出怪异电波，让对手沐浴其中，从而大幅降低其特攻。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 590,
+  "en": "Creates a field that improves electric attacks.",
+  "es": "Crea un campo que mejora los ataques eléctricos.",
+  "zh": "在５回合内变成电气场地。地面上的宝可梦将无法入眠。电属性的招式威力还会提高。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 591,
+  "en": "Next enemy's attack becomes electric.",
+  "es": "El siguiente ataque del rival pasa a ser eléctrico.",
+  "zh": "对手使出招式前，如果输电，则该回合对手的招式变成电属性。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 592,
+  "en": "Changes Normal type attacks to Electric type.",
+  "es": "Cambia el tipo de los ataques normales a tipo eléctrico.",
+  "zh": "将带电粒子扩散开来，使一般属性的招式变成电属性。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 593,
+  "en": "Creates a magnetic aura for increasing its Def. and Sp. Def.",
+  "es": "Crea un aura magnética y aumenta su Def. y Def. Esp.",
+  "zh": "通过操控磁场，会提高特性为正电和负电的宝可梦的防御和特防。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 594,
+  "en": "Curses the enemy adding Ghost type to it.",
+  "es": "Hechiza al enemigo añadiéndole el tipo Fantasma.",
+  "zh": "邀请对手参加万圣夜。使对手被追加幽灵属性。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 595,
+  "en": "Creates an Aromatic Fog that increases its Sp. Def.",
+  "es": "Genera una Niebla Aromática que aumenta su Def. Esp.",
+  "zh": "通过神奇的芳香，提高我方宝可梦的特防。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 596,
+  "en": "Makes eyes at the enemy for reducing its attack.",
+  "es": "Pone ojitos al enemigo para bajar su ataque.",
+  "zh": "用圆瞳凝视对手，从而降低其攻击。必定能够先制攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 597,
+  "en": "Creates a shield that protects from Status attacks.",
+  "es": "Crea un escudo que protege de los ataques de Estado.",
+  "zh": "使用神奇的力量防住攻击我方的变化招式。但无法防住伤害招式的攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 598,
+  "en": "After its use any Pokemon can be changed.",
+  "es": "Tras su uso ninguno de los Pokémon puede ser cambiado.",
+  "zh": "通过封锁，下一回合所有的宝可梦都无法逃走。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 599,
+  "en": "Increases the Def of Grass type Pokemon.",
+  "es": "Aumenta la Def. de los Pokémon de tipo Planta.",
+  "zh": "使用神奇的力量提高在场的所有草属性宝可梦的防御。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 600,
+  "en": "First charge, then increases Sp. At., Sp. Def. and Speed.",
+  "es": "Aumenta At. Esp., Def. Esp. y Vel.",
+  "zh": "第１回合吸收能量，第２回合大幅提高特攻、特防和速度。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 601,
+  "en": "Uses a tatami for shielding from enemy movements.",
+  "es": "Usa un tatami para escudarse de los movimientos enemigos.",
+  "zh": "将掀起来的榻榻米当作盾牌，防住自己和同伴免受招式伤害。变化招式无法防住。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 602,
+  "en": "Noisy attack that decreases the enemy's Sp. At.",
+  "es": "Ataque sonoro que baja el At. Esp. al enemigo.",
+  "zh": "和对手进行密语，使其失去集中力，从而降低对手的特攻。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 603,
+  "en": "War cry that reduces the enemy's At. and Sp. At.",
+  "es": "Grito de guerra que baja el At. y At. Esp. al enemigo.",
+  "zh": "发出战吼威吓对手，从而降低对手的攻击和特攻。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 604,
+  "en": "Makes use of friendship for decreasing the enemy's At.",
+  "es": "Hace uso de la camaradería para bajar el At. al rival.",
+  "zh": "和对手和睦相处，使其失去战斗的气力，从而降低对手的攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 605,
+  "en": "Doubles the incoming money in case of victory.",
+  "es": "Duplica el dinero recibido en caso de victoria.",
+  "zh": "如果使用欢乐时光，战斗后得到的钱会翻倍。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 606,
+  "en": "It has no effect.",
+  "es": "No tiene ningún efecto.",
+  "zh": "宝可梦为十分开心的你庆祝。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 607,
+  "en": "Bewitches the enemy adding the Grass type.",
+  "es": "Hechiza al enemigo añadiéndole el tipo Planta.",
+  "zh": "向对手施加森林诅咒。中了诅咒的对手会被追加草属性。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 608,
+  "en": "Creates a field that improves Grass attacks.",
+  "es": "Crea un campo que mejora los ataques de planta.",
+  "zh": "在５回合内变成青草场地。地面上的宝可梦每回合都能回复。草属性的招式威力还会提高。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 609,
+  "en": "Creates a protective barrier that can harm the enemy.",
+  "es": "Crea una barrera protectora que puede dañar al enemigo.",
+  "zh": "防住对手攻击的同时，削减接触到自己的对手的体力。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 610,
+  "en": "Lowers the enemy's At. and Sp. At. and then switches.",
+  "es": "Baja At. y At. Esp. al rival y después es cambiado.",
+  "zh": "抛下狠话威吓对手，降低攻击和特攻后，和后备宝可梦进行替换。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 611,
+  "en": "Inverts the enemy stats changes.",
+  "es": "Invierte los cambios de estadísticas del enemigo.",
+  "zh": "颠倒对手身上的所有能力变化，变成和原来相反的状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 612,
+  "en": "Raises At. and Sp. At of Grass type Pokemon or user's At.",
+  "es": "Sube los stats de ataque a Pokémon de tipo planta y el At. al usuario.",
+  "zh": "翻耕土地，使草木更容易成长。会提高草属性宝可梦的攻击和特攻。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 613,
+  "en": "If the enemy is poisoned, lowers At., Sp. At. and Speed.",
+  "es": "Si el rival está envenenado, baja At., At. Esp. y Vel.",
+  "zh": "将特殊的毒液泼向对手。对处于中毒状态的对手，其攻击、特攻和速度都会降低。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 614,
+  "en": "Diamond storm that can rise the user's Def.",
+  "es": "Tormenta de diamantes que puede subir la Def. al usuario.",
+  "zh": "掀起钻石风暴给予伤害。有时会大幅提高自己的防御。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 615,
+  "en": "Very hot, powerful water jet that can burn.",
+  "es": "Potente chorro de agua muy caliente que puede quemar.",
+  "zh": "将滚烫的蒸汽喷向对手。有时会让对手灼伤。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 616,
+  "en": "Attacks the enemy from other dimension avoiding Protect.",
+  "es": "Ataca al enemigo desde otra dimensión evitando Protección.",
+  "zh": "通过异次元洞，突然出现在对手的侧面进行攻击。还可以无视守住和看穿等招式。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 617,
+  "en": "Calculated hit that prevents from fainting the enemy.",
+  "es": "Golpe medido que evita debilitar al enemigo.",
+  "zh": "在攻击的时候手下留情，从而使对手的ＨＰ至少会留下１ＨＰ。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 618,
+  "en": "Levitating and flying enemies fall to the ground.",
+  "es": "Los enemigos levitadores y voladores caen al suelo.",
+  "zh": "可以击中浮在空中的宝可梦。空中的对手被击落后，会掉到地面。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 619,
+  "en": "Strong Ground type attack that traps the enemy.",
+  "es": "Fuerte ataque de tipo Tierra que atrapa al objetivo.",
+  "zh": "从地面掀起波浪进行攻击。被掀入波浪中的对手，将无法从战斗中逃走。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 620,
+  "en": "Powerful light attack that also hurts the user.",
+  "es": "Poderoso ataque de luz que también hiere al agresor.",
+  "zh": "借用永恒之花的力量，发射出强力光线。自己也会受到不小的伤害。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 621,
+  "en": "It has no effect.",
+  "es": "No tiene ningún efecto.",
+  "zh": "我方宝可梦之间牵手。能带来非常幸福的心情。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 622,
+  "en": "Impressive water pulse inherited from an old power.",
+  "es": "Impresionante pulso acuático heredado de un poder antiguo.",
+  "zh": "用无数青白色且闪耀的光线攻击对手。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 623,
+  "en": "Impressive Ground attack inherited from an old power.",
+  "es": "Impresionante ataque Tierra heredado de un poder antiguo.",
+  "zh": "将大地的力量变化为利刃攻击对手。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 624,
+  "en": "Ascends to the heavens and brutally attacks the enemy.",
+  "es": "Asciende a los cielos para golpear brutalmente al rival.",
+  "zh": "从天空中急速下降攻击对手。自己的防御和特防会降低。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 625,
+  "en": "Opens a dimensional portal for hurting the enemy.",
+  "es": "Abre un portal dimensional para herir al enemigo.",
+  "zh": "用许多手臂，无视对手的守住或看穿等招式进行连续攻击，自己的防御会降低。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 626,
+  "en": "Uses an anchor for hurting and trapping the enemy.",
+  "es": "Utiliza un ancla para herir y atrapar al objetivo.",
+  "zh": "将锚缠住对手进行攻击。使对手无法逃走。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 627,
+  "en": "If the enemy is near it hits it without failure.",
+  "es": "Si el enemigo anda cerca lo golpea sin fallo.",
+  "zh": "用尖尖的角刺入对手进行攻击。攻击必定会命中。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 628,
+  "en": "Very strong impact that ignores the enemy's abilities.",
+  "es": "Impacto de gran fuerza que ignora habilidades del rival.",
+  "zh": "以流星般的气势猛撞对手。可以无视对手的特性进行攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 629,
+  "en": "Improves its body for increasing its At. and Sp. At.",
+  "es": "Mejora su cuerpo para aumentar su At. y At. Esp.",
+  "zh": "启动齿轮，提高特性为正电和负电的宝可梦的攻击和特攻。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 630,
+  "en": "Strong sonorous water attack that heals burns.",
+  "es": "Fuerte ataque acuático sonoro que cura las quemaduras.",
+  "zh": "随着唱歌会放出很多气球。受到此招式攻击时，灼伤会被治愈。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 631,
+  "en": "Charges at the enemy reducing Def.",
+  "es": "Arremete contra el objetivo pudiendo bajar la Def.",
+  "zh": "用水之力量撞向对手进行攻击。有时会降低对手的防御。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 632,
+  "en": "Can be used for hurting the enemy or for recovering health.",
+  "es": "Puede usarse para herir al rival o para recuperar salud.",
+  "zh": "对敌人使用是会爆炸的团子。对我方使用则是给予回复的团子。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 633,
+  "en": "Only on its first use it has 90 BP, after only 30.",
+  "es": "Solo en su primer uso tiene 90 de poder, después solo 30.",
+  "zh": "威力很高的招式，但只有在出场战斗时，立刻使出才能成功。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 634,
+  "en": "Hits the enemy in plate reducing its At. on a level.",
+  "es": "Golpea en plancha al rival bajando un nivel su At.",
+  "zh": "全力猛扑对手进行攻击。从而降低对手的攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 635,
+  "en": "Powerful drake attack that reduces the user's Def.",
+  "es": "Potente ataque dragón que baja al usuario su Def.",
+  "zh": "摩擦全身鳞片，发出响亮的声音进行攻击。攻击后自己的防御会降低。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 636,
+  "en": "Tilts its body with force for hitting a hammer blow.",
+  "es": "Inclina su cuerpo con fuerza para asestar un martillazo.",
+  "zh": "将身体当作锤子，向对手发动袭击，给予伤害。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 637,
+  "en": "If the enemy attacks before it loses its ability.",
+  "es": "Si el enemigo ataca antes pierde su habilidad.",
+  "zh": "如果给予过伤害的对手已经结束行动，其特性就会被消除。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 638,
+  "en": "Spinning attack with pikes that can make flinching.",
+  "es": "Golpe giratorio con pinchos que puede hacer retroceder.",
+  "zh": "撞向对手，并发出强电，使其感到麻麻刺刺的。有时会使对手畏缩。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 639,
+  "en": "Throws a ghostly bone that can reduce the Def.",
+  "es": "Lanza un hueso fantasmal que puede bajar la Def.",
+  "zh": "用附有灵魂的骨头殴打对手进行攻击。有时会降低对手的防御。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 640,
+  "en": "Hurts the enemy throwing an arrow and trapping it.",
+  "es": "Daña al enemigo lanzándole una flecha y atrapándolo.",
+  "zh": "攻击的同时，缝住对手的影子，使其无法逃走。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 641,
+  "en": "Powerful ghostly beam that ignores the enemy's abilities.",
+  "es": "Poderoso rayo fantasmal que ignora habilidades del rival.",
+  "zh": "放出奇怪的光线攻击对手。可以无视对手的特性进行攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 642,
+  "en": "Steals the enemy's positive mods and attacks.",
+  "es": "Roba los modificadores positivos del enemigo y ataca.",
+  "zh": "潜入对手的影子进行攻击。会夺取对手的能力提升。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 643,
+  "en": "Powerful trap that explodes with contact attacks.",
+  "es": "Potente trampa que explota con ataques de contacto.",
+  "zh": "设下甲壳陷阱。如果对手使出物理招式，陷阱就会爆炸并给予对手伤害。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 644,
+  "en": "Hits with a fire whip that reduces the enemy's Def.",
+  "es": "Golpea con un látigo de fuego que baja la Def. al rival.",
+  "zh": "用燃烧的鞭子抽打对手。受到攻击的对手防御会降低。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 645,
+  "en": "The user loses its fire-type. If it haven't, won't activate.",
+  "es": "Solo funciona si es tipo fuego, pero lo pierde tras atacar.",
+  "zh": "将自己全身燃烧起火焰来，给予对手大大的伤害。自己的火属性将会消失。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 646,
+  "en": "Emits a powerful beam, but its Sp. At. is lowered a lot.",
+  "es": "Emite un potente rayo, pero su At. Esp. se reduce mucho.",
+  "zh": "放出强力光束后，自己的特攻会大幅降低。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 647,
+  "en": "Restores the target's HP. Becomes stronger in Grassy Terrain.",
+  "es": "Usa el poder de las flores. Recupera salud al objetivo.",
+  "zh": "回复对手最大ＨＰ的一半。在青草场地时，效果会提高。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 648,
+  "en": "Natural fury that halves the enemy's HP.",
+  "es": "Furia de la naturaleza que baja a la mitad los PS del rival.",
+  "zh": "向对手释放自然之怒。对手的ＨＰ会减半。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 649,
+  "en": "Hits the enemy with a great pincer and reduces its Speed.",
+  "es": "Golpea al enemigo con una gran pinza y baja su Vel.",
+  "zh": "挥舞强力而沉重的拳头，给予对手伤害。自己的速度会降低。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 650,
+  "en": "Halves the attacks. Only works with Hail.",
+  "es": "Reduce los ataques a la mitad. Solo funciona con Granizo.",
+  "zh": "在５回合内减弱物理和特殊的伤害。只有冰雹时才能使出。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 651,
+  "en": "After its use, next user's attack will be critical.",
+  "es": "Tras su uso, el siguiente ataque del usuario será crítico.",
+  "zh": "集中精神，下次攻击必定会击中要害。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 652,
+  "en": "Its type varies, taking the user's first type.",
+  "es": "Su tipo varía, tomando el tipo primario del usuario.",
+  "zh": "全力跳舞进行攻击。此招式的属性将变得和自己的属性相同。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 653,
+  "en": "Makes attacks target an enemy.",
+  "es": "Provoca al enemigo que sus ataques le vuelvan en contra.",
+  "zh": "给宝可梦打上聚光灯，该回合只能瞄准该宝可梦。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 654,
+  "en": "Strong physic attack which type depends on the equipped plate.",
+  "es": "Fuerte ataque físico cuyo tipo depende de la tabla equipada.",
+  "zh": "一边覆盖高能量，一边撞向对手进行攻击。根据存储碟不同，属性会改变。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 655,
+  "en": "Makes sad eyes for reducing the enemy At. and Sp. At.",
+  "es": "Pone ojitos tristes para bajar los stats de ataque al enemigo.",
+  "zh": "变得泪眼汪汪，让对手丧失斗志。从而降低对手的攻击和特攻。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 656,
+  "en": "Recovers HP as the enemy At. and reduces it.",
+  "es": "Recupera tanto PS como el At. del rival y se lo reduce.",
+  "zh": "给自己回复和对手攻击力相同数值的ＨＰ，然后降低对手的攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 657,
+  "en": "Absorbs sun light and uses it for cutting the enemy.",
+  "es": "Absorbe luz solar y la usa para cortar al enemigo.",
+  "zh": "第１回合收集满满的日光，第２回合将此力量集中在剑上进行攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 658,
+  "en": "Attacks the enemy throwing leafs.",
+  "es": "Ataca al oponente lanzando hojas.",
+  "zh": "将叶片打向对手，进行攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 659,
+  "en": "Kick that causes damage and reduces a level the target At.",
+  "es": "Patada que causa daño y baja un nivel el At. del objetivo.",
+  "zh": "向对手使出来自南国的火热脚踢。从而降低对手的攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 660,
+  "en": "Switches the Speed stat with the target.",
+  "es": "Intercambia el stat de Vel. con el objetivo.",
+  "zh": "将对手和自己的速度进行互换。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 661,
+  "en": "Creates a field that improves the physical attacks.",
+  "es": "Crea un campo que mejora los ataques psíquicos.",
+  "zh": "在５回合内，地面上的宝可梦不会受到先制招式的攻击。超能力属性的招式威力会提高。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 662,
+  "en": "Uses a prism for emitting a great power beam.",
+  "es": "Utiliza un prisma para emitir un rayo de gran potencia.",
+  "zh": "用棱镜的力量发射强烈光线。下一回合自己将无法动弹。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 663,
+  "en": "Forces the target to repeat the last attack if possible.",
+  "es": "Obliga al objetivo a repetir su último ataque de ser posible.",
+  "zh": "向对手下达指示，让其再次使出刚才的招式。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 664,
+  "en": "Psychical power that destroys barriers like Light Screen.",
+  "es": "Poder psíquico que destruye barreras como Pantalla de Luz.",
+  "zh": "利用精神力量咬住对手进行攻击。还可以破坏光墙和反射壁等。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 665,
+  "en": "User pounces on the target at a great speed.",
+  "es": "El usuario se lanza contra el objetivo a gran velocidad. ",
+  "zh": "迅速撞向对手进行攻击。必定能够先制攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 666,
+  "en": "Lowers its Speed and rises At. and Def. Ghosts curse.",
+  "es": "Baja su Vel. y sube At. y Def. Los fantasmas maldicen.",
+  "zh": "使用该招式的宝可梦，其属性是幽灵属性或其他属性时，效果会不一样。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 667,
+  "en": "Rises its power based on stats increases.",
+  "es": "Aumenta su poder en función de los aumentos de stats.",
+  "zh": "耀武扬威地攻击对手，自己的能力提高得越多，威力就越大。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 668,
+  "en": "Spins its body to damage the foe.",
+  "es": "Hace pivotar su cuerpo para infligir daño a su rival.",
+  "zh": "用自己的身体狂舞挥打，给予对手伤害。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 669,
+  "en": "Damages the enemy and prevents sound attacks.",
+  "es": "Daña al enemigo y le impide usar ataques de sonido.",
+  "zh": "受到此招式攻击的对手，会因为地狱般的痛苦，在２回合内，变得无法使出声音类招式。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 670,
+  "en": "Hits the enemy without taking into account Def. changes.",
+  "es": "Golpea al rival sin tener en cuenta cambios de Def.",
+  "zh": "旋转双臂打向对手。无视对手的能力变化，直接给予伤害。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 671,
+  "en": "Delivers a devastating hit using the whole body.",
+  "es": "Asesta un golpe devastador usando todo su cuerpo. ",
+  "zh": "使出全身力量，猛攻对手。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 672,
+  "en": "Doubles its power if user has missed the previous attack.",
+  "es": "Duplica su poder si el usuario ha fallado su anterior ataque.",
+  "zh": "化悔恨为力量进行攻击。如果上一回合招式没有打中，威力就会翻倍。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 673,
+  "en": "Recovers health, it is more effective with Sand Storm.",
+  "es": "Recupera salud, con Tormenta Arena es más efectivo.",
+  "zh": "回复自己最大ＨＰ的一半。在沙暴中回复得更多。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 674,
+  "en": "Creates a protective bunker that can poison the enemy.",
+  "es": "Crea un bunker protector que puede envenenar al enemigo.",
+  "zh": "防住对手攻击的同时，让接触到自己的对手中毒。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 675,
+  "en": "Throws little hairs at the enemy that lowers Speed and Poisons.",
+  "es": "Lanza unos hilillos al rival que reducen su Vel. y envenenan.",
+  "zh": "将混有毒的丝吐向对手。使其中毒，从而降低对手的速度。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 676,
+  "en": "Heals enemy status problems and recovers HP in exchange.",
+  "es": "Cura problemas de estado del rival y a cambio recupera PS.",
+  "zh": "治愈对手的异常状态。治愈后可以回复自己的ＨＰ。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 677,
+  "en": "Attack that needs charge. If it's interrupted, Burns.",
+  "es": "Ataque que requiere carga. Si es interrumpida, quema.",
+  "zh": "先加热鸟嘴后再进行攻击。鸟嘴在加热时对手触碰的话，就会使其灼伤。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 678,
+  "en": "The user throws its explosive head but also suffers damage.",
+  "es": "Lanza su cabeza explosiva pero también sufre daño.",
+  "zh": "让自己的头爆炸，来攻击周围的一切。自己也会受到伤害。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 679,
+  "en": "Normal attacks become electrical.",
+  "es": "Los ataques normales pasan a ser eléctricos.",
+  "zh": "用覆盖着电流的拳头进行攻击。使一般属性的招式变成电属性。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 680,
+  "en": "Attack with a light pillar ignoring the rival's ability.",
+  "es": "Ataca con un pilar de luz ignorando la habilidad del rival.",
+  "zh": "用光柱来进行攻击。比较自己的攻击和特攻，用数值相对较高的一项给予对方伤害。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 681,
+  "en": "Double fist punch that can cause flinching.",
+  "es": "Puñetazo férreo doble que puede hacer retroceder.",
+  "zh": "以胸口的螺帽为中心旋转，并连续２次挥动手臂打击对手。有时会使对手畏缩。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 682,
+  "en": "The user regains PP twice as fast for a while.",
+  "es": "Recupera Puntos de Poder más rápido de forma temporal.",
+  "zh": "暂时让招式的PP恢复得更快。"
+ },
+ {
+  "id": 683,
+  "en": "Doubles its power against a Pokémon in Dynamax or Gigamax state.",
+  "es": "Duplica su poder contra un rival en estado Dinamax o Gigamax.",
+  "zh": "从核心放出光束进行攻击。如果对手正处于极巨化状态，则造成的伤害会变为２倍。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 684,
+  "en": "Very accurate projectile with high velocity.",
+  "es": "Proyectil muy preciso de gran velocidad.",
+  "zh": "能无视具有吸引对手招式效果的特性或招式的影响。可以向选定的对手进行攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 685,
+  "en": "Strong bite that traps the opponent.",
+  "es": "Fuerte mordisco que atrapa al rival.",
+  "zh": "使双方直到一方濒死为止无法替换宝可梦。其中一方退场则可以解除效果。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 686,
+  "en": "The user eats its berry to increase its Defense.",
+  "es": "El usuario se come su baya para aumentar la Def.",
+  "zh": "吃掉携带的树果，大幅提高防御。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 687,
+  "en": "Move that raises all stats, but prevents from escaping.",
+  "es": "Movimiento que sube todas las estadísticas, pero impide escapar.",
+  "zh": "提高自己的所有能力，但无法替换或逃走。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 688,
+  "en": "Tar projectile that makes the opponent slower and weaker to fire.",
+  "es": "Proyectil de alquitrán que vuelve al rival más lento y débil al fuego.",
+  "zh": "泼洒黏糊糊的沥青，降低对手的速度，并且使对手的弱点变为火。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 689,
+  "en": "Cloud of magic dust that changes the opponent's type to Psychic.",
+  "es": "Nube de polvo mágico que cambia el tipo del rival a Psíquico.",
+  "zh": "向对手喷洒魔法粉，使对手变为超能力属性。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 690,
+  "en": "It Shoots two arrows at your opponent. Hits twice.",
+  "es": "Dispara dos flechas contra su oponente. Golpea dos veces.",
+  "zh": "让多龙梅西亚进行２次攻击。如果对手有２只宝可梦，则对它们各进行１次攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 691,
+  "en": "The user shares a tea with the rival, forcing him to eat its berry.",
+  "es": "El usuario comparte té con el rival, forzando que coma su baya.",
+  "zh": "举办一场茶会，场上的所有宝可梦都会吃掉自己携带的树果。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 692,
+  "en": "Attack that prevents the opponent from escaping and reduces its defenses.",
+  "es": "Ataque que impide escapar al rival y reduce sus Def.s.",
+  "zh": "让对手无法逃走。对手被固定后，每回合都会降低防御和特防。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 693,
+  "en": "It Attacks the enemy with its beak wrapped in electricity.",
+  "es": "Ataca al enemigo con su pico envuelto en electricidad.",
+  "zh": "用带电的喙啄刺对手。如果比对手先出手攻击，招式的威力会变成２倍。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 694,
+  "en": "It uses the strength of its jaw to attack.",
+  "es": "Usa la fuerza de su mandíbula para atacar.",
+  "zh": "用坚硬的腮咬住对手。如果比对手先出手攻击，招式的威力会变成２倍。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 695,
+  "en": "It Exchanges the combat effects of both teams.",
+  "es": "Intercambia los efectos de combate de ambos equipos.",
+  "zh": "用神奇的力量交换双方的场地效果。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 696,
+  "en": "The user increases all its stats using part of its health.",
+  "es": "El usuario sube todos sus stats, usando parte de su salud.",
+  "zh": "削减少许自己的ＨＰ，使所有能力都提高。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 697,
+  "en": "It Launches against the enemy using the Defense value to attack.",
+  "es": "Se lanza al enemigo usando el valor de Def. para atacar.",
+  "zh": "用身体撞向对手进行攻击。防御越高，给予的伤害就越高。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 698,
+  "en": "Small aura that fortifies the target.",
+  "es": "Pequeña aura que fortalece al objetivo.",
+  "zh": "通过装饰，大幅提高对方的攻击和特攻。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 699,
+  "en": "It Attacks with a drum that lowers the opponent's speed.",
+  "es": "Ataca con un tambor que baja la Vel. del rival.",
+  "zh": "用鼓点来控制鼓的根部进行攻击，从而降低对手的速度。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 700,
+  "en": "Traps and causes damage to the opponent for a period of time.",
+  "es": "Atrapa y causa daño al rival durante un tiempo.",
+  "zh": "使用捕兽夹，在４～５回合内，夹住对手进行攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 701,
+  "en": "It Kicks a strong fireball at the opponent that may inflict a burn.",
+  "es": "Patea una fuerte bola de fuego hacia el rival. Puede causar quemaduras.",
+  "zh": "点燃小石子，形成火球攻击对手。有时会使对手陷入灼伤状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 702,
+  "en": "Doubles its power against a Pokémon in Dynamax or Gigamax state.",
+  "es": "Duplica su poder contra un rival en estado Dinamax o Gigamax.",
+  "zh": "变身为巨大的剑，挥斩对手。如果对手正处于极巨化状态，则造成的伤害会变为２倍。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 703,
+  "en": "Doubles its power against a Pokémon in Dynamax or Gigamax state.",
+  "es": "Duplica su poder contra un rival en estado Dinamax o Gigamax.",
+  "zh": "变身为巨大的盾，撞击对手。如果对手正处于极巨化状态，则造成的伤害会变为２倍。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 704,
+  "en": "Energy wheel that causes damage and increases the user's speed. It varies in type depending on the form.",
+  "es": "Rueda de energía que aumenta la Vel. y va cambiando su tipo.",
+  "zh": "用储存在颊囊里的能量进行攻击，并提高自己的速度。其属性会随着莫鲁贝可的样子而改变。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 705,
+  "en": "The user uses its tail to attack and lowers the opponent's Attack.",
+  "es": "El usuario usa su cola para atacar y bajar el At. del rival.",
+  "zh": "用坚韧的尾巴猛扫对手进行攻击，从而降低对手的攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 706,
+  "en": "Attacks by poking it with a sharply pointed branch.",
+  "es": "Ataca al objetivo empujándolo con una rama puntiaguda.",
+  "zh": "使用尖锐的树枝刺向对手进行攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 707,
+  "en": "Damaging sound attack.",
+  "es": "Ataque de sonido que causa daño.",
+  "zh": "奏响吉他和贝斯，释放出发出巨响的剧烈震动攻击对手。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 708,
+  "en": "It wraps itself in acid and affects the opponent's defenses.",
+  "es": "Lanza ácido para causar daño y bajar la Def. Esp. al oponente.",
+  "zh": "使用从酸苹果中提取出来的酸性液体进行攻击。降低对手的特防。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 709,
+  "en": "An apple falls on the opponent causing damage and lowering its defense.",
+  "es": "Una manzana cae sobre el rival para hacer daño y bajar su Def.",
+  "zh": "从高处落下苹果，给予对手伤害。可降低对手的防御。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 710,
+  "en": "Causes damage and reduces the enemy Special Attack.",
+  "es": "Causa daño y reduce el At. Esp. enemigo.",
+  "zh": "用足以让对手一蹶不振的气势进行攻击。会降低对手的特攻。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 711,
+  "en": "Steam attack that causes damage and may confuse the enemy.",
+  "es": "Ataque de vapor que hace daño y puede llegar a confundir.",
+  "zh": "喷出烟雾攻击对手。有时会使对手混乱。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 712,
+  "en": "A small drop that recovers 25% HP.",
+  "es": "Pequeña gota que recupera un 25% de PS.",
+  "zh": "喷洒出神奇的水，回复自己和场上同伴的ＨＰ。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 713,
+  "en": "Protects the user from damaging attacks.",
+  "es": "Protege al usuario de ataques que causan daño.",
+  "zh": "完全抵挡对手的攻击。连续使出则容易失败。一旦触碰，防御就会大幅降低。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 714,
+  "en": "Irreverent blow that never misses.",
+  "es": "Golpe irreverente que nunca falla.",
+  "zh": "装作低头认错的样子，用凌乱的头发进行突刺。攻击必定会命中。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 715,
+  "en": "Powerful attack that requires a lot of energy.",
+  "es": "Poderoso ataque que requiere mucha energía.",
+  "zh": "大力挥舞粗壮的茎进行攻击。但同时自己也会被晃晕，下一回合自己将无法动弹。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 716,
+  "en": "High power beam that requires a lot of energy.",
+  "es": "Rayo de gran potencia que requiere mucha energía.",
+  "zh": "无极汰那变回原来的样子后，发动的最强攻击。下一回合自己将无法动弹。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 717,
+  "en": "High power laser that reduces the user's HP by 50%.",
+  "es": "Láser de gran potencia que hiere mucho al usuario.",
+  "zh": "将从全身聚集的钢铁化为光束，激烈地发射出去。自己也会受到伤害。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 718,
+  "en": "Runs over the enemy, doubles its power if there is active field.",
+  "es": "Arroya al enemigo, duplica su poder si hay un campo activo.",
+  "zh": "在破坏场地的同时攻击对手。如果脚下没有任何场地状态存在，使出此招式时便会失败。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 719,
+  "en": "Three consecutive blows that are always critical.",
+  "es": "Tres golpes consecutivos que siempre son críticos.",
+  "zh": "将水之流派修炼至大成的仿若行云流水般的３次连击。必定会击中要害。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 720,
+  "en": "After ramming the enemy, it forces to switch to another Pokémon of the team.",
+  "es": "Tras embestir al enemigo, fuerza el cambio por otro Pokémon del equipo.",
+  "zh": "在攻击之后急速返回，和后备宝可梦进行替换。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 721,
+  "en": "Attack that causes damage and reduces the target's Special Attack.",
+  "es": "Ataque que causa daño y reduce el At. Esp. del objetivo.",
+  "zh": "从对手背后爬近后进行攻击。会降低对手的特攻。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 722,
+  "en": "Powerful beam that deals damage based on the user's remaining HP.",
+  "es": "Rayo poderoso que basa su daño según los PS restantes del usuario.",
+  "zh": "把生命力转换为力量攻击对手。自己的ＨＰ越少，招式的威力越小。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 723,
+  "en": "Strikes 2 to 5 times, increasing the user's speed but lowering its defense.",
+  "es": "Ráfaga que aumenta la Vel. del usuario, pero baja su Def.",
+  "zh": "发射鳞片进行攻击。连续攻击２～５次。速度会提高但防御会降低。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 724,
+  "en": "Attacks with the electric tension of the ground. Doubling its damage on electric terrain.",
+  "es": "Ataca con la tensión del suelo. Duplica su daño con Campo Eléctrico.",
+  "zh": "用从地面升腾而起的电击进行攻击。当对手处于电气场地上时，招式威力会变成２倍。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 725,
+  "en": "Traps the target and depletes its health while it is active.",
+  "es": "Atrapa al objetivo y le resta salud mientras se encuentre activa.",
+  "zh": "将对手困在电流四溅的囚笼中，在４～５回合内进行攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 726,
+  "en": "Throws ghostly orbs that strike the enemy.",
+  "es": "Lanza unos orbes fantasmales que golpean al enemigo.",
+  "zh": "用大量的小灵体向对手发起攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 727,
+  "en": "Uses the enemy's equipped object to attack. Fails if the enemy lacks an object.",
+  "es": "Utiliza el objeto equipado del enemigo para atacar.",
+  "zh": "操纵对手的持有物进行攻击。当对手没有携带道具时，使出此招式时便会失败。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 728,
+  "en": "Burns if the target has increased its stats.",
+  "es": "Quema si el objetivo ha aumentado sus estadísticas.",
+  "zh": "用嫉妒的能量攻击对手。会让在该回合内能力有所提高的宝可梦陷入灼伤状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 729,
+  "en": "Explosion that hits everyone on the field and makes the user faint.",
+  "es": "Explosión que golpea a todos en el campo y debilita al usuario.",
+  "zh": "对自己周围的所有宝可梦进行攻击，但使出后，自己会陷入濒死。在薄雾场地上，招式威力会提高。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 730,
+  "en": "Lunge with a high-powered spear.",
+  "es": "Embestida con lanza de gran potencia.",
+  "zh": "向对手投掷掀起暴风雪的冰矛进行攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 731,
+  "en": "Hits the enemy 3 times in a row.",
+  "es": "Golpea 3 veces consecutivas al enemigo.",
+  "zh": "连续３次踢对手进行攻击。每踢中一次，威力就会提高。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 732,
+  "en": "Increases the Attack and Defense of an ally Pokémon.",
+  "es": "Aumenta el At. y Def. del Pokémon aliado.",
+  "zh": "通过进行正确合理的指导，提高我方全员的攻击和防御。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 733,
+  "en": "Swift kick that lowers the target's defense.",
+  "es": "Veloz patada que baja la Def. del objetivo.",
+  "zh": "以雷电般的动作戏耍对手的同时使出脚踢。可降低对手的防御。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 734,
+  "en": "Move that changes depending on the active field.",
+  "es": "Movimiento que cambia dependiendo del campo que este activo.",
+  "zh": "借助场地的力量进行攻击。视使出招式时场地状态不同，招式的属性和威力会有所变化。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 735,
+  "en": "Restores part of the health and heals status problems.",
+  "es": "Restaura parte de la salud y cura los problemas de estado.",
+  "zh": "与丛林融为一体，回复自己和场上同伴的ＨＰ和状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 736,
+  "en": "Lunge that acquires priority if Grass Field is active.",
+  "es": "Embestida que adquiere prioridad si Campo de hierba se encuentra activo.",
+  "zh": "仿佛在地面上滑行般地攻击对手。在青草场地上，必定能够先制攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 737,
+  "en": "Increases the PP consumption of the last movement made by the target.",
+  "es": "Aumenta el consumo de PP del último movimiento realizado por el objetivo.",
+  "zh": "用强大的精神力量攻击。让对手最后使用的招式减少３ＰＰ。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 738,
+  "en": "Increases its power if Psychic Field is active.",
+  "es": "Aumenta su potencia si Campo psíquico se encuentra activo.",
+  "zh": "利用精神力量攻击对手。在精神场地上威力会有所提高，能对所有对手造成伤害。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 739,
+  "en": "Charges a powerful lightning bolt that increases its special attack.",
+  "es": "Carga un rayo de gran potencia y aumenta su At. Esp.",
+  "zh": "第１回合聚集宇宙之力提高特攻，第２回合攻击对手。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 740,
+  "en": "It launches a dark wave that can flinch the enemy.",
+  "es": "Lanza una onda oscura que puede hacer retroceder al enemigo.",
+  "zh": "将愤怒转化为火焰般的气场进行攻击。有时会使对手畏缩。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 741,
+  "en": "Shadow punch that is always critical.",
+  "es": "Puñetazo sombrío que siempre es crítico.",
+  "zh": "将恶之流派修炼至大成的猛烈一击。必定会击中要害。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 742,
+  "en": "Throws very hot sand capable of burning the enemy.",
+  "es": "Lanza arena muy caliente capaz de quemar al enemigo y descongelar.",
+  "zh": "将滚烫的沙子砸向对手进行攻击。有时会让对手陷入灼伤状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 743,
+  "en": "A stinky gas that renders the equipped object useless.",
+  "es": "Una gas apestoso que inutiliza el objeto equipado.",
+  "zh": "用具有强酸性的气体包裹住自己周围所有的宝可梦，并融化其所携带的道具。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 744,
+  "en": "It can be physical or special, whichever is more favorable. It can poison.",
+  "es": "Puede ser físico o especial, lo más favorable. Puede envenenar.",
+  "zh": "从物理攻击和特殊攻击中选择可造成较多伤害的方式进行攻击。有时会让对手陷入中毒状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 745,
+  "en": "Strikes the target 2 times in a row with its wings.",
+  "es": "Golpea al objetivo 2 veces seguidas con sus alas.",
+  "zh": "将翅膀撞向对手进行攻击。连续２次给予伤害。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 746,
+  "en": "Psychic ray that can freeze the target.",
+  "es": "Rayo psíquico que puede congelar al objetivo.",
+  "zh": "从双眼发射精神力量进行攻击。有时会让对手陷入冰冻状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 747,
+  "en": "Fast lunge that causes a critical hit.",
+  "es": "Embestida rápida que provoca un golpe crítico.",
+  "zh": "迅猛无比的电击。必定能够先制攻击，击中对方的要害。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 748,
+  "en": "Rises high and strikes the enemy making the target flinch",
+  "es": "Se eleva alto y golpea al enemigo, haciéndolo retroceder.",
+  "zh": "轻飘飘地浮起来后，再猛地俯冲下去进行攻击。有时会使对手畏缩。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 749,
+  "en": "Large wave that damages and is likely to paralyze the object.",
+  "es": "Gran ola que daña y tiene probabilidad de paralizar al objetivo.",
+  "zh": "往巨浪中注入电能后冲撞对手进行攻击。有时会让对手陷入麻痹状态。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 750,
+  "en": "Discharge whose power depends on the level of friendship. Never misses.",
+  "es": "Descarga cuya potencia depende del nivel de amistad. Nunca falla.",
+  "zh": "皮卡丘越喜欢训练家，电击的威力就越强。攻击必定会命中。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 751,
+  "en": "A strike that never misses, whose power depends on the level of friendship.",
+  "es": "Golpe que nunca falla, cuya potencia depende del nivel de amistad.",
+  "zh": "伊布越喜欢训练家，冲撞的威力就越强。攻击必定会命中。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 752,
+  "en": "Causes damage and recovers 50% of the HP stolen from the enemy. ",
+  "es": "Causa daño y recupera el 50% de los PS hurtados al enemigo.",
+  "zh": "投掷水球进行攻击。吸水后能回复等同于造成的伤害一半的HP。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 753,
+  "en": "Lightning that always paralyzes the target.",
+  "es": "Rayo que siempre paraliza al objetivo. ",
+  "zh": "放出电击攻击对手。让对手陷入麻痹状态。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 754,
+  "en": "A scorching blow that always burns the target.",
+  "es": "Un ardiente golpe que siempre quema al objetivo.",
+  "zh": "用燃起大火的身体猛烈地冲撞对手。让对手陷入灼伤状态。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 755,
+  "en": "Strikes and creates a wall of light that reduces the damage from physical attacks",
+  "es": "Golpea y crea un muro de luz que reduce el daño físico.",
+  "zh": "恶行恶相地进行攻击。制造一道能减弱对手物理攻击的神奇墙壁。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 756,
+  "en": "Strikes and creates a wall of light that reduces the damage from special attacks.",
+  "es": "Golpea y crea un muro de luz que reduce el daño especial.",
+  "zh": "利用念力强攻，粉碎对方信心。制造一道能减弱对手特殊攻击的神奇墙壁。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 757,
+  "en": "Strikes with giant roots that infects the enemy.",
+  "es": "Golpea con raíces gigantes e infecta al enemigo.",
+  "zh": "长出巨大的藤蔓，播撒种子进行攻击。种子每回合都会吸取对手的HP。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 758,
+  "en": "Causes damage and restores the modifed stats of all Pokémon.",
+  "es": "Causa daño y restaura los stats modificados de todos los Pokémon.",
+  "zh": "利用冰冷的黑雾结晶进行攻击。使全体宝可梦的能力变回原点。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 759,
+  "en": "Causes damage and heals all the status problems for the entire party.",
+  "es": "Causa daño y cura los problemas de estado del equipo.",
+  "zh": "利用芬芳刺鼻的龙卷风吞噬对方。能治愈我方宝可梦的异常状态。",
+  "note": "官方说明（PokeAPI，跳过剑盾占位句）"
+ },
+ {
+  "id": 760,
+  "en": "The user traps the opponent and absorbs part of its HP.",
+  "es": "El usuario atrapa al rival y absorbe parte de su PS.",
+  "zh": "缠住对手并吸取其部分HP。"
+ },
+ {
+  "id": 761,
+  "en": "Strong spectral blast that damages the opponent and burns the user.",
+  "es": "Detonación espectral que daña al rival y quema al usuario.",
+  "zh": "引发幽灵般的爆炸攻击对手，自己也会陷入灼伤状态。"
+ },
+ {
+  "id": 762,
+  "en": "Attack which power is doubled if the user suffers a status problem.",
+  "es": "Duplica su potencia si el usuario sufre un problema de estado.",
+  "zh": "自己处于异常状态时，威力会变成2倍。"
+ },
+ {
+  "id": 763,
+  "en": "Strong lunge that can increase Attack and Defense.",
+  "es": "Fuerte embestida que puede subir el At. y la Def.",
+  "zh": "猛烈地撞向对手进行攻击。有时会提高自己的攻击和防御。"
+ },
+ {
+  "id": 764,
+  "en": "Chases the enemy to cause damage and destroy its item.",
+  "es": "Golpea al enemigo para causar daño y destruir su ítem.",
+  "zh": "攻击对手并造成伤害，同时打落对手携带的道具。"
+ },
+ {
+  "id": 765,
+  "en": "Damaging blow that can lower the Special Defense.",
+  "es": "Golpe que hace daño y puede bajar la Def. Esp.",
+  "zh": "打击对手进行攻击。有时会降低对手的特防。"
+ },
+ {
+  "id": 766,
+  "en": "Causes damage and triggers a sandstorm",
+  "es": "Causa daño y provoca una tormenta de arena.",
+  "zh": "攻击对手并造成伤害，同时刮起沙暴。"
+ },
+ {
+  "id": 767,
+  "en": "Unconscionable blows that also cause damage to the user.",
+  "es": "Golpes desmedidos que también causan daño al usuario.",
+  "zh": "拼命地猛击对手，自己也会受到伤害。"
+ },
+ {
+  "id": 768,
+  "en": "Strong smell that reduces PP to the opponent if he is poisoned.",
+  "es": "Fuerte olor que resta PP al rival si se encuentra envenenado.",
+  "zh": "用强烈的臭气攻击。对手处于中毒状态时，会减少其招式的PP。"
+ },
+ {
+  "id": 769,
+  "en": "A dizzying attack that causes more damage the faster the user is.",
+  "es": "Vertiginoso ataque cuyo poder depende de la Vel. del usuario.",
+  "zh": "以迅猛之势攻击对手。自己的速度越快，威力越大。"
+ },
+ {
+  "id": 770,
+  "en": "A strike that never misses, whose power depends on the level of friendship.",
+  "es": "Golpe que nunca falla, cuya potencia depende del nivel de amistad.",
+  "zh": "必定会命中的攻击。亲密度越高，威力越大。"
+ },
+ {
+  "id": 771,
+  "en": "Energy that hits as many times as there are healthy users in the team.",
+  "es": "Golpea tantas veces como usuarios activos en el equipo.",
+  "zh": "队伍中可战斗的宝可梦越多，攻击的次数就越多。"
+ },
+ {
+  "id": 772,
+  "en": "Covers its body in metal, which increases its defense.",
+  "es": "Recubre su cuerpo en metal, lo que aumenta su Def.",
+  "zh": "用金属包裹身体，大幅提高自己的防御。"
+ },
+ {
+  "id": 773,
+  "en": "Throws itself against the enemy covered in water. It also harms the user.",
+  "es": "Se lanza al enemigo cubierto de agua. También daña al usuario.",
+  "zh": "裹着水撞向对手进行攻击。自己也会受到少许伤害。"
+ },
+ {
+  "id": 774,
+  "en": "Electric twister that may paralyze.",
+  "es": "Tornado eléctrico que puede paralizar.",
+  "zh": "掀起带电的龙卷风攻击对手。有时会让对手陷入麻痹状态。"
+ },
+ {
+  "id": 775,
+  "en": "Can cause burns. Doubles its damage if the enemy suffers a status effect.",
+  "es": "Duplica su daño si el enemigo sufre un cambio de estado. Puede quemar.",
+  "zh": "对手处于异常状态时，伤害会变成2倍。有时会让对手陷入灼伤状态。"
+ },
+ {
+  "id": 776,
+  "en": "Causes damage and reduce the enemy's Attack.",
+  "es": "Causa daño y reduce el At. al objetivo.",
+  "zh": "攻击对手并造成伤害，同时降低对手的攻击。"
+ },
+ {
+  "id": 777,
+  "en": "Lunges at the enemy until he becomes confused.",
+  "es": "Embiste al enemigo hasta confundirse.",
+  "zh": "猛撞对手进行攻击。攻击后自己会陷入混乱状态。"
+ },
+ {
+  "id": 778,
+  "en": "A love twister that can reduce the enemy's Attack.",
+  "es": "Un ciclón de amor que puede reducir el At. del enemigo. ",
+  "zh": "掀起爱的旋风攻击对手。有时会降低对手的攻击。"
+ },
+ {
+  "id": 779,
+  "en": "Icy balls that can make the enemy flinch.",
+  "es": "Bolas heladas que pueden hacer retroceder al enemigo.",
+  "zh": "发射冰冷的冰球攻击对手。有时会使对手畏缩。"
+ },
+ {
+  "id": 780,
+  "en": "Increases the user's Attack, Defense and Speed.",
+  "es": "Aumenta el At., la Def. y la Vel. del usuario.",
+  "zh": "跳起激烈的舞蹈，提高自己的攻击、防御和速度。"
+ },
+ {
+  "id": 781,
+  "en": "Arows that can lower the Defense and make the enemy flinch.",
+  "es": "Flechas que pueden bajar la Def. y hacer retroceder al enemigo.",
+  "zh": "连续射出三支箭攻击对手。有时会降低对手的防御，或使对手畏缩。"
+ },
+ {
+  "id": 782,
+  "en": "Swaps the attack and defense stats.",
+  "es": "Intercambia las estadísticas de At. y de Def.",
+  "zh": "互换自己的攻击和防御能力。"
+ },
+ {
+  "id": 783,
+  "en": "Flower beam with high recoil damage.",
+  "es": "Rayo floral con mucho daño de retroceso.",
+  "zh": "发射花朵形状的光线攻击对手。自己也会受到很大的反作用力伤害。"
+ },
+ {
+  "id": 784,
+  "en": "Causes damage and increases speed. High chance of critical hit.",
+  "es": "Causa daño con alta probabilidad de golpe crítico y sube la Vel.",
+  "zh": "用光之翼攻击对手。容易击中要害，并会提高自己的速度。"
+ },
+ {
+  "id": 785,
+  "en": "Attacks surrounded by psychic energy. Can increase Defense.",
+  "es": "Ataca envuelto en energía psíquica y aumenta la Def.",
+  "zh": "裹着超能力的力量撞向对手进行攻击，并提高自己的防御。"
+ },
+ {
+  "id": 786,
+  "en": "Heals status problems and increases Sp. Atk. and Sp. Def.",
+  "es": "Cura problemas de estado y sube el At. Esp. y la Def. Esp.",
+  "zh": "治愈自己的异常状态，并提高自己的特攻和特防。"
+ },
+ {
+  "id": 787,
+  "en": "Prayer that heals and cures status problems.",
+  "es": "Plegaria que cura la salud y los problemas de estado.",
+  "zh": "通过祈祷恢复自己的HP，并治愈异常状态。"
+ },
+ {
+  "id": 788,
+  "en": "Mystic wave that increases Special Attack.",
+  "es": "Onda mística que aumenta el At. Esp.",
+  "zh": "释放神秘的波动，提高自己的特攻。"
+ },
+ {
+  "id": 789,
+  "en": "Powerful axe that leaves Stealth Rocks in the field.",
+  "es": "Poderoso hachazo que deja Trampa Rocas en el campo.",
+  "zh": "挥动强力的斧头攻击对手，并在对手场地上撒下隐形岩。"
+ },
+ {
+  "id": 790,
+  "en": "Ominous slashes that double its power by having a reduced stat.",
+  "es": "Cuchilladas siniestras que duplican su poder al tener algún stat reducido.",
+  "zh": "攻击对手以发泄对其感到的恼怒情绪。如果在该回合内自身能力遭到降低，招式的威力会变成２倍。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 791,
+  "en": "Constant cuts that leave barbs in the field.",
+  "es": "Constantes tajos que dejan Púas en el campo.",
+  "zh": "连续地斩击对手，并在对手场地上撒下撒菱。"
+ },
+ {
+  "id": 792,
+  "en": "It hits so hard that it lowers the user's defenses.",
+  "es": "Golpea tan fuerte que baja la Def. y la Def. Esp. del usuario.",
+  "zh": "以极强的力量猛扑，攻击后自己的防御和特防会下降。"
+ },
+ {
+  "id": 793,
+  "en": "Sand twister that can burn the enemy.",
+  "es": "Tornado de arena que puede quemar al enemigo.",
+  "zh": "掀起灼热的沙暴攻击对手。有时会让对手陷入灼伤状态。"
+ },
+ {
+  "id": 794,
+  "en": "Scratch with high critical chance and high probability of paralyzing, putting to sleep or poisoning the target.",
+  "es": "Zarpazo con alta probabilidad critica y de paralizar, dormir o envenenar.",
+  "zh": "用爪子撕裂对手。容易击中要害，有时会让对手陷入麻痹、睡眠或中毒状态。"
+ },
+ {
+  "id": 795,
+  "en": "It can poison the enemy, after which it doubles its power.",
+  "es": "Puede envenenar al enemigo, tras lo cual duplica su poder.",
+  "zh": "攻击对手。有时会让对手中毒，对手中毒时威力会变成2倍。"
+ },
+ {
+  "id": 796,
+  "en": "Huge tornado that can reduce the speed of the target.",
+  "es": "Gran tornado que puede reducir la Vel. al objetivo.",
+  "zh": "掀起巨大的枯叶龙卷风攻击对手。有时会降低对手的速度。"
+ },
+ {
+  "id": 797,
+  "en": "Strong coin attack that lowers the user's Sp. Atk.",
+  "es": "Fuerte ataque con monedas que baja el At. Esp. al usuario.",
+  "zh": "用大量金币攻击对手。攻击后自己的特攻会下降。"
+ },
+ {
+  "id": 798,
+  "en": "It hits the enemy hard with its big hammer.",
+  "es": "Golpea fuertemente con su gran martillo al enemigo.",
+  "zh": "用巨大的锤子狠狠地砸向对手进行攻击。"
+ },
+ {
+  "id": 799,
+  "en": "Crashes heavily into the enemy but lowers the user's Speed.",
+  "es": "Choca fuertemente contra el enemigo pero baja la Vel. al usuario.",
+  "zh": "高速旋转着猛撞对手。攻击后自己的速度会下降。"
+ },
+ {
+  "id": 800,
+  "en": "Attacks with ice water that lowers the At. to the target.",
+  "es": "Ataca con agua helada que baja el At. al objetivo.",
+  "zh": "用冰冷的水攻击对手。有时会降低对手的攻击。"
+ },
+ {
+  "id": 801,
+  "en": "Dance that deals damage and increases Speed to user.",
+  "es": "Danza que causa daño y aumenta la Vel. al usuario.",
+  "zh": "跳起水之舞蹈攻击对手，并提高自己的速度。"
+ },
+ {
+  "id": 803,
+  "en": "Very fast aquatic blow to hit the opponent.",
+  "es": "Golpe acuático rapidísimo para golpear al rival.",
+  "zh": "用快得惊人的水之打击抢先攻击对手。"
+ },
+ {
+  "id": 804,
+  "en": "Perform a water slash to damage the enemy.",
+  "es": "Realiza un corte acuático para dañar al enemigo.",
+  "zh": "挥出水之斩击攻击对手。"
+ },
+ {
+  "id": 805,
+  "en": "Hit the enemy three times.",
+  "es": "Golpea tres veces al enemigo.",
+  "zh": "向对手连续攻击3次。"
+ },
+ {
+  "id": 806,
+  "en": "Jump to hit the enemy, lowering their Speed.",
+  "es": "Salta para golpear al enemigo, bajando su Velocidad.",
+  "zh": "跳起来攻击对手，并降低对手的速度。"
+ },
+ {
+  "id": 807,
+  "en": "Creates a protective trap that can lower the enemy's Speed.",
+  "es": "Crea una trampa protectora que puede bajar la Vel. al enemigo.",
+  "zh": "布下保护用的陷阱。有时会降低对手的速度。"
+ },
+ {
+  "id": 808,
+  "en": "Powerful attack that leaves the user with no guard.",
+  "es": "Poderoso ataque que deja indefenso al usuario.",
+  "zh": "使出强力的攻击，之后自己会无法动弹。"
+ },
+ {
+  "id": 809,
+  "en": "If commanded by Tatsugiri, increases its At., Def. or Vel.",
+  "es": "Si lo comanda Tatsugiri, aumenta un nivel su At., Def. o Vel.",
+  "zh": "由米立龙操纵时，会提高自己的攻击、防御或速度中的一项1级。"
+ },
+ {
+  "id": 811,
+  "en": "The user loses its electric-type. If it haven't, won't activate.",
+  "es": "Solo funciona si es tipo eléctrico, pero lo pierde tras atacar.",
+  "zh": "只有电属性的宝可梦才能使用。使用后会失去电属性。"
+ },
+ {
+  "id": 812,
+  "en": "Its power increases for each ally weakened in battle.",
+  "es": "Su poder se incrementa por cada aliado caído en combate.",
+  "zh": "每有一只倒下的同伴，威力就会变大。"
+ },
+ {
+  "id": 813,
+  "en": "Increases its power if it has been hit by enemies.",
+  "es": "Aumenta su potencia si ha recibido golpes enemigos.",
+  "zh": "自己受到对手攻击后，威力会变大。"
+ },
+ {
+  "id": 814,
+  "en": "Sound attack that damages and increases Special Attack user.",
+  "es": "Ataque sonoro que daña y aumenta el At. Esp. del usuario.",
+  "zh": "用声音攻击对手造成伤害，并提高自己的特攻。"
+ },
+ {
+  "id": 815,
+  "en": "Shoots a fireball. It lowers the user's Def. and Sp. Def.",
+  "es": "Dispara una bola de fuego. Baja la Def. y la Def. Esp. al usuario.",
+  "zh": "发射火球攻击对手。攻击后自己的防御和特防会下降。"
+ },
+ {
+  "id": 816,
+  "en": "Recovers health equal to half the damage dealt.",
+  "es": "Recupera tanta salud como la mitad del daño producido.",
+  "zh": "恢复对手所受伤害一半的HP。"
+ },
+ {
+  "id": 819,
+  "en": "It starts to snow and the user is changed.",
+  "es": "Empieza a nevar y el usuario es cambiado.",
+  "zh": "天空开始下雪，并且自己会被替换下场。"
+ },
+ {
+  "id": 820,
+  "en": "Changes the weather to a snowstorm.",
+  "es": "Modifica el clima y empieza a nevar.",
+  "zh": "改变天气，使天空开始下雪。"
+ },
+ {
+  "id": 821,
+  "en": "Hits by performing a pirouette that eliminates the Terrain effects.",
+  "es": "Golpea realizando una pirueta que elimina los efectos de Campos.",
+  "zh": "翻转身体进行攻击，同时消除场地的效果。"
+ },
+ {
+  "id": 823,
+  "en": "Kick from above and can confuse.",
+  "es": "Patea desde arriba y puede confundir.",
+  "zh": "从高处踢向对手进行攻击。有时会让对手陷入混乱状态。"
+ },
+ {
+  "id": 825,
+  "en": "Switch Pokémon by providing a Substitute to its partner.",
+  "es": "Cambia de Pokémon proporcionando un Sustituto al compañero.",
+  "zh": "替换宝可梦，并为后上场的同伴留下替身。"
+ },
+ {
+  "id": 826,
+  "en": "Acquire the enemy's ability.",
+  "es": "Adquiere la habilidad del enemigo.",
+  "zh": "获得对手的特性。"
+ },
+ {
+  "id": 827,
+  "en": "Reduces its health by half to multiply its At., At. Esp. and Vel.",
+  "es": "Reduce su salud a la mitad para multiplicar su At., At. Esp. y Vel.",
+  "zh": "减少自己一半的HP，使自己的攻击、特攻和速度大幅提高。"
+ },
+ {
+  "id": 828,
+  "en": "Remove protective screens. It changes its type for each form of Tauros.",
+  "es": "Elimina pantallas protectoras. Cambia su tipo para cada forma de Tauros.",
+  "zh": "破坏对手的屏障。属性会随着不同形态的肯泰罗而改变。"
+ },
+ {
+  "id": 829,
+  "en": "Strong spinning attack that can break through protective barriers.",
+  "es": "Fuerte ataque giratorio que puede atravesar barreras protectoras.",
+  "zh": "使出强力的回旋踢，可以穿透对手的防护屏障。"
+ },
+ {
+  "id": 830,
+  "en": "Increases Atk and Speed's user and clears the field of battle.",
+  "es": "Aumenta At. y Vel. al usuario y limpia el campo de combate.",
+  "zh": "提高自己的攻击和速度，并清除战斗场地上的障碍。"
+ },
+ {
+  "id": 831,
+  "en": "Recovers a weakened teammate, but can only be used once.",
+  "es": "Recupera a un compañero debilitado, pero solo lo puede usar una vez.",
+  "zh": "让一只倒下的同伴复活，但只能使用一次。"
+ },
+ {
+  "id": 832,
+  "en": "Can hit the enemy up to 10 times.",
+  "es": "Puede golpear al enemigo hasta 10 veces.",
+  "zh": "最多可以连续攻击对手10次。"
+ },
+ {
+  "id": 834,
+  "en": "Charges the enemy opening roads. It may increase Speed.",
+  "es": "Carga al enemigo abriéndose paso. Puede subir su Vel.",
+  "zh": "冲开道路撞向对手进行攻击。有时会提高自己的速度。"
+ },
+ {
+  "id": 835,
+  "en": "Lowers the target's Def. but also increases its Atk.",
+  "es": "Baja al objetivo su Def. pero también aumenta su At.",
+  "zh": "降低对手的防御，同时也会提高对手的攻击。"
+ },
+ {
+  "id": 836,
+  "en": "Floral bomb that chases the target and is always a critical hit.",
+  "es": "Bomba floral que sigue al enemigo y siempre es golpe crítico.",
+  "zh": "发射追踪对手的花朵炸弹，必定会击中要害。"
+ },
+ {
+  "id": 837,
+  "en": "Deals damage and reduces the target's Sp. Def.",
+  "es": "Causa daño y reduce mucho la Def. Esp. del objetivo.",
+  "zh": "攻击对手并造成伤害，同时大幅降低对手的特防。"
+ },
+ {
+  "id": 838,
+  "en": "Fires two consecutive beams of light at the enemy.",
+  "es": "Lanza dos haces de luz consecutivos contra el enemigo.",
+  "zh": "向对手连续发射两道光束。"
+ },
+ {
+  "id": 840,
+  "en": "Causes the enemy to lose health during battle.",
+  "es": "Provoca que el enemigo vaya perdiendo salud durante el combate.",
+  "zh": "让对手在战斗中持续损失HP。"
+ },
+ {
+  "id": 842,
+  "en": "It deals damage and rarely misses.",
+  "es": "Causa daño y no suele fallar.",
+  "zh": "攻击对手并造成伤害，几乎不会落空。"
+ },
+ {
+  "id": 844,
+  "en": "If the user is blow it, return a stronger attack.",
+  "es": "Si el usuario es golpeado, devuelve un ataque más fuerte.",
+  "zh": "自己受到攻击后，会用更强的攻击进行回击。"
+ },
+ {
+  "id": 845,
+  "en": "Spinning attack that poisons the target and clears the terrain.",
+  "es": "Ataque Giratorio que envenena al objetivo y limpia el terreno.",
+  "zh": "回旋攻击对手，使对手中毒，并清除场地上的障碍。"
+ },
+ {
+  "id": 847,
+  "en": "Charges a high-powered beam and increases its Sp. At.",
+  "es": "Carga un rayo de gran potencia y aumenta su At. Esp.",
+  "zh": "蓄积威力强大的光线，并提高自己的特攻。"
+ },
+ {
+  "id": 848,
+  "en": "If successful, caramelizes the enemy, lowering its Speed.",
+  "es": "Si acierta, carameliza al enemigo bajando su Vel. ",
+  "zh": "命中后会把对手变成糖浆状，降低对手的速度。"
+ },
+ {
+  "id": 849,
+  "en": "It depends on the Pokémon that use it.",
+  "es": "Depende del Pokémon que lo usa.",
+  "zh": "会根据使用的宝可梦而改变。"
+ },
+ {
+  "id": 850,
+  "en": "He dives headfirst from above, charged with electricity.",
+  "es": "Se lanza en plancha desde lo alto cargado de electricidad.",
+  "zh": "带着电力从高处俯冲而下，扑向对手。"
+ },
+ {
+  "id": 854,
+  "en": "Increases for a certain time the critical blows.",
+  "es": "Incrementa por un tiempo los golpes críticos.",
+  "zh": "在一定时间内，让招式更容易击中要害。"
+ },
+ {
+  "id": 855,
+  "en": "Can double its power with a 30% chance.",
+  "es": "Puede duplicar su potencia con un 30% de probabilidad.",
+  "zh": "有30%的几率让威力变成2倍。"
+ },
+ {
+  "id": 859,
+  "en": "Confuses if the target has increased its stats.",
+  "es": "Confunde si el objetivo ha aumentado sus estadísticas.",
+  "zh": "如果对手的能力提高过，就会使对手陷入混乱状态。"
+ },
+ {
+  "id": 860,
+  "en": "Attacks the enemy with a powerful lunar attack.",
+  "es": "Ataca con un poderoso ataque lunar al enemigo.",
+  "zh": "用强大的月之力量攻击对手。"
+ },
+ {
+  "id": 861,
+  "en": "Absorbs half of the damage dealt and can burn.",
+  "es": "Absorbe la mitad del daño producido y puede quemar.",
+  "zh": "吸取对手所受伤害一半的HP。有时会让对手陷入灼伤状态。"
+ },
+ {
+  "id": 863,
+  "en": "Sound attack that causes Heal Block to the enemy.",
+  "es": "Ataque sonoro que provoca Anticura al enemigo.",
+  "zh": "用声音攻击对手，使其无法回复HP。"
+ },
+ {
+  "id": 864,
+  "en": "Strong cut that can penetrate protective barriers.",
+  "es": "Fuerte corte que puede atravesar barreras protectoras.",
+  "zh": "使出强力的斩击，可以穿透对手的防护屏障。"
+ }
+]

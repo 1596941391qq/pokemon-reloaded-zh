@@ -1,0 +1,2153 @@
+[
+ {
+  "id": 1,
+  "en": "Physical attacks can to flinch the enemy.",
+  "es": "Ataques Físicos pueden hacer retroceder al enemigo.",
+  "zh": "通过释放臭臭的气味，在攻击的时候，有时会使对手畏缩。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 2,
+  "en": "When entering in combat a drizzle occurs.",
+  "es": "Al entrar en combate produce una llovizna.",
+  "zh": "出场时，会将天气变为下雨。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 3,
+  "en": "Increase speed as combat progresses.",
+  "es": "Aumenta la velocidad conforme avanza el combate.",
+  "zh": "每一回合速度会变快。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 4,
+  "en": "The foe attacks never will be a Critical Hit.",
+  "es": "Los ataques del rival nunca serán Golpe Crítico.",
+  "zh": "被坚硬的甲壳守护着，不会被对手的攻击击中要害。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 5,
+  "en": "The Pokemon can survive to moves of direct KO.",
+  "es": "Puede sobrevivir a movimientos de KO directo.",
+  "zh": "即使受到对手的招式攻击，也不会被一击打倒。一击必杀的招式也没有效果。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 6,
+  "en": "No Pokemon in battle can self-destruct.",
+  "es": "Ningún Pokémon en batalla puede autodestruirse.",
+  "zh": "通过把周围都弄湿，使谁都无法使用自爆等爆炸类的招式。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 7,
+  "en": "Immunity to paralysis.",
+  "es": "Inmunidad a la paralización.",
+  "zh": "因为身体柔软，不会变为麻痹状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 8,
+  "en": "With sandstorm, the rival accuaracy is reduced.",
+  "es": "Con Tormenta Arena, reduce la precisión del rival.",
+  "zh": "在沙暴的时候，闪避率会提高。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 9,
+  "en": "If the enemy hit the Pokémon may cause paralysis.",
+  "es": "Si el enemigo lo golpea puede resultar paralizado.",
+  "zh": "身上带有静电，有时会让接触到的对手麻痹。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 10,
+  "en": "Absorb electric type attacks and recover health.",
+  "es": "Absorbe ataques eléctricos y recupera salud.",
+  "zh": "受到电属性的招式攻击时，不会受到伤害，而是会回复。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 11,
+  "en": "Absorb water type attacks and recover health.",
+  "es": "Absorbe ataques acuáticos y recupera salud.",
+  "zh": "受到水属性的招式攻击时，不会受到伤害，而是会回复。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 12,
+  "en": "Immune to infatuation.",
+  "es": "Inmunidad a la atracción.",
+  "zh": "因为感觉迟钝，不会变为着迷和被挑衅状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 13,
+  "en": "Cancel climatic effects.",
+  "es": "Anula los efectos climáticos.",
+  "zh": "任何天气的影响都会消失。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 14,
+  "en": "Boost Pokemon accuracy.",
+  "es": "Aumenta la precisión del Pokémon.",
+  "zh": "因为拥有复眼，招式的命中率会提高。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 15,
+  "en": "Immune to be asleep.",
+  "es": "Inmunidad al sueño.",
+  "zh": "因为有着睡不着的体质，所以不会陷入睡眠状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 16,
+  "en": "Changes its type to the last attack received.",
+  "es": "Cambia su tipo al del último ataque recibido.",
+  "zh": "自己的属性会变为从对手处所受招式的属性。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 17,
+  "en": "Immune to be poisoned.",
+  "es": "Inmunidad al envenenamiento.",
+  "zh": "因为体内拥有免疫能力，不会变为中毒状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 18,
+  "en": "Absorb fire type attacks and boost his fire power.",
+  "es": "Absorbe ataques de fuego y aumenta su poder ígneo.",
+  "zh": "受到火属性的招式攻击时，吸收火焰，自己使出的火属性招式会变强。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 19,
+  "en": "Blocks secundary effects of damage attacks.",
+  "es": "Bloquea los efectos secundarios de ataques de daño.",
+  "zh": "被鳞粉守护着，不会受到招式的追加效果影响。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 20,
+  "en": "Immune to be confused.",
+  "es": "Inmunidad a la confusión.",
+  "zh": "因为我行我素，不会变为混乱状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 21,
+  "en": "Immune to forced exchanges.",
+  "es": "Inmunidad ante intercambios forzados.",
+  "zh": "用吸盘牢牢贴在地面上，让替换宝可梦的招式和道具无效。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 22,
+  "en": "When entering combat reduces the attack of the rival.",
+  "es": "Al entrar en combate reduce el At. del Pokémon rival.",
+  "zh": "出场时威吓对手，让其退缩，降低对手的攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 23,
+  "en": "The foe can’t run or be exchanged.",
+  "es": "El rival no puede huir ni ser intercambiado.",
+  "zh": "踩住对手的影子使其无法逃走或替换。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 24,
+  "en": "If the foe hit him, him can suffer a flinch damage.",
+  "es": "Si el enemigo lo golpea sufre un daño de retroceso.",
+  "zh": "受到攻击时，用粗糙的皮肤弄伤接触到自己的对手。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 25,
+  "en": "Only receives damage of very effective attacks.",
+  "es": "Sólo recibe daño de ataques que sean muy efectivos.",
+  "zh": "不可思议的力量，只有效果绝佳的招式才能击中。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 26,
+  "en": "Inmune to Ground type attacks.",
+  "es": "Inmunidad a ataques de tipo Tierra.",
+  "zh": "从地面浮起，从而不会受到地面属性招式的攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 27,
+  "en": "If the foe smash him, him can suffer a state change.",
+  "es": "Si el enemigo lo golpea puede sufrir un cambio de estado.",
+  "zh": "受到攻击时，有时会把接触到自己的对手变为中毒、麻痹或睡眠状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 28,
+  "en": "When change his state the foe suffer the same disturbance.",
+  "es": "Cuando cambia su estado el rival sufre la misma alteración.",
+  "zh": "将自己的中毒、麻痹或灼伤状态传染给对手。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 29,
+  "en": "Prevents its stats from being lowered.",
+  "es": "El rival no le puede bajar sus stats.",
+  "zh": "不会因为对手的招式或特性而被降低能力。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 30,
+  "en": "All status problems heal when it switches out.",
+  "es": "Se recupera de los cambios de estado con el intercambio.",
+  "zh": "回到同行队伍后，异常状态就会被治愈。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 31,
+  "en": "Draws in all Electric type moves to boost its Sp. Atk stat.",
+  "es": "Inmunidad a ataques de tipo Eléctrico. Suben su At. Esp.",
+  "zh": "将电属性的招式吸引到自己身上，不会受到伤害，而是会提高特攻。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 32,
+  "en": "Double the odds of cause secundary effects.",
+  "es": "Dobla las probabilidades de provocar efectos secundarios.",
+  "zh": "托天恩的福，招式的追加效果容易出现。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 33,
+  "en": "Double its Speed if it’s raining.",
+  "es": "Duplica su Vel. si está lloviendo.",
+  "zh": "下雨天气时，速度会提高。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 34,
+  "en": "Double its Speed if it’s sunny.",
+  "es": "Duplica su Vel. si hace Sol.",
+  "zh": "晴朗天气时，速度会提高。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 35,
+  "en": "During the night the fighting can be seen more clearly.",
+  "es": "De noche los combates se verán más iluminados.",
+  "zh": "通过让周围变亮，变得容易遇到野生的宝可梦。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 36,
+  "en": "Copy the foe Pokemon ability.",
+  "es": "Copia la habilidad del Pokémon rival.",
+  "zh": "出场时，复制对手的特性，变为与之相同的特性。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 37,
+  "en": "Duplicate its Attack power.",
+  "es": "Duplica su poder de At.",
+  "zh": "物理攻击的威力会变为２倍。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 38,
+  "en": "Contact with the Pokémon may poison the foe.",
+  "es": "Si el enemigo lo golpea puede resultar envenenado.",
+  "zh": "有时会让接触到自己的对手变为中毒状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 39,
+  "en": "The Pokemon never flinch.",
+  "es": "El Pokémon nunca retrocederá.",
+  "zh": "拥有经过锻炼的精神，而不会因对手的攻击而畏缩。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 40,
+  "en": "Immune to freeze.",
+  "es": "Inmunidad al congelamiento.",
+  "zh": "将炽热的熔岩覆盖在身上，不会变为冰冻状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 41,
+  "en": "Immune to be burned.",
+  "es": "Inmunidad a la quemadura.",
+  "zh": "将水幕裹在身上，不会变为灼伤状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 42,
+  "en": "Steel type foes can’t run or be exchanged.",
+  "es": "Los rivales de acero no pueden huir ni ser cambiados.",
+  "zh": "用磁力吸住钢属性的宝可梦，使其无法逃走。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 43,
+  "en": "Inmune to sound moves.",
+  "es": "Inmunidad a movimientos que funcionan por sonido.",
+  "zh": "通过屏蔽声音，不受到声音招式的攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 44,
+  "en": "The pokemon recover health when its raining.",
+  "es": "Recupera su salud cuando llueve.",
+  "zh": "下雨天气时，会缓缓回复ＨＰ。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 45,
+  "en": "Summons a sandstorm when it enters a battle.",
+  "es": "Al entrar en combate produce una Tormenta Arena.",
+  "zh": "出场时，会把天气变为沙暴。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 46,
+  "en": "The foe attacks consume more PP.",
+  "es": "Los ataques del enemigo consumen más PP.",
+  "zh": "给予对手压迫感，大量减少其使用招式的ＰＰ。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 47,
+  "en": "Raises resistance to Fire-type and Ice-type moves.",
+  "es": "Los ataques de Hielo y Fuego lo dañan menos.",
+  "zh": "因为被厚厚的脂肪保护着，会让火属性和冰属性的招式伤害减半。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 48,
+  "en": "Wake up from sleep faster",
+  "es": "Despierta del sueño de forma rápida.",
+  "zh": "即使变为睡眠状态，也能以２倍的速度提早醒来。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 49,
+  "en": "Contact with the Pokémon may burn the foe.",
+  "es": "Si el enemigo lo golpea puede resultar quemado.",
+  "zh": "有时会让接触到自己的对手变为灼伤状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 50,
+  "en": "The Pokemon can be exchanged even if it is blocked.",
+  "es": "Puede ser intercambiado aunque esté atrapado.",
+  "zh": "一定能从野生宝可梦那儿逃走。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 51,
+  "en": "Prevents other Pokémon from lowering accuracy.",
+  "es": "El Pokémon rival no le puede bajar la precisión.",
+  "zh": "多亏了锐利的目光，命中率不会被降低。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 52,
+  "en": "Prevents other Pokémon from lowering its Attack.",
+  "es": "El Pokémon rival no le puede bajar el At.",
+  "zh": "因为拥有以力量自豪的钳子，不会被对手降低攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 53,
+  "en": "May create another Berry after one is used.",
+  "es": "Puede recoger las bayas usadas en el combate.",
+  "zh": "有时会捡来对手用过的道具，冒险过程中也会捡到。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 54,
+  "en": "This Pokémon's PP recovery is slower.",
+  "es": "Recarga su PP de manera lenta.",
+  "zh": "如果使出招式，下一回合就会休息。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 55,
+  "en": "Boosts the Attack stat, but lowers accuracy.",
+  "es": "Sube el daño de ataques físicos pero reduce su precisión.",
+  "zh": "自己的攻击变高，但命中率会降低。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 56,
+  "en": "Contact with the Pokémon may cause infatuation.",
+  "es": "Si el enemigo lo golpea puede resultar enamorado.",
+  "zh": "有时会让接触到自己的对手着迷。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 57,
+  "en": "Boosts Sp. Atk if another Pokémon has Minus.",
+  "es": "Aumenta su At. Esp. con un Menos en el equipo.",
+  "zh": "出场的伙伴之间如果有正电或负电特性的宝可梦，自己的特攻会提高。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 58,
+  "en": "Boosts Sp. Atk if another Pokémon has Plus.",
+  "es": "Aumenta su At. Esp. con un Mas en el equipo.",
+  "zh": "出场的伙伴之间如果有正电或负电特性的宝可梦，自己的特攻会提高。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 59,
+  "en": "Transforms with the weather to change its type.",
+  "es": "Modifica su aspecto y tipo dependiendo del tiempo.",
+  "zh": "受天气的影响，会变为水属性、火属性或冰属性中的某一个。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 60,
+  "en": "Protects the Pokémon from item theft.",
+  "es": "El objeto equipado no puede ser retirado.",
+  "zh": "因为道具是粘在黏性身体上的，所以不会被对手夺走。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 61,
+  "en": "The Pokémon may heal its own status conditions.",
+  "es": "Puede curarse de sus problemas de estado.",
+  "zh": "通过蜕去身上的皮，有时会治愈异常状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 62,
+  "en": "Boosts Attack if there is a status condition.",
+  "es": "Aumenta su At. si sufre un cambio de estado.",
+  "zh": "如果变为异常状态，会拿出毅力，攻击会提高。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 63,
+  "en": "Boosts Defense if there is a status condition.",
+  "es": "Aumenta su Def. si sufre un cambio de estado.",
+  "zh": "如果变为异常状态，神奇鳞片会发生反应，防御会提高。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 64,
+  "en": "Damages attackers using any draining move.",
+  "es": "Si el rival trata de absorber PS, en su lugar los perderá.",
+  "zh": "吸收了污泥浆的对手会因强烈的恶臭而受到伤害，减少ＨＰ。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 65,
+  "en": "Powers up Grass-type moves when HP is low.",
+  "es": "Mejora ataques de Planta cuando la salud escasea.",
+  "zh": "ＨＰ减少的时候，草属性的招式威力会提高。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 66,
+  "en": "Powers up Fire-type moves when HP is low.",
+  "es": "Mejora ataques de Fuego cuando la salud escasea.",
+  "zh": "ＨＰ减少的时候，火属性的招式威力会提高。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 67,
+  "en": "Powers up Water-type moves when HP is low.",
+  "es": "Mejora ataques de Agua cuando la salud escasea.",
+  "zh": "ＨＰ减少的时候，水属性的招式威力会提高。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 68,
+  "en": "Powers up Bug-type moves when HP is low.",
+  "es": "Mejora ataques de Bicho cuando la salud escasea.",
+  "zh": "ＨＰ减少的时候，虫属性的招式威力会提高。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 69,
+  "en": "Protects the Pokémon from recoil damage.",
+  "es": "No sufre daño de retroceso en ataques arriesgados.",
+  "zh": "即使使出会受反作用力伤害的招式，ＨＰ也不会减少。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 70,
+  "en": "Turns the sunlight harsh if it is in battle.",
+  "es": "Al entrar en combate produce un bochorno.",
+  "zh": "出场时，会将天气变为晴朗。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 71,
+  "en": "Prevents the foe from fleeing.",
+  "es": "El rival no puede huir ni ser intercambiado.",
+  "zh": "在战斗中让对手无法逃走。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 72,
+  "en": "Prevents the Pokémon from falling asleep.",
+  "es": "Inmunidad al sueño.",
+  "zh": "通过激发出干劲，不会变为睡眠状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 73,
+  "en": "Prevents other Pokémon from lowering its stats.",
+  "es": "El Pokémon rival no le puede bajar los stats.",
+  "zh": "被白色烟雾保护着，不会被对手降低能力。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 74,
+  "en": "Doubles the Pokémon's Attack stat.",
+  "es": "Duplica su poder de At.",
+  "zh": "因瑜伽的力量，物理攻击的威力会变为２倍。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 75,
+  "en": "The Pokémon is protected against critical hits.",
+  "es": "Los ataques del rival nunca serán Golpe Crítico.",
+  "zh": "被坚硬的壳保护着，对手的攻击不会击中要害。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 76,
+  "en": "Eliminates the effects of weather.",
+  "es": "Anula los efectos climáticos durante todo el combate.",
+  "zh": "所有天气的影响都会消失。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 77,
+  "en": "If confused, lowers the opponent's accuracy.",
+  "es": "Si está confuso, reduce la precisión del rival.",
+  "zh": "在混乱状态时，闪避率会提高。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 78,
+  "en": "Raises Speed if hit by an Electric-type move.",
+  "es": "Inmunidad a ataques de tipo Eléctrico. Aumentan su Vel.",
+  "zh": "受到电属性的招式攻击时，不会受到伤害，而是速度会提高。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 79,
+  "en": "Deals more damage to Pokémon of same gender.",
+  "es": "Aumenta su poder si el rival tiene su mismo género.",
+  "zh": "面对性别相同的对手，会燃起斗争心，变得更强。而面对性别不同的，则会变弱。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 80,
+  "en": "Raises Speed each time the Pokémon flinches.",
+  "es": "Si sufre un retroceso, aumenta su Vel.",
+  "zh": "每次畏缩时，不屈之心就会燃起，速度也会提高。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 81,
+  "en": "Lowers opponent's accuracy in a hailstorm.",
+  "es": "Con Granizo, reduce la precisión del rival.",
+  "zh": "冰雹天气时，闪避率会提高。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 82,
+  "en": "Makes the Pokémon use a held Berry earlier than usual.",
+  "es": "Usa las bayas más rápido de lo normal.",
+  "zh": "原本ＨＰ变得很少时才会吃树果，在ＨＰ还有一半时就会把它吃掉。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 83,
+  "en": "Maxes Attack after taking a critical hit.",
+  "es": "Si recibe un golpe crítico, se dispara su At.",
+  "zh": "要害被击中时，会大发雷霆，攻击力变为最大。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 84,
+  "en": "Raises Speed if a held item is used or lost.",
+  "es": "Aumenta su Vel. si no lleva objeto.",
+  "zh": "失去所持有的道具时，速度会提高。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 85,
+  "en": "Reduces the damage received by Fire-type moves in half.",
+  "es": "Reduce a la mitad el daño recibido por ataques de Fuego.",
+  "zh": "耐热的体质会让火属性的招式威力减半。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 86,
+  "en": "Stat changes the Pokémon receives are doubled.",
+  "es": "Duplica el efecto de sus alteraciones de stats.",
+  "zh": "能力变化会变为平时的２倍。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 87,
+  "en": "Reduces HP if it is hot. Water restores HP.",
+  "es": "Aumenta su salud con lluvia, y la reduce con bochorno.",
+  "zh": "下雨天气时和受到水属性的招式时，ＨＰ会回复。晴朗天气时和受到火属性的招式时，ＨＰ会减少。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 88,
+  "en": "Boosts Atk or Sp.Atk according to the foe's defenses.",
+  "es": "Sube At. ó At. Esp. dependiendo de la Def. y Def. Esp. del rival.",
+  "zh": "比较对手的防御和特防，根据较低的那项能力相应地提高自己的攻击或特攻。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 89,
+  "en": "Powers up punching moves.",
+  "es": "Aumenta el poder de los ataques que se usan los puños.",
+  "zh": "使用拳类招式的威力会提高。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 90,
+  "en": "Restores HP if the Pokémon is poisoned.",
+  "es": "El envenenamiento en lugar de dañar, restaura la salud.",
+  "zh": "变为中毒状态时，ＨＰ不会减少，反而会增加起来。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 91,
+  "en": "Powers up moves of the same type as the Pokémon.",
+  "es": "Aumenta el poder de los ataques que reciben STAB.",
+  "zh": "与自身同属性的招式威力会提高。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 92,
+  "en": "Maximizes the number of times multi-strike moves hit.",
+  "es": "Garantiza el máximo golpeo en ataques múltiples.",
+  "zh": "如果使用连续招式，总是能使出最高次数。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 93,
+  "en": "Heals status conditions if it is raining.",
+  "es": "Cura sus problemas de estado si llueve.",
+  "zh": "下雨天气时，异常状态会治愈。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 94,
+  "en": "Boosts Sp. Atk stat in sunny weather, but HP decreases.",
+  "es": "Duplica su At. Esp. con bochorno, pero pierde salud.",
+  "zh": "晴朗天气时，特攻会提高，而每回合ＨＰ会减少。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 95,
+  "en": "Boosts Speed if there is a status condition.",
+  "es": "Aumenta su Vel. cuando sufre un cambio de estado.",
+  "zh": "变为异常状态时，速度会提高。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 96,
+  "en": "All the Pokémon's moves become Normal type.",
+  "es": "Todos los ataques de este Pokémon son de tipo normal.",
+  "zh": "无论是什么属性的招式，全部会变为一般属性。威力会少量提高。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 97,
+  "en": "Powers up moves if they become critical hits.",
+  "es": "El poder de los golpes críticos pasa del doble al triple.",
+  "zh": "击中要害时，威力会变得更强。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 98,
+  "en": "The Pokémon only takes damage from attacks.",
+  "es": "Inmunidad frente a ataques que no son de daño directo.",
+  "zh": "不会受到攻击以外的伤害。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 99,
+  "en": "Ensures attacks by or against the Pokémon land.",
+  "es": "Todos los ataques usados ó recibidos dan a su objetivo.",
+  "zh": "由于无防守战术，双方使出的招式都必定会击中。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 100,
+  "en": "Starts the fight with half the PP.",
+  "es": "Comienza el combate con la mitad de PP.",
+  "zh": "使出招式的顺序必定会变为最后。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 101,
+  "en": "Increases the power of weak moves (PB<=60) in a 50%.",
+  "es": "Los ataques débiles (PB<=60) aumentan su poder un 50%.",
+  "zh": "攻击时可以将低威力招式的威力提高。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 102,
+  "en": "Prevents status conditions in sunny weather.",
+  "es": "Con bochorno no es posíble cambiar su estado.",
+  "zh": "晴朗天气时，不会变为异常状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 103,
+  "en": "The Pokémon can't use any held items.",
+  "es": "El Pokémon no sabe usar objetos equipados.",
+  "zh": "无法使用持有的道具。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 104,
+  "en": "Defensive abilities have no effect.",
+  "es": "Las habilidades defensivas no tienen efecto.",
+  "zh": "可以不受对手特性的干扰，向对手使出招式。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 105,
+  "en": "Increases the ratios of critical hits.",
+  "es": "Aumenta las probabilidades de asestar golpes críticos.",
+  "zh": "因为拥有超幸运，攻击容易击中对手的要害。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 106,
+  "en": "Damages the attacker if the finishing hit is contact.",
+  "es": "Si es debilitado con un ataque de contacto, hiere al rival.",
+  "zh": "变为濒死时，会对接触到自己的对手造成伤害。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 107,
+  "en": "Predict enemy's dangerous moves.",
+  "es": "Predice ataques peligrosos del rival.",
+  "zh": "可以察觉到对手拥有的危险招式。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 108,
+  "en": "Predict the enemy's most powerful move.",
+  "es": "Predice el ataque de mayor poder del rival.",
+  "zh": "出场时，只读取１个对手拥有的招式。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 109,
+  "en": "The enemy can't increase the stats.",
+  "es": "El rival no puede aumentar sus Stats.",
+  "zh": "可以无视对手能力的变化，进行攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 110,
+  "en": "Duplicate the power de los ataques poco efectivos.",
+  "es": "Duplica el poder de los ataques poco efectivos.",
+  "zh": "可以将效果不好的招式以通常的威力使出。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 111,
+  "en": "Reduce the power of the received effective moves.",
+  "es": "Reduce el poder de los ataques recibidos efectivos.",
+  "zh": "受到效果绝佳的攻击时，可以减弱其威力。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 112,
+  "en": "Starts the battle with low Speed and Attack stats.",
+  "es": "Comienza el combate con bajos stats de Vel. y At.",
+  "zh": "在５回合内，攻击和速度减半。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 113,
+  "en": "Ghost-type can be hit with Normal-/Fighting-type moves.",
+  "es": "Puede herir a fantasmas con ataques Normales y de Lucha.",
+  "zh": "一般属性和格斗属性的招式可以击中幽灵属性的宝可梦。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 114,
+  "en": "Immunity to Water-type move. They raise Sp. Atk.",
+  "es": "Inmunidad a ataques de tipo Agua. Aumentan su At. Esp.",
+  "zh": "将水属性的招式引到自己身上，不会受到伤害，而是会提高特攻。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 115,
+  "en": "Health is gradually restored while in a hailstorm.",
+  "es": "Recupera su salud cuando graniza.",
+  "zh": "冰雹天气时，会缓缓回复ＨＰ。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 116,
+  "en": "Reduce the power of the received effective moves.",
+  "es": "Reduce el poder de los ataques recibidos efectivos.",
+  "zh": "受到效果绝佳的攻击时，可以减弱其威力。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 117,
+  "en": "A snowfall is summoned when the battle begins.",
+  "es": "Al entrar en combate produce una nevada.",
+  "zh": "出场时，会将天气变为冰雹。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 118,
+  "en": "An object may be gathered after a battle.",
+  "es": "Al final del combate puede recoger un objeto.",
+  "zh": "战斗结束时，有时候会捡来甜甜蜜。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 119,
+  "en": "Discover the enemy's equipped object.",
+  "es": "Averigua el objeto que tiene equipado el rival.",
+  "zh": "出场时，可以察觉对手的持有物。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 120,
+  "en": "Powers up moves that have recoil damage.",
+  "es": "Aumenta el poder de los ataques con daño de retroceso.",
+  "zh": "自己会因反作用力受伤的招式，其威力会提高。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 121,
+  "en": "The Type changes depending on the equipped Plate.",
+  "es": "Modifica su tipo dependiendo de la tabla equipada.",
+  "zh": "自己的属性会根据持有的石板或Ｚ纯晶的属性而改变。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 122,
+  "en": "Atk. and Def. are boosted when its a sunny day.",
+  "es": "Aumenta su At. y Def. Esp. con día soleado.",
+  "zh": "晴朗天气时，自己与同伴的攻击和特防能力会提高。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 123,
+  "en": "Enemy Pokémon loses HP while sleeping.",
+  "es": "El rival pierde salud mientras este durmiendo.",
+  "zh": "给予睡眠状态的对手伤害。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 124,
+  "en": "Steals the enemy's item from an attacker after a contact hit.",
+  "es": "Se queda con el ítem del rival tras un ataque de contacto.",
+  "zh": "盗取接触到自己的对手的道具。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 125,
+  "en": "Moves lose additional effects, but their power is boosted.",
+  "es": "Los ataques mejoran pero pierden su efecto secundario.",
+  "zh": "招式的追加效果消失，但因此能以更高的威力使出招式。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 126,
+  "en": "Makes stat changes have an opposite effect.",
+  "es": "Invierte las alteraciones de stats del Pokémon.",
+  "zh": "能力的变化发生逆转，原本提高时会降低，而原本降低时会提高。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 127,
+  "en": "Enemy Pokémon is unable to eat equipped Berry.",
+  "es": "El Pokémon rival no es capaz de usar la baya equipada.",
+  "zh": "让对手紧张，使其无法食用树果。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 128,
+  "en": "If the stats are modified, Atk. is raised.",
+  "es": "Si modifican sus stats aumenta su nivel de At.",
+  "zh": "能力被降低时，攻击会大幅提高。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 129,
+  "en": "If Hp becomes half or less, Atk. and Sp. Atk are lowered.",
+  "es": "Si su PS es inferior a la mitad, baja su At. y At. Esp.",
+  "zh": "ＨＰ减半时，会变得软弱，攻击和特攻会减半。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 130,
+  "en": "May disable the received enemy move.",
+  "es": "Si el enemigo lo golpea puede anular el ataque recibido.",
+  "zh": "受到攻击时，有时会把对手的招式变为定身法状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 131,
+  "en": "Sometimes heals an ally's status condition.",
+  "es": "Puede curar el estado de los Pokémon de su equipo.",
+  "zh": "有时会治愈异常状态的同伴。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 132,
+  "en": "When switched out lowers enemy's Atk y Sp. Atk.",
+  "es": "Al ser intercambiado baja At. y At. Esp. al enemigo.",
+  "zh": "可以减少我方的伤害。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 133,
+  "en": "If hit, the Def. can be lowered and the Speed raised.",
+  "es": "Si el enemigo lo golpea puede bajar su Def. y subir su Vel.",
+  "zh": "如果因物理招式受到伤害，防御会降低，速度会大幅提高。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 134,
+  "en": "Raises Def. y Sp. Def but lowers Speed.",
+  "es": "Aumenta su Def. y Def. Esp. pero reduce su Vel.",
+  "zh": "自身的重量会变为２倍。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 135,
+  "en": "Lowers Def. y Sp. Def but raises Speed.",
+  "es": "Reduce su Def. y Def. Esp. pero aumenta su Vel.",
+  "zh": "自身的重量会减半。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 136,
+  "en": "When Hp is full, a received move has its power reduced.",
+  "es": "Con su PS al máximo, el ataque recibido reduce su poder.",
+  "zh": "ＨＰ全满时，受到的伤害会变少。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 137,
+  "en": "Raises own Atk. when poisoned.",
+  "es": "Aumenta su At. cuando está envenenado.",
+  "zh": "变为中毒状态时，物理招式的威力会提高。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 138,
+  "en": "Raises own Sp. Atk when burned.",
+  "es": "Aumenta su At. Esp. cuando está quemado.",
+  "zh": "变为灼伤状态时，特殊招式的威力会提高。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 139,
+  "en": "Sometimes restores a Berry after eating it.",
+  "es": "A veces puede conservar una baya tras su uso.",
+  "zh": "可以多次制作出已被使用掉的树果。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 140,
+  "en": "Predict enemy's special ability.",
+  "es": "Predice la habilidad especial del rival.",
+  "zh": "读取我方的攻击，并闪避其招式伤害。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 141,
+  "en": "When in battle, lowers one stat and raises two levels the Atk.",
+  "es": "En combate baja de nivel un stat y sube dos niveles su At.",
+  "zh": "每一回合，能力中的某项会大幅提高，而某项会降低。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 142,
+  "en": "Immunity against weather.",
+  "es": "Inmunidad a los daños producidos por el clima.",
+  "zh": "不会受到沙暴或冰雹等的伤害。不会受到粉末类招式的攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 143,
+  "en": "The enemy may get poisoned when hit.",
+  "es": "Puede envenenar al enemigo tras asestarle un golpe.",
+  "zh": "只通过接触就有可能让对手变为中毒状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 144,
+  "en": "Restores a little HP when withdrawn from battle.",
+  "es": "Recupera algo su salud al salir a combatir.",
+  "zh": "退回同行队伍后，ＨＰ会少量回复。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 145,
+  "en": "Own Def. cannot get reduced by the enemy.",
+  "es": "El Pokémon rival no le puede bajar la Def.",
+  "zh": "不会受到防御降低的效果。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 146,
+  "en": "Duplicates own Speed when in a sandstorm.",
+  "es": "Duplica su Vel. con Torm. Arena.",
+  "zh": "沙暴天气时，速度会提高。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 147,
+  "en": "The received moves have their accuracy reduced.",
+  "es": "Los ataques de estado recibidos reducen su precisión.",
+  "zh": "成为不易受到变化招式攻击的身体。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 148,
+  "en": "If the enemy is faster, Atk. and Sp. Atk are raised.",
+  "es": "Si el rival es más rápido, aumenta su At. y su At. Esp.",
+  "zh": "如果在最后使出招式，招式的威力会提高。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 149,
+  "en": "Disguise as another Pokémon until hit.",
+  "es": "Adopta la apariencia de otro Pokémon hasta ser golpeado.",
+  "zh": "假扮成同行队伍中的最后一只宝可梦出场，迷惑对手。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 150,
+  "en": "When entering a battle, it transforms into the enemy.",
+  "es": "Al mismo salir al combate se transforma en su enemigo.",
+  "zh": "变身为当前面对的宝可梦。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 151,
+  "en": "Ignores Light Screen, Reflect, Safeguard and Mist.",
+  "es": "Ignora Pantalla Luz, Reflejo, Velo Sagrado y Neblina.",
+  "zh": "可以穿透对手的壁障或替身进行攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 152,
+  "en": "When hit, enemy changes its ability to Mummy.",
+  "es": "Cuando es golpeado, el rival cambia su habilidad a Momia.",
+  "zh": "被对手接触到后，会将对手变为木乃伊。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 153,
+  "en": "If an enemy faints rises its At. level.",
+  "es": "Si debilita a un enemigo aumenta su nivel de At.",
+  "zh": "如果打倒对手，就会充满自信，攻击会提高。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 154,
+  "en": "Rises its At. when hit by a Dark attack.",
+  "es": "Aumenta su At. al ser golpeado por un ataque siniestro.",
+  "zh": "受到恶属性的招式攻击时，因为正义感，攻击会提高。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 155,
+  "en": "Rises Speed when being hurt by Dark, Ghost or Bug.",
+  "es": "Sube su Vel. al ser herido por siniestro, fantasma o bicho.",
+  "zh": "受到恶属性、幽灵属性和虫属性的招式攻击时，会因胆怯而速度提高。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 156,
+  "en": "Returns the enemy the effect of status attacks.",
+  "es": "Devuelve al enemigo el efecto de ataques de estado.",
+  "zh": "可以不受到由对手使出的变化招式影响，并将其反弹。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 157,
+  "en": "Inmunity to Grass type attacks. Rise its At.",
+  "es": "Inmunidad a ataques de tipo Planta. Aumentan su At..",
+  "zh": "受到草属性的招式攻击时，不会受到伤害，而是攻击会提高。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 158,
+  "en": "Attacks with zero power use less PP.",
+  "es": "Ataques con potencia cero consumen menos PP.",
+  "zh": "可以率先使出变化招式。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 159,
+  "en": "Improves Rock, Ground and Steel attacks with Sand Storm.",
+  "es": "Mejora ataques de tipo Roca, Tierra y Acero con Tor. Arena.",
+  "zh": "沙暴天气时，岩石属性、地面属性和钢属性的招式威力会提高。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 160,
+  "en": "If the enemy hit it it suffers a great recoil dmage.",
+  "es": "Si el enemigo lo golpea sufre un gran daño de retroceso.",
+  "zh": "用铁刺给予接触到自己的对手伤害。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 161,
+  "en": "Changes its types when its HP are less than the half.",
+  "es": "Cambia sus tipos cuando su PS es inferior a la mitad.",
+  "zh": "ＨＰ变为一半以下时，样子会改变。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 162,
+  "en": "Rises the accuracy of the Pokemon.",
+  "es": "Aumenta la precisión del Pokémon.",
+  "zh": "自己和同伴的命中率会提高。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 163,
+  "en": "Voids the abilities that reduce attack power.",
+  "es": "Anula las hab. que reducen el poder de los ataques.",
+  "zh": "可以不受对手特性的干扰，向对手使出招式。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 164,
+  "en": "Voids the abilities that reduce attack power.",
+  "es": "Anula las hab. que reducen el poder de los ataques.",
+  "zh": "可以不受对手特性的干扰，向对手使出招式。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 165,
+  "en": "Choose its type depend. of the equip. plate and the 1st. move.",
+  "es": "Elige su tipo dependiendo de la tabla equipada y su 1er mov.",
+  "zh": "根据所携带的石板和第一个招式来决定自己的属性。"
+ },
+ {
+  "id": 166,
+  "en": "Normal type attacks convert into Fairy type.",
+  "es": "Los ataques de tipo Normal se convierten en tipo Hada.",
+  "zh": "一般属性的招式会变为妖精属性。威力会少量提高。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 167,
+  "en": "Rises the power of physical contact attacks a 30%.",
+  "es": "Aumenta el poder de ataques físicos de contacto en un 30%.",
+  "zh": "接触到对手的招式威力会提高。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 168,
+  "en": "Rises the power of pulse and aura movements a 50%.",
+  "es": "Aumenta la potencia de mov. de pulsos y auras en un 50%.",
+  "zh": "波动和波导类招式的威力会提高。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 169,
+  "en": "Helps from its child in battle and make double attacks.",
+  "es": "Su cría ayuda en combate y se realizan ataques dobles.",
+  "zh": "亲子俩可以合计攻击２次。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 170,
+  "en": "Normal type attacks convert into Flying type.",
+  "es": "Los ataques de tipo Normal se convierten en tipo Volador.",
+  "zh": "一般属性的招式会变为飞行属性。威力会少量提高。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 171,
+  "en": "Recovers health after eating a berry.",
+  "es": "Restaura su salud tras consumir una baya. ",
+  "zh": "无论是哪种树果，食用后，ＨＰ都会回复。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 172,
+  "en": "Protects Grass allies from status ands stats change.",
+  "es": "Protege a aliados de Planta de cambios de stats y de estado.",
+  "zh": "我方的草属性宝可梦能力不会降低，也不会变为异常状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 173,
+  "en": "Halves the damage received by physical attacks.",
+  "es": "Reduce a la mitad el daño recibido por ataques físicos.",
+  "zh": "对手给予的物理招式的伤害会减半。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 174,
+  "en": "It can change between its shield or razor form.",
+  "es": "Puede cambiar entre su forma escudo y su forma filo.",
+  "zh": "如果使出攻击招式，会变为刀剑形态，如果使出招式“王者盾牌”，会变为盾牌形态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 175,
+  "en": "Protects the party from suffering sleep effects.",
+  "es": "Protege al equipo de sufrir efectos de sueño.",
+  "zh": "我方的宝可梦不会变为睡眠状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 176,
+  "en": "Improves the power of bite attacks.",
+  "es": "Mejora el poder de ataques basados en mordiscos.",
+  "zh": "因为颚部强壮，啃咬类招式的威力会提高。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 177,
+  "en": "Normal type attacks convert into Ice type.",
+  "es": "Los ataques de tipo Normal se convierten en tipo Hielo.",
+  "zh": "一般属性的招式会变为冰属性。威力会少量提高。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 178,
+  "en": "Inmunity to cannon, bombs and balls attacks.",
+  "es": "Inmunidad a ataques basados en cañones, bombas y bolas. ",
+  "zh": "可以防住对手的球和弹类招式。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 179,
+  "en": "Keeps the enemy item after a contact attack.",
+  "es": "Se queda con el ítem del rival tras un ataque de contacto.",
+  "zh": "夺走被自己的招式击中的对手的道具。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 180,
+  "en": "Changes its type to the attack its going to make.",
+  "es": "Modifica su propio tipo al del ataque que va a efectuar.",
+  "zh": "变为与自己使出的招式相同的属性。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 181,
+  "en": "Rises the speed of flying attacks with HP > 90%.",
+  "es": "Aumenta la vel. de ataques voladores con PS > 90%.",
+  "zh": "ＨＰ全满时，飞行属性的招式可以率先使出。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 182,
+  "en": "If it faints it can transfer its item to an ally.",
+  "es": "Si es debilitado puede ceder su objeto a un aliado.",
+  "zh": "同伴使用道具时，会把自己持有的道具传递给同伴。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 183,
+  "en": "Rises the Def. while Grassy Terrain is activated.",
+  "es": "Aumenta la Def. mientras esté activo Campo de Hierba.",
+  "zh": "在青草场地时，防御会提高。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 184,
+  "en": "Protects the user and allies from movemets void.",
+  "es": "Protege al usuario y aliados de anulaciones de movimientos.",
+  "zh": "可以防住向自己和同伴发出的心灵攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 185,
+  "en": "If it receives a contac attack, lowes the enemy Speed.",
+  "es": "Si recibe un ataque de contacto, baja la Vel. al enemigo.",
+  "zh": "对于用攻击接触到自己的对手，会降低其速度。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 186,
+  "en": "If its stats are modified, rises its Esp. At. level.",
+  "es": "Si modifican sus stats aumenta su nivel de At. Esp.",
+  "zh": "如果能力被降低，特攻就会大幅提高。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 187,
+  "en": "Rises the power of Fairy type attacks.",
+  "es": "Aumenta el poder de los ataques de tipo Hada.",
+  "zh": "全体的妖精属性招式变强。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 188,
+  "en": "Rises the power of Dark type attacks.",
+  "es": "Aumenta el poder de los ataques de tipo Siniestro. ",
+  "zh": "全体的恶属性招式变强。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 189,
+  "en": "Inverts the effect of Fairy Aura and Dark Aura.",
+  "es": "Invierte el efecto de Aura Feérica y de Aura Oscura.",
+  "zh": "让气场的效果发生逆转，降低威力。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 190,
+  "en": "When entering the battle makes a downpour.",
+  "es": "Al entrar en combate produce un diluvio.",
+  "zh": "变为不会受到火属性攻击的天气。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 191,
+  "en": "When entering the battle produces a scorching heat.",
+  "es": "Al entrar en combate produce un calor abrasador.",
+  "zh": "变为不会受到水属性攻击的天气。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 192,
+  "en": "When entering the battle makes some turbulences.",
+  "es": "Al entrar en combate produce turbulencias.",
+  "zh": "变为令飞行属性的弱点消失的天气。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 193,
+  "en": "Avoids the side effects at making contact attacks.",
+  "es": "Evita efectos secundarios al realizar ataques de contacto.",
+  "zh": "可以不接触对手就使出所有的招式。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 194,
+  "en": "Used sound attacks convert into aquatic.",
+  "es": "Los ataques de sonido usados se convierten en acuáticos.",
+  "zh": "所有的声音招式都变为水属性。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 195,
+  "en": "Makes double damage when enemy enters half the battle.",
+  "es": "Daña el doble cuando el rival entra a mitad del combate.",
+  "zh": "可以对替换出场的对手以２倍的伤害进行攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 196,
+  "en": "Copies any dance movement used by the enemy.",
+  "es": "Copia cualquier movimiento de danza usado por el enemigo.",
+  "zh": "有谁使出跳舞招式时，自己也能就这么接着使出跳舞招式。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 197,
+  "en": "From level 20 it can change to the Schooling shape.",
+  "es": "A partir del nivel 20 puede cambiar a la forma Banco.",
+  "zh": "ＨＰ多的时候会聚起来变强。ＨＰ剩余量变少时，群体会分崩离析。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 198,
+  "en": "If the target is poisoned always makes a critical hit.",
+  "es": "Si el objetivo está envenenado siempre realiza golpe crítico.",
+  "zh": "攻击中毒状态的对手时，必定会击中要害。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 199,
+  "en": "Rises its Def. when hit by a direct damage attack.",
+  "es": "Sube su Def. al ser golpeado por un ataque de daño directo.",
+  "zh": "受到攻击时，防御会提高。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 200,
+  "en": "Improves its Fire resistance and Water attacks.",
+  "es": "Mejora los ataques de Agua y su resistencia al Fuego.",
+  "zh": "降低自己受到的火属性招式的威力，不会灼伤。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 201,
+  "en": "It can poison Poison and Steel Pokemon.",
+  "es": "Puede envenenar a Pokémon de tipo Veneno y Acero.",
+  "zh": "可以使钢属性和毒属性的宝可梦也陷入中毒状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 202,
+  "en": "Resitant to contact attacks but weak to fire.",
+  "es": "Resistente frente a ataques de contacto pero débil al fuego.",
+  "zh": "会将对手所给予的接触类招式的伤害减半，但火属性招式的伤害会变为２倍。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 203,
+  "en": "Enemy's high priority attacks stop being it.",
+  "es": "Los ataques de alta prioridad del rival dejan de serlo.",
+  "zh": "向对手施加威慑力，使其无法对我方使出先制招式。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 204,
+  "en": "Healing attacks need less PP.",
+  "es": "Los ataques de curación requieren menos gasto de PP.",
+  "zh": "可以率先使出回复招式。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 205,
+  "en": "Takes the ability of the last fallen ally.",
+  "es": "Recoge la habilidad del último aliado caído en combate.",
+  "zh": "继承被打倒的同伴的特性，变为相同的特性。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 206,
+  "en": "Flees from battle if a hit reduces its HP under 50%.",
+  "es": "Huye del combate si un golpe baja su PS por debajo del 50%.",
+  "zh": "ＨＰ变为一半时，为了回避危险，会退回到同行队伍中。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 207,
+  "en": "Rises a lot its Def. when being damaged by Water.",
+  "es": "Aumenta mucho su Def. al ser dañado con ataques de Agua.",
+  "zh": "受到水属性的招式攻击时，防御会大幅提高。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 208,
+  "en": "When it flinches reduces HP to the enemy as it had.",
+  "es": "Cuando es debilitado resta al rival tanto PS como le quedaba.",
+  "zh": "被对手打倒的时候，会给予对手相当于ＨＰ剩余量的伤害。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 209,
+  "en": "Modifies its type depending on the equipped item.",
+  "es": "Modifica su tipo dependiendo del objeto equipado.",
+  "zh": "根据持有的存储碟，自己的属性会改变。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 210,
+  "en": "On its meteor shape its satus can't be changed.",
+  "es": "En su forma meteorito no es posible cambiar su estado.",
+  "zh": "ＨＰ变为一半时，壳会坏掉，变得有攻击性。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 211,
+  "en": "Acts as it's sleeping but being able to attack.",
+  "es": "Actúa como si estuviese dormido pero pudiendo atacar.",
+  "zh": "总是半梦半醒的状态，绝对不会醒来。可以就这么睡着进行攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 212,
+  "en": "Doesn't suffer damage with the first attack in battle.",
+  "es": "No sufre daño con el primer ataque recibido en combate.",
+  "zh": "通过画皮覆盖住身体，可以防住１次攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 213,
+  "en": "Enemy's high priority attacks stop being it.",
+  "es": "Los ataques de alta prioridad del rival dejan de serlo.",
+  "zh": "让对手吓一跳，使其无法对我方使出先制招式。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 214,
+  "en": "Rises its Esp. At. if a hit reduces its HP under 50%.",
+  "es": "Sube su At. Esp. si un golpe baja su PS por debajo del 50%.",
+  "zh": "因对手的攻击ＨＰ变为一半时，特攻会提高。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 215,
+  "en": "Improves Steel type attacks to 50%.",
+  "es": "Potencia los ataques de tipo Acero en un 50%.",
+  "zh": "钢属性的招式威力会提高。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 216,
+  "en": "Creates an Electric Field when entering the battle.",
+  "es": "Genera un Campo Eléctrico cuando entra en combate.",
+  "zh": "出场时，会布下电气场地。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 217,
+  "en": "Creates a Psiquic Field when entering the battle.",
+  "es": "Genera un Campo Psíquico cuando entra en combate.",
+  "zh": "出场时，会布下精神场地。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 218,
+  "en": "Creates a Grass Field when entering the battle.",
+  "es": "Genera un Campo de Hierba cuando entra en combate.",
+  "zh": "出场时，会布下青草场地。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 219,
+  "en": "Creates a Fog Field when entering the battle.",
+  "es": "Genera un Campo de Niebla cuando entra en combate.",
+  "zh": "出场时，会布下薄雾场地。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 220,
+  "en": "Prevents the enemy from lowing its stats during battle.",
+  "es": "Evita que el enemigo baje sus estadísticas de combate.",
+  "zh": "不会因为对手的招式或特性而被降低能力。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 221,
+  "en": "If HP are at 100% halves incoming damage.",
+  "es": "Si su PS está al 100% reduce el daño recibido a la mitad.",
+  "zh": "ＨＰ全满时，受到的伤害会变少。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 222,
+  "en": "Rises its Esp. At. when a Pokemon faints.",
+  "es": "Aumenta su At. Esp. cuando un Pokémon cae debilitado.",
+  "zh": "宝可梦每次变为濒死状态时，特攻会提高。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 223,
+  "en": "Rises the highest stat if the enemy faints with an attack. ",
+  "es": "Aumenta su stat más alto si debilita al rival con un ataque.",
+  "zh": "打倒对手的时候，自己最高的那项能力会提高。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 224,
+  "en": "Takes the ability of the last fallen ally.",
+  "es": "Recoge la habilidad del último aliado caído en combate.",
+  "zh": "继承被打倒的同伴的特性，变为相同的特性。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 225,
+  "en": "Normal type attacks convert into Electric type.",
+  "es": "Los ataques de tipo Normal se convierten en Eléctrico.",
+  "zh": "一般属性的招式会变为电属性。威力会少量提高。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 226,
+  "en": "If it receives a contact attack, reduces enemy Speed.",
+  "es": "Si recibe un ataque de contacto, baja la Vel. al enemigo.",
+  "zh": "对于用攻击接触到自己的对手，会降低其速度。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 227,
+  "en": "Reduces 1/4 incoming damage from effective movements.",
+  "es": "Reduce en 1/4 el daño de movimientos muy efectivos.",
+  "zh": "受到效果绝佳的攻击时，可以减弱其威力。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 228,
+  "en": "Rises the Speed when there's an Electric Field.",
+  "es": "Aumenta la Vel. cuando existe un Campo Eléctrico.",
+  "zh": "电气场地时，速度会变为２倍。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 229,
+  "en": "Rises the Speed when it's snowing or hailing.",
+  "es": "Aumenta la Vel. cuando está nevando o granizando.",
+  "zh": "冰雹天气时，速度会提高。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 230,
+  "en": "If its health is lower than the half, changes its shape.",
+  "es": "Si su salud es inferior a la mitad, cambia de forma.",
+  "zh": "ＨＰ变为一半时，细胞们会赶来支援，变为完全体形态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 231,
+  "en": "It increases Esp. At. of the rest of the team by 30%.",
+  "es": "Aumenta un 30% el At. Esp. del resto del equipo.",
+  "zh": "会提高我方的特殊招式的威力。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 232,
+  "en": "Changes shape after defeating an enemy.",
+  "es": "Cambia de forma tras debilitar a un oponente.",
+  "zh": "打倒对手时，与训练家的牵绊会增强，变为小智版甲贺忍蛙。飞水手里剑的招式威力会增强。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 233,
+  "en": "Flees from battle when its HP are lower than the half.",
+  "es": "Huye del combate cuando su PS es menor de la mitad.",
+  "zh": "ＨＰ变为一半时，会慌慌张张逃走，退回同行队伍中。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 234,
+  "en": "Increases Attack when entering battle.",
+  "es": "Aumenta el Ataque al entrar en combate.",
+  "zh": "出场时，攻击会提高。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 235,
+  "en": "Increases Defense when entering battle.",
+  "es": "Aumenta la Defensa al entrar en combate.",
+  "zh": "出场时，防御会提高。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 236,
+  "en": "Changes its type to the attack its going to make.",
+  "es": "Modifica su propio tipo al del ataque que va a efectuar.",
+  "zh": "变为与自己使出的招式相同的属性。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 237,
+  "en": "It can pick up the capture items if it fail.",
+  "es": "Recoge los objetos de captura si no se logra atrapar al Pokémon.",
+  "zh": "没有携带道具时，会拾取第１个投出后捕捉失败的精灵球。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 238,
+  "en": "When hit, it spreads fluff that lowers the Speed.",
+  "es": "Al ser golpeado, esparce pelusas que bajan la Vel.",
+  "zh": "受到攻击后撒下棉絮，降低除自己以外的所有宝可梦的速度。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 239,
+  "en": "Ignores moves and target shifting abilities.",
+  "es": "Ignora movimientos y habilidades de cambio de objetivo.",
+  "zh": "能无视具有吸引对手招式效果的特性或招式的影响。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 240,
+  "en": "Reflects stat decreases to the enemy that caused them.",
+  "es": "Refleja disminuciones de stats al enemigo que se las causó.",
+  "zh": "只反弹自己受到的能力降低效果。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 241,
+  "en": "After using Surf or Dive, return with a Pokémon in its pickaxe.",
+  "es": "Tras usar Surf o Buceo, regresa con un Pokémon en el pico.",
+  "zh": "冲浪或潜水时会叼来猎物。受到伤害时，会吐出猎物进行攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 242,
+  "en": "Ignores moves and target shifting abilities.",
+  "es": "Ignora movimientos y habilidades de cambio de objetivo.",
+  "zh": "能无视具有吸引对手招式效果的特性或招式的影响。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 243,
+  "en": "Water or fire attacks increase the Speed in 6 levels.",
+  "es": "Los ataques de agua o fuego aumentan su Vel. en 6 niveles.",
+  "zh": "受到水属性或火属性的招式攻击时，速度会巨幅提高。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 244,
+  "en": "Increases power and resistance to sound attacks.",
+  "es": "Aumenta el poder y resistencia a los ataques de sonido.",
+  "zh": "声音招式的威力会提高。受到的声音招式伤害会减半。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 245,
+  "en": "When hit it produces a Sand Storm.",
+  "es": "Al ser golpeado produce una Tormenta Arena.",
+  "zh": "受到攻击时，会刮起沙暴。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 246,
+  "en": "Halves damage taken from special attacks.",
+  "es": "Reduce a la mitad el daño recibido de ataques especiales.",
+  "zh": "由于有冰鳞粉的守护，受到的特殊攻击伤害会减半。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 247,
+  "en": "Doubles the effect of equipped berries when used.",
+  "es": "Duplica el efecto de las bayas equipadas al ser usadas.",
+  "zh": "使树果成熟，效果变为２倍。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 248,
+  "en": "Covers its head with ice to resist physical attacks.",
+  "es": "Recubre su cabeza con hielo para resistir ataques físicos.",
+  "zh": "头部的冰会代替自己承受物理攻击，但是样子会改变。下冰雹时，冰会恢复原状。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 249,
+  "en": "Increases the power of allied Pokémon's moves.",
+  "es": "Aumenta la potencia de los movimientos de los Pokémon aliados.",
+  "zh": "只要处在相邻位置，招式的威力就会提高。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 250,
+  "en": "It changes its type according to the field present in battle.",
+  "es": "Cambia su tipo de acuerdo al campo presente en combate.",
+  "zh": "宝可梦的属性会根据场地的状态而变化。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 251,
+  "en": "Nullifies the effect of barrier moves in battle.",
+  "es": "Anula el efecto de los movimientos barrera en combate.",
+  "zh": "出场时，敌方和我方的光墙、反射壁和极光幕的效果会消失。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 252,
+  "en": "Increases the power of steel-type moves by 50%.",
+  "es": "Aumenta en un 50% la potencia de los movimientos de tipo acero.",
+  "zh": "我方的钢属性攻击威力会提高。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 253,
+  "en": "After a contact hit, both Pokémon become weak after a while.",
+  "es": "Tras un golpe por contacto, ambos Pokémon se debilitan al cabo de un rato.",
+  "zh": "受到接触类招式攻击时，双方都会在３回合后变为濒死状态。替换后效果消失。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 254,
+  "en": "After a contact hit, exchange the skill with the opponent.",
+  "es": "Tras un golpe por contacto, intercambia la habilidad con el rival.",
+  "zh": "与使用接触类招式攻击自己的宝可梦互换特性。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 255,
+  "en": "When using a move, all other attacks are disabled.",
+  "es": "Al usar un movimiento, el resto de ataques se deshabilitan.",
+  "zh": "虽然攻击会提高，但是只能使出一开始所选的招式。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 256,
+  "en": "Nullifies all abilities of Pokémon that are in battle.",
+  "es": "Anula todas las habilidades de los Pokémon que estén en combate.",
+  "zh": "特性为化学变化气体的宝可梦在场时，场上所有宝可梦的特性效果都会消失或者无法生效。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 257,
+  "en": "Prevents the Pokémon and its allies from being poisoned.",
+  "es": "Impide al Pokémon y a sus aliados ser envenenados.",
+  "zh": "自己和同伴都不会陷入中毒的异常状态。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 258,
+  "en": "The Pokémon changes its form non-stop during battle.",
+  "es": "El Pokémon cambia de forma sin parar durante el combate.",
+  "zh": "每回合结束时会在满腹花纹与空腹花纹之间交替改变样子。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 259,
+  "en": "One third of the damage attacks made will be faster.",
+  "es": "Un tercio de los ataques de daño realizados serán más veloces.",
+  "zh": "有时能比对手先一步行动。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 260,
+  "en": "Allows you to hit Pokémon that are protecting themselves.",
+  "es": "Permite golpear a Pokémon que se están protegiendo.",
+  "zh": "如果使出的是接触到对手的招式，就可以无视守护效果进行攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 261,
+  "en": "Upon entering combat restores your team's stat changes.",
+  "es": "Al entrar en combate restaura los cambios de stats de su equipo.",
+  "zh": "出场时会从贝壳撒药，将我方的能力变化复原。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 262,
+  "en": "Increases the power of electric-type attacks by 50%.",
+  "es": "Aumenta en un 50% la potencia de los ataques tipo eléctrico.",
+  "zh": "电属性的招式威力会提高。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 263,
+  "en": "Increases the power of dragon-type attacks by 50%.",
+  "es": "Aumenta en un 50% la potencia de los ataques tipo dragón.",
+  "zh": "龙属性的招式威力会提高。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 264,
+  "en": "Increases your At. by defeating the opponent with a damage attack.",
+  "es": "Aumenta su At. al derrotar al rival con un ataque de daño. ",
+  "zh": "打倒对手时会用冰冷的声音嘶鸣并提高攻击。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 265,
+  "en": "Increases your At. Esp. by defeating the opponent with a damage attack.",
+  "es": "Aumenta su At. Esp. al derrotar al rival con un ataque de daño.",
+  "zh": "打倒对手时会用恐怖的声音嘶鸣并提高特攻。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 266,
+  "en": "Combines the effects of Nervousness and White Neigh.",
+  "es": "Combina los efectos de Nerviosismo y Relincho Blanco.",
+  "zh": "兼备蕾冠王的紧张感和雪暴马的苍白嘶鸣这两种特性。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 267,
+  "en": "Combines the effects of Nervousness and Black Neigh.",
+  "es": "Combina los efectos de Nerviosismo y Relincho Negro.",
+  "zh": "兼备蕾冠王的紧张感和雪暴马的苍白嘶鸣这两种特性。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 268,
+  "en": "Reduces Def. Esp. of the rest of Pokémon by 25%.",
+  "es": "Reduce la Def. Esp. del resto de Pokémon en un 25%.",
+  "zh": "使场上除自己以外的宝可梦的特防降低25%。"
+ },
+ {
+  "id": 269,
+  "en": "Reduces At. Esp. of the rest of Pokémon by 25%.",
+  "es": "Reduce la At. Esp. del resto de Pokémon en un 25%.",
+  "zh": "使场上除自己以外的宝可梦的特攻降低25%。"
+ },
+ {
+  "id": 270,
+  "en": "After being removed, when it returns again it changes shape.",
+  "es": "Tras ser retirado, al volver de nuevo cambia de forma.",
+  "zh": "退场后再次出场时，会变换姿态。"
+ },
+ {
+  "id": 271,
+  "en": "Disperses a layer of toxic spikes if physically hit.",
+  "es": "Dispersa una capa de púas tóxicas si es golpeado físicamente.",
+  "zh": "受到物理招式攻击时，会在对手场地上撒下毒菱。"
+ },
+ {
+  "id": 272,
+  "en": "With electric field increases your most powerful stat by 30%.",
+  "es": "Con campo eléctrico aumenta su stat más poderoso en un 30%.",
+  "zh": "在电气场地下，自己最高的能力会提高30%。"
+ },
+ {
+  "id": 273,
+  "en": "Prevents opposing Pokémon from using priority attacks.",
+  "es": "Impide que los Pokémon oponentes usen ataques con prioridad.",
+  "zh": "使对手无法使用先制招式。"
+ },
+ {
+  "id": 274,
+  "en": "Can take control of an allied Dondozo in battle.",
+  "es": "Puede tomar el control de un Dondozo aliado en combate.",
+  "zh": "可以在战斗中操纵己方的吃吼霸。"
+ },
+ {
+  "id": 275,
+  "en": "If your HP is reduced to half or less, modify your stats.",
+  "es": "Si su PS se reduce a la mitad o menos, modifica sus stats.",
+  "zh": "HP降到一半以下时，能力会发生变化。"
+ },
+ {
+  "id": 276,
+  "en": "Increases the power of slash-based attacks by 50%.",
+  "es": "Aumenta en un 50% la potencia de los ataques basados en cortes.",
+  "zh": "斩击类招式的威力会提高50%。"
+ },
+ {
+  "id": 277,
+  "en": "It is not affected by status attacks launched by the enemy.",
+  "es": "No se ve afectado por ataques de estado lanzados por el enemigo.",
+  "zh": "不会受到对手变化招式的影响。"
+ },
+ {
+  "id": 278,
+  "en": "Immunity to fire-type moves. They increase their Def.",
+  "es": "Inmunidad a movimientos de tipo fuego. Aumentan su Def.",
+  "zh": "不会受到火属性招式的攻击，并会提高自己的防御。"
+ },
+ {
+  "id": 279,
+  "en": "After taking damage, his next electric attack doubles its power.",
+  "es": "Tras recibir daño, su siguiente ataque eléctrico duplica su poder.",
+  "zh": "受到伤害后，下一次电属性招式的威力会变成2倍。"
+ },
+ {
+  "id": 280,
+  "en": "When hit produces a Grass Field.",
+  "es": "Al ser golpeado produce un Campo de Hierba.",
+  "zh": "受到攻击时，会让场地变成青草场地。"
+ },
+ {
+  "id": 281,
+  "en": "After a wind attack, his next electric attack doubles its power.",
+  "es": "Tras un ataque de viento, su siguiente ataque eléctrico duplica su poder.",
+  "zh": "受到风类招式攻击后，下一次电属性招式的威力会变成2倍。"
+ },
+ {
+  "id": 282,
+  "en": "Reduces Def. of the rest of Pokémon by 25%.",
+  "es": "Reduce la Def. del resto de Pokémon en un 25%.",
+  "zh": "使场上除自己以外的宝可梦的防御降低25%。"
+ },
+ {
+  "id": 283,
+  "en": "Increases his power by 10% for each ally defeated in battle.",
+  "es": "Aumenta su poder un 10% por cada aliado derrotado en combate.",
+  "zh": "每有一只倒下的同伴，自己的威力就会提高10%。"
+ },
+ {
+  "id": 284,
+  "en": "Immunity to ground-type movements. They recover their PS.",
+  "es": "Inmunidad a movimientos de tipo tierra. Recuperan su PS.",
+  "zh": "不会受到地面属性招式的攻击，并会恢复HP。"
+ },
+ {
+  "id": 285,
+  "en": "Temporarily produces sunny weather, increasing its power by 33%.",
+  "es": "Produce tiempo soleado temporalmente aumentando su poder en un 33%. ",
+  "zh": "出场时，会暂时让天气变为大晴天，并使自己的威力提高33%。"
+ },
+ {
+  "id": 286,
+  "en": "Produces Electric Field temporarily increasing its power by 33%.",
+  "es": "Produce Campo Eléctrico temporalmente aumentando su poder en un 33%. ",
+  "zh": "出场时，会暂时让场地变成电气场地，并使自己的威力提高33%。"
+ },
+ {
+  "id": 287,
+  "en": "When hit, the opponent changes its ability to Lingering Smell.",
+  "es": "Cuando es golpeado, el rival cambia su habilidad a Olor Persistente.",
+  "zh": "受到攻击时，会把对手的特性变成不移之躯以外的“紧缠不放”。"
+ },
+ {
+  "id": 288,
+  "en": "Copies enemy stat boosts.",
+  "es": "Copia los aumentos de stats de los enemigos.",
+  "zh": "复制对手能力的提升。"
+ },
+ {
+  "id": 289,
+  "en": "In sunny weather increases your most powerful stat by 30%.",
+  "es": "Con tiempo soleado aumenta su stat más poderoso en un 30%.",
+  "zh": "在大晴天下，自己最高的能力会提高30%。"
+ },
+ {
+  "id": 290,
+  "en": "It is not affected by switching moves or Intimidation.",
+  "es": "No se ve afectado por movimientos de cambio ni por Intimidación.",
+  "zh": "不会受到替换类招式和威吓的影响。"
+ },
+ {
+  "id": 291,
+  "en": "Status attacks are slow but ignore defensive abilities.",
+  "es": "Los ataques de estado son lentos pero ignoran habilidades defensivas.",
+  "zh": "变化招式的出招会变慢，但能无视对手的防守型特性。"
+ },
+ {
+  "id": 292,
+  "en": "You can regurgitate a consumed berry to use it once more.",
+  "es": "Puede regurgitar una baya consumida para usarla una vez más.",
+  "zh": "可以把吃下的树果吐出来，再使用一次。"
+ },
+ {
+  "id": 293,
+  "en": "Avoids the most common status changes and is resistant to Ghosts.",
+  "es": "Evita los cambios de estado más comunes y es resistente a Fantasmas.",
+  "zh": "可以防住常见的异常状态，并且对幽灵属性招式有抗性。"
+ },
+ {
+  "id": 294,
+  "en": "Immunity to wind movements. They increase their At.",
+  "es": "Inmunidad a movimientos de viento. Aumentan su At.",
+  "zh": "不会受到风类招式的攻击，并会提高自己的攻击。"
+ },
+ {
+  "id": 295,
+  "en": "Reduces At. of the rest of Pokémon by 25%.",
+  "es": "Reduce la At. del resto de Pokémon en un 25%.",
+  "zh": "使场上除自己以外的宝可梦的攻击降低25%。"
+ },
+ {
+  "id": 296,
+  "en": "Immunity to burns. Fire attacks increase your At.",
+  "es": "Inmunidad a las quemaduras. Los ataques de fuego aumentan su At.",
+  "zh": "不会陷入灼伤状态。受到火属性招式攻击时，攻击会提高。"
+ },
+ {
+  "id": 297,
+  "en": "Increases the power of rock-type moves by 50%.",
+  "es": "Aumenta en un 50% la potencia de los movimientos de tipo roca.",
+  "zh": "岩石属性招式的威力会提高50%。"
+ },
+ {
+  "id": 298,
+  "en": "When entering battle, it copies an ally's stat changes.",
+  "es": "Al entrar en combate copia los cambios de stats de un aliado.",
+  "zh": "出场时，会复制同伴的能力变化。"
+ },
+ {
+  "id": 299,
+  "en": "A hailstorm is summoned when the battle begins.",
+  "es": "Al entrar en combate produce una granizada.",
+  "zh": "出场时，会让天气变为冰雹。"
+ },
+ {
+  "id": 300,
+  "en": "If poison the enemy, it will also be confused at the same time.",
+  "es": "Si envenena al enemigo, éste pasará a estar confuso a la vez.",
+  "zh": "让对手中毒时，也会同时让对手陷入混乱状态。"
+ },
+ {
+  "id": 301,
+  "en": "Changes to its Terastal Form upon entering battle.",
+  "es": "Cambia a su forma Teracristal al entrar en combate.",
+  "zh": "出场时，会变成太晶形态。"
+ },
+ {
+  "id": 302,
+  "en": "Enemy movements will be ineffective if your health is at 100%.",
+  "es": "Los movimientos enemigos serán poco eficaces si tiene su salud al 100%.",
+  "zh": "HP全满时，对手的招式效果会变得不太好。"
+ },
+ {
+  "id": 303,
+  "en": "Elimina cualquier tiempo atmosférico y campo que haya activos.",
+  "es": "Eliminates any active weather and fields.",
+  "zh": "消除一切天气和场地的效果。"
+ },
+ {
+  "id": 304,
+  "en": "The opponent's evasion is lowered upon entering battle.",
+  "es": "Baja la evasión al rival al entrar al combate.",
+  "zh": "出场时，会降低对手的闪避率。"
+ },
+ {
+  "id": 305,
+  "en": "Restores 20% of the health of its allies upon entering battle.",
+  "es": "Recupera un 20% la salud a sus aliados al entrar al combate.",
+  "zh": "出场时，会恢复同伴20%的HP。"
+ },
+ {
+  "id": 306,
+  "en": "Damages ghosts with Fighting and Normal attacks, cannot lower its Accur.",
+  "es": "Daña a fantasmas con ataques Lucha y Normal, y no le pueden bajar la Prec.",
+  "zh": "能用格斗和一般属性招式攻击幽灵属性，并且命中率不会被降低。"
+ },
+ {
+  "id": 307,
+  "en": "The enemy may get poisoned when hit.",
+  "es": "Puede envenenar al enemigo tras asestarle un golpe.",
+  "zh": "攻击对手后，有时会让对手陷入中毒状态。"
+ },
+ {
+  "id": 308,
+  "en": "Increases the power of super-effective moves.",
+  "es": "Aumenta la potencia de los movimientos supereficaces.",
+  "zh": "效果绝佳的攻击，威力会变得更强。",
+  "note": "官方说明（PokeAPI）"
+ },
+ {
+  "id": 309,
+  "en": "Allows you to damage Pokémon that are protecting themselves.",
+  "es": "Permite dañar a Pokémon que se están protegiendo.",
+  "zh": "可以攻击正在防守的宝可梦。"
+ },
+ {
+  "id": 310,
+  "en": "Normal type attacks convert into Dragon type.",
+  "es": "Los ataques de tipo Normal se convierten en Dragón.",
+  "zh": "一般属性的招式会变成龙属性。"
+ },
+ {
+  "id": 311,
+  "en": "Acquire the effects produced by harsh sunlight.",
+  "es": "Adquiere los efectos producidos por el clima Soleado.",
+  "zh": "获得和大晴天相同的效果。"
+ },
+ {
+  "id": 312,
+  "en": "If it takes damage from a move, it burns the attacking Pokémon.",
+  "es": "Si recibe daño de un movimiento, quema al Pokémon atacante.",
+  "zh": "受到招式的伤害时，会让攻击的宝可梦陷入灼伤状态。"
+ },
+ {
+  "id": 313,
+  "en": "Levite and rises the highest stat if the enemy faints with an attack. ",
+  "es": "Levita y aumenta su stat más alto si debilita al rival con un ataque.",
+  "zh": "飘浮在空中。用招式击倒对手时，自己最高的能力会提高。"
+ },
+ {
+  "id": 314,
+  "en": "Improves Fire type attacks to 50%.",
+  "es": "Potencia los ataques de tipo Fuego en un 50%.",
+  "zh": "火属性招式的威力会提高50%。"
+ }
+]

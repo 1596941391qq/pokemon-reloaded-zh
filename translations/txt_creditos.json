@@ -1,0 +1,260 @@
+[
+ {
+  "id": 1,
+  "en": "Pokémon Reloaded Version",
+  "es": "Pokémon Edición Reloaded",
+  "zh": "宝可梦重装上阵版"
+ },
+ {
+  "id": 2,
+  "en": "Credits",
+  "es": "Créditos",
+  "zh": "制作人员名单"
+ },
+ {
+  "id": 3,
+  "en": "Created by",
+  "es": "Creado por",
+  "zh": "制作"
+ },
+ {
+  "id": 4,
+  "en": "Based on the games",
+  "es": "Basado en los juegos de",
+  "zh": "基于以下游戏"
+ },
+ {
+  "id": 5,
+  "en": "Developer",
+  "es": "Desarrollador",
+  "zh": "开发"
+ },
+ {
+  "id": 6,
+  "en": "Functional design",
+  "es": "Diseño funcional",
+  "zh": "功能设计"
+ },
+ {
+  "id": 7,
+  "en": "Battles in real time",
+  "es": "Combates en tiempo real",
+  "zh": "实时对战"
+ },
+ {
+  "id": 8,
+  "en": "Administrators",
+  "es": "Administradores",
+  "zh": "管理员"
+ },
+ {
+  "id": 9,
+  "en": "Graphic design",
+  "es": "Diseño Gráfico",
+  "zh": "美术设计"
+ },
+ {
+  "id": 10,
+  "en": "Building Improvements",
+  "es": "Mejoras edificios",
+  "zh": "建筑改进"
+ },
+ {
+  "id": 11,
+  "en": "NDS Project",
+  "es": "Proyecto NDS",
+  "zh": "NDS 项目"
+ },
+ {
+  "id": 12,
+  "en": "Trainer Improvements",
+  "es": "Mejoras Entrenadores",
+  "zh": "训练家改进"
+ },
+ {
+  "id": 13,
+  "en": "Llanos and Nebula Islands",
+  "es": "Islas Llanos y Nebulosa",
+  "zh": "利亚诺斯岛和星云岛"
+ },
+ {
+  "id": 14,
+  "en": "Supernova Island",
+  "es": "Isla Supernova",
+  "zh": "超新星岛"
+ },
+ {
+  "id": 15,
+  "en": "Spirit Island",
+  "es": "Isla Espíritu",
+  "zh": "灵魂岛"
+ },
+ {
+  "id": 16,
+  "en": "Kalos and Alola Leagues",
+  "es": "Ligas de Kalos y Alola",
+  "zh": "卡洛斯和阿罗拉联盟"
+ },
+ {
+  "id": 17,
+  "en": "Additional scenarios",
+  "es": "Escenarios adicionales",
+  "zh": "附加场景"
+ },
+ {
+  "id": 18,
+  "en": "Graphic outsourcing",
+  "es": "Externalización gráfica",
+  "zh": "美术外包"
+ },
+ {
+  "id": 19,
+  "en": "Star's initials",
+  "es": "Iniciales de Star",
+  "zh": "Star 的姓名缩写"
+ },
+ {
+  "id": 20,
+  "en": "Shiny Project",
+  "es": "Proyecto Shiny",
+  "zh": "闪光项目"
+ },
+ {
+  "id": 21,
+  "en": "Mega Evolution Project",
+  "es": "Proyecto Mega Evolución",
+  "zh": "超级进化项目"
+ },
+ {
+  "id": 22,
+  "en": "Pokémon Eggs Project",
+  "es": "Proyecto Huevos Pokémon",
+  "zh": "宝可梦蛋项目"
+ },
+ {
+  "id": 23,
+  "en": "Color project",
+  "es": "Proyecto colores",
+  "zh": "配色项目"
+ },
+ {
+  "id": 24,
+  "en": "Pokémon Improvements",
+  "es": "Mejoras Pokémon",
+  "zh": "宝可梦改进"
+ },
+ {
+  "id": 25,
+  "en": "Recent Pokémon Improvements",
+  "es": "Mejoras Pokémon Recientes",
+  "zh": "近期宝可梦改进"
+ },
+ {
+  "id": 26,
+  "en": "Sweet Dreams Project",
+  "es": "Proyecto Dulces sueños",
+  "zh": "美梦项目"
+ },
+ {
+  "id": 27,
+  "en": "Alola Graphics",
+  "es": "Gráficos Alola",
+  "zh": "阿罗拉美术"
+ },
+ {
+  "id": 28,
+  "en": "Galar and Paldea graphics",
+  "es": "Gráficos Galar y Paldea",
+  "zh": "伽勒尔和帕底亚美术"
+ },
+ {
+  "id": 29,
+  "en": "Learning Projects",
+  "es": "Proyectos de Aprendizaje",
+  "zh": "学习项目"
+ },
+ {
+  "id": 30,
+  "en": "Galar technical information",
+  "es": "Información técnica Galar",
+  "zh": "伽勒尔技术资料"
+ },
+ {
+  "id": 31,
+  "en": "Strategies Project",
+  "es": "Proyecto Estrategias",
+  "zh": "策略项目"
+ },
+ {
+  "id": 32,
+  "en": "Musical setting",
+  "es": "Ambientación musical",
+  "zh": "音乐配置"
+ },
+ {
+  "id": 33,
+  "en": "Translations",
+  "es": "Traducciones",
+  "zh": "翻译"
+ },
+ {
+  "id": 34,
+  "en": "Text review",
+  "es": "Revisión de textos",
+  "zh": "文本校对"
+ },
+ {
+  "id": 35,
+  "en": "Beta testers The Last Beta",
+  "es": "Beta testers The Last Beta",
+  "zh": "最新测试版的测试员"
+ },
+ {
+  "id": 36,
+  "en": "Beta testers Old Betas",
+  "es": "Beta testers Betas Antiguas",
+  "zh": "旧测试版的测试员"
+ },
+ {
+  "id": 37,
+  "en": "Thanks",
+  "es": "Agradecimientos",
+  "zh": "致谢"
+ },
+ {
+  "id": 38,
+  "en": "Special thanks",
+  "es": "Agradecimientos especiales",
+  "zh": "特别鸣谢"
+ },
+ {
+  "id": 39,
+  "en": "And thanks to you...",
+  "es": "Y Agradecimientos a ti...",
+  "zh": "同时感谢你……"
+ },
+ {
+  "id": 40,
+  "en": "Thanks for playing!",
+  "es": "¡Gracias por jugar!",
+  "zh": "感谢游玩！"
+ },
+ {
+  "id": 41,
+  "en": "THE END",
+  "es": "FIN",
+  "zh": "完"
+ },
+ {
+  "id": 42,
+  "en": "Paldea technical information",
+  "es": "Información técnica Paldea",
+  "zh": "帕底亚技术资料"
+ },
+ {
+  "id": 43,
+  "en": "Rework Stars Project",
+  "es": "Proyecto Rework Stars",
+  "zh": "Rework Stars 项目"
+ }
+]

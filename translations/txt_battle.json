@@ -1,0 +1,2246 @@
+[
+ {
+  "id": 1,
+  "en": "Physical",
+  "es": "Físico",
+  "zh": "物理"
+ },
+ {
+  "id": 2,
+  "en": "Special",
+  "es": "Especial",
+  "zh": "特殊"
+ },
+ {
+  "id": 3,
+  "en": "Status",
+  "es": "Estado",
+  "zh": "变化"
+ },
+ {
+  "id": 4,
+  "en": "None",
+  "es": "Ninguno",
+  "zh": "无"
+ },
+ {
+  "id": 5,
+  "en": "Normal",
+  "es": "Normal",
+  "zh": "一般"
+ },
+ {
+  "id": 6,
+  "en": "Fire",
+  "es": "Fuego",
+  "zh": "火"
+ },
+ {
+  "id": 7,
+  "en": "Water",
+  "es": "Agua",
+  "zh": "水"
+ },
+ {
+  "id": 8,
+  "en": "Grass",
+  "es": "Planta",
+  "zh": "草"
+ },
+ {
+  "id": 9,
+  "en": "Electric",
+  "es": "Eléctrico",
+  "zh": "电"
+ },
+ {
+  "id": 10,
+  "en": "Rock",
+  "es": "Roca",
+  "zh": "岩石"
+ },
+ {
+  "id": 11,
+  "en": "Fighting",
+  "es": "Lucha",
+  "zh": "格斗"
+ },
+ {
+  "id": 12,
+  "en": "Ground",
+  "es": "Tierra",
+  "zh": "地面"
+ },
+ {
+  "id": 13,
+  "en": "Psychic",
+  "es": "Psíquico",
+  "zh": "超能力"
+ },
+ {
+  "id": 14,
+  "en": "Poison",
+  "es": "Veneno",
+  "zh": "毒"
+ },
+ {
+  "id": 15,
+  "en": "Bug",
+  "es": "Bicho",
+  "zh": "虫"
+ },
+ {
+  "id": 16,
+  "en": "Ice",
+  "es": "Hielo",
+  "zh": "冰"
+ },
+ {
+  "id": 17,
+  "en": "Dark",
+  "es": "Siniestro",
+  "zh": "恶"
+ },
+ {
+  "id": 18,
+  "en": "Steel",
+  "es": "Acero",
+  "zh": "钢"
+ },
+ {
+  "id": 19,
+  "en": "Flying",
+  "es": "Volador",
+  "zh": "飞行"
+ },
+ {
+  "id": 20,
+  "en": "Ghost",
+  "es": "Fantasma",
+  "zh": "幽灵"
+ },
+ {
+  "id": 21,
+  "en": "Dragon",
+  "es": "Dragón",
+  "zh": "龙"
+ },
+ {
+  "id": 22,
+  "en": "Fairy",
+  "es": "Hada",
+  "zh": "妖精"
+ },
+ {
+  "id": 23,
+  "en": "$par1$ fell asleep.",
+  "es": "$par1$ se durmió.",
+  "zh": "$par1$睡着了！"
+ },
+ {
+  "id": 24,
+  "en": "$par1$ is confused.",
+  "es": "$par1$ sufre confusión.",
+  "zh": "$par1$混乱了！"
+ },
+ {
+  "id": 25,
+  "en": "$par1$ got burned.",
+  "es": "$par1$ sufre quemaduras.",
+  "zh": "$par1$被灼伤了！"
+ },
+ {
+  "id": 26,
+  "en": "$par1$ is frozen solid.",
+  "es": "$par1$ sufre congelación.",
+  "zh": "$par1$被冻住了！"
+ },
+ {
+  "id": 27,
+  "en": "$par1$ is paralyzed.",
+  "es": "$par1$ sufre parálisis.",
+  "zh": "$par1$麻痹了！"
+ },
+ {
+  "id": 28,
+  "en": "$par1$ was poisoned.",
+  "es": "$par1$ sufre envenenamiento.",
+  "zh": "$par1$中毒了！"
+ },
+ {
+  "id": 29,
+  "en": "$par1$ was seeded.",
+  "es": "$par1$ sufre infección.",
+  "zh": "$par1$被种下了种子！"
+ },
+ {
+  "id": 30,
+  "en": "$par1$ fell in love.",
+  "es": "$par1$ se ha enamorado.",
+  "zh": "$par1$着迷了！"
+ },
+ {
+  "id": 31,
+  "en": "$par1$ was cursed.",
+  "es": "$par1$ sufre maldición.",
+  "zh": "$par1$被诅咒了！"
+ },
+ {
+  "id": 32,
+  "en": " - $par1$'s At. $par2$.",
+  "es": " - At. de $par1$ $par2$.",
+  "zh": " - $par1$的攻击$par2$。"
+ },
+ {
+  "id": 33,
+  "en": " - $par1$'s Sp. At. $par2$.",
+  "es": " - At. Esp. de $par1$ $par2$.",
+  "zh": " - $par1$的特攻$par2$。"
+ },
+ {
+  "id": 34,
+  "en": " - $par1$'s Def. $par2$.",
+  "es": " - Def. de $par1$ $par2$.",
+  "zh": " - $par1$的防御$par2$。"
+ },
+ {
+  "id": 35,
+  "en": " - $par1$'s Sp. Def. $par2$.",
+  "es": " - Def. Esp. de $par1$ $par2$.",
+  "zh": " - $par1$的特防$par2$。"
+ },
+ {
+  "id": 36,
+  "en": " - $par1$'s Speed $par2$.",
+  "es": " - Vel. de $par1$ $par2$.",
+  "zh": " - $par1$的速度$par2$。"
+ },
+ {
+  "id": 37,
+  "en": " - $par1$'s Accuracy $par2$.",
+  "es": " - Precisión de $par1$ $par2$.",
+  "zh": " - $par1$的命中率$par2$。"
+ },
+ {
+  "id": 38,
+  "en": " - $par1$'s Evasiveness $par2$.",
+  "es": " - Evasión de $par1$ $par2$.",
+  "zh": " - $par1$的闪避率$par2$。"
+ },
+ {
+  "id": 39,
+  "en": " - All $par1$'s Stats $par2$.",
+  "es": " - Todas las estadísticas de $par1$ $par2$.",
+  "zh": " - $par1$的全部能力$par2$。"
+ },
+ {
+  "id": 40,
+  "en": " - $par1$'s At. & Sp. At. $par2$.",
+  "es": " - At. y At. Esp. de $par1$ $par2$.",
+  "zh": " - $par1$的攻击和特攻$par2$。"
+ },
+ {
+  "id": 41,
+  "en": " - $par1$'s At. & Acc. $par2$.",
+  "es": " - At. y Prec. de $par1$ $par2$.",
+  "zh": " - $par1$的攻击和命中率$par2$。"
+ },
+ {
+  "id": 42,
+  "en": " - $par1$'s At. & Def. $par2$.",
+  "es": " - At. y Def. de $par1$ $par2$.",
+  "zh": " - $par1$的攻击和防御$par2$。"
+ },
+ {
+  "id": 43,
+  "en": " - $par1$'s At. & Speed $par2$.",
+  "es": " - At. y Vel. de $par1$ $par2$.",
+  "zh": " - $par1$的攻击和速度$par2$。"
+ },
+ {
+  "id": 44,
+  "en": " - $par1$'s Def. & Sp. Def. $par2$.",
+  "es": " - Def. y Def. Esp. de $par1$ $par2$.",
+  "zh": " - $par1$的防御和特防$par2$。"
+ },
+ {
+  "id": 45,
+  "en": " - $par1$'s Sp. At. & Sp. Def. $par2$.",
+  "es": " - At. Esp. y Def. Esp. de $par1$ $par2$.",
+  "zh": " - $par1$的特攻和特防$par2$。"
+ },
+ {
+  "id": 46,
+  "en": " - $par1$'s Sp. Def., Sp. At. & Speed $par2$.",
+  "es": " - Def. Esp., At. Esp. y Vel. de $par1$ $par2$.",
+  "zh": " - $par1$的特防、特攻和速度$par2$。"
+ },
+ {
+  "id": 47,
+  "en": " - $par1$'s At., Def. & Acc. $par2$.",
+  "es": " - At., Def. y Prec. de $par1$ $par2$.",
+  "zh": " - $par1$的攻击、防御和命中率$par2$。"
+ },
+ {
+  "id": 48,
+  "en": "$par1$'s Attack doubled.",
+  "es": "$par1$ duplicó su At.",
+  "zh": "$par1$的攻击变为两倍了！"
+ },
+ {
+  "id": 49,
+  "en": " Speed fell",
+  "es": " Bajó la Vel.",
+  "zh": " 速度降低了"
+ },
+ {
+  "id": 50,
+  "en": "fell",
+  "es": "bajó",
+  "zh": "降低了"
+ },
+ {
+  "id": 51,
+  "en": "harshly fell",
+  "es": "bajó mucho",
+  "zh": "大幅降低了"
+ },
+ {
+  "id": 52,
+  "en": "fell drastically",
+  "es": "bajó muchísimo",
+  "zh": "骤降了"
+ },
+ {
+  "id": 53,
+  "en": "fell",
+  "es": "bajaron",
+  "zh": "降低了"
+ },
+ {
+  "id": 54,
+  "en": "harshly fell",
+  "es": "bajaron mucho",
+  "zh": "大幅降低了"
+ },
+ {
+  "id": 55,
+  "en": "fell drastically",
+  "es": "bajaron muchísimo",
+  "zh": "骤降了"
+ },
+ {
+  "id": 56,
+  "en": "won't go any lower",
+  "es": "no bajará más",
+  "zh": "不会再降低了"
+ },
+ {
+  "id": 57,
+  "en": "won't go any lower",
+  "es": "no bajarán más",
+  "zh": "不会再降低了"
+ },
+ {
+  "id": 58,
+  "en": "rose",
+  "es": "subió",
+  "zh": "提高了"
+ },
+ {
+  "id": 59,
+  "en": "sharply rose",
+  "es": "subió mucho",
+  "zh": "大幅提高了"
+ },
+ {
+  "id": 60,
+  "en": "rose drastically",
+  "es": "subió muchísimo",
+  "zh": "极大幅提高了"
+ },
+ {
+  "id": 61,
+  "en": "rose",
+  "es": "subieron",
+  "zh": "提高了"
+ },
+ {
+  "id": 62,
+  "en": "sharply rose",
+  "es": "subieron mucho",
+  "zh": "大幅提高了"
+ },
+ {
+  "id": 63,
+  "en": "rose drastically",
+  "es": "subieron muchísimo",
+  "zh": "极大幅提高了"
+ },
+ {
+  "id": 64,
+  "en": "won't go higher",
+  "es": "no subirá más",
+  "zh": "不会再提高了"
+ },
+ {
+  "id": 65,
+  "en": "won't go higher",
+  "es": "no subirán más",
+  "zh": "不会再提高了"
+ },
+ {
+  "id": 66,
+  "en": "rose, but got confused",
+  "es": "subió, pero sufre confusión",
+  "zh": "提高了，但是混乱了"
+ },
+ {
+  "id": 67,
+  "en": "fell and got confused",
+  "es": "bajó y sufre confusión",
+  "zh": "降低了，并且混乱了"
+ },
+ {
+  "id": 68,
+  "en": " (Defiant worked)",
+  "es": " (Competitivo Actuó)",
+  "zh": " （好胜发动了）"
+ },
+ {
+  "id": 69,
+  "en": " (Sticky Hold worked)",
+  "es": " (Viscosidad actuó)",
+  "zh": " （黏着发动了）"
+ },
+ {
+  "id": 70,
+  "en": "Coins scattered everywhere!",
+  "es": "Ha caído dinero al suelo.",
+  "zh": "金币撒落了一地！"
+ },
+ {
+  "id": 71,
+  "en": "$par1$ avoided the KO attack.",
+  "es": "$par1$ evitó el KO.",
+  "zh": "$par1$避开了一击必杀！"
+ },
+ {
+  "id": 72,
+  "en": "$par1$ was one-hit KO'd.",
+  "es": "$par1$ quedó KO de un golpe.",
+  "zh": "$par1$被一击打倒了！"
+ },
+ {
+  "id": 73,
+  "en": "$par1$ attack missed.",
+  "es": "El ataque $par1$ falló.",
+  "zh": "$par1$没有命中！"
+ },
+ {
+  "id": 74,
+  "en": "$par1$ is too heavy!",
+  "es": "¡$par1$ pesa demasiado!",
+  "zh": "$par1$太重了！"
+ },
+ {
+  "id": 75,
+  "en": "$par1$ doesn't affect $par2$.",
+  "es": "$par1$ no afecta a $par2$.",
+  "zh": "$par1$对$par2$没有效果！"
+ },
+ {
+  "id": 76,
+  "en": "$par1$ dragged your Pokémon out.",
+  "es": "$par1$ hizo volver a tu Pokémon.",
+  "zh": "$par1$把你的宝可梦拖了出来！"
+ },
+ {
+  "id": 77,
+  "en": "$par1$ was paralyzed.",
+  "es": "$par1$ ha sido paralizado.",
+  "zh": "$par1$麻痹了！"
+ },
+ {
+  "id": 78,
+  "en": "$par1$ flinched.",
+  "es": "$par1$ retrocedió.",
+  "zh": "$par1$畏缩了，无法动弹！"
+ },
+ {
+  "id": 79,
+  "en": "$par1$ did double damage.",
+  "es": "$par1$ provocó el doble de daño.",
+  "zh": "$par1$造成了两倍的伤害！"
+ },
+ {
+  "id": 80,
+  "en": "$par1$ learned $par2$.",
+  "es": "$par1$ aprendió $par2$.",
+  "zh": "$par1$学会了$par2$！"
+ },
+ {
+  "id": 81,
+  "en": "Heal Block prevents $par1$ from healing.",
+  "es": "Anticura impide a $par1$ usar ataques de recuperación.",
+  "zh": "由于回复封锁，$par1$无法使用回复招式！"
+ },
+ {
+  "id": 82,
+  "en": "$par1$ attack could not be used.",
+  "es": "El ataque $par1$ no se pudo usar.",
+  "zh": "$par1$无法使用！"
+ },
+ {
+  "id": 83,
+  "en": "Recovery moves limit reached.",
+  "es": "Se ha alcanzado el límite de ataques de recuperación.",
+  "zh": "已达到回复招式的使用上限。"
+ },
+ {
+  "id": 84,
+  "en": "$par1$ recovered health.",
+  "es": "$par1$ se ha recuperado.",
+  "zh": "$par1$恢复了体力！"
+ },
+ {
+  "id": 85,
+  "en": "$par1$ transformed.",
+  "es": "$par1$ se ha transformado.",
+  "zh": "$par1$变身了！"
+ },
+ {
+  "id": 86,
+  "en": "$par1$ didn't work because of Insomnia.",
+  "es": "El ataque $par1$ no funciona debido a Insomnio.",
+  "zh": "由于不眠，$par1$没有起作用！"
+ },
+ {
+  "id": 87,
+  "en": "$par1$ went to sleep.",
+  "es": "$par1$ se ha echado la siesta.",
+  "zh": "$par1$睡着了！"
+ },
+ {
+  "id": 88,
+  "en": "$par1$ transformed into the $par2$ type.",
+  "es": "$par1$ ha cambiado su tipo a $par2$.",
+  "zh": "$par1$变成了$par2$属性！"
+ },
+ {
+  "id": 89,
+  "en": "$par1$ put in a substitute.",
+  "es": "$par1$ ha creado un sustituto.",
+  "zh": "$par1$制造出了替身！"
+ },
+ {
+  "id": 90,
+  "en": "$par1$ got $par2$.",
+  "es": "$par1$ adquirió la habilidad $par2$.",
+  "zh": "$par1$获得了$par2$特性！"
+ },
+ {
+  "id": 91,
+  "en": "$par1$ has the wind in favor.",
+  "es": "$par1$ tiene el viento a favor.",
+  "zh": "$par1$吹起了顺风！"
+ },
+ {
+  "id": 92,
+  "en": "$par1$ is protected by Safeguard.",
+  "es": "$par1$ se protegió con un Velo Sagrado.",
+  "zh": "$par1$被神秘守护保护着！"
+ },
+ {
+  "id": 93,
+  "en": "$par1$ has no PP left.",
+  "es": "$par1$ se quedó sin PP.",
+  "zh": "$par1$的PP用光了！"
+ },
+ {
+  "id": 94,
+  "en": "$par1$ prevents $par2$ from escaping.",
+  "es": "$par1$ impide a $par2$ huir.",
+  "zh": "$par1$让$par2$无法逃走！"
+ },
+ {
+  "id": 95,
+  "en": "Random",
+  "es": "Aleatorio",
+  "zh": "随机"
+ },
+ {
+  "id": 96,
+  "en": "$par1$ healed all Status ailments of its team.",
+  "es": "$par1$ curó los problemas de estado de su equipo.",
+  "zh": "$par1$治愈了队伍全员的异常状态！"
+ },
+ {
+  "id": 97,
+  "en": "$par1$ recovered $par2$ PS.",
+  "es": "$par1$ ha recuperado $par2$ PS.",
+  "zh": "$par1$恢复了$par2$点HP！"
+ },
+ {
+  "id": 98,
+  "en": "$par1$ handed $par2$ to $par3$.",
+  "es": "$par1$ le entregó $par2$ a $par3$.",
+  "zh": "$par1$把$par2$交给了$par3$。"
+ },
+ {
+  "id": 99,
+  "en": "$par1$ shared its pain.",
+  "es": "$par1$ ha repartido los PS.",
+  "zh": "$par1$分担了痛苦！"
+ },
+ {
+  "id": 100,
+  "en": "Stat changes copied with $par1$.",
+  "es": "Se han copiado los modificadores con $par1$.",
+  "zh": "与$par1$共享了能力变化！"
+ },
+ {
+  "id": 101,
+  "en": "$par1$ has fainted because of $par2$.",
+  "es": "$par1$ se ha debilitado por $par2$.",
+  "zh": "$par1$因$par2$而倒下了！"
+ },
+ {
+  "id": 102,
+  "en": "$par1$ recovered from its paralysis.",
+  "es": "$par1$ se curó de su parálisis.",
+  "zh": "$par1$的麻痹治好了！"
+ },
+ {
+  "id": 103,
+  "en": "$par1$ changed $par2$ for $par3$.",
+  "es": "$par1$ cambió $par2$ por $par3$.",
+  "zh": "$par1$把$par2$换成了$par3$。"
+ },
+ {
+  "id": 104,
+  "en": "$par1$ took $par2$ off of $par3$.",
+  "es": "$par1$ le quitó $par2$ a $par3$.",
+  "zh": "$par1$把$par2$从$par3$身上夺走了！"
+ },
+ {
+  "id": 105,
+  "en": "$par1$ copied $par2$.",
+  "es": "$par1$ ha copiado $par2$.",
+  "zh": "$par1$复制了$par2$！"
+ },
+ {
+  "id": 106,
+  "en": "$par1$ made a Wish.",
+  "es": "$par1$ pidió un Deseo.",
+  "zh": "$par1$许下了愿望！"
+ },
+ {
+  "id": 107,
+  "en": "$par1$ planted its root with Ingrain.",
+  "es": "$par1$ echó raíces con Arraigo.",
+  "zh": "$par1$用扎根扎下了根！"
+ },
+ {
+  "id": 108,
+  "en": "$par1$ recycled $par2$.",
+  "es": "$par1$ recicló $par2$.",
+  "zh": "$par1$回收利用了$par2$！"
+ },
+ {
+  "id": 109,
+  "en": "$par1$ is sleepy.",
+  "es": "$par1$ tiene sueño.",
+  "zh": "$par1$犯困了！"
+ },
+ {
+  "id": 110,
+  "en": "$par1$ and $par2$ have exchanged their abilities.",
+  "es": "$par1$ y $par2$ han intercambiado sus habilidades.",
+  "zh": "$par1$和$par2$互换了特性！"
+ },
+ {
+  "id": 111,
+  "en": "$par1$ sealed opponent's moves.",
+  "es": "$par1$ selló movimientos del oponente.",
+  "zh": "$par1$封印了对手的招式！"
+ },
+ {
+  "id": 112,
+  "en": "$par1$ healed its status conditions.",
+  "es": "$par1$ ha curado sus problemas de estado.",
+  "zh": "$par1$治好了自己的异常状态！"
+ },
+ {
+  "id": 113,
+  "en": "$par1$ wants the opponent to bear a Grudge.",
+  "es": "$par1$ quiere provocar Rabia a su rival.",
+  "zh": "$par1$想让对手怀有怨念！"
+ },
+ {
+  "id": 114,
+  "en": "$par1$ transformed into $par2$ type.",
+  "es": "$par1$ se camufló al tipo $par2$.",
+  "zh": "$par1$变成了$par2$属性！"
+ },
+ {
+  "id": 115,
+  "en": "$par1$ intensified gravity.",
+  "es": "$par1$ ha aumentado la fuerza de la gravedad.",
+  "zh": "$par1$增强了重力！"
+ },
+ {
+  "id": 116,
+  "en": "$par1$ woke up using $par2$.",
+  "es": "$par1$ se despertó con $par2$.",
+  "zh": "$par1$用$par2$醒来了！"
+ },
+ {
+  "id": 117,
+  "en": "$par1$'s move caused 50% more damage.",
+  "es": "El ataque $par1$ provocó un 50% más de daño.",
+  "zh": "$par1$的招式造成了多出50%的伤害！"
+ },
+ {
+  "id": 118,
+  "en": "$par1$ keeps $par2$ from using items.",
+  "es": "$par1$ impide a $par2$ el uso de objetos.",
+  "zh": "$par1$让$par2$无法使用道具！"
+ },
+ {
+  "id": 119,
+  "en": "$par1$ picked $par2$ up.",
+  "es": "$par1$ ha recogido $par2$.",
+  "zh": "$par1$捡到了$par2$！"
+ },
+ {
+  "id": 120,
+  "en": "$par1$ transferred $par2$'s status condition to $par3$",
+  "es": "$par1$ pasó el estado de $par2$ a $par3$",
+  "zh": "$par1$把$par2$的异常状态传给了$par3$"
+ },
+ {
+  "id": 121,
+  "en": "HP",
+  "es": "PS",
+  "zh": "HP"
+ },
+ {
+  "id": 122,
+  "en": "$par1$ changed its Atk. and Def. stats.",
+  "es": "$par1$ ha cambiado sus estadísticas de At. y Def.",
+  "zh": "$par1$互换了自己的攻击和防御！"
+ },
+ {
+  "id": 123,
+  "en": "$par1$ changed its Atk. and Sp. Atk. stats.",
+  "es": "$par1$ ha cambiado sus estadísticas de At. y At. Esp.",
+  "zh": "$par1$互换了自己的攻击和特攻！"
+ },
+ {
+  "id": 124,
+  "en": "$par1$ changed its Def. and Sp. Def. stats.",
+  "es": "$par1$ ha cambiado sus estadísticas de Def. y Def. Esp.",
+  "zh": "$par1$互换了自己的防御和特防！"
+ },
+ {
+  "id": 125,
+  "en": "$par1$ created an Aqua Ring.",
+  "es": "$par1$ creó un aro de agua.",
+  "zh": "$par1$制造了水流环！"
+ },
+ {
+  "id": 126,
+  "en": "$par1$ makes $par2$ immune to Ground-type moves.",
+  "es": "$par1$ hace a $par2$ inmune a ataques de Tierra.",
+  "zh": "$par1$让$par2$对地面属性的招式免疫了！"
+ },
+ {
+  "id": 127,
+  "en": "PP",
+  "es": "PP",
+  "zh": "PP"
+ },
+ {
+  "id": 128,
+  "en": "Dimensions have twisted.",
+  "es": "El espacio se ha vuelto raro.",
+  "zh": "空间扭曲了！"
+ },
+ {
+  "id": 129,
+  "en": "Space has inverted.",
+  "es": "El espacio se ha invertido.",
+  "zh": "空间颠倒了！"
+ },
+ {
+  "id": 130,
+  "en": "$par1$ has rendered $par2$ useless.",
+  "es": "$par1$ ha inutilizado $par2$.",
+  "zh": "$par1$让$par2$变得无用了！"
+ },
+ {
+  "id": 131,
+  "en": "$par1$ called the Pokémon back.",
+  "es": "$par1$ hizo volver al Pokémon.",
+  "zh": "$par1$把宝可梦召了回来！"
+ },
+ {
+  "id": 132,
+  "en": "$par1$ shared its guard with $par2$.",
+  "es": "$par1$ compartió su guardia con $par2$.",
+  "zh": "$par1$与$par2$共享了防守能力！"
+ },
+ {
+  "id": 133,
+  "en": "$par1$ shared its strenght with $par2$.",
+  "es": "$par1$ compartió su fuerza con $par2$.",
+  "zh": "$par1$与$par2$共享了攻击能力！"
+ },
+ {
+  "id": 134,
+  "en": "Battle zone became weird.",
+  "es": "El área de combate se ha vuelto extraña.",
+  "zh": "对战场地变得奇怪了！"
+ },
+ {
+  "id": 135,
+  "en": "Battle zone became magical.",
+  "es": "El área de combate se ha vuelto mágica.",
+  "zh": "对战场地变得神奇了！"
+ },
+ {
+  "id": 136,
+  "en": "$par1$ is now $par2$-type.",
+  "es": "$par1$ ahora es de tipo $par2$.",
+  "zh": "$par1$变成了$par2$属性！"
+ },
+ {
+  "id": 137,
+  "en": "$par1$ acquired the ability Simple.",
+  "es": "$par1$ adquirió la habilidad Simple.",
+  "zh": "$par1$获得了单纯特性！"
+ },
+ {
+  "id": 138,
+  "en": "$par1$ acquired the ability $par2$.",
+  "es": "$par1$ adquirió la habilidad $par2$.",
+  "zh": "$par1$获得了$par2$特性！"
+ },
+ {
+  "id": 139,
+  "en": "$par1$ has gained Attack Speed.",
+  "es": "$par1$ ha ganado Vel. de ataque.",
+  "zh": "$par1$获得了攻击速度！"
+ },
+ {
+  "id": 140,
+  "en": "$par1$ resetted its battle stats.",
+  "es": "$par1$ reinició sus estadísticas de combate.",
+  "zh": "$par1$重置了自己的对战能力！"
+ },
+ {
+  "id": 141,
+  "en": "$par1$ had no effect.",
+  "es": "$par1$ no tuvo efecto.",
+  "zh": "$par1$没有效果！"
+ },
+ {
+  "id": 142,
+  "en": "$par1$ has lost its shell.",
+  "es": "$par1$ ha perdido coraza.",
+  "zh": "$par1$失去了外壳！"
+ },
+ {
+  "id": 143,
+  "en": "$par1$ has won shell.",
+  "es": "$par1$ ha ganado coraza.",
+  "zh": "$par1$获得了外壳！"
+ },
+ {
+  "id": 144,
+  "en": "$par1$ has lost Attack Speed.",
+  "es": "$par1$ ha perdido Vel. de ataque.",
+  "zh": "$par1$失去了攻击速度！"
+ },
+ {
+  "id": 145,
+  "en": "$par1$ acquired $par2$'s type.",
+  "es": "$par1$ ha adquirido el tipo de $par2$.",
+  "zh": "$par1$获得了$par2$的属性！"
+ },
+ {
+  "id": 146,
+  "en": "$par1$ handed $par2$ to $par3$.",
+  "es": "$par1$ entregó $par2$ a $par3$.",
+  "zh": "$par1$把$par2$交给了$par3$。"
+ },
+ {
+  "id": 147,
+  "en": "There's been a tie!",
+  "es": "¡Ha habido un empate!",
+  "zh": "平局了！"
+ },
+ {
+  "id": 148,
+  "en": "You're out of Pokémon...",
+  "es": "Ya no te quedan más Pokémon...",
+  "zh": "你已经没有可以战斗的宝可梦了……"
+ },
+ {
+  "id": 149,
+  "en": "You've won the battle!",
+  "es": "¡Has ganado el combate!",
+  "zh": "你赢得了对战！"
+ },
+ {
+  "id": 150,
+  "en": "You've collected $par1$ € thanks to the attacks carried out.",
+  "es": "Has recogido $par1$ € por los ataques realizados.",
+  "zh": "凭借所用的招式，你获得了$par1$元！"
+ },
+ {
+  "id": 151,
+  "en": " - The Terrain active has been removed.",
+  "es": " - Se ha anulado el Campo activo.",
+  "zh": " - 当前的场地效果消失了。"
+ },
+ {
+  "id": 152,
+  "en": "End of the battle!",
+  "es": "¡Fin del combate!",
+  "zh": "对战结束！"
+ },
+ {
+  "id": 153,
+  "en": "Statistics:",
+  "es": "Estadísticas:",
+  "zh": "统计："
+ },
+ {
+  "id": 154,
+  "en": "#$par1$ Pokémon's number: $par2$.",
+  "es": "#Número de Pokémon de $par1$: $par2$",
+  "zh": "#$par1$的宝可梦数量：$par2$"
+ },
+ {
+  "id": 155,
+  "en": "#Health percentage: $par1$%",
+  "es": "#Porcentaje de salud: $par1$%",
+  "zh": "#体力百分比：$par1$%"
+ },
+ {
+  "id": 156,
+  "en": "#Pokémon with status condition: $par1$",
+  "es": "#Pokémon con estado alterado: $par1$",
+  "zh": "#异常状态的宝可梦：$par1$"
+ },
+ {
+  "id": 157,
+  "en": "#Opponent Pokémon's number: $par1$",
+  "es": "#Número de Pokémon del contrincante: $par1$",
+  "zh": "#对手的宝可梦数量：$par1$"
+ },
+ {
+  "id": 158,
+  "en": "$par1$ has transformed into $par2$.",
+  "es": "$par1$ se ha transformado en $par2$.",
+  "zh": "$par1$变成了$par2$！"
+ },
+ {
+  "id": 159,
+  "en": "$par1$ fainted.",
+  "es": "$par1$ se debilitó.",
+  "zh": "$par1$倒下了！"
+ },
+ {
+  "id": 160,
+  "en": " Lv $par1$",
+  "es": " Nv $par1$",
+  "zh": " Lv$par1$"
+ },
+ {
+  "id": 161,
+  "en": "You can't use items in this battle.",
+  "es": "No puedes usar objetos en este combate.",
+  "zh": "在这场对战中不能使用道具。"
+ },
+ {
+  "id": 162,
+  "en": "To assign an item to $par1$ key, select it in your Bag and press $par2$.",
+  "es": "Para asignar un objeto a la tecla $par1$, selecciónalo en la Mochila y pulsa $par2$.",
+  "zh": "要给$par1$键分配道具，请在包包中选中它并按$par2$。"
+ },
+ {
+  "id": 163,
+  "en": "You can't look inside your Bag right now.",
+  "es": "No puedes mirar la mochila ahora mismo.",
+  "zh": "现在不能查看包包。"
+ },
+ {
+  "id": 164,
+  "en": "You can't use more than $par1$ items during the same battle. You've reached the limit!",
+  "es": "No puedes usar más de $par1$ objetos durante un mismo combate. ¡Ya has alcanzado el límite!",
+  "zh": "同一场对战中最多只能使用$par1$次道具。已经达到上限了！"
+ },
+ {
+  "id": 165,
+  "en": "Do you want to run from the Wild Pokémon?",
+  "es": "¿Deseas escapar de los Pokémon salvajes?",
+  "zh": "要从野生宝可梦面前逃走吗？"
+ },
+ {
+  "id": 166,
+  "en": "You are not allowed to use items right now.",
+  "es": "No está permitido usar Objetos en este momento.",
+  "zh": "现在不能使用道具。"
+ },
+ {
+  "id": 167,
+  "en": "Do you want to run from the Wild Pokémon?",
+  "es": "¿Deseas escapar del Pokémon Salvaje?",
+  "zh": "要从野生宝可梦面前逃走吗？"
+ },
+ {
+  "id": 168,
+  "en": "Using $par1$ right now will have no effect.",
+  "es": "No surtirá ningún efecto usar $par1$ en este momento.",
+  "zh": "现在使用$par1$不会有任何效果。"
+ },
+ {
+  "id": 169,
+  "en": "$par1$ suffers from paralysis...",
+  "es": "$par1$ sufre parálisis...",
+  "zh": "$par1$因麻痹而无法动弹……"
+ },
+ {
+  "id": 170,
+  "en": "Do you want to throw $par1$ to $par2$?#You have $par3$ units left.",
+  "es": "¿Deseas lanzar $par1$ a $par2$?#Te quedan $par3$ unidades.",
+  "zh": "要把$par1$投向$par2$吗？#你还剩$par3$个。"
+ },
+ {
+  "id": 171,
+  "en": "Do you want to throw $par1$ to $par2$?#You have one unit left.",
+  "es": "¿Deseas lanzar $par1$ a $par2$?#Te queda una unidad.",
+  "zh": "要把$par1$投向$par2$吗？#你还剩1个。"
+ },
+ {
+  "id": 172,
+  "en": "You cannot run.",
+  "es": "No puedes huir.",
+  "zh": "无法逃走！"
+ },
+ {
+  "id": 173,
+  "en": "You've run away from the Wild Pokémon!",
+  "es": "¡Has huido del Pokémon Salvaje!",
+  "zh": "成功从野生宝可梦面前逃走了！"
+ },
+ {
+  "id": 174,
+  "en": "You can't run away from a battle against a trainer...",
+  "es": "No puedes huir en un combate contra un entrenador...",
+  "zh": "和训练家对战时不能逃走……"
+ },
+ {
+  "id": 175,
+  "en": "Time battling: $par1$ Seconds.",
+  "es": "Tiempo Combatiendo: $par1$ Segundos.",
+  "zh": "对战时间：$par1$秒。"
+ },
+ {
+  "id": 176,
+  "en": "HP:",
+  "es": "PS:",
+  "zh": "HP："
+ },
+ {
+  "id": 177,
+  "en": "#PP:",
+  "es": "#PP:",
+  "zh": "#PP："
+ },
+ {
+  "id": 178,
+  "en": "#Attack:",
+  "es": "#Ataque:",
+  "zh": "#攻击："
+ },
+ {
+  "id": 179,
+  "en": "#Defense:",
+  "es": "#Defensa:",
+  "zh": "#防御："
+ },
+ {
+  "id": 180,
+  "en": "#Sp. Attack:",
+  "es": "#At. Especial:",
+  "zh": "#特攻："
+ },
+ {
+  "id": 181,
+  "en": "#Sp. Defense:",
+  "es": "#Def. Especial:",
+  "zh": "#特防："
+ },
+ {
+  "id": 182,
+  "en": "#Speed:",
+  "es": "#Velocidad:",
+  "zh": "#速度："
+ },
+ {
+  "id": 183,
+  "en": "$par1$: Come on, $par2$!",
+  "es": "$par1$: ¡Adelante, $par2$!",
+  "zh": "$par1$：上吧，$par2$！"
+ },
+ {
+  "id": 184,
+  "en": "$par1$ woke up!",
+  "es": "$par1$ se despertó.",
+  "zh": "$par1$醒过来了！"
+ },
+ {
+  "id": 185,
+  "en": "$par1$ is no longer confused!",
+  "es": "$par1$ ya no sufre confusión.",
+  "zh": "$par1$不再混乱了！"
+ },
+ {
+  "id": 186,
+  "en": "$par1$ is no longer frozen.",
+  "es": "$par1$ ya no sufre congelación.",
+  "zh": "$par1$的冰冻解除了！"
+ },
+ {
+  "id": 187,
+  "en": "$par1$ went back to normal.",
+  "es": "$par1$ volvió a la normalidad.",
+  "zh": "$par1$恢复了正常。"
+ },
+ {
+  "id": 188,
+  "en": " ($par1$ has activated)",
+  "es": " ($par1$ actuó)",
+  "zh": " （$par1$发动了）"
+ },
+ {
+  "id": 189,
+  "en": " (Synchronize has activated)",
+  "es": " (Sincronía actuó)",
+  "zh": " （同步发动了）"
+ },
+ {
+  "id": 190,
+  "en": " (Trace copied $par1$)",
+  "es": " (Rastro copió $par1$)",
+  "zh": " （复制了$par1$）"
+ },
+ {
+  "id": 191,
+  "en": "$par1$ used Shed Skin to cure its status condition.",
+  "es": "$par1$ usó Mudar para recuperarse de su estado.",
+  "zh": "$par1$用蜕皮治好了自己的异常状态！"
+ },
+ {
+  "id": 192,
+  "en": " (Hydration has activated)",
+  "es": " (Hidratación actuó)",
+  "zh": " （湿润之躯发动了）"
+ },
+ {
+  "id": 193,
+  "en": " (Leaf Guard has activated)",
+  "es": " (Defensa Hoja actuó)",
+  "zh": " （叶子防守发动了）"
+ },
+ {
+  "id": 194,
+  "en": " (Harvest has activated)",
+  "es": " (Cosecha actuó)",
+  "zh": " （收获发动了）"
+ },
+ {
+  "id": 195,
+  "en": "$par1$ used $par2$.",
+  "es": "$par1$ usó $par2$.",
+  "zh": "$par1$使用了$par2$！"
+ },
+ {
+  "id": 196,
+  "en": "$par1$ made the Wild Pokémon disappear.",
+  "es": "$par1$ hizo desaparecer al Pokémon Salvaje.",
+  "zh": "$par1$让野生宝可梦消失了！"
+ },
+ {
+  "id": 197,
+  "en": "Wild $par1$ attacked.",
+  "es": "$par1$ Salvaje atacó.",
+  "zh": "野生的$par1$发动了攻击！"
+ },
+ {
+  "id": 198,
+  "en": "$par1$ suffers from atraction...",
+  "es": "$par1$ sufre enamoramiento...",
+  "zh": "$par1$因着迷而无法动弹……"
+ },
+ {
+  "id": 199,
+  "en": "$par1$ injured itself...",
+  "es": "$par1$ se hiere a sí mismo...",
+  "zh": "$par1$伤到了自己……"
+ },
+ {
+  "id": 200,
+  "en": "Assist has failed.",
+  "es": "Ayuda ha fallado.",
+  "zh": "借助失败了。"
+ },
+ {
+  "id": 201,
+  "en": "Sleep Talk has failed.",
+  "es": "Sonámbulo ha fallado.",
+  "zh": "梦话失败了。"
+ },
+ {
+  "id": 202,
+  "en": " Has failed.",
+  "es": " Ha fallado.",
+  "zh": " 失败了。"
+ },
+ {
+  "id": 203,
+  "en": "$par1$ is tired and took a nap.",
+  "es": "$par1$ está harto y se ha echado la siesta.",
+  "zh": "$par1$累了，睡着了！"
+ },
+ {
+  "id": 204,
+  "en": "$par1$ became confused.",
+  "es": "$par1$ se ha confundido.",
+  "zh": "$par1$混乱了！"
+ },
+ {
+  "id": 205,
+  "en": "The Wild Pokémon ran away!",
+  "es": "¡El Pokémon Salvaje ha huido!",
+  "zh": "野生宝可梦逃走了！"
+ },
+ {
+  "id": 206,
+  "en": "$par1$ has stolen $par2$.",
+  "es": "$par1$ ha robado $par2$.",
+  "zh": "$par1$偷走了$par2$！"
+ },
+ {
+  "id": 207,
+  "en": "$par1$ now has the ability Mummy.",
+  "es": "$par1$ ahora tiene la hab. Momia.",
+  "zh": "$par1$获得了木乃伊特性！"
+ },
+ {
+  "id": 208,
+  "en": " Critical Hit!",
+  "es": " ¡Golpe Crítico!",
+  "zh": " 击中了要害！"
+ },
+ {
+  "id": 209,
+  "en": "$par1$ has hit $par2$.",
+  "es": "$par1$ ha golpeado a $par2$.",
+  "zh": "$par1$击中了$par2$！"
+ },
+ {
+  "id": 210,
+  "en": " It's not effective.",
+  "es": " No es nada efectivo.",
+  "zh": " 好像没有效果……"
+ },
+ {
+  "id": 211,
+  "en": " It's not very effective.",
+  "es": " No es muy efectivo.",
+  "zh": " 好像效果不太好……"
+ },
+ {
+  "id": 212,
+  "en": " It's very effective.",
+  "es": " Es muy efectivo.",
+  "zh": " 效果绝佳！"
+ },
+ {
+  "id": 213,
+  "en": " It's super-effective.",
+  "es": " Es súper efectivo.",
+  "zh": " 效果绝佳！"
+ },
+ {
+  "id": 214,
+  "en": "$par1$ absorbed $par2$.",
+  "es": "$par1$ ha absorbido $par2$.",
+  "zh": "$par1$吸收了$par2$！"
+ },
+ {
+  "id": 215,
+  "en": "$par1$ has failed.",
+  "es": "$par1$ ha fallado.",
+  "zh": "$par1$失败了！"
+ },
+ {
+  "id": 216,
+  "en": "$par1$: $par2$, come back!",
+  "es": "$par1$: ¡Vuelve, $par2$!",
+  "zh": "$par1$：回来吧，$par2$！"
+ },
+ {
+  "id": 217,
+  "en": "You caught it!",
+  "es": "¡Lo has capturado!",
+  "zh": "成功捕获了！"
+ },
+ {
+  "id": 218,
+  "en": "Singular Pokémon",
+  "es": "Pokémon singular",
+  "zh": "特殊宝可梦"
+ },
+ {
+  "id": 219,
+  "en": "In the cave",
+  "es": "En la cueva",
+  "zh": "洞窟"
+ },
+ {
+  "id": 220,
+  "en": "In the building",
+  "es": "En el edificio",
+  "zh": "建筑内"
+ },
+ {
+  "id": 221,
+  "en": "On the water",
+  "es": "En el agua",
+  "zh": "水面"
+ },
+ {
+  "id": 222,
+  "en": "In the dark",
+  "es": "En la penumbra",
+  "zh": "黑暗处"
+ },
+ {
+  "id": 223,
+  "en": "Under water",
+  "es": "Bajo el agua",
+  "zh": "水中"
+ },
+ {
+  "id": 224,
+  "en": "On the sand",
+  "es": "En la arena",
+  "zh": "沙地"
+ },
+ {
+  "id": 225,
+  "en": "On the grass",
+  "es": "En la hierba",
+  "zh": "草地"
+ },
+ {
+  "id": 226,
+  "en": "$par1$ took $par2$.",
+  "es": "$par1$ sustrajo $par2$.",
+  "zh": "$par1$拿走了$par2$！"
+ },
+ {
+  "id": 227,
+  "en": "Speed went up.",
+  "es": "Subió la Vel.",
+  "zh": "速度提高了。"
+ },
+ {
+  "id": 228,
+  "en": "$par1$ lost $par2$.",
+  "es": "$par1$ perdió $par2$.",
+  "zh": "$par1$失去了$par2$！"
+ },
+ {
+  "id": 229,
+  "en": "$par1$ fell asleep.",
+  "es": "$par1$ se ha dormido.",
+  "zh": "$par1$睡着了！"
+ },
+ {
+  "id": 230,
+  "en": "Heal Block is keeping $par1$ from healing.",
+  "es": "Anticura impide a $par1$ recuperarse.",
+  "zh": "回复封锁让$par1$无法回复！"
+ },
+ {
+  "id": 231,
+  "en": "$par1$ has recovered some health.",
+  "es": "$par1$ ha recuperado salud.",
+  "zh": "$par1$恢复了一些体力！"
+ },
+ {
+  "id": 232,
+  "en": "Choose a Pokémon to switch with Baton Pass...",
+  "es": "Elige un Pokémon para hacer el Relevo...",
+  "zh": "请选择用接棒换上场的宝可梦……"
+ },
+ {
+  "id": 233,
+  "en": " (Drizzle activated)",
+  "es": " (Llovizna actuó)",
+  "zh": " （降雨发动了）"
+ },
+ {
+  "id": 234,
+  "en": " (Drought activated)",
+  "es": " (Sequía actuó)",
+  "zh": " （日照发动了）"
+ },
+ {
+  "id": 235,
+  "en": " (Sand Stream activated)",
+  "es": " (Chorro Arena actuó)",
+  "zh": " （扬沙发动了）"
+ },
+ {
+  "id": 236,
+  "en": " (Snow Warning activated)",
+  "es": " (Nevada actuó)",
+  "zh": " （降雪发动了）"
+ },
+ {
+  "id": 237,
+  "en": " ($par1$ activated)",
+  "es": " ($par1$ actuó)",
+  "zh": " （$par1$发动了）"
+ },
+ {
+  "id": 238,
+  "en": " (Natural Cure activated)",
+  "es": " (Cura Natural actuó)",
+  "zh": " （自然回复发动了）"
+ },
+ {
+  "id": 239,
+  "en": " (Intimidate activated)",
+  "es": " (Intimidación actuó)",
+  "zh": " （威吓发动了）"
+ },
+ {
+  "id": 240,
+  "en": " (Download activated)",
+  "es": " (Descarga actuó)",
+  "zh": " （下载发动了）"
+ },
+ {
+  "id": 241,
+  "en": " (Stall activated)",
+  "es": " (Rezagado actuó)",
+  "zh": " （慢出发动了）"
+ },
+ {
+  "id": 242,
+  "en": "Anticipation predicted: $par1$.",
+  "es": "Anticip. predijo: $par1$.",
+  "zh": "危险预知察觉到了：$par1$。"
+ },
+ {
+  "id": 243,
+  "en": "Forewarn predicted: $par1$.",
+  "es": "Alerta predijo: $par1$.",
+  "zh": "预知梦察觉到了：$par1$。"
+ },
+ {
+  "id": 244,
+  "en": "Telepathy predicted: $par1$.",
+  "es": "Telepatía predijo: $par1$.",
+  "zh": "心灵感应察觉到了：$par1$。"
+ },
+ {
+  "id": 245,
+  "en": "Frisk detected: $par1$.",
+  "es": "Cacheo detectó: $par1$.",
+  "zh": "察觉发现了：$par1$。"
+ },
+ {
+  "id": 246,
+  "en": " (Healer activated)",
+  "es": " (Alma Cura actuó)",
+  "zh": " （治愈之心发动了）"
+ },
+ {
+  "id": 247,
+  "en": " (Heavy Metal activated)",
+  "es": " (Metal Pesado actuó)",
+  "zh": " （重金属发动了）"
+ },
+ {
+  "id": 248,
+  "en": " (Light Metal activated)",
+  "es": " (Metal Liviano actuó)",
+  "zh": " （轻金属发动了）"
+ },
+ {
+  "id": 249,
+  "en": " (Regenerator activated)",
+  "es": " (Regeneración actuó)",
+  "zh": " （再生力发动了）"
+ },
+ {
+  "id": 250,
+  "en": " (Imposter activated)",
+  "es": " (Impostor actuó)",
+  "zh": " （变身者发动了）"
+ },
+ {
+  "id": 251,
+  "en": " (Friend Guard activated)",
+  "es": " (Compiescolta actuó)",
+  "zh": " （友情防守发动了）"
+ },
+ {
+  "id": 252,
+  "en": "You cannot switch Pokémon in this battle.",
+  "es": "En este combate no puedes realizar cambios.",
+  "zh": "在这场对战中不能更换宝可梦。"
+ },
+ {
+  "id": 253,
+  "en": "You can't switch Pokémon more than $par1$ times during this battle. You've reached the limit!",
+  "es": "No puedes realizar más de $par1$ cambios de Pokémon durante este combate. ¡Ya has alcanzado el límite!",
+  "zh": "这场对战中最多只能更换$par1$次宝可梦。已经达到上限了！"
+ },
+ {
+  "id": 254,
+  "en": "The attack $par1$ became $par2$.",
+  "es": "El ataque $par1$ se convirtió en $par2$.",
+  "zh": "招式$par1$变成了$par2$！"
+ },
+ {
+  "id": 255,
+  "en": "You can't switch Pokémon more than 18 times during this battle. You've reached the limit!",
+  "es": "No puedes realizar más de 18 cambios de Pokémon durante un mismo combate. ¡Ya has alcanzado el límite!",
+  "zh": "这场对战中最多只能更换18次宝可梦。已经达到上限了！"
+ },
+ {
+  "id": 256,
+  "en": "Heal Block stopped working.",
+  "es": "Anticura dejó de hacer efecto.",
+  "zh": "回复封锁的效果消失了！"
+ },
+ {
+  "id": 257,
+  "en": "The effects of $par1$ are over.",
+  "es": "Se han acabado los efectos de $par1$.",
+  "zh": "$par1$的效果结束了！"
+ },
+ {
+  "id": 258,
+  "en": "The effects of Gastro Acid are over.",
+  "es": "Se han acabado los efectos de Bilis.",
+  "zh": "胃液的效果结束了！"
+ },
+ {
+  "id": 259,
+  "en": "$par1$ has lost its ability.",
+  "es": "$par1$ ha perdido su habilidad.",
+  "zh": "$par1$失去了特性！"
+ },
+ {
+  "id": 260,
+  "en": "The effects of Lucky Chant are over.",
+  "es": "Se han acabado los efectos de Conjuro.",
+  "zh": "幸运咒语的效果结束了！"
+ },
+ {
+  "id": 261,
+  "en": "The Wish has been fulfilled.",
+  "es": "Se ha cumplido el Deseo.",
+  "zh": "愿望实现了！"
+ },
+ {
+  "id": 262,
+  "en": "The Wish has not been fulfilled.",
+  "es": "No se ha cumplido el Deseo.",
+  "zh": "愿望没有实现……"
+ },
+ {
+  "id": 263,
+  "en": "$par1$ has recovered $par2$.",
+  "es": "$par1$ ha recuperado a $par2$.",
+  "zh": "$par1$恢复了$par2$！"
+ },
+ {
+  "id": 264,
+  "en": "Embargo stopped working.",
+  "es": "Embargo dejó de hacer efecto.",
+  "zh": "查封的效果消失了！"
+ },
+ {
+  "id": 265,
+  "en": "The effects of Wonder Room are over.",
+  "es": "Se han pasado los efectos de Zona Extraña...",
+  "zh": "奇妙空间的效果结束了……"
+ },
+ {
+  "id": 266,
+  "en": "The effects of Magic Room are over.",
+  "es": "Se han pasado los efectos de Zona Mágica...",
+  "zh": "魔法空间的效果结束了……"
+ },
+ {
+  "id": 267,
+  "en": "The effects of After You are over.",
+  "es": "Se han acabado los efectos de Cede Paso.",
+  "zh": "您先请的效果结束了！"
+ },
+ {
+  "id": 268,
+  "en": "The effects of Quash are over.",
+  "es": "Se han acabado los efectos de Último Lugar.",
+  "zh": "延后的效果结束了！"
+ },
+ {
+  "id": 269,
+  "en": "The effects of Reverse Room are over.",
+  "es": "Se han pasado los efectos de Espacio Inverso...",
+  "zh": "逆转空间的效果结束了……"
+ },
+ {
+  "id": 270,
+  "en": "$par1$ stopped working.",
+  "es": "$par1$ dejó de hacer efecto.",
+  "zh": "$par1$的效果消失了！"
+ },
+ {
+  "id": 271,
+  "en": "The effects of Gravity are over.",
+  "es": "Se han pasado los efectos de Gravedad...",
+  "zh": "重力的效果结束了……"
+ },
+ {
+  "id": 272,
+  "en": "The effects of Misty Terrain are over.",
+  "es": "Se han pasado los efectos de Campo Niebla...",
+  "zh": "薄雾场地的效果结束了……"
+ },
+ {
+  "id": 273,
+  "en": "Destiny Bond has faded.",
+  "es": "Mismodestino se ha desvanecido.",
+  "zh": "同命的效果消失了！"
+ },
+ {
+  "id": 274,
+  "en": "$par1$ acted!",
+  "es": "¡$par1$ ha actuado!",
+  "zh": "$par1$行动了！"
+ },
+ {
+  "id": 275,
+  "en": "Mist has faded.",
+  "es": "La Neblina se ha desvanecido.",
+  "zh": "白雾消失了！"
+ },
+ {
+  "id": 276,
+  "en": "Encore move has failed.",
+  "es": "El ataque Otra vez falló.",
+  "zh": "再来一次失败了！"
+ },
+ {
+  "id": 277,
+  "en": "$par1$ must be used again.",
+  "es": "$par1$ debe ser usado otra vez.",
+  "zh": "必须再次使用$par1$！"
+ },
+ {
+  "id": 278,
+  "en": "The effects of Encore are over.",
+  "es": "Se han acabado los efectos de Otra vez.",
+  "zh": "再来一次的效果结束了！"
+ },
+ {
+  "id": 279,
+  "en": "$par1$ has calmed down.",
+  "es": "$par1$ se ha calmado.",
+  "zh": "$par1$冷静下来了！"
+ },
+ {
+  "id": 280,
+  "en": "Light Screen has faded.",
+  "es": "Pantalla Luz se ha desvanecido.",
+  "zh": "光墙消失了！"
+ },
+ {
+  "id": 281,
+  "en": "Grudge didn't work.",
+  "es": "Rabia no ha funcionado...",
+  "zh": "怨念没有起作用……"
+ },
+ {
+  "id": 282,
+  "en": "The move $par1$ cannot be used.",
+  "es": "El ataque $par1$ no podrá usarse.",
+  "zh": "无法使用招式$par1$！"
+ },
+ {
+  "id": 283,
+  "en": "$par1$ has faded.",
+  "es": "$par1$ se ha desvanecido.",
+  "zh": "$par1$消失了！"
+ },
+ {
+  "id": 284,
+  "en": "The effects of Helping Hand are over.",
+  "es": "Se han pasado los efectos del Refuerzo.",
+  "zh": "帮助的效果结束了！"
+ },
+ {
+  "id": 285,
+  "en": "$par1$ could not steal any effect.",
+  "es": "$par1$ no pudo robar ningún efecto.",
+  "zh": "$par1$没能偷到任何效果！"
+ },
+ {
+  "id": 286,
+  "en": "$par1$ can not use the same move twice in a row.",
+  "es": "$par1$ no puede repetir 2 veces el mismo ataque.",
+  "zh": "$par1$不能连续两次使用同一招式！"
+ },
+ {
+  "id": 287,
+  "en": "Safeguard has faded.",
+  "es": "Velo Sagrado se desvaneció.",
+  "zh": "神秘守护消失了！"
+ },
+ {
+  "id": 288,
+  "en": "The wind has ceased.",
+  "es": "Ha cesado el viento.",
+  "zh": "风停了！"
+ },
+ {
+  "id": 289,
+  "en": "$par1$ can only use damaging moves.",
+  "es": "$par1$ sólo puede usar ataques de daño directo.",
+  "zh": "$par1$只能使用攻击招式！"
+ },
+ {
+  "id": 290,
+  "en": "The effects of Taunt are over.",
+  "es": "Se han acabado los efectos de Mofa.",
+  "zh": "挑衅的效果结束了！"
+ },
+ {
+  "id": 291,
+  "en": "$par1$ hit $par2$.",
+  "es": "$par1$ golpeó a $par2$.",
+  "zh": "$par1$击中了$par2$！"
+ },
+ {
+  "id": 292,
+  "en": "It has stopped raining!",
+  "es": "¡Ha dejado de llover!",
+  "zh": "雨停了！"
+ },
+ {
+  "id": 293,
+  "en": "The sun is gone!",
+  "es": "¡Se ha ido el sol!",
+  "zh": "太阳消失了！"
+ },
+ {
+  "id": 294,
+  "en": "The storm subsided!",
+  "es": "¡La tormenta amainó!",
+  "zh": "暴风雨平息了！"
+ },
+ {
+  "id": 295,
+  "en": "It has stopped snowing!",
+  "es": "¡Ha dejado de nevar!",
+  "zh": "雪停了！"
+ },
+ {
+  "id": 296,
+  "en": "Fishing",
+  "es": "Pescando",
+  "zh": "钓鱼中"
+ },
+ {
+  "id": 297,
+  "en": "Unknown",
+  "es": "Descon.",
+  "zh": "未知"
+ },
+ {
+  "id": 298,
+  "en": "Damp prevents the use of $par1$.",
+  "es": "Humedad impide el uso de $par1$.",
+  "zh": "湿气让$par1$无法使用！"
+ },
+ {
+  "id": 299,
+  "en": " ($par1$).",
+  "es": " ($par1$).",
+  "zh": " （$par1$）"
+ },
+ {
+  "id": 300,
+  "en": " $par1$ hits.",
+  "es": " $par1$ golpes.",
+  "zh": " $par1$次命中"
+ },
+ {
+  "id": 301,
+  "en": "Disable move has failed.",
+  "es": "El ataque Anulación falló.",
+  "zh": "定身法失败了！"
+ },
+ {
+  "id": 302,
+  "en": "The move $par1$ has been disabled.",
+  "es": "El ataque $par1$ ha sido anulado.",
+  "zh": "招式$par1$被封住了！"
+ },
+ {
+  "id": 303,
+  "en": "The effects of Trick Room are over.",
+  "es": "Se han pasado los efectos de Espacio Raro...",
+  "zh": "戏法空间的效果结束了……"
+ },
+ {
+  "id": 304,
+  "en": "$par1$ is surrounded by a explosive Powder.",
+  "es": "$par1$ está rodeado de Polvo Explosivo.",
+  "zh": "$par1$被爆炸性的粉尘包围了！"
+ },
+ {
+  "id": 305,
+  "en": "The effects of Electric Terrain are over.",
+  "es": "Se han pasado los efectos de Campo Eléctrico...",
+  "zh": "电气场地的效果结束了……"
+ },
+ {
+  "id": 306,
+  "en": "The effects of Grassy Terrain are over.",
+  "es": "Se han pasado los efectos de Campo de Hierba...",
+  "zh": "青草场地的效果结束了……"
+ },
+ {
+  "id": 307,
+  "en": "The effects of Psychic Terrain are over.",
+  "es": "Se han pasado los efectos de Campo Psíquico...",
+  "zh": "精神场地的效果结束了……"
+ },
+ {
+  "id": 308,
+  "en": "The effects of Water Sport are over.",
+  "es": "Se han pasado los efectos de Hidrochorro...",
+  "zh": "玩水的效果结束了……"
+ },
+ {
+  "id": 309,
+  "en": "The effects of Mud Sport are over.",
+  "es": "Se han pasado los efectos de Chapoteo Lodo...",
+  "zh": "玩泥巴的效果结束了……"
+ },
+ {
+  "id": 310,
+  "en": "$par1$ was electrified.",
+  "es": "$par1$ ha sido electrificado.",
+  "zh": "$par1$带上了电！"
+ },
+ {
+  "id": 311,
+  "en": "The effects of $par1$ are over.",
+  "es": "Se han pasado los efectos de $par1$...",
+  "zh": "$par1$的效果结束了……"
+ },
+ {
+  "id": 312,
+  "en": "An Ion Deluge surrounds the environment.",
+  "es": "Una Cortina de Plasma envuelve el ambiente.",
+  "zh": "等离子浴笼罩了周围！"
+ },
+ {
+  "id": 313,
+  "en": "$par1$ has faded.",
+  "es": "$par1$ se desvaneció.",
+  "zh": "$par1$消失了！"
+ },
+ {
+  "id": 314,
+  "en": "$par1$ generated an Aromatic Mist.",
+  "es": "$par1$ generó una Niebla Aromática.",
+  "zh": "$par1$释放了芳香薄雾！"
+ },
+ {
+  "id": 315,
+  "en": "Boss",
+  "es": "Boss",
+  "zh": "首领"
+ },
+ {
+  "id": 316,
+  "en": "The effects of $par1$ are over.",
+  "es": "Se han pasado los efectos de $par1$...",
+  "zh": "$par1$的效果结束了……"
+ },
+ {
+  "id": 317,
+  "en": "$par1$ created a Floral Defense.",
+  "es": "$par1$ creó una Defensa Floral.",
+  "zh": "$par1$展开了鲜花防守！"
+ },
+ {
+  "id": 318,
+  "en": "Happy Hour has been activated.",
+  "es": "¡Paga Extra ha sido activado!",
+  "zh": "欢乐时光开始了！"
+ },
+ {
+  "id": 319,
+  "en": "$par1$ stats changes have been reversed.",
+  "es": "Los cambios de estadísticas de $par1$ se han invertido.",
+  "zh": "$par1$的能力变化被逆转了！"
+ },
+ {
+  "id": 320,
+  "en": " - $par1$'s At., Sp. At. & Speed $par2$.",
+  "es": " - At., At. Esp. y Vel. de $par1$ $par2$.",
+  "zh": " - $par1$的攻击、特攻和速度$par2$。"
+ },
+ {
+  "id": 321,
+  "en": " - $par1$ can't use the move!",
+  "es": " - $par1$ no ha podido ponerlo en práctica.",
+  "zh": " - $par1$无法使出这个招式！"
+ },
+ {
+  "id": 322,
+  "en": " - $par1$ lost its $par2$ type.",
+  "es": " - $par1$ ha perdido su tipo $par2$.",
+  "zh": " - $par1$失去了$par2$属性！"
+ },
+ {
+  "id": 323,
+  "en": "$par1$ and $par2$ have exchanged their Speed.",
+  "es": "$par1$ y $par2$ han intercambiado su Vel.",
+  "zh": "$par1$和$par2$互换了速度！"
+ },
+ {
+  "id": 324,
+  "en": " - $par1$ can't use sound attacks.",
+  "es": " - $par1$ no puede usar ataques de sonido.",
+  "zh": " - $par1$无法使用声音招式！"
+ },
+ {
+  "id": 325,
+  "en": "The effects of Throat Chop are over.",
+  "es": "Se han pasado los efectos de Golpe Mordaza.",
+  "zh": "地狱突刺的效果结束了！"
+ },
+ {
+  "id": 326,
+  "en": " - $par1$'s Speed $par2$ and was poisoned.",
+  "es": " - Vel. de $par1$ $par2$ y fue envenenado.",
+  "zh": " - $par1$的速度$par2$，并且中毒了。"
+ },
+ {
+  "id": 327,
+  "en": "Mysterious air current is over.",
+  "es": "Se han acabado las turbulencias.",
+  "zh": "神秘的气流消失了！"
+ },
+ {
+  "id": 328,
+  "en": "Tests",
+  "es": "Pruebas",
+  "zh": "测试"
+ },
+ {
+  "id": 329,
+  "en": "Obtained from Oak",
+  "es": "Obtenido de Oak",
+  "zh": "从大木博士处获得"
+ },
+ {
+  "id": 330,
+  "en": "Nincada Evolution",
+  "es": "Evolución Nincada",
+  "zh": "土居忍士进化"
+ },
+ {
+  "id": 331,
+  "en": "(Egg)",
+  "es": "Nacido de Huevo",
+  "zh": "（蛋）"
+ },
+ {
+  "id": 332,
+  "en": "Received",
+  "es": "Recibido",
+  "zh": "收到"
+ },
+ {
+  "id": 333,
+  "en": "Casino Prize",
+  "es": "Premio Casino",
+  "zh": "游戏城奖品"
+ },
+ {
+  "id": 334,
+  "en": "Interchanged",
+  "es": "Intercambiado",
+  "zh": "交换所得"
+ },
+ {
+  "id": 335,
+  "en": "Special event",
+  "es": "Evento Especial",
+  "zh": "特殊活动"
+ },
+ {
+  "id": 336,
+  "en": "$par1$ has caused a fixed damage of $par2$.",
+  "es": "$par1$ ha provocado un daño fijo de $par2$.",
+  "zh": "$par1$造成了$par2$点固定伤害！"
+ },
+ {
+  "id": 337,
+  "en": "Z-$par1$",
+  "es": "$par1$ Z",
+  "zh": "Z$par1$"
+ },
+ {
+  "id": 338,
+  "en": "$par1$ did not have any effect.",
+  "es": "$par1$ no tuvo ningún efecto.",
+  "zh": "$par1$没有任何效果！"
+ },
+ {
+  "id": 339,
+  "en": "$par1$'s rate of critical-hit increased.",
+  "es": "La posibilidad de $par1$ de Golpe Crítico aumentó.",
+  "zh": "$par1$的击中要害率提高了！"
+ },
+ {
+  "id": 340,
+  "en": " - $par1$'s negative changes of stats was restored.",
+  "es": " - Restaurados cambios negativos de estadísticas de $par1$.",
+  "zh": " - $par1$降低的能力恢复了！"
+ },
+ {
+  "id": 341,
+  "en": "Grouping",
+  "es": "Agrupamiento",
+  "zh": "分组"
+ },
+ {
+  "id": 342,
+  "en": "The effects of Passion are over.",
+  "es": "Se han pasado los efectos de Pasión.",
+  "zh": "热情的效果结束了！"
+ },
+ {
+  "id": 343,
+  "en": "You've run away from the Wild Pokémon!",
+  "es": "¡Has huido de los Pokémon salvajes!",
+  "zh": "成功从野生宝可梦面前逃走了！"
+ },
+ {
+  "id": 344,
+  "en": "$par1$ attack is not allowed in Star Frontier.",
+  "es": "El ataque $par1$ no se permite en el Frente Star.",
+  "zh": "招式$par1$在星之开拓区中不能使用。"
+ },
+ {
+  "id": 345,
+  "en": "$par1$ has done nothing.",
+  "es": "$par1$ no ha hecho nada.",
+  "zh": "$par1$什么也没做！"
+ },
+ {
+  "id": 346,
+  "en": "$par1$ needs to recover energy.",
+  "es": "$par1$ necesita recuperar energía.",
+  "zh": "$par1$需要恢复体力！"
+ },
+ {
+  "id": 347,
+  "en": "$par1$ has done nothing because Truant ability.",
+  "es": "$par1$ no hizo nada por la habilidad Ausente.",
+  "zh": "$par1$因为懒惰特性而什么也没做！"
+ },
+ {
+  "id": 348,
+  "en": "At.",
+  "es": "At.",
+  "zh": "攻击"
+ },
+ {
+  "id": 349,
+  "en": "Def.",
+  "es": "Def.",
+  "zh": "防御"
+ },
+ {
+  "id": 350,
+  "en": "Sp. At.",
+  "es": "At. Esp.",
+  "zh": "特攻"
+ },
+ {
+  "id": 351,
+  "en": "Sp. Def.",
+  "es": "Def. Esp.",
+  "zh": "特防"
+ },
+ {
+  "id": 352,
+  "en": "Speed",
+  "es": "Vel.",
+  "zh": "速度"
+ },
+ {
+  "id": 353,
+  "en": "Total",
+  "es": "Total",
+  "zh": "合计"
+ },
+ {
+  "id": 354,
+  "en": " - $par1$ is now weak to fire.",
+  "es": " - $par1$ ahora es débil al fuego.",
+  "zh": " - $par1$现在怕火了。"
+ },
+ {
+  "id": 355,
+  "en": "$par1$ used up $par2$.",
+  "es": "$par1$ consumió $par2$.",
+  "zh": "$par1$用掉了$par2$！"
+ },
+ {
+  "id": 356,
+  "en": "$par1$ cured the team's health.",
+  "es": "$par1$ curó la salud del equipo.",
+  "zh": "$par1$治愈了队伍的体力！"
+ },
+ {
+  "id": 357,
+  "en": "$par1$ healed the team's health and status ailments.",
+  "es": "$par1$ curó la salud y estado del equipo.",
+  "zh": "$par1$治愈了队伍的体力和异常状态！"
+ },
+ {
+  "id": 358,
+  "en": " - $par1$ was attacked by $par2$.",
+  "es": " - $par1$ fue atacado por $par2$.",
+  "zh": " - $par1$被$par2$攻击了。"
+ },
+ {
+  "id": 359,
+  "en": " - $par1$'s Def., At. & Speed $par2$.",
+  "es": " - Def. , At. y Vel. de $par1$ $par2$.",
+  "zh": " - $par1$的防御、攻击和速度$par2$。"
+ },
+ {
+  "id": 360,
+  "en": "$par1$ has exchanged its At. and Def. values.",
+  "es": "$par1$ ha intercambiado sus valores de At. y Def.",
+  "zh": "$par1$互换了自己的攻击和防御！"
+ },
+ {
+  "id": 361,
+  "en": "It has stopped hailing!",
+  "es": "¡Ha dejado de granizar!",
+  "zh": "冰雹停了！"
+ },
+ {
+  "id": 362,
+  "en": "The sun is shining!",
+  "es": "¡El sol está brillando!",
+  "zh": "阳光变强了！"
+ },
+ {
+  "id": 363,
+  "en": "It's started to rain!",
+  "es": "¡Ha empezado a llover!",
+  "zh": "下起雨来了！"
+ },
+ {
+  "id": 364,
+  "en": "It's started to hail!",
+  "es": "¡Ha empezado a granizar!",
+  "zh": "下起冰雹了！"
+ },
+ {
+  "id": 365,
+  "en": "It's started to snow!",
+  "es": "¡Ha empezado a nevar!",
+  "zh": "下起雪来了！"
+ },
+ {
+  "id": 366,
+  "en": "A Sandstorm has broken out!",
+  "es": "¡Se ha desatado una Tormenta de Arena!",
+  "zh": "沙暴刮起来了！"
+ },
+ {
+  "id": 367,
+  "en": "Fog has begun to form!",
+  "es": "¡Ha comenzado a formarse Niebla!",
+  "zh": "起雾了！"
+ },
+ {
+  "id": 368,
+  "en": "The sun is shining brightly!",
+  "es": "¡El sol está brillando con gran intensidad!",
+  "zh": "阳光变得非常强烈！"
+ },
+ {
+  "id": 369,
+  "en": "It has started to rain heavily!",
+  "es": "¡Ha empezado a llover torrencialmente!",
+  "zh": "下起了倾盆大雨！"
+ },
+ {
+  "id": 370,
+  "en": "Mysterious turbulence has appeared!",
+  "es": "¡Han aparecido unas misteriosas turbulencias!",
+  "zh": "出现了神秘的乱流！"
+ },
+ {
+  "id": 371,
+  "en": "The fog has lifted.",
+  "es": "La niebla se ha disipado.",
+  "zh": "雾散去了。"
+ },
+ {
+  "id": 372,
+  "en": "The fog prevented variations in stats.",
+  "es": "La niebla impidió variaciones de estadísticas.",
+  "zh": "雾阻止了能力的变化。"
+ },
+ {
+  "id": 373,
+  "en": " - $par1$'s Def., Sp. Def. & Speed $par2$.",
+  "es": " - Def., Def. Esp. y Vel. de $par1$ $par2$.",
+  "zh": " - $par1$的防御、特防和速度$par2$。"
+ },
+ {
+  "id": 374,
+  "en": "$par1$ and $par2$ have exchanged their stats modifiers.",
+  "es": "$par1$ y $par2$ han intercambiado sus variaciones de estadísticas.",
+  "zh": "$par1$和$par2$互换了能力变化！"
+ }
+]

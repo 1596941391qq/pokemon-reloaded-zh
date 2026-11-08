@@ -1,0 +1,1232 @@
+[
+ {
+  "id": 1,
+  "en": "pitiful",
+  "es": "penoso",
+  "zh": "可怜的"
+ },
+ {
+  "id": 2,
+  "en": "skittish",
+  "es": "asustadizo",
+  "zh": "胆小的"
+ },
+ {
+  "id": 3,
+  "en": "cowardly",
+  "es": "miedoso",
+  "zh": "怯懦的"
+ },
+ {
+  "id": 4,
+  "en": "stupid",
+  "es": "pasmado",
+  "zh": "愚蠢的"
+ },
+ {
+  "id": 5,
+  "en": "slack",
+  "es": "flojo",
+  "zh": "松懈的"
+ },
+ {
+  "id": 6,
+  "en": "docile",
+  "es": "manso",
+  "zh": "温顺的"
+ },
+ {
+  "id": 7,
+  "en": "naive",
+  "es": "ingenuo",
+  "zh": "天真的"
+ },
+ {
+  "id": 8,
+  "en": "clumpsy",
+  "es": "torpe",
+  "zh": "笨拙的"
+ },
+ {
+  "id": 9,
+  "en": "submissive",
+  "es": "sumiso",
+  "zh": "顺从的"
+ },
+ {
+  "id": 10,
+  "en": "loving",
+  "es": "amoroso",
+  "zh": "多情的"
+ },
+ {
+  "id": 11,
+  "en": "docile",
+  "es": "dócil",
+  "zh": "乖巧的"
+ },
+ {
+  "id": 12,
+  "en": "cautious",
+  "es": "cauto",
+  "zh": "谨慎的"
+ },
+ {
+  "id": 13,
+  "en": "evil",
+  "es": "malvado",
+  "zh": "邪恶的"
+ },
+ {
+  "id": 14,
+  "en": "furious",
+  "es": "rabioso",
+  "zh": "狂怒的"
+ },
+ {
+  "id": 15,
+  "en": "Pensive",
+  "es": "pensativo",
+  "zh": "沉思的"
+ },
+ {
+  "id": 16,
+  "en": "evil-minded",
+  "es": "malpensado",
+  "zh": "心术不正的"
+ },
+ {
+  "id": 17,
+  "en": "shy",
+  "es": "tímido",
+  "zh": "害羞的"
+ },
+ {
+  "id": 18,
+  "en": "confident",
+  "es": "confiado",
+  "zh": "自信的"
+ },
+ {
+  "id": 19,
+  "en": "maniac",
+  "es": "maniático",
+  "zh": "偏执的"
+ },
+ {
+  "id": 20,
+  "en": "funny",
+  "es": "divertido",
+  "zh": "有趣的"
+ },
+ {
+  "id": 21,
+  "en": "heady",
+  "es": "embriagador",
+  "zh": "令人陶醉的"
+ },
+ {
+  "id": 22,
+  "en": "reserved",
+  "es": "taciturno",
+  "zh": "沉默寡言的"
+ },
+ {
+  "id": 23,
+  "en": "liar",
+  "es": "mentiroso",
+  "zh": "爱说谎的"
+ },
+ {
+  "id": 24,
+  "en": "kind",
+  "es": "bondadoso",
+  "zh": "善良的"
+ },
+ {
+  "id": 25,
+  "en": "eloquent",
+  "es": "elocuente",
+  "zh": "能言善辩的"
+ },
+ {
+  "id": 26,
+  "en": "loving",
+  "es": "cariñoso",
+  "zh": "亲切的"
+ },
+ {
+  "id": 27,
+  "en": "happy",
+  "es": "alegre",
+  "zh": "快乐的"
+ },
+ {
+  "id": 28,
+  "en": "sad",
+  "es": "triste",
+  "zh": "悲伤的"
+ },
+ {
+  "id": 29,
+  "en": "sweet",
+  "es": "tierno",
+  "zh": "温柔的"
+ },
+ {
+  "id": 30,
+  "en": "cheerful",
+  "es": "animado",
+  "zh": "开朗的"
+ },
+ {
+  "id": 31,
+  "en": "stubborn",
+  "es": "terco",
+  "zh": "固执的"
+ },
+ {
+  "id": 32,
+  "en": "profound",
+  "es": "profundo",
+  "zh": "深沉的"
+ },
+ {
+  "id": 33,
+  "en": "complicated",
+  "es": "complicado",
+  "zh": "复杂的"
+ },
+ {
+  "id": 34,
+  "en": "superficial",
+  "es": "superficial",
+  "zh": "肤浅的"
+ },
+ {
+  "id": 35,
+  "en": "well-behaved",
+  "es": "disciplinado",
+  "zh": "守规矩的"
+ },
+ {
+  "id": 36,
+  "en": "crazy",
+  "es": "alocado",
+  "zh": "疯疯癫癫的"
+ },
+ {
+  "id": 37,
+  "en": "paranoid",
+  "es": "paranoico",
+  "zh": "多疑的"
+ },
+ {
+  "id": 38,
+  "en": "nosy",
+  "es": "entrometido",
+  "zh": "爱管闲事的"
+ },
+ {
+  "id": 39,
+  "en": "gloomy",
+  "es": "tenebroso",
+  "zh": "阴森的"
+ },
+ {
+  "id": 40,
+  "en": "kind",
+  "es": "amable",
+  "zh": "和蔼的"
+ },
+ {
+  "id": 41,
+  "en": "heinous",
+  "es": "abyecto",
+  "zh": "可恶的"
+ },
+ {
+  "id": 42,
+  "en": "remarkable",
+  "es": "admirable",
+  "zh": "了不起的"
+ },
+ {
+  "id": 43,
+  "en": "modest",
+  "es": "modesto",
+  "zh": "谦虚的"
+ },
+ {
+  "id": 44,
+  "en": "strict",
+  "es": "estricto",
+  "zh": "严格的"
+ },
+ {
+  "id": 45,
+  "en": "firm",
+  "es": "firme",
+  "zh": "坚定的"
+ },
+ {
+  "id": 46,
+  "en": "charming",
+  "es": "encantador",
+  "zh": "迷人的"
+ },
+ {
+  "id": 47,
+  "en": "anti-social",
+  "es": "antisocial",
+  "zh": "不合群的"
+ },
+ {
+  "id": 48,
+  "en": "intelligent",
+  "es": "inteligente",
+  "zh": "聪明的"
+ },
+ {
+  "id": 49,
+  "en": "daring",
+  "es": "atrevido",
+  "zh": "大胆的"
+ },
+ {
+  "id": 50,
+  "en": "affable",
+  "es": "afable",
+  "zh": "和善的"
+ },
+ {
+  "id": 51,
+  "en": "weird",
+  "es": "raro",
+  "zh": "奇怪的"
+ },
+ {
+  "id": 52,
+  "en": "provocative",
+  "es": "provocador",
+  "zh": "爱挑衅的"
+ },
+ {
+  "id": 53,
+  "en": "shy",
+  "es": "huraño",
+  "zh": "孤僻的"
+ },
+ {
+  "id": 54,
+  "en": "ugly",
+  "es": "feo",
+  "zh": "难看的"
+ },
+ {
+  "id": 55,
+  "en": "transparent",
+  "es": "transparente",
+  "zh": "透明的"
+ },
+ {
+  "id": 56,
+  "en": "respectable",
+  "es": "respetable",
+  "zh": "值得尊敬的"
+ },
+ {
+  "id": 57,
+  "en": "serious",
+  "es": "serio",
+  "zh": "严肃的"
+ },
+ {
+  "id": 58,
+  "en": "mysterious",
+  "es": "misterioso",
+  "zh": "神秘的"
+ },
+ {
+  "id": 59,
+  "en": "bold",
+  "es": "lanzado",
+  "zh": "豪放的"
+ },
+ {
+  "id": 60,
+  "en": "lonely",
+  "es": "solitario",
+  "zh": "孤独的"
+ },
+ {
+  "id": 61,
+  "en": "expressionless",
+  "es": "inexpresivo",
+  "zh": "面无表情的"
+ },
+ {
+  "id": 62,
+  "en": "unstoppable",
+  "es": "imparable",
+  "zh": "势不可挡的"
+ },
+ {
+  "id": 63,
+  "en": "attractive",
+  "es": "atractivo",
+  "zh": "有魅力的"
+ },
+ {
+  "id": 64,
+  "en": "irascible",
+  "es": "irascible",
+  "zh": "暴躁的"
+ },
+ {
+  "id": 65,
+  "en": "bold",
+  "es": "osado",
+  "zh": "勇敢的"
+ },
+ {
+  "id": 66,
+  "en": "rude",
+  "es": "grosero",
+  "zh": "粗鲁的"
+ },
+ {
+  "id": 67,
+  "en": "hard-working",
+  "es": "trabajador",
+  "zh": "勤劳的"
+ },
+ {
+  "id": 68,
+  "en": "lazy",
+  "es": "perezoso",
+  "zh": "懒惰的"
+ },
+ {
+  "id": 69,
+  "en": "amazing",
+  "es": "sorprendente",
+  "zh": "惊人的"
+ },
+ {
+  "id": 70,
+  "en": "special",
+  "es": "singular",
+  "zh": "特别的"
+ },
+ {
+  "id": 71,
+  "en": "cool",
+  "es": "guay",
+  "zh": "酷酷的"
+ },
+ {
+  "id": 72,
+  "en": "unpredictable",
+  "es": "impredecible",
+  "zh": "难以预料的"
+ },
+ {
+  "id": 73,
+  "en": "active",
+  "es": "activo",
+  "zh": "活跃的"
+ },
+ {
+  "id": 74,
+  "en": "unsettled",
+  "es": "agitado",
+  "zh": "躁动不安的"
+ },
+ {
+  "id": 75,
+  "en": "manipulative",
+  "es": "manipulador",
+  "zh": "爱操纵别人的"
+ },
+ {
+  "id": 76,
+  "en": "careful",
+  "es": "cuidadoso",
+  "zh": "细心的"
+ },
+ {
+  "id": 77,
+  "en": "brave",
+  "es": "audaz",
+  "zh": "勇猛的"
+ },
+ {
+  "id": 78,
+  "en": "sloppy",
+  "es": "descuidado",
+  "zh": "马虎的"
+ },
+ {
+  "id": 79,
+  "en": "generous",
+  "es": "generoso",
+  "zh": "慷慨的"
+ },
+ {
+  "id": 80,
+  "en": "stingy",
+  "es": "roñoso",
+  "zh": "吝啬的"
+ },
+ {
+  "id": 81,
+  "en": "sociable",
+  "es": "sociable",
+  "zh": "好交际的"
+ },
+ {
+  "id": 82,
+  "en": "rogue",
+  "es": "pícaro",
+  "zh": "调皮的"
+ },
+ {
+  "id": 83,
+  "en": "quiet",
+  "es": "sereno",
+  "zh": "沉静的"
+ },
+ {
+  "id": 84,
+  "en": "powerful",
+  "es": "poderoso",
+  "zh": "强大的"
+ },
+ {
+  "id": 85,
+  "en": "dangerous",
+  "es": "peligroso",
+  "zh": "危险的"
+ },
+ {
+  "id": 86,
+  "en": "persistent",
+  "es": "persistente",
+  "zh": "坚持不懈的"
+ },
+ {
+  "id": 87,
+  "en": "tough",
+  "es": "duro",
+  "zh": "坚韧的"
+ },
+ {
+  "id": 88,
+  "en": "strong",
+  "es": "fuerte",
+  "zh": "强壮的"
+ },
+ {
+  "id": 89,
+  "en": "vain",
+  "es": "creído",
+  "zh": "自负的"
+ },
+ {
+  "id": 90,
+  "en": "elegant",
+  "es": "elegante",
+  "zh": "优雅的"
+ },
+ {
+  "id": 91,
+  "en": "pleasing",
+  "es": "plácido",
+  "zh": "安详的"
+ },
+ {
+  "id": 92,
+  "en": "sociopath",
+  "es": "sociópata",
+  "zh": "反社会的"
+ },
+ {
+  "id": 93,
+  "en": "amazing",
+  "es": "asombroso",
+  "zh": "惊叹的"
+ },
+ {
+  "id": 94,
+  "en": "gifted",
+  "es": "talentoso",
+  "zh": "有天赋的"
+ },
+ {
+  "id": 95,
+  "en": "ingenious",
+  "es": "ingenioso",
+  "zh": "机智的"
+ },
+ {
+  "id": 96,
+  "en": "awesome",
+  "es": "alucinante",
+  "zh": "超棒的"
+ },
+ {
+  "id": 97,
+  "en": "fabulous",
+  "es": "fabuloso",
+  "zh": "绝妙的"
+ },
+ {
+  "id": 98,
+  "en": "lucky",
+  "es": "envidiable",
+  "zh": "令人羡慕的"
+ },
+ {
+  "id": 99,
+  "en": "interesting",
+  "es": "interesante",
+  "zh": "耐人寻味的"
+ },
+ {
+  "id": 100,
+  "en": "great",
+  "es": "genial",
+  "zh": "出色的"
+ },
+ {
+  "id": 101,
+  "en": "sensational",
+  "es": "sensacional",
+  "zh": "精彩的"
+ },
+ {
+  "id": 102,
+  "en": "impressive",
+  "es": "impresionante",
+  "zh": "令人印象深刻的"
+ },
+ {
+  "id": 103,
+  "en": "pitiful",
+  "es": "penosa",
+  "zh": "可怜的"
+ },
+ {
+  "id": 104,
+  "en": "skittish",
+  "es": "asustadiza",
+  "zh": "胆小的"
+ },
+ {
+  "id": 105,
+  "en": "cowardly",
+  "es": "miedosa",
+  "zh": "怯懦的"
+ },
+ {
+  "id": 106,
+  "en": "stupid",
+  "es": "pasmada",
+  "zh": "愚蠢的"
+ },
+ {
+  "id": 107,
+  "en": "slack",
+  "es": "floja",
+  "zh": "松懈的"
+ },
+ {
+  "id": 108,
+  "en": "docile",
+  "es": "mansa",
+  "zh": "温顺的"
+ },
+ {
+  "id": 109,
+  "en": "naive",
+  "es": "ingenua",
+  "zh": "天真的"
+ },
+ {
+  "id": 110,
+  "en": "clumpsy",
+  "es": "torpe",
+  "zh": "笨拙的"
+ },
+ {
+  "id": 111,
+  "en": "submissive",
+  "es": "sumisa",
+  "zh": "顺从的"
+ },
+ {
+  "id": 112,
+  "en": "loving",
+  "es": "amorosa",
+  "zh": "多情的"
+ },
+ {
+  "id": 113,
+  "en": "docile",
+  "es": "dócil",
+  "zh": "乖巧的"
+ },
+ {
+  "id": 114,
+  "en": "cautious",
+  "es": "cauta",
+  "zh": "谨慎的"
+ },
+ {
+  "id": 115,
+  "en": "evil",
+  "es": "malvada",
+  "zh": "邪恶的"
+ },
+ {
+  "id": 116,
+  "en": "furious",
+  "es": "rabiosa",
+  "zh": "狂怒的"
+ },
+ {
+  "id": 117,
+  "en": "pensive",
+  "es": "pensativa",
+  "zh": "沉思的"
+ },
+ {
+  "id": 118,
+  "en": "evil-minded",
+  "es": "malpensada",
+  "zh": "心术不正的"
+ },
+ {
+  "id": 119,
+  "en": "shy",
+  "es": "tímida",
+  "zh": "害羞的"
+ },
+ {
+  "id": 120,
+  "en": "confident",
+  "es": "confiada",
+  "zh": "自信的"
+ },
+ {
+  "id": 121,
+  "en": "maniac",
+  "es": "maniática",
+  "zh": "偏执的"
+ },
+ {
+  "id": 122,
+  "en": "funny",
+  "es": "divertida",
+  "zh": "有趣的"
+ },
+ {
+  "id": 123,
+  "en": "heady",
+  "es": "embriagadora",
+  "zh": "令人陶醉的"
+ },
+ {
+  "id": 124,
+  "en": "taciturn",
+  "es": "taciturna",
+  "zh": "沉默寡言的"
+ },
+ {
+  "id": 125,
+  "en": "liar",
+  "es": "mentirosa",
+  "zh": "爱说谎的"
+ },
+ {
+  "id": 126,
+  "en": "kind",
+  "es": "bondadosa",
+  "zh": "善良的"
+ },
+ {
+  "id": 127,
+  "en": "eloquent",
+  "es": "elocuente",
+  "zh": "能言善辩的"
+ },
+ {
+  "id": 128,
+  "en": "loving",
+  "es": "cariñosa",
+  "zh": "亲切的"
+ },
+ {
+  "id": 129,
+  "en": "happy",
+  "es": "alegre",
+  "zh": "快乐的"
+ },
+ {
+  "id": 130,
+  "en": "sad",
+  "es": "triste",
+  "zh": "悲伤的"
+ },
+ {
+  "id": 131,
+  "en": "sweet",
+  "es": "tierna",
+  "zh": "温柔的"
+ },
+ {
+  "id": 132,
+  "en": "cheerful",
+  "es": "animada",
+  "zh": "开朗的"
+ },
+ {
+  "id": 133,
+  "en": "stubborn",
+  "es": "terca",
+  "zh": "固执的"
+ },
+ {
+  "id": 134,
+  "en": "profound",
+  "es": "profunda",
+  "zh": "深沉的"
+ },
+ {
+  "id": 135,
+  "en": "complicated",
+  "es": "complicada",
+  "zh": "复杂的"
+ },
+ {
+  "id": 136,
+  "en": "superficial",
+  "es": "superficial",
+  "zh": "肤浅的"
+ },
+ {
+  "id": 137,
+  "en": "well-behaved",
+  "es": "disciplinada",
+  "zh": "守规矩的"
+ },
+ {
+  "id": 138,
+  "en": "crazy",
+  "es": "alocada",
+  "zh": "疯疯癫癫的"
+ },
+ {
+  "id": 139,
+  "en": "paranoid",
+  "es": "paranoica",
+  "zh": "多疑的"
+ },
+ {
+  "id": 140,
+  "en": "nosy",
+  "es": "entrometida",
+  "zh": "爱管闲事的"
+ },
+ {
+  "id": 141,
+  "en": "gloomy",
+  "es": "tenebrosa",
+  "zh": "阴森的"
+ },
+ {
+  "id": 142,
+  "en": "kind",
+  "es": "amable",
+  "zh": "和蔼的"
+ },
+ {
+  "id": 143,
+  "en": "heinous",
+  "es": "abyecta",
+  "zh": "可恶的"
+ },
+ {
+  "id": 144,
+  "en": "remarkable",
+  "es": "admirable",
+  "zh": "了不起的"
+ },
+ {
+  "id": 145,
+  "en": "modest",
+  "es": "modesta",
+  "zh": "谦虚的"
+ },
+ {
+  "id": 146,
+  "en": "strict",
+  "es": "estricta",
+  "zh": "严格的"
+ },
+ {
+  "id": 147,
+  "en": "firm",
+  "es": "firme",
+  "zh": "坚定的"
+ },
+ {
+  "id": 148,
+  "en": "charming",
+  "es": "encantadora",
+  "zh": "迷人的"
+ },
+ {
+  "id": 149,
+  "en": "anti-social",
+  "es": "antisocial",
+  "zh": "不合群的"
+ },
+ {
+  "id": 150,
+  "en": "intelligent",
+  "es": "inteligente",
+  "zh": "聪明的"
+ },
+ {
+  "id": 151,
+  "en": "daring",
+  "es": "atrevida",
+  "zh": "大胆的"
+ },
+ {
+  "id": 152,
+  "en": "affable",
+  "es": "afable",
+  "zh": "和善的"
+ },
+ {
+  "id": 153,
+  "en": "weird",
+  "es": "rara",
+  "zh": "奇怪的"
+ },
+ {
+  "id": 154,
+  "en": "provocative",
+  "es": "provocadora",
+  "zh": "爱挑衅的"
+ },
+ {
+  "id": 155,
+  "en": "shy",
+  "es": "huraña",
+  "zh": "孤僻的"
+ },
+ {
+  "id": 156,
+  "en": "ugly",
+  "es": "fea",
+  "zh": "难看的"
+ },
+ {
+  "id": 157,
+  "en": "transparent",
+  "es": "transparente",
+  "zh": "透明的"
+ },
+ {
+  "id": 158,
+  "en": "respectable",
+  "es": "respetable",
+  "zh": "值得尊敬的"
+ },
+ {
+  "id": 159,
+  "en": "serious",
+  "es": "seria",
+  "zh": "严肃的"
+ },
+ {
+  "id": 160,
+  "en": "mysterious",
+  "es": "misteriosa",
+  "zh": "神秘的"
+ },
+ {
+  "id": 161,
+  "en": "bold",
+  "es": "lanzada",
+  "zh": "豪放的"
+ },
+ {
+  "id": 162,
+  "en": "lonely",
+  "es": "solitaria",
+  "zh": "孤独的"
+ },
+ {
+  "id": 163,
+  "en": "expressionless",
+  "es": "inexpresiva",
+  "zh": "面无表情的"
+ },
+ {
+  "id": 164,
+  "en": "unstoppable",
+  "es": "imparable",
+  "zh": "势不可挡的"
+ },
+ {
+  "id": 165,
+  "en": "attractive",
+  "es": "atractiva",
+  "zh": "有魅力的"
+ },
+ {
+  "id": 166,
+  "en": "irascible",
+  "es": "irascible",
+  "zh": "暴躁的"
+ },
+ {
+  "id": 167,
+  "en": "bold",
+  "es": "osada",
+  "zh": "勇敢的"
+ },
+ {
+  "id": 168,
+  "en": "rude",
+  "es": "grosera",
+  "zh": "粗鲁的"
+ },
+ {
+  "id": 169,
+  "en": "hard-working",
+  "es": "trabajadora",
+  "zh": "勤劳的"
+ },
+ {
+  "id": 170,
+  "en": "lazy",
+  "es": "perezosa",
+  "zh": "懒惰的"
+ },
+ {
+  "id": 171,
+  "en": "amazing",
+  "es": "sorprendente",
+  "zh": "惊人的"
+ },
+ {
+  "id": 172,
+  "en": "special",
+  "es": "singular",
+  "zh": "特别的"
+ },
+ {
+  "id": 173,
+  "en": "cool",
+  "es": "guay",
+  "zh": "酷酷的"
+ },
+ {
+  "id": 174,
+  "en": "unpredictable",
+  "es": "impredecible",
+  "zh": "难以预料的"
+ },
+ {
+  "id": 175,
+  "en": "active",
+  "es": "activa",
+  "zh": "活跃的"
+ },
+ {
+  "id": 176,
+  "en": "unsettled",
+  "es": "agitada",
+  "zh": "躁动不安的"
+ },
+ {
+  "id": 177,
+  "en": "manipulative",
+  "es": "manipuladora",
+  "zh": "爱操纵别人的"
+ },
+ {
+  "id": 178,
+  "en": "careful",
+  "es": "cuidadosa",
+  "zh": "细心的"
+ },
+ {
+  "id": 179,
+  "en": "brave",
+  "es": "audaz",
+  "zh": "勇猛的"
+ },
+ {
+  "id": 180,
+  "en": "sloppy",
+  "es": "descuidada",
+  "zh": "马虎的"
+ },
+ {
+  "id": 181,
+  "en": "generous",
+  "es": "generosa",
+  "zh": "慷慨的"
+ },
+ {
+  "id": 182,
+  "en": "stingy",
+  "es": "roñosa",
+  "zh": "吝啬的"
+ },
+ {
+  "id": 183,
+  "en": "sociable",
+  "es": "sociable",
+  "zh": "好交际的"
+ },
+ {
+  "id": 184,
+  "en": "rogue",
+  "es": "pícara",
+  "zh": "调皮的"
+ },
+ {
+  "id": 185,
+  "en": "quiet",
+  "es": "serena",
+  "zh": "沉静的"
+ },
+ {
+  "id": 186,
+  "en": "powerful",
+  "es": "poderosa",
+  "zh": "强大的"
+ },
+ {
+  "id": 187,
+  "en": "dangerous",
+  "es": "peligrosa",
+  "zh": "危险的"
+ },
+ {
+  "id": 188,
+  "en": "persistent",
+  "es": "persistente",
+  "zh": "坚持不懈的"
+ },
+ {
+  "id": 189,
+  "en": "tough",
+  "es": "dura",
+  "zh": "坚韧的"
+ },
+ {
+  "id": 190,
+  "en": "strong",
+  "es": "fuerte",
+  "zh": "强壮的"
+ },
+ {
+  "id": 191,
+  "en": "vain",
+  "es": "creída",
+  "zh": "自负的"
+ },
+ {
+  "id": 192,
+  "en": "elegant",
+  "es": "elegante",
+  "zh": "优雅的"
+ },
+ {
+  "id": 193,
+  "en": "pleasing",
+  "es": "plácida",
+  "zh": "安详的"
+ },
+ {
+  "id": 194,
+  "en": "sociopath",
+  "es": "sociópata",
+  "zh": "反社会的"
+ },
+ {
+  "id": 195,
+  "en": "amazing",
+  "es": "asombrosa",
+  "zh": "惊叹的"
+ },
+ {
+  "id": 196,
+  "en": "gifted",
+  "es": "talentosa",
+  "zh": "有天赋的"
+ },
+ {
+  "id": 197,
+  "en": "ingenious",
+  "es": "ingeniosa",
+  "zh": "机智的"
+ },
+ {
+  "id": 198,
+  "en": "awesome",
+  "es": "alucinante",
+  "zh": "超棒的"
+ },
+ {
+  "id": 199,
+  "en": "fabulous",
+  "es": "fabulosa",
+  "zh": "绝妙的"
+ },
+ {
+  "id": 200,
+  "en": "lucky",
+  "es": "envidiable",
+  "zh": "令人羡慕的"
+ },
+ {
+  "id": 201,
+  "en": "interesting",
+  "es": "interesante",
+  "zh": "耐人寻味的"
+ },
+ {
+  "id": 202,
+  "en": "great",
+  "es": "genial",
+  "zh": "出色的"
+ },
+ {
+  "id": 203,
+  "en": "sensational",
+  "es": "sensacional",
+  "zh": "精彩的"
+ },
+ {
+  "id": 204,
+  "en": "impressive",
+  "es": "impresionante",
+  "zh": "令人印象深刻的"
+ },
+ {
+  "id": 205,
+  "en": "empty",
+  "es": "vacío",
+  "zh": "空的"
+ }
+]

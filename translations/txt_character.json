@@ -1,0 +1,6756 @@
+[
+ {
+  "id": 1,
+  "en": "Ash",
+  "es": "Ash",
+  "zh": "小智"
+ },
+ {
+  "id": 2,
+  "en": "Gary",
+  "es": "Gary",
+  "zh": "小茂"
+ },
+ {
+  "id": 3,
+  "en": "Gold",
+  "es": "Oro",
+  "zh": "阿响"
+ },
+ {
+  "id": 4,
+  "en": "Kris",
+  "es": "Cristal",
+  "zh": "克丽丝"
+ },
+ {
+  "id": 5,
+  "en": "May",
+  "es": "Aura",
+  "zh": "小遥"
+ },
+ {
+  "id": 6,
+  "en": "Brendan",
+  "es": "Bruno",
+  "zh": "小悠"
+ },
+ {
+  "id": 7,
+  "en": "Dawn",
+  "es": "Maya",
+  "zh": "小光"
+ },
+ {
+  "id": 8,
+  "en": "Lucas",
+  "es": "Leon",
+  "zh": "明辉",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 9,
+  "en": "Kate",
+  "es": "Kate",
+  "zh": "凯特"
+ },
+ {
+  "id": 10,
+  "en": "Mark",
+  "es": "Mark",
+  "zh": "马克"
+ },
+ {
+  "id": 11,
+  "en": "Name",
+  "es": "Nombre",
+  "zh": "名字"
+ },
+ {
+  "id": 12,
+  "en": "Rival",
+  "es": "Rival",
+  "zh": "对手"
+ },
+ {
+  "id": 13,
+  "en": "Mom",
+  "es": "Mamá",
+  "zh": "妈妈"
+ },
+ {
+  "id": 14,
+  "en": "Sister",
+  "es": "Hermana",
+  "zh": "姐姐"
+ },
+ {
+  "id": 15,
+  "en": "Prof. Oak",
+  "es": "Prof. Oak",
+  "zh": "大木博士"
+ },
+ {
+  "id": 16,
+  "en": "Prof. Elm",
+  "es": "Prof. Elm",
+  "zh": "空木博士"
+ },
+ {
+  "id": 17,
+  "en": "Prof. Birch",
+  "es": "Prof. Abedul",
+  "zh": "小田卷博士"
+ },
+ {
+  "id": 18,
+  "en": "Prof. Rowan",
+  "es": "Prof. Serbal",
+  "zh": "山梨博士",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 19,
+  "en": "Prof. Juniper",
+  "es": "Prof. Encina",
+  "zh": "真菰博士",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 20,
+  "en": "Prof. Fonsi",
+  "es": "Prof. Fonsi",
+  "zh": "丰西博士"
+ },
+ {
+  "id": 21,
+  "en": "Pokémon Day Care",
+  "es": "Guardería",
+  "zh": "培育屋"
+ },
+ {
+  "id": 22,
+  "en": "Star Region Bank",
+  "es": "Banco Star",
+  "zh": "星辰地区银行"
+ },
+ {
+  "id": 23,
+  "en": "Leader Fer",
+  "es": "Líder Fer",
+  "zh": "馆主菲尔"
+ },
+ {
+  "id": 24,
+  "en": "Sheriff Amando",
+  "es": "Comisario Amando",
+  "zh": "警长阿曼多"
+ },
+ {
+  "id": 25,
+  "en": "Scott",
+  "es": "Treto",
+  "zh": "斯科特"
+ },
+ {
+  "id": 26,
+  "en": "Teron",
+  "es": "Teron",
+  "zh": "特隆"
+ },
+ {
+  "id": 27,
+  "en": "Xavi",
+  "es": "Javi",
+  "zh": "哈维"
+ },
+ {
+  "id": 28,
+  "en": "Investigator",
+  "es": "Investigador",
+  "zh": "调查员"
+ },
+ {
+  "id": 29,
+  "en": "Berry Master",
+  "es": "Bayólogo",
+  "zh": "树果大师"
+ },
+ {
+  "id": 30,
+  "en": "Lass Laury",
+  "es": "Chica Laurita",
+  "zh": "迷你裙劳莉"
+ },
+ {
+  "id": 31,
+  "en": "Police Man",
+  "es": "Policía",
+  "zh": "警察"
+ },
+ {
+  "id": 32,
+  "en": "Police Woman",
+  "es": "Policía",
+  "zh": "女警"
+ },
+ {
+  "id": 33,
+  "en": "Kiko",
+  "es": "Kiko",
+  "zh": "基科"
+ },
+ {
+  "id": 34,
+  "en": "Skuiro",
+  "es": "Skuiro",
+  "zh": "斯奎罗"
+ },
+ {
+  "id": 35,
+  "en": "Officer Johnson",
+  "es": "Agente Johnson",
+  "zh": "警官约翰逊"
+ },
+ {
+  "id": 36,
+  "en": "Officer Jenny",
+  "es": "Agente Mara",
+  "zh": "君莎小姐"
+ },
+ {
+  "id": 37,
+  "en": "Officer Ryan",
+  "es": "Agente Ryan",
+  "zh": "警官瑞恩"
+ },
+ {
+  "id": 38,
+  "en": "Howard",
+  "es": "Howard",
+  "zh": "霍华德"
+ },
+ {
+  "id": 39,
+  "en": "Kimono Girl",
+  "es": "Chica Kimono",
+  "zh": "和服女孩"
+ },
+ {
+  "id": 40,
+  "en": "Mino",
+  "es": "Mino",
+  "zh": "米诺"
+ },
+ {
+  "id": 41,
+  "en": "Willy",
+  "es": "Willy",
+  "zh": "威利"
+ },
+ {
+  "id": 42,
+  "en": "Helia",
+  "es": "Helia",
+  "zh": "赫莉娅"
+ },
+ {
+  "id": 43,
+  "en": "Bobby",
+  "es": "Bobby",
+  "zh": "鲍比"
+ },
+ {
+  "id": 44,
+  "en": "Rosama",
+  "es": "Rosama",
+  "zh": "罗萨玛"
+ },
+ {
+  "id": 45,
+  "en": "Adalia",
+  "es": "Adalia",
+  "zh": "阿达莉娅"
+ },
+ {
+  "id": 46,
+  "en": "Locke",
+  "es": "Locke",
+  "zh": "洛克"
+ },
+ {
+  "id": 47,
+  "en": "Fer",
+  "es": "Fer",
+  "zh": "菲尔"
+ },
+ {
+  "id": 48,
+  "en": "Noelia",
+  "es": "Noelia",
+  "zh": "诺埃莉娅"
+ },
+ {
+  "id": 49,
+  "en": "Brock",
+  "es": "Brock",
+  "zh": "小刚"
+ },
+ {
+  "id": 50,
+  "en": "Misty",
+  "es": "Misty",
+  "zh": "小霞"
+ },
+ {
+  "id": 51,
+  "en": "Lt. Surge",
+  "es": "LT. Surge",
+  "zh": "马志士"
+ },
+ {
+  "id": 52,
+  "en": "Erika",
+  "es": "Érika",
+  "zh": "莉佳"
+ },
+ {
+  "id": 53,
+  "en": "Janine",
+  "es": "Sachiko",
+  "zh": "阿杏",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 54,
+  "en": "Sabrina",
+  "es": "Sabrina",
+  "zh": "娜姿"
+ },
+ {
+  "id": 55,
+  "en": "Blaine",
+  "es": "Blaine",
+  "zh": "夏伯"
+ },
+ {
+  "id": 56,
+  "en": "Giovanni",
+  "es": "Giovanni",
+  "zh": "坂木"
+ },
+ {
+  "id": 57,
+  "en": "Falkner",
+  "es": "Pegaso",
+  "zh": "阿速"
+ },
+ {
+  "id": 58,
+  "en": "Bugsy",
+  "es": "Antón",
+  "zh": "阿笔"
+ },
+ {
+  "id": 59,
+  "en": "Whitney",
+  "es": "Blanca",
+  "zh": "小茜"
+ },
+ {
+  "id": 60,
+  "en": "Morty",
+  "es": "Morti",
+  "zh": "松叶"
+ },
+ {
+  "id": 61,
+  "en": "Chuck",
+  "es": "Anibal",
+  "zh": "阿四"
+ },
+ {
+  "id": 62,
+  "en": "Jasmine",
+  "es": "Yasmina",
+  "zh": "阿蜜"
+ },
+ {
+  "id": 63,
+  "en": "Pryce",
+  "es": "Fredo",
+  "zh": "柳伯"
+ },
+ {
+  "id": 64,
+  "en": "Clair",
+  "es": "Débora",
+  "zh": "小椿"
+ },
+ {
+  "id": 65,
+  "en": "Roxanne",
+  "es": "Petra",
+  "zh": "杜娟"
+ },
+ {
+  "id": 66,
+  "en": "Brawly",
+  "es": "Marcial",
+  "zh": "藤树"
+ },
+ {
+  "id": 67,
+  "en": "Wattson",
+  "es": "Erico",
+  "zh": "铁旋"
+ },
+ {
+  "id": 68,
+  "en": "Flannery",
+  "es": "Candela",
+  "zh": "亚莎"
+ },
+ {
+  "id": 69,
+  "en": "Norman",
+  "es": "Norman",
+  "zh": "千里"
+ },
+ {
+  "id": 70,
+  "en": "Winona",
+  "es": "Alana",
+  "zh": "娜琪"
+ },
+ {
+  "id": 71,
+  "en": "Tate",
+  "es": "Vito",
+  "zh": "小枫"
+ },
+ {
+  "id": 72,
+  "en": "Liza",
+  "es": "Leti",
+  "zh": "小南"
+ },
+ {
+  "id": 73,
+  "en": "Juan",
+  "es": "Galano",
+  "zh": "亚当"
+ },
+ {
+  "id": 74,
+  "en": "Roark",
+  "es": "Roco",
+  "zh": "瓢太"
+ },
+ {
+  "id": 75,
+  "en": "Gardenia",
+  "es": "Gardenia",
+  "zh": "菜种"
+ },
+ {
+  "id": 76,
+  "en": "Maylene",
+  "es": "Brega",
+  "zh": "阿李"
+ },
+ {
+  "id": 77,
+  "en": "Crasher Wake",
+  "es": "Mananti",
+  "zh": "吉宪"
+ },
+ {
+  "id": 78,
+  "en": "Fantina",
+  "es": "Fantina",
+  "zh": "梅丽莎"
+ },
+ {
+  "id": 79,
+  "en": "Byron",
+  "es": "Acerón",
+  "zh": "东瓜"
+ },
+ {
+  "id": 80,
+  "en": "Candice",
+  "es": "Inverna",
+  "zh": "小菘"
+ },
+ {
+  "id": 81,
+  "en": "Volkner",
+  "es": "Lectro",
+  "zh": "电次"
+ },
+ {
+  "id": 82,
+  "en": "Cilan",
+  "es": "Millo",
+  "zh": "天桐"
+ },
+ {
+  "id": 83,
+  "en": "Chili",
+  "es": "Zeo",
+  "zh": "伯特"
+ },
+ {
+  "id": 84,
+  "en": "Cress",
+  "es": "Maiz",
+  "zh": "寇恩"
+ },
+ {
+  "id": 85,
+  "en": "Lenora",
+  "es": "Aloe",
+  "zh": "芦荟"
+ },
+ {
+  "id": 86,
+  "en": "Burgh",
+  "es": "Camus",
+  "zh": "亚堤"
+ },
+ {
+  "id": 87,
+  "en": "Elesa",
+  "es": "Camila",
+  "zh": "小菊儿"
+ },
+ {
+  "id": 88,
+  "en": "Clay",
+  "es": "Yakón",
+  "zh": "菊老大"
+ },
+ {
+  "id": 89,
+  "en": "Skyla",
+  "es": "Gerania",
+  "zh": "风露"
+ },
+ {
+  "id": 90,
+  "en": "Brycen",
+  "es": "Junco",
+  "zh": "哈奇库"
+ },
+ {
+  "id": 91,
+  "en": "Drayden",
+  "es": "Lirio",
+  "zh": "夏卡"
+ },
+ {
+  "id": 92,
+  "en": "Grey",
+  "es": "Grey",
+  "zh": "格雷"
+ },
+ {
+  "id": 93,
+  "en": "Alfred",
+  "es": "Alfred",
+  "zh": "阿尔弗雷德"
+ },
+ {
+  "id": 94,
+  "en": "Kim",
+  "es": "Kim",
+  "zh": "金"
+ },
+ {
+  "id": 95,
+  "en": "Nadia",
+  "es": "Nadia",
+  "zh": "娜迪娅"
+ },
+ {
+  "id": 96,
+  "en": "Lilith",
+  "es": "Lilith",
+  "zh": "莉莉丝"
+ },
+ {
+  "id": 97,
+  "en": "Monty",
+  "es": "Monty",
+  "zh": "蒙蒂"
+ },
+ {
+  "id": 98,
+  "en": "Moises",
+  "es": "Moisés",
+  "zh": "莫伊塞斯"
+ },
+ {
+  "id": 99,
+  "en": "Silver Aspirant",
+  "es": "Aspirante de Plata",
+  "zh": "银级挑战者"
+ },
+ {
+  "id": 100,
+  "en": "Violette",
+  "es": "Violette",
+  "zh": "维奥莱特"
+ },
+ {
+  "id": 101,
+  "en": "Lucero",
+  "es": "Lucero",
+  "zh": "卢塞罗"
+ },
+ {
+  "id": 102,
+  "en": "Sasha",
+  "es": "Sasha",
+  "zh": "萨莎"
+ },
+ {
+  "id": 103,
+  "en": "Peter",
+  "es": "Peter",
+  "zh": "彼得"
+ },
+ {
+  "id": 104,
+  "en": "Reig",
+  "es": "Reig",
+  "zh": "雷格"
+ },
+ {
+  "id": 105,
+  "en": "Mellinas",
+  "es": "Mellinas",
+  "zh": "梅利纳斯"
+ },
+ {
+  "id": 106,
+  "en": "Segovien",
+  "es": "Segovien",
+  "zh": "塞戈维恩"
+ },
+ {
+  "id": 107,
+  "en": "Gold Aspirant",
+  "es": "Aspirante de Oro",
+  "zh": "金级挑战者"
+ },
+ {
+  "id": 108,
+  "en": "Tina",
+  "es": "Tina",
+  "zh": "蒂娜"
+ },
+ {
+  "id": 109,
+  "en": "Liu",
+  "es": "Liu",
+  "zh": "刘"
+ },
+ {
+  "id": 110,
+  "en": "Morpheus",
+  "es": "Morfeo",
+  "zh": "莫菲斯"
+ },
+ {
+  "id": 111,
+  "en": "Vulcano",
+  "es": "Vulcano",
+  "zh": "武尔卡诺"
+ },
+ {
+  "id": 112,
+  "en": "Lorelei",
+  "es": "Lorelei",
+  "zh": "科拿"
+ },
+ {
+  "id": 113,
+  "en": "Bruno",
+  "es": "Bruno",
+  "zh": "希巴"
+ },
+ {
+  "id": 114,
+  "en": "Agatha",
+  "es": "Agatha",
+  "zh": "菊子"
+ },
+ {
+  "id": 115,
+  "en": "Lance",
+  "es": "Lance",
+  "zh": "阿渡"
+ },
+ {
+  "id": 116,
+  "en": "Red",
+  "es": "Rojo",
+  "zh": "赤红"
+ },
+ {
+  "id": 117,
+  "en": "Will",
+  "es": "Mento",
+  "zh": "一树"
+ },
+ {
+  "id": 118,
+  "en": "Koga",
+  "es": "Koga",
+  "zh": "阿桔"
+ },
+ {
+  "id": 119,
+  "en": "Karen",
+  "es": "Karen",
+  "zh": "梨花"
+ },
+ {
+  "id": 120,
+  "en": "Wallace",
+  "es": "Plubio",
+  "zh": "米可利"
+ },
+ {
+  "id": 121,
+  "en": "Silver",
+  "es": "Plata",
+  "zh": "西尔佛",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 122,
+  "en": "Sidney",
+  "es": "Sixto",
+  "zh": "花月"
+ },
+ {
+  "id": 123,
+  "en": "Phoebe",
+  "es": "Fatima",
+  "zh": "芙蓉"
+ },
+ {
+  "id": 124,
+  "en": "Glacia",
+  "es": "Nivea",
+  "zh": "波妮"
+ },
+ {
+  "id": 125,
+  "en": "Drake",
+  "es": "Dracon",
+  "zh": "源治"
+ },
+ {
+  "id": 126,
+  "en": "Steven",
+  "es": "Máximo",
+  "zh": "大吾"
+ },
+ {
+  "id": 127,
+  "en": "Aaron",
+  "es": "Alecrán",
+  "zh": "阿柳"
+ },
+ {
+  "id": 128,
+  "en": "Bertha",
+  "es": "Gaia",
+  "zh": "菊野"
+ },
+ {
+  "id": 129,
+  "en": "Flint",
+  "es": "Fausto",
+  "zh": "大叶"
+ },
+ {
+  "id": 130,
+  "en": "Lucian",
+  "es": "Delos",
+  "zh": "悟松"
+ },
+ {
+  "id": 131,
+  "en": "Cynthia",
+  "es": "Cintia",
+  "zh": "竹兰"
+ },
+ {
+  "id": 132,
+  "en": "Shauntal",
+  "es": "Anís",
+  "zh": "婉龙"
+ },
+ {
+  "id": 133,
+  "en": "Grimsley",
+  "es": "Aza",
+  "zh": "越橘"
+ },
+ {
+  "id": 134,
+  "en": "Marshal",
+  "es": "Lotto",
+  "zh": "连武"
+ },
+ {
+  "id": 135,
+  "en": "Caitlin",
+  "es": "Catleya",
+  "zh": "嘉德丽雅"
+ },
+ {
+  "id": 136,
+  "en": "Iris",
+  "es": "Iris",
+  "zh": "艾莉丝"
+ },
+ {
+  "id": 137,
+  "en": "Blue",
+  "es": "Azul",
+  "zh": "青绿"
+ },
+ {
+  "id": 138,
+  "en": "Wally",
+  "es": "Blasco",
+  "zh": "满充",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 139,
+  "en": "Barry",
+  "es": "Benito",
+  "zh": "阿驯",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 140,
+  "en": "Leaf",
+  "es": "Hoja",
+  "zh": "叶子",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 141,
+  "en": "Hilda",
+  "es": "Liza",
+  "zh": "斗子",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 142,
+  "en": "Hilbert",
+  "es": "Lucho",
+  "zh": "斗也",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 143,
+  "en": "Paul",
+  "es": "Polo",
+  "zh": "真司",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 144,
+  "en": "Ritchie",
+  "es": "Ritchie",
+  "zh": "阿弘",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 145,
+  "en": "Marlon",
+  "es": "Ciprian",
+  "zh": "西子伊"
+ },
+ {
+  "id": 146,
+  "en": "Roxie",
+  "es": "Hiedra",
+  "zh": "霍米加"
+ },
+ {
+  "id": 147,
+  "en": "Cheren",
+  "es": "Cheren",
+  "zh": "黑连",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 148,
+  "en": "Bianca",
+  "es": "Bel",
+  "zh": "白露",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 149,
+  "en": "Nate",
+  "es": "Rizzo",
+  "zh": "共平",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 150,
+  "en": "Rosa",
+  "es": "Nanci",
+  "zh": "鸣依",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 151,
+  "en": "Alder",
+  "es": "Mirto",
+  "zh": "阿戴克"
+ },
+ {
+  "id": 152,
+  "en": "N",
+  "es": "N",
+  "zh": "N"
+ },
+ {
+  "id": 153,
+  "en": "Team Rocket",
+  "es": "Team Rocket",
+  "zh": "火箭队"
+ },
+ {
+  "id": 154,
+  "en": "Jessie",
+  "es": "Jessie",
+  "zh": "武藏"
+ },
+ {
+  "id": 155,
+  "en": "James",
+  "es": "James",
+  "zh": "小次郎"
+ },
+ {
+  "id": 156,
+  "en": "Meowth",
+  "es": "Meowth",
+  "zh": "喵喵"
+ },
+ {
+  "id": 157,
+  "en": "Lady Boss",
+  "es": "Lady Boss",
+  "zh": "女首领"
+ },
+ {
+  "id": 158,
+  "en": "Team Aqua",
+  "es": "Team Aqua",
+  "zh": "海洋队",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 159,
+  "en": "Shelly",
+  "es": "Silvina",
+  "zh": "阿泉",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 160,
+  "en": "Archie",
+  "es": "Aquiles",
+  "zh": "水梧桐"
+ },
+ {
+  "id": 161,
+  "en": "Team Magma",
+  "es": "Team Magma",
+  "zh": "熔岩队"
+ },
+ {
+  "id": 162,
+  "en": "Tabitha",
+  "es": "Tatiano",
+  "zh": "火村",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 163,
+  "en": "Maxie",
+  "es": "Magno",
+  "zh": "赤焰松"
+ },
+ {
+  "id": 164,
+  "en": "Team Galactic",
+  "es": "Equipo Galaxia",
+  "zh": "银河队"
+ },
+ {
+  "id": 165,
+  "en": "Mars",
+  "es": "Venus",
+  "zh": "伙星",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 166,
+  "en": "Saturn",
+  "es": "Saturno",
+  "zh": "镇星",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 167,
+  "en": "Jupiter",
+  "es": "Ceres",
+  "zh": "岁星",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 168,
+  "en": "Cyrus",
+  "es": "Helio",
+  "zh": "赤日"
+ },
+ {
+  "id": 169,
+  "en": "Team Rekiem",
+  "es": "Team Rekiem",
+  "zh": "安魂队"
+ },
+ {
+  "id": 170,
+  "en": "Raven",
+  "es": "Cuervo Negro",
+  "zh": "乌鸦"
+ },
+ {
+  "id": 171,
+  "en": "Qaxx",
+  "es": "Qaxx",
+  "zh": "夸克斯"
+ },
+ {
+  "id": 172,
+  "en": "Master",
+  "es": "Master",
+  "zh": "大师"
+ },
+ {
+  "id": 173,
+  "en": "Vex",
+  "es": "Vex",
+  "zh": "维克斯"
+ },
+ {
+  "id": 174,
+  "en": "KevinXDE",
+  "es": "KevinXDE",
+  "zh": "KevinXDE"
+ },
+ {
+  "id": 175,
+  "en": "Edupoke",
+  "es": "Edupoke",
+  "zh": "Edupoke"
+ },
+ {
+  "id": 176,
+  "en": "Kairo",
+  "es": "Kairo",
+  "zh": "凯罗"
+ },
+ {
+  "id": 177,
+  "en": "Josefitha",
+  "es": "Josefitha",
+  "zh": "约瑟菲莎"
+ },
+ {
+  "id": 178,
+  "en": "Furuno",
+  "es": "Furuno",
+  "zh": "古鲁诺"
+ },
+ {
+  "id": 179,
+  "en": "TomasRB",
+  "es": "TomasRB",
+  "zh": "TomasRB"
+ },
+ {
+  "id": 180,
+  "en": "Kalerio",
+  "es": "Kalerio",
+  "zh": "卡莱里奥"
+ },
+ {
+  "id": 181,
+  "en": "Erickox",
+  "es": "Erickox",
+  "zh": "埃里科克斯"
+ },
+ {
+  "id": 182,
+  "en": "Senkii",
+  "es": "Senkii",
+  "zh": "森基"
+ },
+ {
+  "id": 183,
+  "en": "TurcoFeran",
+  "es": "TurcoFeran",
+  "zh": "TurcoFeran"
+ },
+ {
+  "id": 184,
+  "en": "Issy",
+  "es": "Issy",
+  "zh": "伊西"
+ },
+ {
+  "id": 185,
+  "en": "Xpokemaster",
+  "es": "Xpokemaster",
+  "zh": "Xpokemaster"
+ },
+ {
+  "id": 186,
+  "en": "Alany",
+  "es": "Alany",
+  "zh": "阿拉尼"
+ },
+ {
+  "id": 187,
+  "en": "Kustem",
+  "es": "Kustem",
+  "zh": "库斯特姆"
+ },
+ {
+  "id": 188,
+  "en": "Rex",
+  "es": "Rex",
+  "zh": "雷克斯"
+ },
+ {
+  "id": 189,
+  "en": "Boy",
+  "es": "Chico",
+  "zh": "男孩"
+ },
+ {
+  "id": 190,
+  "en": "Lass",
+  "es": "Chica",
+  "zh": "迷你裙"
+ },
+ {
+  "id": 191,
+  "en": "Schoolboy",
+  "es": "Estudiante",
+  "zh": "学生"
+ },
+ {
+  "id": 192,
+  "en": "Schoolgirl",
+  "es": "Estudiante",
+  "zh": "学生"
+ },
+ {
+  "id": 193,
+  "en": "Professor",
+  "es": "Profesora",
+  "zh": "教授"
+ },
+ {
+  "id": 194,
+  "en": "Bird Keeper",
+  "es": "Ornitólogo",
+  "zh": "养鸟人"
+ },
+ {
+  "id": 195,
+  "en": "Bug Catcher",
+  "es": "CazaBichos",
+  "zh": "捕虫少年"
+ },
+ {
+  "id": 196,
+  "en": "Leader",
+  "es": "Líder",
+  "zh": "馆主"
+ },
+ {
+  "id": 197,
+  "en": "Cool Trainer",
+  "es": "Entr. Guay",
+  "zh": "精英训练家"
+ },
+ {
+  "id": 198,
+  "en": "Picknicker",
+  "es": "Dominguera",
+  "zh": "野餐女孩"
+ },
+ {
+  "id": 199,
+  "en": "Camper",
+  "es": "Campista",
+  "zh": "露营少年"
+ },
+ {
+  "id": 200,
+  "en": "Hiker",
+  "es": "Montañero",
+  "zh": "登山男"
+ },
+ {
+  "id": 201,
+  "en": "Grunt",
+  "es": "Recluta",
+  "zh": "手下"
+ },
+ {
+  "id": 202,
+  "en": "Soldier",
+  "es": "Soldado",
+  "zh": "士兵"
+ },
+ {
+  "id": 203,
+  "en": "Commander",
+  "es": "Comandante",
+  "zh": "干部"
+ },
+ {
+  "id": 204,
+  "en": "Rocket",
+  "es": "Rocket",
+  "zh": "火箭队"
+ },
+ {
+  "id": 205,
+  "en": "Aqua",
+  "es": "Aqua",
+  "zh": "海洋队"
+ },
+ {
+  "id": 206,
+  "en": "Magma",
+  "es": "Magma",
+  "zh": "熔岩队"
+ },
+ {
+  "id": 207,
+  "en": "Galactic",
+  "es": "Galaxia",
+  "zh": "银河队"
+ },
+ {
+  "id": 208,
+  "en": "Rekiem",
+  "es": "Rekiem",
+  "zh": "安魂队"
+ },
+ {
+  "id": 209,
+  "en": "Swimmer",
+  "es": "Nadador",
+  "zh": "游泳男孩"
+ },
+ {
+  "id": 210,
+  "en": "Swimmer",
+  "es": "Nadadora",
+  "zh": "游泳女孩"
+ },
+ {
+  "id": 211,
+  "en": "Pokéfan",
+  "es": "Pokéfan",
+  "zh": "宝可梦迷"
+ },
+ {
+  "id": 212,
+  "en": "Aroma Lady",
+  "es": "Aromaflor",
+  "zh": "芳香淑女"
+ },
+ {
+  "id": 213,
+  "en": "Ninja",
+  "es": "Ninja",
+  "zh": "忍者"
+ },
+ {
+  "id": 214,
+  "en": "Psychic",
+  "es": "Médium",
+  "zh": "超能力者"
+ },
+ {
+  "id": 215,
+  "en": "Channeler",
+  "es": "Exorcista",
+  "zh": "通灵师"
+ },
+ {
+  "id": 216,
+  "en": "Burglar",
+  "es": "Ladrón",
+  "zh": "盗贼"
+ },
+ {
+  "id": 217,
+  "en": "PokéManiac",
+  "es": "Pokemaníaco",
+  "zh": "宝可梦狂"
+ },
+ {
+  "id": 218,
+  "en": "Rocker",
+  "es": "Rockero",
+  "zh": "摇滚歌手"
+ },
+ {
+  "id": 219,
+  "en": "Worker",
+  "es": "Operario",
+  "zh": "工人"
+ },
+ {
+  "id": 220,
+  "en": "Lady",
+  "es": "Señorita",
+  "zh": "大小姐"
+ },
+ {
+  "id": 221,
+  "en": "Bug Maniac",
+  "es": "Bichomaníaco",
+  "zh": "虫狂"
+ },
+ {
+  "id": 222,
+  "en": "Pokémon Breeder",
+  "es": "Criador",
+  "zh": "宝可梦培育家"
+ },
+ {
+  "id": 223,
+  "en": "Gentleman",
+  "es": "Caballero",
+  "zh": "绅士"
+ },
+ {
+  "id": 224,
+  "en": "Archaeologist",
+  "es": "Arqueólogo",
+  "zh": "考古学家"
+ },
+ {
+  "id": 225,
+  "en": "Fisherman",
+  "es": "Pescador",
+  "zh": "钓鱼翁"
+ },
+ {
+  "id": 226,
+  "en": "Biker",
+  "es": "Motorista",
+  "zh": "飞车党"
+ },
+ {
+  "id": 227,
+  "en": "Cyclist",
+  "es": "Ciclista",
+  "zh": "自行车手"
+ },
+ {
+  "id": 228,
+  "en": "Tuber",
+  "es": "Playera",
+  "zh": "泳圈男孩"
+ },
+ {
+  "id": 229,
+  "en": "Tuber",
+  "es": "Playero",
+  "zh": "泳圈女孩"
+ },
+ {
+  "id": 230,
+  "en": "Mister",
+  "es": "Señor",
+  "zh": "先生"
+ },
+ {
+  "id": 231,
+  "en": "Ruin Maniac",
+  "es": "RuinaManíaco",
+  "zh": "遗迹狂"
+ },
+ {
+  "id": 232,
+  "en": "Kindler",
+  "es": "Fogonero",
+  "zh": "点火男"
+ },
+ {
+  "id": 233,
+  "en": "Scientist",
+  "es": "Científico",
+  "zh": "科学家"
+ },
+ {
+  "id": 234,
+  "en": "Scientist",
+  "es": "Científica",
+  "zh": "科学家"
+ },
+ {
+  "id": 235,
+  "en": "Artist",
+  "es": "Artista",
+  "zh": "艺术家"
+ },
+ {
+  "id": 236,
+  "en": "Dragon Tamer",
+  "es": "Domadragones",
+  "zh": "驯龙师"
+ },
+ {
+  "id": 237,
+  "en": "Karate Expert",
+  "es": "Karateca",
+  "zh": "空手道王"
+ },
+ {
+  "id": 238,
+  "en": "Veteran",
+  "es": "Veterano",
+  "zh": "老手"
+ },
+ {
+  "id": 239,
+  "en": "Elder",
+  "es": "Anciana",
+  "zh": "老婆婆"
+ },
+ {
+  "id": 240,
+  "en": "Elder",
+  "es": "Anciano",
+  "zh": "老爷爷"
+ },
+ {
+  "id": 241,
+  "en": "Pokémon Breeder ",
+  "es": "Criadora",
+  "zh": "宝可梦培育家"
+ },
+ {
+  "id": 242,
+  "en": "Sailor",
+  "es": "Marinero",
+  "zh": "水手"
+ },
+ {
+  "id": 243,
+  "en": "Elite Four",
+  "es": "Alto Mando",
+  "zh": "四天王"
+ },
+ {
+  "id": 244,
+  "en": "Champion",
+  "es": "Campeón",
+  "zh": "冠军"
+ },
+ {
+  "id": 245,
+  "en": "Champion",
+  "es": "Campeona",
+  "zh": "冠军"
+ },
+ {
+  "id": 246,
+  "en": "Marta",
+  "es": "Marta",
+  "zh": "玛尔塔"
+ },
+ {
+  "id": 247,
+  "en": "Juanito",
+  "es": "Juanito",
+  "zh": "胡安尼托"
+ },
+ {
+  "id": 248,
+  "en": "Alfonso",
+  "es": "Alfonso",
+  "zh": "阿方索"
+ },
+ {
+  "id": 249,
+  "en": "Andres",
+  "es": "Andrés",
+  "zh": "安德烈斯"
+ },
+ {
+  "id": 250,
+  "en": "Luz",
+  "es": "Luz",
+  "zh": "卢斯"
+ },
+ {
+  "id": 251,
+  "en": "Antonio",
+  "es": "Antonio",
+  "zh": "安东尼奥"
+ },
+ {
+  "id": 252,
+  "en": "Carla",
+  "es": "Carla",
+  "zh": "卡拉"
+ },
+ {
+  "id": 253,
+  "en": "Raquel",
+  "es": "Raquel",
+  "zh": "拉克尔"
+ },
+ {
+  "id": 254,
+  "en": "Adrián",
+  "es": "Adrián",
+  "zh": "阿德里安"
+ },
+ {
+  "id": 255,
+  "en": "Lucía",
+  "es": "Lucía",
+  "zh": "露西娅"
+ },
+ {
+  "id": 256,
+  "en": "Lucas",
+  "es": "Lucas",
+  "zh": "卢卡斯"
+ },
+ {
+  "id": 257,
+  "en": "Alejandra",
+  "es": "Alejandra",
+  "zh": "亚历杭德拉"
+ },
+ {
+  "id": 258,
+  "en": "Charlie",
+  "es": "Charlie",
+  "zh": "查理"
+ },
+ {
+  "id": 259,
+  "en": "Ricardo",
+  "es": "Ricardo",
+  "zh": "里卡多"
+ },
+ {
+  "id": 260,
+  "en": "Carmen",
+  "es": "Carmen",
+  "zh": "卡门"
+ },
+ {
+  "id": 261,
+  "en": "Fermín",
+  "es": "Fermín",
+  "zh": "费尔明"
+ },
+ {
+  "id": 262,
+  "en": "Valentina",
+  "es": "Valentina",
+  "zh": "瓦伦蒂娜"
+ },
+ {
+  "id": 263,
+  "en": "Chema",
+  "es": "Chema",
+  "zh": "切马"
+ },
+ {
+  "id": 264,
+  "en": "Yago",
+  "es": "Yago",
+  "zh": "亚戈"
+ },
+ {
+  "id": 265,
+  "en": "Paquita",
+  "es": "Paquita",
+  "zh": "帕基塔"
+ },
+ {
+  "id": 266,
+  "en": "Nieves",
+  "es": "Nieves",
+  "zh": "涅韦斯"
+ },
+ {
+  "id": 267,
+  "en": "Sara",
+  "es": "Saray",
+  "zh": "萨拉"
+ },
+ {
+  "id": 268,
+  "en": "Clemente",
+  "es": "Clemente",
+  "zh": "克莱门特"
+ },
+ {
+  "id": 269,
+  "en": "Genaro",
+  "es": "Genaro",
+  "zh": "赫纳罗"
+ },
+ {
+  "id": 270,
+  "en": "Carina",
+  "es": "Carina",
+  "zh": "卡里娜"
+ },
+ {
+  "id": 271,
+  "en": "Ciro",
+  "es": "Ciro",
+  "zh": "西罗"
+ },
+ {
+  "id": 272,
+  "en": "Yumi",
+  "es": "Yumi",
+  "zh": "由美"
+ },
+ {
+  "id": 273,
+  "en": "Oak",
+  "es": "Oak",
+  "zh": "大木"
+ },
+ {
+  "id": 274,
+  "en": "Noname",
+  "es": "Noname",
+  "zh": "无名氏"
+ },
+ {
+  "id": 275,
+  "en": "Aqua Grunt",
+  "es": "Soldado Aqua",
+  "zh": "海洋队手下"
+ },
+ {
+  "id": 276,
+  "en": "Magma Grunt",
+  "es": "Soldado Magma",
+  "zh": "熔岩队手下"
+ },
+ {
+  "id": 277,
+  "en": "Rocket Grunt",
+  "es": "Soldado Rocket",
+  "zh": "火箭队手下"
+ },
+ {
+  "id": 278,
+  "en": "Galactic Grunt",
+  "es": "Recluta Galaxia",
+  "zh": "银河队手下"
+ },
+ {
+  "id": 279,
+  "en": "Emilius",
+  "es": "Emilio",
+  "zh": "艾米利奥"
+ },
+ {
+  "id": 280,
+  "en": "Frank",
+  "es": "Paco",
+  "zh": "帕科"
+ },
+ {
+  "id": 281,
+  "en": "Michael",
+  "es": "Miguel",
+  "zh": "米格尔"
+ },
+ {
+  "id": 282,
+  "en": "Reuben",
+  "es": "Rubén",
+  "zh": "鲁本"
+ },
+ {
+  "id": 283,
+  "en": "Jimena",
+  "es": "Jimena",
+  "zh": "希梅娜"
+ },
+ {
+  "id": 284,
+  "en": "Isabel",
+  "es": "Isabel",
+  "zh": "伊莎贝尔"
+ },
+ {
+  "id": 285,
+  "en": "Marie",
+  "es": "María",
+  "zh": "玛丽亚"
+ },
+ {
+  "id": 286,
+  "en": "Cayetano",
+  "es": "Cayetano",
+  "zh": "卡耶塔诺"
+ },
+ {
+  "id": 287,
+  "en": "Ramiro",
+  "es": "Ramiro",
+  "zh": "拉米罗"
+ },
+ {
+  "id": 288,
+  "en": "Pepe",
+  "es": "Pepe",
+  "zh": "佩佩"
+ },
+ {
+  "id": 289,
+  "en": "Manu",
+  "es": "Manu",
+  "zh": "马努"
+ },
+ {
+  "id": 290,
+  "en": "Cristine",
+  "es": "Cristina",
+  "zh": "克里斯蒂娜"
+ },
+ {
+  "id": 291,
+  "en": "Alice",
+  "es": "Alicia",
+  "zh": "艾莉西亚"
+ },
+ {
+  "id": 292,
+  "en": "Albert",
+  "es": "Alberto",
+  "zh": "阿尔韦托"
+ },
+ {
+  "id": 293,
+  "en": "Leticia",
+  "es": "Leticia",
+  "zh": "莱蒂西娅"
+ },
+ {
+  "id": 294,
+  "en": "Julio",
+  "es": "Julio",
+  "zh": "胡利奥"
+ },
+ {
+  "id": 295,
+  "en": "Alan",
+  "es": "Alan",
+  "zh": "阿兰"
+ },
+ {
+  "id": 296,
+  "en": "Diego",
+  "es": "Diego",
+  "zh": "迭戈"
+ },
+ {
+  "id": 297,
+  "en": "Olegario",
+  "es": "Olegario",
+  "zh": "奥莱加里奥"
+ },
+ {
+  "id": 298,
+  "en": "Daniel",
+  "es": "Daniel",
+  "zh": "丹尼尔"
+ },
+ {
+  "id": 299,
+  "en": "Sebastian",
+  "es": "Sebastián",
+  "zh": "塞巴斯蒂安"
+ },
+ {
+  "id": 300,
+  "en": "Robert",
+  "es": "Roberto",
+  "zh": "罗伯托"
+ },
+ {
+  "id": 301,
+  "en": "Tom",
+  "es": "Tomás",
+  "zh": "托马斯"
+ },
+ {
+  "id": 302,
+  "en": "Paloma",
+  "es": "Paloma",
+  "zh": "帕洛玛"
+ },
+ {
+  "id": 303,
+  "en": "Sandra",
+  "es": "Sandra",
+  "zh": "桑德拉"
+ },
+ {
+  "id": 304,
+  "en": "Carol",
+  "es": "Cárol",
+  "zh": "卡罗尔"
+ },
+ {
+  "id": 305,
+  "en": "Doroteo",
+  "es": "Doroteo",
+  "zh": "多罗特奥"
+ },
+ {
+  "id": 306,
+  "en": "Lorenzo",
+  "es": "Lorenzo",
+  "zh": "洛伦索"
+ },
+ {
+  "id": 307,
+  "en": "Nataly",
+  "es": "Natalia",
+  "zh": "娜塔莉亚"
+ },
+ {
+  "id": 308,
+  "en": "Manolo",
+  "es": "Manolo",
+  "zh": "马诺洛"
+ },
+ {
+  "id": 309,
+  "en": "Álvaro",
+  "es": "Álvaro",
+  "zh": "阿尔瓦罗"
+ },
+ {
+  "id": 310,
+  "en": "Ambrosio",
+  "es": "Ambrosio",
+  "zh": "安布罗西奥"
+ },
+ {
+  "id": 311,
+  "en": "Joaquín",
+  "es": "Joaquín",
+  "zh": "华金"
+ },
+ {
+  "id": 312,
+  "en": "Garci",
+  "es": "Garci",
+  "zh": "加尔西"
+ },
+ {
+  "id": 313,
+  "en": "Jose",
+  "es": "José",
+  "zh": "何塞"
+ },
+ {
+  "id": 314,
+  "en": "Nuria",
+  "es": "Nuria",
+  "zh": "努里亚"
+ },
+ {
+  "id": 315,
+  "en": "Susan",
+  "es": "Susana",
+  "zh": "苏珊娜"
+ },
+ {
+  "id": 316,
+  "en": "Juan Carlos",
+  "es": "Juan Carlos",
+  "zh": "胡安·卡洛斯"
+ },
+ {
+  "id": 317,
+  "en": "Celia",
+  "es": "Celia",
+  "zh": "塞莉亚"
+ },
+ {
+  "id": 318,
+  "en": "Pedro",
+  "es": "Pedro",
+  "zh": "佩德罗"
+ },
+ {
+  "id": 319,
+  "en": "Juanita",
+  "es": "Juanita",
+  "zh": "胡安妮塔"
+ },
+ {
+  "id": 320,
+  "en": "Pepito",
+  "es": "Pepito",
+  "zh": "佩皮托"
+ },
+ {
+  "id": 321,
+  "en": "Rosita",
+  "es": "Rosita",
+  "zh": "罗西塔"
+ },
+ {
+  "id": 322,
+  "en": "Rosi",
+  "es": "Rosi",
+  "zh": "罗西"
+ },
+ {
+  "id": 323,
+  "en": "Juani",
+  "es": "Juani",
+  "zh": "胡阿尼"
+ },
+ {
+  "id": 324,
+  "en": "Pepi",
+  "es": "Pepi",
+  "zh": "佩皮"
+ },
+ {
+  "id": 325,
+  "en": "Sofía",
+  "es": "Sofía",
+  "zh": "索菲亚"
+ },
+ {
+  "id": 326,
+  "en": "Maikel",
+  "es": "Maikel",
+  "zh": "迈克尔"
+ },
+ {
+  "id": 327,
+  "en": "Natasha",
+  "es": "Natasha",
+  "zh": "娜塔莎"
+ },
+ {
+  "id": 328,
+  "en": "Narciso",
+  "es": "Narciso",
+  "zh": "纳西索"
+ },
+ {
+  "id": 329,
+  "en": "Marieta",
+  "es": "Marieta",
+  "zh": "玛丽埃塔"
+ },
+ {
+  "id": 330,
+  "en": "Sergio",
+  "es": "Sergio",
+  "zh": "塞尔吉奥"
+ },
+ {
+  "id": 331,
+  "en": "Josete",
+  "es": "Josete",
+  "zh": "何塞特"
+ },
+ {
+  "id": 332,
+  "en": "Óscar",
+  "es": "Óscar",
+  "zh": "奥斯卡"
+ },
+ {
+  "id": 333,
+  "en": "Maite",
+  "es": "Maite",
+  "zh": "迈特"
+ },
+ {
+  "id": 334,
+  "en": "Ramón",
+  "es": "Ramón",
+  "zh": "拉蒙"
+ },
+ {
+  "id": 335,
+  "en": "Leonardo",
+  "es": "Leonardo",
+  "zh": "莱昂纳多"
+ },
+ {
+  "id": 336,
+  "en": "Almudena",
+  "es": "Almudena",
+  "zh": "阿尔穆德娜"
+ },
+ {
+  "id": 337,
+  "en": "Gabriel",
+  "es": "Gabriel",
+  "zh": "加布里埃尔"
+ },
+ {
+  "id": 338,
+  "en": "Jabari",
+  "es": "Jabari",
+  "zh": "贾巴里"
+ },
+ {
+  "id": 339,
+  "en": "Caden",
+  "es": "Caden",
+  "zh": "凯登"
+ },
+ {
+  "id": 340,
+  "en": "Colin",
+  "es": "Colin",
+  "zh": "科林"
+ },
+ {
+  "id": 341,
+  "en": "María Isabel",
+  "es": "María Isabel",
+  "zh": "玛丽亚·伊莎贝尔"
+ },
+ {
+  "id": 342,
+  "en": "Paula",
+  "es": "Paula",
+  "zh": "保拉"
+ },
+ {
+  "id": 343,
+  "en": "Daniela",
+  "es": "Daniela",
+  "zh": "丹妮拉"
+ },
+ {
+  "id": 344,
+  "en": "Francisco",
+  "es": "Francisco",
+  "zh": "弗朗西斯科"
+ },
+ {
+  "id": 345,
+  "en": "Marianela",
+  "es": "Marianela",
+  "zh": "马里亚内拉"
+ },
+ {
+  "id": 346,
+  "en": "Lidia",
+  "es": "Lidia",
+  "zh": "莉迪亚"
+ },
+ {
+  "id": 347,
+  "en": "Facundo",
+  "es": "Facundo",
+  "zh": "法昆多"
+ },
+ {
+  "id": 348,
+  "en": "Pilar",
+  "es": "Pilar",
+  "zh": "皮拉尔"
+ },
+ {
+  "id": 349,
+  "en": "Kaito",
+  "es": "Kaito",
+  "zh": "凯斗"
+ },
+ {
+  "id": 350,
+  "en": "Andrea",
+  "es": "Andrea",
+  "zh": "安德烈娅"
+ },
+ {
+  "id": 351,
+  "en": "Claudia",
+  "es": "Claudia",
+  "zh": "克劳迪娅"
+ },
+ {
+  "id": 352,
+  "en": "Marcus",
+  "es": "Marcos",
+  "zh": "马科斯"
+ },
+ {
+  "id": 353,
+  "en": "Aitor",
+  "es": "Aitor",
+  "zh": "艾托尔"
+ },
+ {
+  "id": 354,
+  "en": "Kazuki",
+  "es": "Kazuki",
+  "zh": "和树"
+ },
+ {
+  "id": 355,
+  "en": "Víctor",
+  "es": "Víctor",
+  "zh": "维克托"
+ },
+ {
+  "id": 356,
+  "en": "Irene",
+  "es": "Irene",
+  "zh": "艾琳"
+ },
+ {
+  "id": 357,
+  "en": "Nerea",
+  "es": "Nerea",
+  "zh": "内雷娅"
+ },
+ {
+  "id": 358,
+  "en": "Kohtaro",
+  "es": "Kohtaro",
+  "zh": "浩太郎"
+ },
+ {
+  "id": 359,
+  "en": "Jesús",
+  "es": "Jesús",
+  "zh": "赫苏斯"
+ },
+ {
+  "id": 360,
+  "en": "Hortensia",
+  "es": "Hortensia",
+  "zh": "奥滕西亚"
+ },
+ {
+  "id": 361,
+  "en": "Priscila",
+  "es": "Priscila",
+  "zh": "普里西拉"
+ },
+ {
+  "id": 362,
+  "en": "Aída",
+  "es": "Aída",
+  "zh": "艾达"
+ },
+ {
+  "id": 363,
+  "en": "Celestina",
+  "es": "Celestina",
+  "zh": "塞莱斯蒂娜"
+ },
+ {
+  "id": 364,
+  "en": "Encarnación",
+  "es": "Encarnación",
+  "zh": "恩卡纳西翁"
+ },
+ {
+  "id": 365,
+  "en": "Rita",
+  "es": "Rita",
+  "zh": "丽塔"
+ },
+ {
+  "id": 366,
+  "en": "Genoveva",
+  "es": "Genoveva",
+  "zh": "赫诺韦娃"
+ },
+ {
+  "id": 367,
+  "en": "Rogelia",
+  "es": "Rogelia",
+  "zh": "罗赫莉娅"
+ },
+ {
+  "id": 368,
+  "en": "Mariana",
+  "es": "Mariana",
+  "zh": "马里亚娜"
+ },
+ {
+  "id": 369,
+  "en": "Brunilda",
+  "es": "Brunilda",
+  "zh": "布伦希尔达"
+ },
+ {
+  "id": 370,
+  "en": "Eulalia",
+  "es": "Eulalia",
+  "zh": "欧拉莉娅"
+ },
+ {
+  "id": 371,
+  "en": "Herminia",
+  "es": "Herminia",
+  "zh": "赫尔米尼娅"
+ },
+ {
+  "id": 372,
+  "en": "Fulgencio",
+  "es": "Fulgencio",
+  "zh": "富尔亨西奥"
+ },
+ {
+  "id": 373,
+  "en": "Josefa",
+  "es": "Josefa",
+  "zh": "何塞法"
+ },
+ {
+  "id": 374,
+  "en": "Angustias",
+  "es": "Angustias",
+  "zh": "安古斯蒂亚斯"
+ },
+ {
+  "id": 375,
+  "en": "Julián",
+  "es": "Julián",
+  "zh": "胡利安"
+ },
+ {
+  "id": 376,
+  "en": "Prudencio",
+  "es": "Prudencio",
+  "zh": "普鲁登西奥"
+ },
+ {
+  "id": 377,
+  "en": "Hugo",
+  "es": "Hugo",
+  "zh": "雨果"
+ },
+ {
+  "id": 378,
+  "en": "Mauricio",
+  "es": "Mauricio",
+  "zh": "毛里西奥"
+ },
+ {
+  "id": 379,
+  "en": "Remedios",
+  "es": "Remedios",
+  "zh": "雷梅迪奥斯"
+ },
+ {
+  "id": 380,
+  "en": "Hipólito",
+  "es": "Hipólito",
+  "zh": "伊波利托"
+ },
+ {
+  "id": 381,
+  "en": "Valentín",
+  "es": "Valentín",
+  "zh": "巴伦廷"
+ },
+ {
+  "id": 382,
+  "en": "Leopoldo",
+  "es": "Leopoldo",
+  "zh": "莱奥波尔多"
+ },
+ {
+  "id": 383,
+  "en": "Alfred",
+  "es": "Alfredo",
+  "zh": "阿尔弗雷多"
+ },
+ {
+  "id": 384,
+  "en": "Mari Carmen",
+  "es": "Mari Carmen",
+  "zh": "玛丽·卡门"
+ },
+ {
+  "id": 385,
+  "en": "Ana Rosa",
+  "es": "Ana Rosa",
+  "zh": "安娜·罗莎"
+ },
+ {
+  "id": 386,
+  "en": "Hector",
+  "es": "Héctor",
+  "zh": "埃克托尔"
+ },
+ {
+  "id": 387,
+  "en": "Aurelio",
+  "es": "Aurelio",
+  "zh": "奥雷利奥"
+ },
+ {
+  "id": 388,
+  "en": "María Teresa",
+  "es": "María Teresa",
+  "zh": "玛丽亚·特蕾莎"
+ },
+ {
+  "id": 389,
+  "en": "Toni",
+  "es": "Toni",
+  "zh": "托尼"
+ },
+ {
+  "id": 390,
+  "en": "Bartolo",
+  "es": "Bartolo",
+  "zh": "巴托洛"
+ },
+ {
+  "id": 391,
+  "en": "Axel",
+  "es": "Axel",
+  "zh": "阿克塞尔"
+ },
+ {
+  "id": 392,
+  "en": "Gerardo",
+  "es": "Gerardo",
+  "zh": "赫拉尔多"
+ },
+ {
+  "id": 393,
+  "en": "Patricia",
+  "es": "Patricia",
+  "zh": "帕特里夏"
+ },
+ {
+  "id": 394,
+  "en": "Hiroshi",
+  "es": "Hiroshi",
+  "zh": "宏"
+ },
+ {
+  "id": 395,
+  "en": "Palomino",
+  "es": "Palomino",
+  "zh": "帕洛米诺"
+ },
+ {
+  "id": 396,
+  "en": "Eugenio",
+  "es": "Eugenio",
+  "zh": "欧亨尼奥"
+ },
+ {
+  "id": 397,
+  "en": "Iker",
+  "es": "Iker",
+  "zh": "伊克尔"
+ },
+ {
+  "id": 398,
+  "en": "Lee",
+  "es": "Lee",
+  "zh": "李"
+ },
+ {
+  "id": 399,
+  "en": "Heribert",
+  "es": "Heriberto",
+  "zh": "埃里韦托"
+ },
+ {
+  "id": 400,
+  "en": "Lucretia",
+  "es": "Lucrecia",
+  "zh": "卢克雷西娅"
+ },
+ {
+  "id": 401,
+  "en": "Calixto",
+  "es": "Calixto",
+  "zh": "卡利斯托"
+ },
+ {
+  "id": 402,
+  "en": "Lourdes",
+  "es": "Lourdes",
+  "zh": "洛德丝"
+ },
+ {
+  "id": 403,
+  "en": "Yaiza",
+  "es": "Yaiza",
+  "zh": "亚伊莎"
+ },
+ {
+  "id": 404,
+  "en": "Elena",
+  "es": "Elena",
+  "zh": "埃琳娜"
+ },
+ {
+  "id": 405,
+  "en": "Noe",
+  "es": "Noe",
+  "zh": "诺埃"
+ },
+ {
+  "id": 406,
+  "en": "Poncho",
+  "es": "Poncho",
+  "zh": "彭乔"
+ },
+ {
+  "id": 407,
+  "en": "Linda",
+  "es": "Linda",
+  "zh": "琳达"
+ },
+ {
+  "id": 408,
+  "en": "Ferdinand",
+  "es": "Fernando",
+  "zh": "费尔南多"
+ },
+ {
+  "id": 409,
+  "en": "Ainhoa",
+  "es": "Ainhoa",
+  "zh": "艾诺亚"
+ },
+ {
+  "id": 410,
+  "en": "Casimiro",
+  "es": "Casimiro",
+  "zh": "卡西米罗"
+ },
+ {
+  "id": 411,
+  "en": "Nestor",
+  "es": "Néstor",
+  "zh": "内斯托尔"
+ },
+ {
+  "id": 412,
+  "en": "Pánfilo",
+  "es": "Pánfilo",
+  "zh": "潘菲洛"
+ },
+ {
+  "id": 413,
+  "en": "Abel",
+  "es": "Abel",
+  "zh": "阿贝尔"
+ },
+ {
+  "id": 414,
+  "en": "Aurora",
+  "es": "Aurora",
+  "zh": "奥罗拉"
+ },
+ {
+  "id": 415,
+  "en": "Maribel",
+  "es": "Maribel",
+  "zh": "马里贝尔"
+ },
+ {
+  "id": 416,
+  "en": "Feliciano",
+  "es": "Feliciano",
+  "zh": "费利西亚诺"
+ },
+ {
+  "id": 417,
+  "en": "Elsa",
+  "es": "Elsa",
+  "zh": "艾尔莎"
+ },
+ {
+  "id": 418,
+  "en": "Paqui",
+  "es": "Paqui",
+  "zh": "帕基"
+ },
+ {
+  "id": 419,
+  "en": "Felipe",
+  "es": "Felipe",
+  "zh": "费利佩"
+ },
+ {
+  "id": 420,
+  "en": "Jonathan",
+  "es": "Jonathan",
+  "zh": "乔纳森"
+ },
+ {
+  "id": 421,
+  "en": "Bob",
+  "es": "Bob",
+  "zh": "鲍勃"
+ },
+ {
+  "id": 422,
+  "en": "Bill",
+  "es": "Bill",
+  "zh": "比尔"
+ },
+ {
+  "id": 423,
+  "en": "Richard",
+  "es": "Richard",
+  "zh": "理查德"
+ },
+ {
+  "id": 424,
+  "en": "Sherezade",
+  "es": "Sherezade",
+  "zh": "谢赫拉莎德"
+ },
+ {
+  "id": 425,
+  "en": "Indurain",
+  "es": "Indurain",
+  "zh": "因杜拉因"
+ },
+ {
+  "id": 426,
+  "en": "Emilia",
+  "es": "Emilia",
+  "zh": "艾米莉亚"
+ },
+ {
+  "id": 427,
+  "en": "Jackson",
+  "es": "Jackson",
+  "zh": "杰克逊"
+ },
+ {
+  "id": 428,
+  "en": "Christopher",
+  "es": "Christopher",
+  "zh": "克里斯托弗"
+ },
+ {
+  "id": 429,
+  "en": "Gregory",
+  "es": "Gregory",
+  "zh": "格雷戈里"
+ },
+ {
+  "id": 430,
+  "en": "Stan",
+  "es": "Stan",
+  "zh": "斯坦"
+ },
+ {
+  "id": 431,
+  "en": "Perico",
+  "es": "Perico",
+  "zh": "佩里科"
+ },
+ {
+  "id": 432,
+  "en": "Homer",
+  "es": "Homer",
+  "zh": "荷马"
+ },
+ {
+  "id": 433,
+  "en": "Peter",
+  "es": "Peter",
+  "zh": "彼得"
+ },
+ {
+  "id": 434,
+  "en": "Alba",
+  "es": "Alba",
+  "zh": "阿尔芭"
+ },
+ {
+  "id": 435,
+  "en": "Salome",
+  "es": "Salomé",
+  "zh": "萨洛梅"
+ },
+ {
+  "id": 436,
+  "en": "Nelida",
+  "es": "Nelida",
+  "zh": "内莉达"
+ },
+ {
+  "id": 437,
+  "en": "Casilda",
+  "es": "Casilda",
+  "zh": "卡西尔达"
+ },
+ {
+  "id": 438,
+  "en": "Rebeca",
+  "es": "Rebeca",
+  "zh": "丽贝卡"
+ },
+ {
+  "id": 439,
+  "en": "Dana",
+  "es": "Dana",
+  "zh": "达娜"
+ },
+ {
+  "id": 440,
+  "en": "Luisa",
+  "es": "Luisa",
+  "zh": "路易莎"
+ },
+ {
+  "id": 441,
+  "en": "Laura",
+  "es": "Laura",
+  "zh": "劳拉"
+ },
+ {
+  "id": 442,
+  "en": "Marina",
+  "es": "Marina",
+  "zh": "玛丽娜"
+ },
+ {
+  "id": 443,
+  "en": "Cesar",
+  "es": "César",
+  "zh": "塞萨尔"
+ },
+ {
+  "id": 444,
+  "en": "Piedad",
+  "es": "Piedad",
+  "zh": "皮达德"
+ },
+ {
+  "id": 445,
+  "en": "Gonzalo",
+  "es": "Gonzalo",
+  "zh": "贡萨洛"
+ },
+ {
+  "id": 446,
+  "en": "Alonso",
+  "es": "Alonso",
+  "zh": "阿隆索"
+ },
+ {
+  "id": 447,
+  "en": "Ezequiel",
+  "es": "Ezequiel",
+  "zh": "埃塞基耶尔"
+ },
+ {
+  "id": 448,
+  "en": "Luis",
+  "es": "Luis",
+  "zh": "路易斯"
+ },
+ {
+  "id": 449,
+  "en": "Juan Jose",
+  "es": "Juan José",
+  "zh": "胡安·何塞"
+ },
+ {
+  "id": 450,
+  "en": "Camilo",
+  "es": "Camilo",
+  "zh": "卡米洛"
+ },
+ {
+  "id": 451,
+  "en": "Dacio",
+  "es": "Dacio",
+  "zh": "达西奥"
+ },
+ {
+  "id": 452,
+  "en": "Eduard",
+  "es": "Eduardo",
+  "zh": "爱德华多"
+ },
+ {
+  "id": 453,
+  "en": "Ignacio",
+  "es": "Ignacio",
+  "zh": "伊格纳西奥"
+ },
+ {
+  "id": 454,
+  "en": "Oliver",
+  "es": "Oliver",
+  "zh": "奥利弗"
+ },
+ {
+  "id": 455,
+  "en": "Benji",
+  "es": "Benji",
+  "zh": "本吉"
+ },
+ {
+  "id": 456,
+  "en": "Eloy",
+  "es": "Eloy",
+  "zh": "埃洛伊"
+ },
+ {
+  "id": 457,
+  "en": "German",
+  "es": "Germán",
+  "zh": "赫尔曼"
+ },
+ {
+  "id": 458,
+  "en": "Ferrán",
+  "es": "Ferrán",
+  "zh": "费兰"
+ },
+ {
+  "id": 459,
+  "en": "Dennis",
+  "es": "Dennis",
+  "zh": "丹尼斯"
+ },
+ {
+  "id": 460,
+  "en": "Efraín",
+  "es": "Efraín",
+  "zh": "埃弗拉因"
+ },
+ {
+  "id": 461,
+  "en": "Adolf",
+  "es": "Adolfo",
+  "zh": "阿道夫"
+ },
+ {
+  "id": 462,
+  "en": "Ramoncín",
+  "es": "Ramoncín",
+  "zh": "拉蒙辛"
+ },
+ {
+  "id": 463,
+  "en": "Alejandro",
+  "es": "Alejandro",
+  "zh": "亚历杭德罗"
+ },
+ {
+  "id": 464,
+  "en": "Nico",
+  "es": "Nico",
+  "zh": "尼科"
+ },
+ {
+  "id": 465,
+  "en": "Alex",
+  "es": "Alex",
+  "zh": "亚历克斯"
+ },
+ {
+  "id": 466,
+  "en": "Silverio",
+  "es": "Silverio",
+  "zh": "西尔韦里奥"
+ },
+ {
+  "id": 467,
+  "en": "Ganímedes",
+  "es": "Ganímedes",
+  "zh": "加尼米德"
+ },
+ {
+  "id": 468,
+  "en": "Arquímedes",
+  "es": "Arquímedes",
+  "zh": "阿基米德"
+ },
+ {
+  "id": 469,
+  "en": "Gustavo",
+  "es": "Gustavo",
+  "zh": "古斯塔沃"
+ },
+ {
+  "id": 470,
+  "en": "Kelvin",
+  "es": "Kelvin",
+  "zh": "凯尔文"
+ },
+ {
+  "id": 471,
+  "en": "Conrado",
+  "es": "Conrado",
+  "zh": "孔拉多"
+ },
+ {
+  "id": 472,
+  "en": "Toñi",
+  "es": "Toñi",
+  "zh": "托尼"
+ },
+ {
+  "id": 473,
+  "en": "Lázaro",
+  "es": "Lázaro",
+  "zh": "拉萨罗"
+ },
+ {
+  "id": 474,
+  "en": "Mónica",
+  "es": "Mónica",
+  "zh": "莫妮卡"
+ },
+ {
+  "id": 475,
+  "en": "Patrick",
+  "es": "Patricio",
+  "zh": "帕特里西奥"
+ },
+ {
+  "id": 476,
+  "en": "Donato",
+  "es": "Donato",
+  "zh": "多纳托"
+ },
+ {
+  "id": 477,
+  "en": "Virgilio",
+  "es": "Virgilio",
+  "zh": "维吉利奥"
+ },
+ {
+  "id": 478,
+  "en": "Marilina",
+  "es": "Marilina",
+  "zh": "马里利娜"
+ },
+ {
+  "id": 479,
+  "en": "Desiderio",
+  "es": "Desiderio",
+  "zh": "德西德里奥"
+ },
+ {
+  "id": 480,
+  "en": "Sara",
+  "es": "Sara",
+  "zh": "萨拉"
+ },
+ {
+  "id": 481,
+  "en": "Arantxa",
+  "es": "Arantxa",
+  "zh": "阿兰查"
+ },
+ {
+  "id": 482,
+  "en": "Gemma",
+  "es": "Gemma",
+  "zh": "杰玛"
+ },
+ {
+  "id": 483,
+  "en": "Zack",
+  "es": "Zack",
+  "zh": "扎克"
+ },
+ {
+  "id": 484,
+  "en": "Raúl",
+  "es": "Raúl",
+  "zh": "劳尔"
+ },
+ {
+  "id": 485,
+  "en": "Tamara",
+  "es": "Tamara",
+  "zh": "塔玛拉"
+ },
+ {
+  "id": 486,
+  "en": "Rodri",
+  "es": "Rodri",
+  "zh": "罗德里"
+ },
+ {
+  "id": 487,
+  "en": "Nica",
+  "es": "Nica",
+  "zh": "妮卡"
+ },
+ {
+  "id": 488,
+  "en": "Jacob",
+  "es": "Jacob",
+  "zh": "雅各布"
+ },
+ {
+  "id": 489,
+  "en": "Lucy",
+  "es": "Lucy",
+  "zh": "露西"
+ },
+ {
+  "id": 490,
+  "en": "Chan",
+  "es": "Chan",
+  "zh": "陈"
+ },
+ {
+  "id": 491,
+  "en": "Keiko",
+  "es": "Keiko",
+  "zh": "圭子"
+ },
+ {
+  "id": 492,
+  "en": "Law",
+  "es": "Law",
+  "zh": "劳"
+ },
+ {
+  "id": 493,
+  "en": "Bonifacio",
+  "es": "Bonifacio",
+  "zh": "博尼法西奥"
+ },
+ {
+  "id": 494,
+  "en": "Otilia",
+  "es": "Otilia",
+  "zh": "奥蒂莉娅"
+ },
+ {
+  "id": 495,
+  "en": "Tiburcio",
+  "es": "Tiburcio",
+  "zh": "蒂布尔西奥"
+ },
+ {
+  "id": 496,
+  "en": "Sotera",
+  "es": "Sotera",
+  "zh": "索特拉"
+ },
+ {
+  "id": 497,
+  "en": "Ariadna",
+  "es": "Ariadna",
+  "zh": "阿里阿德娜"
+ },
+ {
+  "id": 498,
+  "en": "Basilio",
+  "es": "Basilio",
+  "zh": "巴西利奥"
+ },
+ {
+  "id": 499,
+  "en": "Ceferino",
+  "es": "Ceferino",
+  "zh": "塞菲里诺"
+ },
+ {
+  "id": 500,
+  "en": "Pascuala",
+  "es": "Pascuala",
+  "zh": "帕斯瓜拉"
+ },
+ {
+  "id": 501,
+  "en": "Poncio",
+  "es": "Poncio",
+  "zh": "蓬西奥"
+ },
+ {
+  "id": 502,
+  "en": "Montse",
+  "es": "Montse",
+  "zh": "蒙特塞"
+ },
+ {
+  "id": 503,
+  "en": "Roque",
+  "es": "Roque",
+  "zh": "罗克"
+ },
+ {
+  "id": 504,
+  "en": "Kyle",
+  "es": "Kyle",
+  "zh": "凯尔"
+ },
+ {
+  "id": 505,
+  "en": "Jacinto",
+  "es": "Jacinto",
+  "zh": "哈辛托"
+ },
+ {
+  "id": 506,
+  "en": "Bella",
+  "es": "Bella",
+  "zh": "贝拉"
+ },
+ {
+  "id": 507,
+  "en": "Juanjo",
+  "es": "Juanjo",
+  "zh": "胡安霍"
+ },
+ {
+  "id": 508,
+  "en": "Mark",
+  "es": "Mark",
+  "zh": "马克"
+ },
+ {
+  "id": 509,
+  "en": "Yolanda",
+  "es": "Yolanda",
+  "zh": "约兰达"
+ },
+ {
+  "id": 510,
+  "en": "Simeón",
+  "es": "Simeón",
+  "zh": "西梅翁"
+ },
+ {
+  "id": 511,
+  "en": "Adela",
+  "es": "Adela",
+  "zh": "阿德拉"
+ },
+ {
+  "id": 512,
+  "en": "Mathias",
+  "es": "Mathias",
+  "zh": "马蒂亚斯"
+ },
+ {
+  "id": 513,
+  "en": "Paulina",
+  "es": "Paulina",
+  "zh": "保利娜"
+ },
+ {
+  "id": 514,
+  "en": "Timón",
+  "es": "Timón",
+  "zh": "蒂蒙"
+ },
+ {
+  "id": 515,
+  "en": "Edgar",
+  "es": "Edgar",
+  "zh": "埃德加"
+ },
+ {
+  "id": 516,
+  "en": "Baldomero",
+  "es": "Baldomero",
+  "zh": "巴尔多梅罗"
+ },
+ {
+  "id": 517,
+  "en": "Otto",
+  "es": "Otto",
+  "zh": "奥托"
+ },
+ {
+  "id": 518,
+  "en": "Toribio",
+  "es": "Toribio",
+  "zh": "托里维奥"
+ },
+ {
+  "id": 519,
+  "en": "Beltran",
+  "es": "Beltran",
+  "zh": "贝尔特兰"
+ },
+ {
+  "id": 520,
+  "en": "Kevin",
+  "es": "Kevin",
+  "zh": "凯文"
+ },
+ {
+  "id": 521,
+  "en": "Catalina",
+  "es": "Catalina",
+  "zh": "卡塔琳娜"
+ },
+ {
+  "id": 522,
+  "en": "Emerald",
+  "es": "Esmeralda",
+  "zh": "艾斯梅拉达"
+ },
+ {
+  "id": 523,
+  "en": "Horacio",
+  "es": "Horacio",
+  "zh": "奥拉西奥"
+ },
+ {
+  "id": 524,
+  "en": "Pascual",
+  "es": "Pascual",
+  "zh": "帕斯夸尔"
+ },
+ {
+  "id": 525,
+  "en": "Uzumaki",
+  "es": "Uzumaki",
+  "zh": "漩涡"
+ },
+ {
+  "id": 526,
+  "en": "Nazaret",
+  "es": "Nazaret",
+  "zh": "纳萨雷特"
+ },
+ {
+  "id": 527,
+  "en": "Anselmo",
+  "es": "Anselmo",
+  "zh": "安塞尔莫"
+ },
+ {
+  "id": 528,
+  "en": "Rufino",
+  "es": "Rufino",
+  "zh": "鲁菲诺"
+ },
+ {
+  "id": 529,
+  "en": "Estela",
+  "es": "Estela",
+  "zh": "埃斯特拉"
+ },
+ {
+  "id": 530,
+  "en": "Iñigo",
+  "es": "Iñigo",
+  "zh": "伊尼戈"
+ },
+ {
+  "id": 531,
+  "en": "Kitiara",
+  "es": "Kitiara",
+  "zh": "基蒂亚拉"
+ },
+ {
+  "id": 532,
+  "en": "Fabián",
+  "es": "Fabián",
+  "zh": "法比安"
+ },
+ {
+  "id": 533,
+  "en": "Jill",
+  "es": "Jill",
+  "zh": "吉尔"
+ },
+ {
+  "id": 534,
+  "en": "Hanna",
+  "es": "Hanna",
+  "zh": "汉娜"
+ },
+ {
+  "id": 535,
+  "en": "Judith",
+  "es": "Judit",
+  "zh": "朱迪丝"
+ },
+ {
+  "id": 536,
+  "en": "Atenea",
+  "es": "Atenea",
+  "zh": "阿特娜"
+ },
+ {
+  "id": 537,
+  "en": "Llanis",
+  "es": "Llanis",
+  "zh": "亚尼斯"
+ },
+ {
+  "id": 538,
+  "en": "Afrodita",
+  "es": "Afrodita",
+  "zh": "阿佛洛狄忒"
+ },
+ {
+  "id": 539,
+  "en": "Kurt",
+  "es": "Kurt",
+  "zh": "库尔特"
+ },
+ {
+  "id": 540,
+  "en": "Abelard",
+  "es": "Abelardo",
+  "zh": "阿韦拉尔多"
+ },
+ {
+  "id": 541,
+  "en": "Rene",
+  "es": "Renato",
+  "zh": "雷纳托"
+ },
+ {
+  "id": 542,
+  "en": "Elisa",
+  "es": "Elisa",
+  "zh": "艾莉萨"
+ },
+ {
+  "id": 543,
+  "en": "Gladis",
+  "es": "Gladis",
+  "zh": "格拉迪斯"
+ },
+ {
+  "id": 544,
+  "en": "Mertens",
+  "es": "Mertens",
+  "zh": "梅尔滕斯"
+ },
+ {
+  "id": 545,
+  "en": "Copernico",
+  "es": "Copernico",
+  "zh": "哥白尼"
+ },
+ {
+  "id": 546,
+  "en": "Einstein",
+  "es": "Einstein",
+  "zh": "爱因斯坦"
+ },
+ {
+  "id": 547,
+  "en": "Newton",
+  "es": "Newton",
+  "zh": "牛顿"
+ },
+ {
+  "id": 548,
+  "en": "Brown",
+  "es": "Brown",
+  "zh": "布朗"
+ },
+ {
+  "id": 549,
+  "en": "Curie",
+  "es": "Curie",
+  "zh": "居里"
+ },
+ {
+  "id": 550,
+  "en": "Maximiliano",
+  "es": "Maximiliano",
+  "zh": "马克西米利亚诺"
+ },
+ {
+  "id": 551,
+  "en": "Elías",
+  "es": "Elías",
+  "zh": "埃利亚斯"
+ },
+ {
+  "id": 552,
+  "en": "Raimundo",
+  "es": "Raimundo",
+  "zh": "赖蒙多"
+ },
+ {
+  "id": 553,
+  "en": "Magdalena",
+  "es": "Magdalena",
+  "zh": "玛格达莱娜"
+ },
+ {
+  "id": 554,
+  "en": "Amelia",
+  "es": "Amelia",
+  "zh": "阿梅莉娅"
+ },
+ {
+  "id": 555,
+  "en": "Flavia",
+  "es": "Flavia",
+  "zh": "弗拉维娅"
+ },
+ {
+  "id": 556,
+  "en": "Delia",
+  "es": "Delia",
+  "zh": "德莉亚"
+ },
+ {
+  "id": 557,
+  "en": "Hera",
+  "es": "Hera",
+  "zh": "赫拉"
+ },
+ {
+  "id": 558,
+  "en": "Zafra",
+  "es": "Zafra",
+  "zh": "萨夫拉"
+ },
+ {
+  "id": 559,
+  "en": "Sole",
+  "es": "Sole",
+  "zh": "索莱"
+ },
+ {
+  "id": 560,
+  "en": "Nazario",
+  "es": "Nazario",
+  "zh": "纳萨里奥"
+ },
+ {
+  "id": 561,
+  "en": "Ani",
+  "es": "Ani",
+  "zh": "阿尼"
+ },
+ {
+  "id": 562,
+  "en": "Memo",
+  "es": "Memo",
+  "zh": "梅莫"
+ },
+ {
+  "id": 563,
+  "en": "Sabas",
+  "es": "Sabas",
+  "zh": "萨瓦斯"
+ },
+ {
+  "id": 564,
+  "en": "Pipo",
+  "es": "Pipo",
+  "zh": "皮波"
+ },
+ {
+  "id": 565,
+  "en": "López",
+  "es": "López",
+  "zh": "洛佩斯"
+ },
+ {
+  "id": 566,
+  "en": "Pancracio",
+  "es": "Pancracio",
+  "zh": "潘克拉西奥"
+ },
+ {
+  "id": 567,
+  "en": "Vane",
+  "es": "Vane",
+  "zh": "瓦内"
+ },
+ {
+  "id": 568,
+  "en": "Vero",
+  "es": "Vero",
+  "zh": "维罗"
+ },
+ {
+  "id": 569,
+  "en": "Sasuke",
+  "es": "Sasuke",
+  "zh": "佐助"
+ },
+ {
+  "id": 570,
+  "en": "Kakashi",
+  "es": "Kakashi",
+  "zh": "卡卡西"
+ },
+ {
+  "id": 571,
+  "en": "Ryu",
+  "es": "Ryu",
+  "zh": "龙"
+ },
+ {
+  "id": 572,
+  "en": "Mendel",
+  "es": "Mendel",
+  "zh": "孟德尔"
+ },
+ {
+  "id": 573,
+  "en": "Andreu",
+  "es": "Andreu",
+  "zh": "安德烈乌"
+ },
+ {
+  "id": 574,
+  "en": "Baltasar",
+  "es": "Baltasar",
+  "zh": "巴尔塔萨"
+ },
+ {
+  "id": 575,
+  "en": "Kenta",
+  "es": "Kenta",
+  "zh": "健太"
+ },
+ {
+  "id": 576,
+  "en": "Oli",
+  "es": "Oli",
+  "zh": "奥利"
+ },
+ {
+  "id": 577,
+  "en": "Marcus",
+  "es": "Marcus",
+  "zh": "马科斯"
+ },
+ {
+  "id": 578,
+  "en": "Suneo",
+  "es": "Suneo",
+  "zh": "小夫"
+ },
+ {
+  "id": 579,
+  "en": "Jon",
+  "es": "Jon",
+  "zh": "乔恩"
+ },
+ {
+  "id": 580,
+  "en": "Bea",
+  "es": "Bea",
+  "zh": "贝娅"
+ },
+ {
+  "id": 581,
+  "en": "Marisa",
+  "es": "Marisa",
+  "zh": "玛丽莎"
+ },
+ {
+  "id": 582,
+  "en": "Sophie",
+  "es": "Sophie",
+  "zh": "索菲"
+ },
+ {
+  "id": 583,
+  "en": "Paladio",
+  "es": "Paladio",
+  "zh": "帕拉迪奥"
+ },
+ {
+  "id": 584,
+  "en": "Longino",
+  "es": "Longino",
+  "zh": "隆吉诺"
+ },
+ {
+  "id": 585,
+  "en": "Aroa",
+  "es": "Aroa",
+  "zh": "阿罗阿"
+ },
+ {
+  "id": 586,
+  "en": "Eustaquio",
+  "es": "Eustaquio",
+  "zh": "欧斯塔基奥"
+ },
+ {
+  "id": 587,
+  "en": "Muriel",
+  "es": "Muriel",
+  "zh": "穆里尔"
+ },
+ {
+  "id": 588,
+  "en": "Justo",
+  "es": "Justo",
+  "zh": "胡斯托"
+ },
+ {
+  "id": 589,
+  "en": "Salvatore",
+  "es": "Salvatore",
+  "zh": "萨尔瓦托雷"
+ },
+ {
+  "id": 590,
+  "en": "Luchiana",
+  "es": "Luchiana",
+  "zh": "卢奇亚娜"
+ },
+ {
+  "id": 591,
+  "en": "Emeterio",
+  "es": "Emeterio",
+  "zh": "埃梅特里奥"
+ },
+ {
+  "id": 592,
+  "en": "Menchu",
+  "es": "Menchu",
+  "zh": "门丘"
+ },
+ {
+  "id": 593,
+  "en": "Salva",
+  "es": "Salva",
+  "zh": "萨尔瓦"
+ },
+ {
+  "id": 594,
+  "en": "Edu",
+  "es": "Edu",
+  "zh": "埃杜"
+ },
+ {
+  "id": 595,
+  "en": "Leonor",
+  "es": "Leonor",
+  "zh": "莱昂诺尔"
+ },
+ {
+  "id": 596,
+  "en": "Lisa",
+  "es": "Lisa",
+  "zh": "丽莎"
+ },
+ {
+  "id": 597,
+  "en": "Román",
+  "es": "Román",
+  "zh": "罗曼"
+ },
+ {
+  "id": 598,
+  "en": "Lope",
+  "es": "Lope",
+  "zh": "洛佩"
+ },
+ {
+  "id": 599,
+  "en": "Marian",
+  "es": "Marian",
+  "zh": "玛丽安"
+ },
+ {
+  "id": 600,
+  "en": "Guille",
+  "es": "Guille",
+  "zh": "吉列"
+ },
+ {
+  "id": 601,
+  "en": "Joselu",
+  "es": "Joselu",
+  "zh": "霍塞卢"
+ },
+ {
+  "id": 602,
+  "en": "Geno",
+  "es": "Geno",
+  "zh": "赫诺"
+ },
+ {
+  "id": 603,
+  "en": "Gerónimo",
+  "es": "Gerónimo",
+  "zh": "赫罗尼莫"
+ },
+ {
+  "id": 604,
+  "en": "Michael",
+  "es": "Michael",
+  "zh": "迈克尔"
+ },
+ {
+  "id": 605,
+  "en": "Irma",
+  "es": "Irma",
+  "zh": "伊尔玛"
+ },
+ {
+  "id": 606,
+  "en": "Abraham",
+  "es": "Abraham",
+  "zh": "亚伯拉罕"
+ },
+ {
+  "id": 607,
+  "en": "Jeremy",
+  "es": "Jeremy",
+  "zh": "杰里米"
+ },
+ {
+  "id": 608,
+  "en": "Susie",
+  "es": "Susie",
+  "zh": "苏西"
+ },
+ {
+  "id": 609,
+  "en": "Brad",
+  "es": "Brad",
+  "zh": "布拉德"
+ },
+ {
+  "id": 610,
+  "en": "Clay",
+  "es": "Clay",
+  "zh": "克莱"
+ },
+ {
+  "id": 611,
+  "en": "Logan",
+  "es": "Logan",
+  "zh": "洛根"
+ },
+ {
+  "id": 612,
+  "en": "Abad",
+  "es": "Abad",
+  "zh": "阿巴德"
+ },
+ {
+  "id": 613,
+  "en": "Conchita",
+  "es": "Conchita",
+  "zh": "孔奇塔"
+ },
+ {
+  "id": 614,
+  "en": "Cesário",
+  "es": "Cesário",
+  "zh": "塞萨里奥"
+ },
+ {
+  "id": 615,
+  "en": "Santos",
+  "es": "Santos",
+  "zh": "桑托斯"
+ },
+ {
+  "id": 616,
+  "en": "Paz",
+  "es": "Paz",
+  "zh": "帕斯"
+ },
+ {
+  "id": 617,
+  "en": "Anabel",
+  "es": "Anabel",
+  "zh": "阿纳贝尔"
+ },
+ {
+  "id": 618,
+  "en": "Oswaldo",
+  "es": "Oswaldo",
+  "zh": "奥斯瓦尔多"
+ },
+ {
+  "id": 619,
+  "en": "Miqueas",
+  "es": "Miqueas",
+  "zh": "米克亚斯"
+ },
+ {
+  "id": 620,
+  "en": "Olga",
+  "es": "Olga",
+  "zh": "奥尔加"
+ },
+ {
+  "id": 621,
+  "en": "Samara",
+  "es": "Samara",
+  "zh": "萨马拉"
+ },
+ {
+  "id": 622,
+  "en": "Porfirio",
+  "es": "Porfirio",
+  "zh": "波尔菲里奥"
+ },
+ {
+  "id": 623,
+  "en": "Petronila",
+  "es": "Petronila",
+  "zh": "佩特罗妮拉"
+ },
+ {
+  "id": 624,
+  "en": "Begoña",
+  "es": "Begoña",
+  "zh": "贝戈尼亚"
+ },
+ {
+  "id": 625,
+  "en": "Evaristo",
+  "es": "Evaristo",
+  "zh": "埃瓦里斯托"
+ },
+ {
+  "id": 626,
+  "en": "Iman",
+  "es": "Iman",
+  "zh": "伊曼"
+ },
+ {
+  "id": 627,
+  "en": "Juanma",
+  "es": "Juanma",
+  "zh": "胡安马"
+ },
+ {
+  "id": 628,
+  "en": "Toño",
+  "es": "Toño",
+  "zh": "托尼奥"
+ },
+ {
+  "id": 629,
+  "en": "Ania",
+  "es": "Ania",
+  "zh": "阿妮娅"
+ },
+ {
+  "id": 630,
+  "en": "Victorino",
+  "es": "Victorino",
+  "zh": "维克托里诺"
+ },
+ {
+  "id": 631,
+  "en": "Clara",
+  "es": "Clara",
+  "zh": "克拉拉"
+ },
+ {
+  "id": 632,
+  "en": "Lenny",
+  "es": "Lenny",
+  "zh": "伦尼"
+ },
+ {
+  "id": 633,
+  "en": "Gabi",
+  "es": "Gabi",
+  "zh": "加比"
+ },
+ {
+  "id": 634,
+  "en": "Susanita",
+  "es": "Susanita",
+  "zh": "苏萨妮塔"
+ },
+ {
+  "id": 635,
+  "en": "Pablito",
+  "es": "Pablito",
+  "zh": "巴布利托"
+ },
+ {
+  "id": 636,
+  "en": "Helen",
+  "es": "Helen",
+  "zh": "海伦"
+ },
+ {
+  "id": 637,
+  "en": "Basti",
+  "es": "Basti",
+  "zh": "巴斯蒂"
+ },
+ {
+  "id": 638,
+  "en": "Juanpe",
+  "es": "Juanpe",
+  "zh": "胡安佩"
+ },
+ {
+  "id": 639,
+  "en": "Terry",
+  "es": "Terry",
+  "zh": "特里"
+ },
+ {
+  "id": 640,
+  "en": "Sarita",
+  "es": "Sarita",
+  "zh": "萨丽塔"
+ },
+ {
+  "id": 641,
+  "en": "Rachel",
+  "es": "Rachel",
+  "zh": "雷切尔"
+ },
+ {
+  "id": 642,
+  "en": "Nick",
+  "es": "Nick",
+  "zh": "尼克"
+ },
+ {
+  "id": 643,
+  "en": "Bosco",
+  "es": "Bosco",
+  "zh": "博斯科"
+ },
+ {
+  "id": 644,
+  "en": "Ángel",
+  "es": "Ángel",
+  "zh": "安赫尔"
+ },
+ {
+  "id": 645,
+  "en": "Casiano",
+  "es": "Casiano",
+  "zh": "卡西亚诺"
+ },
+ {
+  "id": 646,
+  "en": "Jimenez",
+  "es": "Jiménez",
+  "zh": "希门尼斯"
+ },
+ {
+  "id": 647,
+  "en": "Verdú",
+  "es": "Verdú",
+  "zh": "贝尔杜"
+ },
+ {
+  "id": 648,
+  "en": "Louise",
+  "es": "Louise",
+  "zh": "路易丝"
+ },
+ {
+  "id": 649,
+  "en": "Eugen",
+  "es": "Eugen",
+  "zh": "欧根"
+ },
+ {
+  "id": 650,
+  "en": "Claire",
+  "es": "Claire",
+  "zh": "克莱尔"
+ },
+ {
+  "id": 651,
+  "en": "Ian",
+  "es": "Ian",
+  "zh": "伊恩"
+ },
+ {
+  "id": 652,
+  "en": "Amancio",
+  "es": "Amancio",
+  "zh": "阿曼西奥"
+ },
+ {
+  "id": 653,
+  "en": "Jessica",
+  "es": "Jessica",
+  "zh": "杰西卡"
+ },
+ {
+  "id": 654,
+  "en": "Hansel",
+  "es": "Hansel",
+  "zh": "汉塞尔"
+ },
+ {
+  "id": 655,
+  "en": "Rubia",
+  "es": "Rubia",
+  "zh": "露比娅"
+ },
+ {
+  "id": 656,
+  "en": "Bárbara",
+  "es": "Bárbara",
+  "zh": "芭芭拉"
+ },
+ {
+  "id": 657,
+  "en": "Junior",
+  "es": "Junior",
+  "zh": "小约翰"
+ },
+ {
+  "id": 658,
+  "en": "Elm",
+  "es": "Elm",
+  "zh": "空木"
+ },
+ {
+  "id": 659,
+  "en": "Birch",
+  "es": "Abedul",
+  "zh": "小田卷"
+ },
+ {
+  "id": 660,
+  "en": "Rowan",
+  "es": "Serbal",
+  "zh": "七叶"
+ },
+ {
+  "id": 661,
+  "en": "Juniper",
+  "es": "Encina",
+  "zh": "真菰"
+ },
+ {
+  "id": 662,
+  "en": "sister",
+  "es": "hermana",
+  "zh": "姐姐"
+ },
+ {
+  "id": 663,
+  "en": "mom",
+  "es": "madre",
+  "zh": "妈妈"
+ },
+ {
+  "id": 664,
+  "en": "Marisol",
+  "es": "Marisol",
+  "zh": "马里索尔"
+ },
+ {
+  "id": 665,
+  "en": "Mariluz",
+  "es": "Mariluz",
+  "zh": "马里卢斯"
+ },
+ {
+  "id": 666,
+  "en": "Mohamed",
+  "es": "Mohamé",
+  "zh": "穆罕默德"
+ },
+ {
+  "id": 667,
+  "en": "Miguelito",
+  "es": "Miguelito",
+  "zh": "米格利托"
+ },
+ {
+  "id": 668,
+  "en": "Emmy",
+  "es": "Emmy",
+  "zh": "艾米"
+ },
+ {
+  "id": 669,
+  "en": "Great Wise OldMan",
+  "es": "Gran Sabio Anciano",
+  "zh": "大贤者"
+ },
+ {
+  "id": 670,
+  "en": "MoveDeleter",
+  "es": "Olvidador",
+  "zh": "技能遗忘人"
+ },
+ {
+  "id": 671,
+  "en": "Fonsi",
+  "es": "Fonsi",
+  "zh": "丰西"
+ },
+ {
+  "id": 672,
+  "en": "MoveReminder",
+  "es": "Recordador",
+  "zh": "技能回忆人"
+ },
+ {
+  "id": 673,
+  "en": "Flight Attendant",
+  "es": "Azafata",
+  "zh": "空乘"
+ },
+ {
+  "id": 674,
+  "en": "Elder",
+  "es": "Viejo",
+  "zh": "老爷爷"
+ },
+ {
+  "id": 675,
+  "en": "Elder",
+  "es": "Vieja",
+  "zh": "老婆婆"
+ },
+ {
+  "id": 676,
+  "en": "Mayor",
+  "es": "Alcalde",
+  "zh": "镇长"
+ },
+ {
+  "id": 677,
+  "en": "Captain",
+  "es": "Capitán",
+  "zh": "船长"
+ },
+ {
+  "id": 678,
+  "en": "Dr. Kaerf",
+  "es": "Dr. Kaerf",
+  "zh": "卡尔夫博士"
+ },
+ {
+  "id": 679,
+  "en": "Amateur Fisherman",
+  "es": "Pescador Amateur",
+  "zh": "业余钓鱼翁"
+ },
+ {
+  "id": 680,
+  "en": "Profesional Fisherman",
+  "es": "Pescador Profesional",
+  "zh": "专业钓鱼翁"
+ },
+ {
+  "id": 681,
+  "en": "Fonseca",
+  "es": "Fonseca",
+  "zh": "丰塞卡"
+ },
+ {
+  "id": 682,
+  "en": "Chimo",
+  "es": "Chimo",
+  "zh": "奇莫"
+ },
+ {
+  "id": 683,
+  "en": "Gordon",
+  "es": "Gordon",
+  "zh": "戈登"
+ },
+ {
+  "id": 684,
+  "en": "Captain Oliver",
+  "es": "Capitán Oliver",
+  "zh": "奥利弗船长"
+ },
+ {
+  "id": 685,
+  "en": "Ramonchu",
+  "es": "Ramonchu",
+  "zh": "拉蒙丘"
+ },
+ {
+  "id": 686,
+  "en": "Officer",
+  "es": "Agente",
+  "zh": "警官"
+ },
+ {
+  "id": 687,
+  "en": "Leo",
+  "es": "Leo",
+  "zh": "莱奥"
+ },
+ {
+  "id": 688,
+  "en": "Leoncio",
+  "es": "Leoncio",
+  "zh": "莱昂西奥"
+ },
+ {
+  "id": 689,
+  "en": "Mary",
+  "es": "Mary",
+  "zh": "玛丽"
+ },
+ {
+  "id": 690,
+  "en": "María",
+  "es": "María",
+  "zh": "玛丽亚"
+ },
+ {
+  "id": 691,
+  "en": "Juliet",
+  "es": "Juliet",
+  "zh": "朱丽叶"
+ },
+ {
+  "id": 692,
+  "en": "Julieta",
+  "es": "Julieta",
+  "zh": "胡利埃塔"
+ },
+ {
+  "id": 693,
+  "en": "Charlie",
+  "es": "Charlie",
+  "zh": "查理"
+ },
+ {
+  "id": 694,
+  "en": "Carlos",
+  "es": "Carlos",
+  "zh": "卡洛斯"
+ },
+ {
+  "id": 695,
+  "en": "Marco",
+  "es": "Marco",
+  "zh": "马尔科"
+ },
+ {
+  "id": 696,
+  "en": "Marcos",
+  "es": "Marcos",
+  "zh": "马科斯"
+ },
+ {
+  "id": 697,
+  "en": "Juan",
+  "es": "Juan",
+  "zh": "胡安"
+ },
+ {
+  "id": 698,
+  "en": "John",
+  "es": "John",
+  "zh": "约翰"
+ },
+ {
+  "id": 699,
+  "en": "Susan",
+  "es": "Susan",
+  "zh": "苏珊"
+ },
+ {
+  "id": 700,
+  "en": "Susana",
+  "es": "Susana",
+  "zh": "苏珊娜"
+ },
+ {
+  "id": 701,
+  "en": "Diana",
+  "es": "Diana",
+  "zh": "黛安娜"
+ },
+ {
+  "id": 702,
+  "en": "Diane",
+  "es": "Diane",
+  "zh": "黛安"
+ },
+ {
+  "id": 703,
+  "en": "Joe",
+  "es": "Joe",
+  "zh": "乔"
+ },
+ {
+  "id": 704,
+  "en": "Johan",
+  "es": "Johan",
+  "zh": "约翰"
+ },
+ {
+  "id": 705,
+  "en": "Frank",
+  "es": "Frank",
+  "zh": "弗兰克"
+ },
+ {
+  "id": 706,
+  "en": "Fran",
+  "es": "Fran",
+  "zh": "弗兰"
+ },
+ {
+  "id": 707,
+  "en": "???",
+  "es": "???",
+  "zh": "???"
+ },
+ {
+  "id": 708,
+  "en": "Johnny",
+  "es": "Johnny",
+  "zh": "约翰尼"
+ },
+ {
+  "id": 709,
+  "en": "Sheriff",
+  "es": "Comisario",
+  "zh": "警长"
+ },
+ {
+  "id": 710,
+  "en": "Rocket Grunts",
+  "es": "Reclutas Rockets",
+  "zh": "火箭队手下们"
+ },
+ {
+  "id": 711,
+  "en": "Guard",
+  "es": "Vigilante",
+  "zh": "警卫"
+ },
+ {
+  "id": 712,
+  "en": "Trainer N",
+  "es": "Entrenador N",
+  "zh": "训练家N"
+ },
+ {
+  "id": 713,
+  "en": "Flippy",
+  "es": "Flippy",
+  "zh": "弗利皮"
+ },
+ {
+  "id": 714,
+  "en": "Warrior",
+  "es": "Warrior",
+  "zh": "战士"
+ },
+ {
+  "id": 715,
+  "en": "Maw",
+  "es": "Maw",
+  "zh": "毛"
+ },
+ {
+  "id": 716,
+  "en": "Terma",
+  "es": "Terma",
+  "zh": "特尔马"
+ },
+ {
+  "id": 717,
+  "en": "Happy",
+  "es": "Happy",
+  "zh": "哈皮"
+ },
+ {
+  "id": 718,
+  "en": "Marcel",
+  "es": "Marcel",
+  "zh": "马塞尔"
+ },
+ {
+  "id": 719,
+  "en": "Tsubo",
+  "es": "Tsubo",
+  "zh": "壶"
+ },
+ {
+  "id": 720,
+  "en": "Sonans",
+  "es": "Sonans",
+  "zh": "索南斯"
+ },
+ {
+  "id": 721,
+  "en": "Eipam",
+  "es": "Eipam",
+  "zh": "艾潘"
+ },
+ {
+  "id": 722,
+  "en": "Blizzi",
+  "es": "Blizzi",
+  "zh": "布利兹"
+ },
+ {
+  "id": 723,
+  "en": "Emotion",
+  "es": "Emotion",
+  "zh": "艾莫申"
+ },
+ {
+  "id": 724,
+  "en": "Vin",
+  "es": "Vin",
+  "zh": "文"
+ },
+ {
+  "id": 725,
+  "en": "Croupier",
+  "es": "Croupier",
+  "zh": "荷官"
+ },
+ {
+  "id": 726,
+  "en": "Paul",
+  "es": "Paul",
+  "zh": "保罗"
+ },
+ {
+  "id": 727,
+  "en": "Manolito",
+  "es": "Manolito",
+  "zh": "马诺利托"
+ },
+ {
+  "id": 728,
+  "en": "Cándido",
+  "es": "Cándido",
+  "zh": "坎迪多"
+ },
+ {
+  "id": 729,
+  "en": "Nina",
+  "es": "Nina",
+  "zh": "妮娜"
+ },
+ {
+  "id": 730,
+  "en": "Jackie",
+  "es": "Jackie",
+  "zh": "杰基"
+ },
+ {
+  "id": 731,
+  "en": "Castos",
+  "es": "Castos",
+  "zh": "卡斯托斯"
+ },
+ {
+  "id": 732,
+  "en": "Rose",
+  "es": "Rosa",
+  "zh": "萝丝"
+ },
+ {
+  "id": 733,
+  "en": "Zequi",
+  "es": "Zequi",
+  "zh": "塞基"
+ },
+ {
+  "id": 734,
+  "en": "Opponent",
+  "es": "Contrincante",
+  "zh": "对手"
+ },
+ {
+  "id": 735,
+  "en": "Sub As",
+  "es": "Sub As",
+  "zh": "副王牌"
+ },
+ {
+  "id": 736,
+  "en": "As",
+  "es": "As",
+  "zh": "王牌"
+ },
+ {
+  "id": 737,
+  "en": "Violeta",
+  "es": "Violeta",
+  "zh": "紫罗兰",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 738,
+  "en": "Lino",
+  "es": "Lino",
+  "zh": "查克洛",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 739,
+  "en": "Corelia",
+  "es": "Corelia",
+  "zh": "可尔妮",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 740,
+  "en": "Amaro",
+  "es": "Amaro",
+  "zh": "福爷",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 741,
+  "en": "Lem",
+  "es": "Lem",
+  "zh": "希特隆",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 742,
+  "en": "Valeria",
+  "es": "Valeria",
+  "zh": "玛绣",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 743,
+  "en": "Ástrid",
+  "es": "Ástrid",
+  "zh": "葛吉花",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 744,
+  "en": "Édel",
+  "es": "Édel",
+  "zh": "得抚",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 745,
+  "en": "Tileo",
+  "es": "Tileo",
+  "zh": "雁铠",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 746,
+  "en": "Malva",
+  "es": "Malva",
+  "zh": "帕琦拉",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 747,
+  "en": "Drácena",
+  "es": "Drácena",
+  "zh": "朵拉塞娜",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 748,
+  "en": "Narciso",
+  "es": "Narciso",
+  "zh": "志米",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 749,
+  "en": "Dianta",
+  "es": "Dianta",
+  "zh": "卡露妮",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 750,
+  "en": "Nurse",
+  "es": "Enfermera",
+  "zh": "护士"
+ },
+ {
+  "id": 751,
+  "en": "Doctor",
+  "es": "Enfermero",
+  "zh": "医生"
+ },
+ {
+  "id": 752,
+  "en": "Bird Keeper",
+  "es": "Ornitóloga",
+  "zh": "养鸟人"
+ },
+ {
+  "id": 753,
+  "en": "Rocker",
+  "es": "Rockera",
+  "zh": "摇滚歌手"
+ },
+ {
+  "id": 754,
+  "en": "Electrician",
+  "es": "Electricista",
+  "zh": "电工"
+ },
+ {
+  "id": 755,
+  "en": "NobleWoman",
+  "es": "Dama",
+  "zh": "贵妇"
+ },
+ {
+  "id": 756,
+  "en": "Hex Maniac",
+  "es": "Brujita",
+  "zh": "魔女"
+ },
+ {
+  "id": 757,
+  "en": "Pyromaniac",
+  "es": "Pirómano",
+  "zh": "纵火狂"
+ },
+ {
+  "id": 758,
+  "en": "Beauty",
+  "es": "Bella",
+  "zh": "美女"
+ },
+ {
+  "id": 759,
+  "en": "Geek",
+  "es": "Friki",
+  "zh": "极客"
+ },
+ {
+  "id": 760,
+  "en": "Collector",
+  "es": "Coleccionista",
+  "zh": "收藏家"
+ },
+ {
+  "id": 761,
+  "en": "Veteran",
+  "es": "Veterana",
+  "zh": "老手"
+ },
+ {
+  "id": 762,
+  "en": "Teach",
+  "es": "Profe",
+  "zh": "老师"
+ },
+ {
+  "id": 763,
+  "en": "Artist",
+  "es": "Artista",
+  "zh": "艺术家"
+ },
+ {
+  "id": 764,
+  "en": "Beauty",
+  "es": "Modelo",
+  "zh": "美女"
+ },
+ {
+  "id": 765,
+  "en": "Cool Trainer",
+  "es": "Entr. Guay",
+  "zh": "精英训练家"
+ },
+ {
+  "id": 766,
+  "en": "Tolomeo",
+  "es": "Tolomeo",
+  "zh": "托洛梅奥"
+ },
+ {
+  "id": 767,
+  "en": "Eusebio",
+  "es": "Eusebio",
+  "zh": "欧塞比奥"
+ },
+ {
+  "id": 768,
+  "en": "Katy",
+  "es": "Katy",
+  "zh": "凯蒂"
+ },
+ {
+  "id": 769,
+  "en": "Justin",
+  "es": "Justin",
+  "zh": "贾斯汀"
+ },
+ {
+  "id": 770,
+  "en": "Rosendo",
+  "es": "Rosendo",
+  "zh": "罗森多"
+ },
+ {
+  "id": 771,
+  "en": "Fresita",
+  "es": "Fresita",
+  "zh": "弗雷西塔"
+ },
+ {
+  "id": 772,
+  "en": "Tano",
+  "es": "Tano",
+  "zh": "塔诺"
+ },
+ {
+  "id": 773,
+  "en": "Vicky",
+  "es": "Vicky",
+  "zh": "维姬"
+ },
+ {
+  "id": 774,
+  "en": "Ariel",
+  "es": "Ariel",
+  "zh": "阿里尔"
+ },
+ {
+  "id": 775,
+  "en": "Sindy",
+  "es": "Sindy",
+  "zh": "辛迪"
+ },
+ {
+  "id": 776,
+  "en": "Happy",
+  "es": "Happy",
+  "zh": "哈皮"
+ },
+ {
+  "id": 777,
+  "en": "Barbie",
+  "es": "Barbie",
+  "zh": "芭比"
+ },
+ {
+  "id": 778,
+  "en": "Arnold",
+  "es": "Arnold",
+  "zh": "阿诺德"
+ },
+ {
+  "id": 779,
+  "en": "Inma",
+  "es": "Inma",
+  "zh": "因玛"
+ },
+ {
+  "id": 780,
+  "en": "Chano",
+  "es": "Chano",
+  "zh": "查诺"
+ },
+ {
+  "id": 781,
+  "en": "Marga",
+  "es": "Marga",
+  "zh": "玛尔加"
+ },
+ {
+  "id": 782,
+  "en": "Custodio",
+  "es": "Custodio",
+  "zh": "库斯托迪奥"
+ },
+ {
+  "id": 783,
+  "en": "Lau",
+  "es": "Lau",
+  "zh": "劳"
+ },
+ {
+  "id": 784,
+  "en": "Macarena",
+  "es": "Macarena",
+  "zh": "玛卡雷娜"
+ },
+ {
+  "id": 785,
+  "en": "Ricky",
+  "es": "Ricky",
+  "zh": "瑞奇"
+ },
+ {
+  "id": 786,
+  "en": "Damián",
+  "es": "Damián",
+  "zh": "达米安"
+ },
+ {
+  "id": 787,
+  "en": "Nicole",
+  "es": "Nicole",
+  "zh": "妮可"
+ },
+ {
+  "id": 788,
+  "en": "Hipatía",
+  "es": "Hipatía",
+  "zh": "希帕蒂娅"
+ },
+ {
+  "id": 789,
+  "en": "Jane",
+  "es": "Jane",
+  "zh": "简"
+ },
+ {
+  "id": 790,
+  "en": "Marie Sophie",
+  "es": "Marie Sophie",
+  "zh": "玛丽·索菲"
+ },
+ {
+  "id": 791,
+  "en": "Amalie Emmy",
+  "es": "Amalie Emmy",
+  "zh": "阿马莉·艾美"
+ },
+ {
+  "id": 792,
+  "en": "Lise",
+  "es": "Lise",
+  "zh": "莉泽"
+ },
+ {
+  "id": 793,
+  "en": "Augusta",
+  "es": "Augusta",
+  "zh": "奥古斯塔"
+ },
+ {
+  "id": 794,
+  "en": "Jocelyn",
+  "es": "Jocelyn",
+  "zh": "乔斯琳"
+ },
+ {
+  "id": 795,
+  "en": "Rosalind",
+  "es": "Rosalind",
+  "zh": "罗莎琳德"
+ },
+ {
+  "id": 796,
+  "en": "Busa",
+  "es": "Busa",
+  "zh": "布萨"
+ },
+ {
+  "id": 797,
+  "en": "Gai",
+  "es": "Gai",
+  "zh": "盖"
+ },
+ {
+  "id": 798,
+  "en": "Sakura",
+  "es": "Sakura",
+  "zh": "小樱"
+ },
+ {
+  "id": 799,
+  "en": "Shikamaru",
+  "es": "Shikamaru",
+  "zh": "鹿丸"
+ },
+ {
+  "id": 800,
+  "en": "Sarutobi",
+  "es": "Sarutobi",
+  "zh": "猿飞"
+ },
+ {
+  "id": 801,
+  "en": "Asuma",
+  "es": "Asuma",
+  "zh": "阿斯玛"
+ },
+ {
+  "id": 802,
+  "en": "Naruto",
+  "es": "Naruto",
+  "zh": "鸣人"
+ },
+ {
+  "id": 803,
+  "en": "Ruth",
+  "es": "Ruth",
+  "zh": "露丝"
+ },
+ {
+  "id": 804,
+  "en": "Tricio",
+  "es": "Tricio",
+  "zh": "特里西奥"
+ },
+ {
+  "id": 805,
+  "en": "Chelo",
+  "es": "Chelo",
+  "zh": "切洛"
+ },
+ {
+  "id": 806,
+  "en": "Fredi",
+  "es": "Fredi",
+  "zh": "弗雷迪"
+ },
+ {
+  "id": 807,
+  "en": "Muno",
+  "es": "Muno",
+  "zh": "穆诺"
+ },
+ {
+  "id": 808,
+  "en": "Romina",
+  "es": "Romina",
+  "zh": "罗米娜"
+ },
+ {
+  "id": 809,
+  "en": "Gino",
+  "es": "Gino",
+  "zh": "吉诺"
+ },
+ {
+  "id": 810,
+  "en": "Lulú",
+  "es": "Lulú",
+  "zh": "露露"
+ },
+ {
+  "id": 811,
+  "en": "Roberta",
+  "es": "Roberta",
+  "zh": "罗伯塔"
+ },
+ {
+  "id": 812,
+  "en": "Dioni",
+  "es": "Dioni",
+  "zh": "迪奥尼"
+ },
+ {
+  "id": 813,
+  "en": "Cristi",
+  "es": "Cristi",
+  "zh": "克里斯蒂"
+ },
+ {
+  "id": 814,
+  "en": "Yasu",
+  "es": "Yasu",
+  "zh": "康"
+ },
+ {
+  "id": 815,
+  "en": "Joreco",
+  "es": "Joreco",
+  "zh": "霍雷科"
+ },
+ {
+  "id": 816,
+  "en": "Mía",
+  "es": "Mía",
+  "zh": "米娅"
+ },
+ {
+  "id": 817,
+  "en": "Irvin",
+  "es": "Irvin",
+  "zh": "欧文"
+ },
+ {
+  "id": 818,
+  "en": "Shea",
+  "es": "Shea",
+  "zh": "谢"
+ },
+ {
+  "id": 819,
+  "en": "Belen",
+  "es": "Belén",
+  "zh": "贝伦"
+ },
+ {
+  "id": 820,
+  "en": "Jose María",
+  "es": "José María",
+  "zh": "何塞·玛丽亚"
+ },
+ {
+  "id": 821,
+  "en": "Mauro",
+  "es": "Mauro",
+  "zh": "毛罗"
+ },
+ {
+  "id": 822,
+  "en": "Dora",
+  "es": "Dora",
+  "zh": "多拉"
+ },
+ {
+  "id": 823,
+  "en": "Mirna",
+  "es": "Mirna",
+  "zh": "米尔娜"
+ },
+ {
+  "id": 824,
+  "en": "Dante",
+  "es": "Dante",
+  "zh": "丹特"
+ },
+ {
+  "id": 825,
+  "en": "Rayco",
+  "es": "Rayco",
+  "zh": "拉伊科"
+ },
+ {
+  "id": 826,
+  "en": "Nati",
+  "es": "Nati",
+  "zh": "娜蒂"
+ },
+ {
+  "id": 827,
+  "en": "Derek",
+  "es": "Derek",
+  "zh": "德里克"
+ },
+ {
+  "id": 828,
+  "en": "Albar",
+  "es": "Albar",
+  "zh": "阿尔巴"
+ },
+ {
+  "id": 829,
+  "en": "Palmiro",
+  "es": "Palmiro",
+  "zh": "帕尔米罗"
+ },
+ {
+  "id": 830,
+  "en": "Jhony Ryu",
+  "es": "Jhony Ryu",
+  "zh": "龙强尼"
+ },
+ {
+  "id": 831,
+  "en": "PokéRanger",
+  "es": "PokéRanger",
+  "zh": "宝可梦巡护员"
+ },
+ {
+  "id": 832,
+  "en": "PokéRanger",
+  "es": "PokéRanger",
+  "zh": "宝可梦巡护员"
+ },
+ {
+  "id": 833,
+  "en": "Hooligan",
+  "es": "Pandillero",
+  "zh": "不良少年"
+ },
+ {
+  "id": 834,
+  "en": "Rich Boy",
+  "es": "Niño Bien",
+  "zh": "少爷"
+ },
+ {
+  "id": 835,
+  "en": "Director",
+  "es": "Directora",
+  "zh": "导演"
+ },
+ {
+  "id": 836,
+  "en": "Black Belt",
+  "es": "Karateca",
+  "zh": "空手道王"
+ },
+ {
+  "id": 837,
+  "en": "Pokéfan",
+  "es": "Pokéfan",
+  "zh": "宝可梦迷"
+ },
+ {
+  "id": 838,
+  "en": "Artist",
+  "es": "Artista",
+  "zh": "艺术家"
+ },
+ {
+  "id": 839,
+  "en": "Serena",
+  "es": "Serena",
+  "zh": "莎莉娜",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 840,
+  "en": "Calem",
+  "es": "Kalm",
+  "zh": "卡鲁穆",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 841,
+  "en": "Buck",
+  "es": "Bulgur",
+  "zh": "麦可",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 842,
+  "en": "Mira",
+  "es": "Maiza",
+  "zh": "麦儿",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 843,
+  "en": "Cheryl",
+  "es": "Malta",
+  "zh": "芽米",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 844,
+  "en": "Hugh",
+  "es": "Matís",
+  "zh": "阿修",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 845,
+  "en": "Riley",
+  "es": "Quinoa",
+  "zh": "亚玄",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 846,
+  "en": "Marley",
+  "es": "Sémola",
+  "zh": "米依",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 847,
+  "en": "BusinessMan",
+  "es": "Empresario",
+  "zh": "商人"
+ },
+ {
+  "id": 848,
+  "en": "Office Worker",
+  "es": "Oficinista",
+  "zh": "上班族"
+ },
+ {
+  "id": 849,
+  "en": "Office Worker",
+  "es": "Oficinista",
+  "zh": "上班族"
+ },
+ {
+  "id": 850,
+  "en": "Bonnie",
+  "es": "Clem",
+  "zh": "美蓉",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 851,
+  "en": "Destra",
+  "es": "Destra",
+  "zh": "德斯特拉"
+ },
+ {
+  "id": 852,
+  "en": "Sabino",
+  "es": "Sabino",
+  "zh": "萨比诺"
+ },
+ {
+  "id": 853,
+  "en": "Coro",
+  "es": "Coro",
+  "zh": "科罗"
+ },
+ {
+  "id": 854,
+  "en": "Aniceto",
+  "es": "Aniceto",
+  "zh": "阿尼塞托"
+ },
+ {
+  "id": 855,
+  "en": "Fortunia",
+  "es": "Fortunia",
+  "zh": "福图妮娅"
+ },
+ {
+  "id": 856,
+  "en": "Tactio",
+  "es": "Tactio",
+  "zh": "塔克提奥"
+ },
+ {
+  "id": 857,
+  "en": "Valente",
+  "es": "Valente",
+  "zh": "瓦伦特"
+ },
+ {
+  "id": 858,
+  "en": "Jericor",
+  "es": "Jericor",
+  "zh": "赫里科"
+ },
+ {
+  "id": 859,
+  "en": "Espinal",
+  "es": "Espinal",
+  "zh": "埃斯皮纳尔"
+ },
+ {
+  "id": 860,
+  "en": "Argenta",
+  "es": "Argenta",
+  "zh": "阿根塔"
+ },
+ {
+  "id": 861,
+  "en": "Delila",
+  "es": "Delila",
+  "zh": "德利拉"
+ },
+ {
+  "id": 862,
+  "en": "Kokuran",
+  "es": "Kokuran",
+  "zh": "国乱"
+ },
+ {
+  "id": 863,
+  "en": "Mafalda",
+  "es": "Mafalda",
+  "zh": "马法尔达"
+ },
+ {
+  "id": 864,
+  "en": "Rocío",
+  "es": "Rocío",
+  "zh": "罗西奥"
+ },
+ {
+  "id": 865,
+  "en": "Jimmy",
+  "es": "Jaimito",
+  "zh": "吉米"
+ },
+ {
+  "id": 866,
+  "en": "Nancy",
+  "es": "Nancy",
+  "zh": "南希"
+ },
+ {
+  "id": 867,
+  "en": "Palomo",
+  "es": "Palomo",
+  "zh": "帕洛莫"
+ },
+ {
+  "id": 868,
+  "en": "Owen",
+  "es": "Owen",
+  "zh": "欧文"
+ },
+ {
+  "id": 869,
+  "en": "Nobita",
+  "es": "Nobita",
+  "zh": "大雄"
+ },
+ {
+  "id": 870,
+  "en": "Alain",
+  "es": "Alain",
+  "zh": "艾岚",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 871,
+  "en": "Selene",
+  "es": "Selene",
+  "zh": "美月",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 872,
+  "en": "Elio",
+  "es": "Elio",
+  "zh": "小阳",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 873,
+  "en": "Hau",
+  "es": "Tilo",
+  "zh": "哈乌"
+ },
+ {
+  "id": 874,
+  "en": "Maxs",
+  "es": "Maxs",
+  "zh": "马克斯"
+ },
+ {
+  "id": 875,
+  "en": "Paul",
+  "es": "Pablo",
+  "zh": "保罗"
+ },
+ {
+  "id": 876,
+  "en": "Gladion",
+  "es": "Gladio",
+  "zh": "格拉吉欧"
+ },
+ {
+  "id": 877,
+  "en": "Molayne",
+  "es": "Lario",
+  "zh": "马睿因",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 878,
+  "en": "Ryuki",
+  "es": "Olano",
+  "zh": "龙葵",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 879,
+  "en": "Plumeria",
+  "es": "Francine",
+  "zh": "布尔美丽",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 880,
+  "en": "Guzma",
+  "es": "Guzmán",
+  "zh": "古兹马",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 881,
+  "en": "Ilima",
+  "es": "Liam",
+  "zh": "伊利马"
+ },
+ {
+  "id": 882,
+  "en": "Lana",
+  "es": "Nereida",
+  "zh": "水莲"
+ },
+ {
+  "id": 883,
+  "en": "Kiawe",
+  "es": "Kiawe",
+  "zh": "卡奇",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 884,
+  "en": "Mallow",
+  "es": "Lulú",
+  "zh": "玛奥"
+ },
+ {
+  "id": 885,
+  "en": "Sophocles",
+  "es": "Chris",
+  "zh": "马玛内",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 886,
+  "en": "Mina",
+  "es": "Rika",
+  "zh": "茉莉",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 887,
+  "en": "Nanu",
+  "es": "Denio",
+  "zh": "默丹",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 888,
+  "en": "Hapu",
+  "es": "Hela",
+  "zh": "哈普乌",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 889,
+  "en": "Hala",
+  "es": "Kaudan",
+  "zh": "哈拉",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 890,
+  "en": "Olivia",
+  "es": "Mayla",
+  "zh": "丽姿",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 891,
+  "en": "Acerola",
+  "es": "Zarala",
+  "zh": "阿塞萝拉",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 892,
+  "en": "Kahili",
+  "es": "Kahili",
+  "zh": "卡希丽",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 893,
+  "en": "Kukui",
+  "es": "Kukui",
+  "zh": "库库伊",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 894,
+  "en": "Faba",
+  "es": "Fabio",
+  "zh": "扎奥博",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 895,
+  "en": "Team Plasma",
+  "es": "Team Plasma",
+  "zh": "等离子队"
+ },
+ {
+  "id": 896,
+  "en": "Plasma Grunt",
+  "es": "Recluta Plasma",
+  "zh": "等离子队手下"
+ },
+ {
+  "id": 897,
+  "en": "Neo Plasma Grunt",
+  "es": "Recluta Neo Plasma",
+  "zh": "新等离子队手下"
+ },
+ {
+  "id": 898,
+  "en": "Ghetsis",
+  "es": "Ghechis",
+  "zh": "魁奇思",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 899,
+  "en": "Colress",
+  "es": "Acromo",
+  "zh": "阿克罗玛",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 900,
+  "en": "Team Flare",
+  "es": "Team Flare",
+  "zh": "闪焰队"
+ },
+ {
+  "id": 901,
+  "en": "Flare Grunt",
+  "es": "Recluta Flare",
+  "zh": "闪焰队手下"
+ },
+ {
+  "id": 902,
+  "en": "Mable",
+  "es": "Melia",
+  "zh": "茉蜜姬",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 903,
+  "en": "Bryony",
+  "es": "Begonia",
+  "zh": "芭菈",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 904,
+  "en": "Aliana",
+  "es": "Amapola",
+  "zh": "阿可碧",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 905,
+  "en": "Celosia",
+  "es": "Calendula",
+  "zh": "克蕾儿",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 906,
+  "en": "Xerosic",
+  "es": "Xero",
+  "zh": "库瑟洛斯奇",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 907,
+  "en": "Lysandre",
+  "es": "Lysson",
+  "zh": "弗拉达利",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 908,
+  "en": "Team Skull",
+  "es": "Team Skull",
+  "zh": "骷髅队"
+ },
+ {
+  "id": 909,
+  "en": "Skull Grunt",
+  "es": "Recluta Skull",
+  "zh": "骷髅队手下"
+ },
+ {
+  "id": 910,
+  "en": "Aether Foundation",
+  "es": "Fundación Aether",
+  "zh": "以太基金会"
+ },
+ {
+  "id": 911,
+  "en": "Aether Employee",
+  "es": "Empleado Aether",
+  "zh": "以太基金会员工"
+ },
+ {
+  "id": 912,
+  "en": "Wicke",
+  "es": "Zyra",
+  "zh": "碧珂",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 913,
+  "en": "Lusamine",
+  "es": "Samina",
+  "zh": "露莎米奈",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 914,
+  "en": "Lillie",
+  "es": "Lylia",
+  "zh": "莉莉艾",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 915,
+  "en": "Zinnia",
+  "es": "Tristana",
+  "zh": "希嘉娜",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 916,
+  "en": "Llanos",
+  "es": "Llanos",
+  "zh": "亚诺斯"
+ },
+ {
+  "id": 917,
+  "en": "Nebulo",
+  "es": "Nébulo",
+  "zh": "内布罗"
+ },
+ {
+  "id": 918,
+  "en": "Nova",
+  "es": "Nova",
+  "zh": "诺娃"
+ },
+ {
+  "id": 919,
+  "en": "Hole",
+  "es": "Hole",
+  "zh": "霍尔"
+ },
+ {
+  "id": 920,
+  "en": "Miserable Boy",
+  "es": "Niño Mísero",
+  "zh": "可怜男孩"
+ },
+ {
+  "id": 921,
+  "en": "Leire",
+  "es": "Leire",
+  "zh": "莱雷"
+ },
+ {
+  "id": 922,
+  "en": "Prof. Sycamore",
+  "es": "Prof. Ciprés",
+  "zh": "布拉塔诺博士",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 923,
+  "en": "Prof. Kukui",
+  "es": "Prof. Kukui",
+  "zh": "库库伊博士"
+ },
+ {
+  "id": 924,
+  "en": "Prof. Samson Oak",
+  "es": "Prof. Gabriel Oak",
+  "zh": "成也·大木博士",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 925,
+  "en": "Chase",
+  "es": "Chase",
+  "zh": "切斯"
+ },
+ {
+  "id": 926,
+  "en": "Elaine",
+  "es": "Elaine",
+  "zh": "伊莱恩"
+ },
+ {
+  "id": 927,
+  "en": "Gloria",
+  "es": "Gloria",
+  "zh": "小优",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 928,
+  "en": "Victor",
+  "es": "Víctor",
+  "zh": "小胜",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 929,
+  "en": "Aether Employee",
+  "es": "Empleada Aether",
+  "zh": "以太基金会员工"
+ },
+ {
+  "id": 930,
+  "en": "Dememorizer",
+  "es": "Desmemorizadora",
+  "zh": "记忆消除员"
+ },
+ {
+  "id": 931,
+  "en": "Kimono Girl",
+  "es": "Chica Kimono",
+  "zh": "和服女孩"
+ },
+ {
+  "id": 932,
+  "en": "Mizu",
+  "es": "Mizu",
+  "zh": "水原"
+ },
+ {
+  "id": 933,
+  "en": "Hono",
+  "es": "Hono",
+  "zh": "火野"
+ },
+ {
+  "id": 934,
+  "en": "Denki",
+  "es": "Denki",
+  "zh": "电太"
+ },
+ {
+  "id": 935,
+  "en": "Esper",
+  "es": "Esper",
+  "zh": "艾斯珀"
+ },
+ {
+  "id": 936,
+  "en": "Aku",
+  "es": "Aku",
+  "zh": "阿酷"
+ },
+ {
+  "id": 937,
+  "en": "Kusa",
+  "es": "Kusa",
+  "zh": "草野"
+ },
+ {
+  "id": 938,
+  "en": "Kori",
+  "es": "Kori",
+  "zh": "冰室"
+ },
+ {
+  "id": 939,
+  "en": "Nomaru",
+  "es": "Nomaru",
+  "zh": "诺玛鲁"
+ },
+ {
+  "id": 940,
+  "en": "Gosuto",
+  "es": "Gosuto",
+  "zh": "戈斯托"
+ },
+ {
+  "id": 941,
+  "en": "Doragon",
+  "es": "Doragon",
+  "zh": "多拉贡"
+ },
+ {
+  "id": 942,
+  "en": "Iwa",
+  "es": "Iwa",
+  "zh": "岩崎"
+ },
+ {
+  "id": 943,
+  "en": "Hikou",
+  "es": "Hikou",
+  "zh": "飞鸟"
+ },
+ {
+  "id": 944,
+  "en": "Mushi",
+  "es": "Mushi",
+  "zh": "虫田"
+ },
+ {
+  "id": 945,
+  "en": "Jimen",
+  "es": "Jimen",
+  "zh": "土屋"
+ },
+ {
+  "id": 946,
+  "en": "Kakuto",
+  "es": "Kakuto",
+  "zh": "格户"
+ },
+ {
+  "id": 947,
+  "en": "Doku",
+  "es": "Doku",
+  "zh": "毒岛"
+ },
+ {
+  "id": 948,
+  "en": "Hagane",
+  "es": "Hagane",
+  "zh": "钢城"
+ },
+ {
+  "id": 949,
+  "en": "Feari",
+  "es": "Feari",
+  "zh": "菲亚丽"
+ },
+ {
+  "id": 950,
+  "en": "Henrry",
+  "es": "Henrry",
+  "zh": "亨利"
+ },
+ {
+  "id": 951,
+  "en": "Johnson",
+  "es": "Johnson",
+  "zh": "约翰逊"
+ },
+ {
+  "id": 952,
+  "en": "Mara",
+  "es": "Mara",
+  "zh": "玛拉"
+ },
+ {
+  "id": 953,
+  "en": "Ryan",
+  "es": "Ryan",
+  "zh": "瑞恩"
+ },
+ {
+  "id": 954,
+  "en": "Mar",
+  "es": "Mar",
+  "zh": "玛尔"
+ },
+ {
+  "id": 955,
+  "en": "Charles",
+  "es": "Carlitos",
+  "zh": "小查理"
+ },
+ {
+  "id": 956,
+  "en": "Gus",
+  "es": "Gus",
+  "zh": "古斯"
+ },
+ {
+  "id": 957,
+  "en": "Pedrito",
+  "es": "Pedrito",
+  "zh": "佩德里托"
+ },
+ {
+  "id": 958,
+  "en": "Yamilei",
+  "es": "Yamilei",
+  "zh": "亚米蕾"
+ },
+ {
+  "id": 959,
+  "en": "Itahisa",
+  "es": "Itahisa",
+  "zh": "伊塔伊莎"
+ },
+ {
+  "id": 960,
+  "en": "Yumei",
+  "es": "Yumei",
+  "zh": "由美"
+ },
+ {
+  "id": 961,
+  "en": "Gil",
+  "es": "Gil",
+  "zh": "吉尔"
+ },
+ {
+  "id": 962,
+  "en": "Florentino",
+  "es": "Florentino",
+  "zh": "弗洛伦蒂诺"
+ },
+ {
+  "id": 963,
+  "en": "Soumia",
+  "es": "Soumia",
+  "zh": "苏米娅"
+ },
+ {
+  "id": 964,
+  "en": "Iratxe",
+  "es": "Iratxe",
+  "zh": "伊拉切"
+ },
+ {
+  "id": 965,
+  "en": "Izan",
+  "es": "Izan",
+  "zh": "伊桑"
+ },
+ {
+  "id": 966,
+  "en": "Laurentino",
+  "es": "Laurentino",
+  "zh": "劳伦蒂诺"
+ },
+ {
+  "id": 967,
+  "en": "Aimar",
+  "es": "Aimar",
+  "zh": "艾马尔"
+ },
+ {
+  "id": 968,
+  "en": "Sycamore",
+  "es": "Ciprés",
+  "zh": "布拉塔诺",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 969,
+  "en": "Assistant",
+  "es": "Asistente",
+  "zh": "助手"
+ },
+ {
+  "id": 970,
+  "en": "Girl",
+  "es": "Chica",
+  "zh": "女孩"
+ },
+ {
+  "id": 971,
+  "en": "Boy",
+  "es": "Chico",
+  "zh": "男孩"
+ },
+ {
+  "id": 972,
+  "en": "Woman",
+  "es": "Mujer",
+  "zh": "女人"
+ },
+ {
+  "id": 973,
+  "en": "Man",
+  "es": "Hombre",
+  "zh": "男人"
+ },
+ {
+  "id": 974,
+  "en": "Lady",
+  "es": "Señora",
+  "zh": "夫人"
+ },
+ {
+  "id": 975,
+  "en": "Gentleman",
+  "es": "Señor",
+  "zh": "先生"
+ },
+ {
+  "id": 976,
+  "en": "Spirit",
+  "es": "Espíritu",
+  "zh": "灵魂"
+ },
+ {
+  "id": 977,
+  "en": "Seller",
+  "es": "Vendedor",
+  "zh": "售货员"
+ },
+ {
+  "id": 978,
+  "en": "$par1$'s mom",
+  "es": "Mamá de $par1$",
+  "zh": "$par1$的妈妈"
+ },
+ {
+  "id": 979,
+  "en": "Gourmet",
+  "es": "Gourmet",
+  "zh": "美食家"
+ },
+ {
+  "id": 980,
+  "en": "Name rater",
+  "es": "Inspector de motes",
+  "zh": "昵称鉴定师"
+ },
+ {
+  "id": 981,
+  "en": "Stats rater",
+  "es": "Inspector de Stats",
+  "zh": "能力鉴定师"
+ },
+ {
+  "id": 982,
+  "en": "Coocker",
+  "es": "Cocinero",
+  "zh": "厨师"
+ },
+ {
+  "id": 983,
+  "en": "Craftsman",
+  "es": "Artesano",
+  "zh": "工匠"
+ },
+ {
+  "id": 984,
+  "en": "Banker",
+  "es": "Banquero",
+  "zh": "银行家"
+ },
+ {
+  "id": 985,
+  "en": "Pokémon psychologist",
+  "es": "Psicóloga Pokémon",
+  "zh": "宝可梦心理学家"
+ },
+ {
+  "id": 986,
+  "en": "Talent rater",
+  "es": "Inspector de talentos",
+  "zh": "才能鉴定师"
+ },
+ {
+  "id": 987,
+  "en": "Power Hidden Expert",
+  "es": "Experto Poder Oculto",
+  "zh": "觉醒力量专家"
+ },
+ {
+  "id": 988,
+  "en": "Collectionist",
+  "es": "Coleccionista",
+  "zh": "收藏家"
+ },
+ {
+  "id": 989,
+  "en": "Egg Moves Expert",
+  "es": "Experto Mov. Huevos",
+  "zh": "遗传招式专家"
+ },
+ {
+  "id": 990,
+  "en": "Chef",
+  "es": "Chef",
+  "zh": "主厨"
+ },
+ {
+  "id": 991,
+  "en": "Egg Expert",
+  "es": "Experto Huevos",
+  "zh": "蛋专家"
+ },
+ {
+  "id": 992,
+  "en": "Receptionist",
+  "es": "Recepcionista",
+  "zh": "接待员"
+ },
+ {
+  "id": 993,
+  "en": "Boarding agent",
+  "es": "Agente de embarque",
+  "zh": "登船员"
+ },
+ {
+  "id": 994,
+  "en": "Seller",
+  "es": "Vendedora",
+  "zh": "售货员"
+ },
+ {
+  "id": 995,
+  "en": "Milkman",
+  "es": "Lechero",
+  "zh": "送奶工"
+ },
+ {
+  "id": 996,
+  "en": "Expert",
+  "es": "Experto",
+  "zh": "专家"
+ },
+ {
+  "id": 997,
+  "en": "Expert",
+  "es": "Experta",
+  "zh": "专家"
+ },
+ {
+  "id": 998,
+  "en": "Grass Master",
+  "es": "Maestro Planta",
+  "zh": "草系大师"
+ },
+ {
+  "id": 999,
+  "en": "Fire Master",
+  "es": "Maestro Fuego",
+  "zh": "火系大师"
+ },
+ {
+  "id": 1000,
+  "en": "Water Master",
+  "es": "Maestro Agua",
+  "zh": "水系大师"
+ },
+ {
+  "id": 1001,
+  "en": "Grass Apprentice",
+  "es": "Aprendiz Planta",
+  "zh": "草系学徒"
+ },
+ {
+  "id": 1002,
+  "en": "Fire Apprentice",
+  "es": "Aprendiz Fuego",
+  "zh": "火系学徒"
+ },
+ {
+  "id": 1003,
+  "en": "Water Apprentice",
+  "es": "Aprendiz Agua",
+  "zh": "水系学徒"
+ },
+ {
+  "id": 1004,
+  "en": "Marnie",
+  "es": "Roxy",
+  "zh": "玛俐",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 1005,
+  "en": "Hop",
+  "es": "Paul",
+  "zh": "赫普",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 1006,
+  "en": "Bede",
+  "es": "Berto",
+  "zh": "彼特",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 1007,
+  "en": "Leon",
+  "es": "Lionel",
+  "zh": "丹帝",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 1008,
+  "en": "Yellow",
+  "es": "Yellow",
+  "zh": "小黄",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 1009,
+  "en": "Officer Jen",
+  "es": "Agente Mar",
+  "zh": "君莎小姐"
+ },
+ {
+  "id": 1010,
+  "en": "Looker",
+  "es": "Handsome",
+  "zh": "帅哥",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 1011,
+  "en": "Liza & Tate",
+  "es": "Leti y Vito",
+  "zh": "小南和小枫"
+ },
+ {
+  "id": 1012,
+  "en": "Unknown",
+  "es": "Desconocido",
+  "zh": "未知"
+ },
+ {
+  "id": 1013,
+  "en": "Helia & Noelia",
+  "es": "Helia y Noelia",
+  "zh": "赫莉娅和诺埃莉娅"
+ },
+ {
+  "id": 1014,
+  "en": "Passionate",
+  "es": "Apasionado",
+  "zh": "热血青年"
+ },
+ {
+  "id": 1015,
+  "en": "Aether Employee",
+  "es": "Empleada Aether",
+  "zh": "以太基金会员工"
+ },
+ {
+  "id": 1016,
+  "en": "Ivette",
+  "es": "Ivette",
+  "zh": "伊薇特"
+ },
+ {
+  "id": 1017,
+  "en": "Orestes",
+  "es": "Orestes",
+  "zh": "奥雷斯特斯"
+ },
+ {
+  "id": 1018,
+  "en": "Cloe",
+  "es": "Cloé",
+  "zh": "克洛伊"
+ },
+ {
+  "id": 1019,
+  "en": "James, Jessie & Meowth",
+  "es": "James, Jessie y Meowth",
+  "zh": "小次郎、武藏和喵喵"
+ },
+ {
+  "id": 1020,
+  "en": "Cheren & Bianca",
+  "es": "Cherem y Bel",
+  "zh": "黑连和白露",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 1021,
+  "en": "Rosa & Nate",
+  "es": "Nanci y Rizzo",
+  "zh": "鸣依和共平",
+  "note": "官方（52poke）"
+ },
+ {
+  "id": 1022,
+  "en": "Amy",
+  "es": "Amy",
+  "zh": "艾米"
+ },
+ {
+  "id": 1023,
+  "en": "Jenny",
+  "es": "Jenny",
+  "zh": "珍妮"
+ },
+ {
+  "id": 1024,
+  "en": "Daisy",
+  "es": "Daisy",
+  "zh": "黛西"
+ },
+ {
+  "id": 1025,
+  "en": "Amy & Daisy",
+  "es": "Amy y Daisy",
+  "zh": "艾米和黛西"
+ },
+ {
+  "id": 1026,
+  "en": "Cristine & Manu",
+  "es": "Cristina y Manu",
+  "zh": "克里斯蒂娜和马努"
+ },
+ {
+  "id": 1027,
+  "en": "Doroteo & Carol",
+  "es": "Doroteo y Cárol",
+  "zh": "多罗特奥和卡罗尔"
+ },
+ {
+  "id": 1028,
+  "en": "Cilan, Chili & Cress",
+  "es": "Millo, Zeo y Maíz",
+  "zh": "天桐、伯特和寇恩"
+ },
+ {
+  "id": 1029,
+  "en": "Oscar & Maite",
+  "es": "Óscar y Maite",
+  "zh": "奥斯卡和迈特"
+ },
+ {
+  "id": 1030,
+  "en": "Facundo & Pilar",
+  "es": "Facundo y Pilar",
+  "zh": "法昆多和皮拉尔"
+ },
+ {
+  "id": 1031,
+  "en": "Arnold & Barbie",
+  "es": "Arnold y Barbie",
+  "zh": "阿诺德和芭比"
+ },
+ {
+  "id": 1032,
+  "en": "Ferdinand & Ainhoa",
+  "es": "Fernando y Ainhoa",
+  "zh": "费尔南多和艾诺亚"
+ },
+ {
+  "id": 1033,
+  "en": "Bonifacio & Otilia",
+  "es": "Bonifacio y Otilia",
+  "zh": "博尼法西奥和奥蒂莉娅"
+ },
+ {
+  "id": 1034,
+  "en": "Virgilio & Marilina",
+  "es": "Virgilio y Marilina",
+  "zh": "维吉利奥和马里利娜"
+ },
+ {
+  "id": 1035,
+  "en": "Nazaret & Anselmo",
+  "es": "Nazaret y Anselmo",
+  "zh": "纳萨雷特和安塞尔莫"
+ },
+ {
+  "id": 1036,
+  "en": "Rocket Soldiers",
+  "es": "Soldados Rocket",
+  "zh": "火箭队士兵"
+ },
+ {
+  "id": 1037,
+  "en": "Magma Soldiers",
+  "es": "Soldados Magma",
+  "zh": "熔岩队士兵"
+ },
+ {
+  "id": 1038,
+  "en": "Aqua Soldiers",
+  "es": "Soldados Aqua",
+  "zh": "海洋队士兵"
+ },
+ {
+  "id": 1039,
+  "en": "Galactic Grunts",
+  "es": "Reclutas Galaxia",
+  "zh": "银河队手下们"
+ },
+ {
+  "id": 1040,
+  "en": "Aether Employees",
+  "es": "Empleados Aether",
+  "zh": "以太基金会员工们"
+ },
+ {
+  "id": 1041,
+  "en": "Jose Juan",
+  "es": "José Juan",
+  "zh": "何塞·胡安"
+ },
+ {
+  "id": 1042,
+  "en": "Diego & Jose Juan",
+  "es": "Diego y José Juan",
+  "zh": "迭戈和何塞·胡安"
+ },
+ {
+  "id": 1043,
+  "en": "Flare Grunts",
+  "es": "Reclutas Flare",
+  "zh": "闪焰队手下们"
+ },
+ {
+  "id": 1044,
+  "en": "Walker",
+  "es": "Walker",
+  "zh": "沃克"
+ },
+ {
+  "id": 1045,
+  "en": "Shere",
+  "es": "Shere",
+  "zh": "谢尔"
+ },
+ {
+  "id": 1046,
+  "en": "Prof. Juno",
+  "es": "Profesora Juno",
+  "zh": "朱诺博士"
+ },
+ {
+  "id": 1047,
+  "en": "Nacho",
+  "es": "Nacho",
+  "zh": "纳乔"
+ },
+ {
+  "id": 1048,
+  "en": "Iratxe",
+  "es": "Iratxe",
+  "zh": "伊拉切"
+ },
+ {
+  "id": 1049,
+  "en": "April",
+  "es": "Abril",
+  "zh": "阿夫丽尔"
+ },
+ {
+  "id": 1050,
+  "en": "Rosalia",
+  "es": "Rosalia",
+  "zh": "罗萨莉娅"
+ },
+ {
+  "id": 1051,
+  "en": "Bernat",
+  "es": "Bernat",
+  "zh": "贝尔纳特"
+ },
+ {
+  "id": 1052,
+  "en": "Erik",
+  "es": "Erik",
+  "zh": "埃里克"
+ },
+ {
+  "id": 1053,
+  "en": "Azumi",
+  "es": "Azumi",
+  "zh": "亚澄"
+ },
+ {
+  "id": 1054,
+  "en": "Daiki",
+  "es": "Daiki",
+  "zh": "大树"
+ },
+ {
+  "id": 1055,
+  "en": "Byacuya",
+  "es": "Byacuya",
+  "zh": "白夜"
+ },
+ {
+  "id": 1056,
+  "en": "Dionisia",
+  "es": "Dionisia",
+  "zh": "迪奥尼西娅"
+ },
+ {
+  "id": 1057,
+  "en": "Nepomuk",
+  "es": "Nepomuceno",
+  "zh": "内波穆克"
+ },
+ {
+  "id": 1058,
+  "en": "Crispula",
+  "es": "Críspula",
+  "zh": "克里斯普拉"
+ },
+ {
+  "id": 1059,
+  "en": "Carrasco",
+  "es": "Carrasco",
+  "zh": "卡拉斯科"
+ },
+ {
+  "id": 1060,
+  "en": "George",
+  "es": "Jorge",
+  "zh": "豪尔赫"
+ },
+ {
+  "id": 1061,
+  "en": "Jack",
+  "es": "Jack",
+  "zh": "杰克"
+ },
+ {
+  "id": 1062,
+  "en": "Valle",
+  "es": "Valle",
+  "zh": "巴列"
+ },
+ {
+  "id": 1063,
+  "en": "Captain",
+  "es": "Capitana",
+  "zh": "船长"
+ },
+ {
+  "id": 1064,
+  "en": "Amador",
+  "es": "Amador",
+  "zh": "阿马多尔"
+ },
+ {
+  "id": 1065,
+  "en": "David",
+  "es": "David",
+  "zh": "大卫"
+ },
+ {
+  "id": 1066,
+  "en": "Rogelio",
+  "es": "Rogelio",
+  "zh": "罗赫利奥"
+ },
+ {
+  "id": 1067,
+  "en": "Dr. Metaguel",
+  "es": "Dr. Metaguel",
+  "zh": "梅塔吉尔博士"
+ },
+ {
+  "id": 1068,
+  "en": "Mafer",
+  "es": "Mafer",
+  "zh": "马费"
+ },
+ {
+  "id": 1069,
+  "en": "Michael",
+  "es": "Michael",
+  "zh": "迈克尔"
+ },
+ {
+  "id": 1070,
+  "en": "DavKriz",
+  "es": "DavKriz",
+  "zh": "DavKriz"
+ },
+ {
+  "id": 1071,
+  "en": "Inv3rse",
+  "es": "Inv3rse",
+  "zh": "Inv3rse"
+ },
+ {
+  "id": 1072,
+  "en": "Sfpm",
+  "es": "Sfpm",
+  "zh": "Sfpm"
+ },
+ {
+  "id": 1073,
+  "en": "Ultra",
+  "es": "Ultra",
+  "zh": "Ultra"
+ },
+ {
+  "id": 1074,
+  "en": "Da Vinci",
+  "es": "Da Vinci",
+  "zh": "达·芬奇"
+ },
+ {
+  "id": 1075,
+  "en": "Meitner",
+  "es": "Meitner",
+  "zh": "迈特纳"
+ },
+ {
+  "id": 1076,
+  "en": "Galileo",
+  "es": "Galileo",
+  "zh": "伽利略"
+ },
+ {
+  "id": 1077,
+  "en": "Lovelace",
+  "es": "Lovelace",
+  "zh": "洛芙莱斯"
+ },
+ {
+  "id": 1078,
+  "en": "Edison",
+  "es": "Edison",
+  "zh": "爱迪生"
+ },
+ {
+  "id": 1079,
+  "en": "Nightingale",
+  "es": "Nightingale",
+  "zh": "南丁格尔"
+ },
+ {
+  "id": 1080,
+  "en": "Hermione",
+  "es": "Hermione",
+  "zh": "赫敏"
+ },
+ {
+  "id": 1081,
+  "en": "Sati",
+  "es": "Sati",
+  "zh": "萨蒂"
+ },
+ {
+  "id": 1082,
+  "en": "Constance",
+  "es": "Constance",
+  "zh": "康斯坦斯"
+ },
+ {
+  "id": 1083,
+  "en": "Tobias",
+  "es": "Tobias",
+  "zh": "托比亚斯"
+ },
+ {
+  "id": 1084,
+  "en": "Adriano",
+  "es": "Adriano",
+  "zh": "阿德里亚诺"
+ },
+ {
+  "id": 1085,
+  "en": "Julia",
+  "es": "Julia",
+  "zh": "朱莉娅"
+ },
+ {
+  "id": 1086,
+  "en": "Eulogio",
+  "es": "Eulogio",
+  "zh": "欧洛吉奥"
+ },
+ {
+  "id": 1087,
+  "en": "Ghaleo",
+  "es": "Ghaleo",
+  "zh": "加莱奥"
+ },
+ {
+  "id": 1088,
+  "en": "Ani",
+  "es": "Ani",
+  "zh": "阿尼"
+ },
+ {
+  "id": 1089,
+  "en": "Cesare",
+  "es": "Cesare",
+  "zh": "切萨雷"
+ },
+ {
+  "id": 1090,
+  "en": "Liliana",
+  "es": "Liliana",
+  "zh": "莉莉安娜"
+ },
+ {
+  "id": 1091,
+  "en": "Silva",
+  "es": "Silva",
+  "zh": "席尔瓦"
+ },
+ {
+  "id": 1092,
+  "en": "Mika",
+  "es": "Mika",
+  "zh": "米卡"
+ },
+ {
+  "id": 1093,
+  "en": "Joshua",
+  "es": "Joshua",
+  "zh": "约书亚"
+ },
+ {
+  "id": 1094,
+  "en": "Isaac",
+  "es": "Isaac",
+  "zh": "艾萨克"
+ },
+ {
+  "id": 1095,
+  "en": "Quimi",
+  "es": "Quimi",
+  "zh": "基米"
+ },
+ {
+  "id": 1096,
+  "en": "Alexia",
+  "es": "Alexia",
+  "zh": "亚莉克希娅"
+ },
+ {
+  "id": 1097,
+  "en": "Iñaki",
+  "es": "Iñaki",
+  "zh": "伊尼亚基"
+ },
+ {
+  "id": 1098,
+  "en": "Flora",
+  "es": "Flora",
+  "zh": "弗洛拉"
+ },
+ {
+  "id": 1099,
+  "en": "Rogelio",
+  "es": "Rogelio",
+  "zh": "罗赫利奥"
+ },
+ {
+  "id": 1100,
+  "en": "Donna",
+  "es": "Donna",
+  "zh": "唐娜"
+ },
+ {
+  "id": 1101,
+  "en": "Tesla",
+  "es": "Tesla",
+  "zh": "特斯拉"
+ },
+ {
+  "id": 1102,
+  "en": "Enzo",
+  "es": "Enzo",
+  "zh": "恩佐"
+ },
+ {
+  "id": 1103,
+  "en": "Aitana",
+  "es": "Aitana",
+  "zh": "艾塔娜"
+ },
+ {
+  "id": 1104,
+  "en": "Frida",
+  "es": "Frida",
+  "zh": "弗里达"
+ },
+ {
+  "id": 1105,
+  "en": "Siracusa",
+  "es": "Siracusa",
+  "zh": "锡拉库萨"
+ },
+ {
+  "id": 1106,
+  "en": "President",
+  "es": "Presidenta",
+  "zh": "总统"
+ },
+ {
+  "id": 1107,
+  "en": "Penélope",
+  "es": "Penélope",
+  "zh": "佩内洛普"
+ },
+ {
+  "id": 1108,
+  "en": "Rolando",
+  "es": "Rolando",
+  "zh": "罗兰多"
+ },
+ {
+  "id": 1109,
+  "en": "Arturo",
+  "es": "Arturo",
+  "zh": "阿图罗"
+ },
+ {
+  "id": 1110,
+  "en": "Sonia",
+  "es": "Sonia",
+  "zh": "索尼娅"
+ },
+ {
+  "id": 1111,
+  "en": "Prof. Magnolia",
+  "es": "Prof. Magnolia",
+  "zh": "木兰博士",
+  "note": "官方（52poke）"
+ }
+]

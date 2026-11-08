@@ -1,0 +1,3195 @@
+﻿类别,游戏内编号,英文,西班牙文,简体中文,来源
+宝可梦,1,Bulbasaur,Bulbasaur,妙蛙种子,官方
+宝可梦,2,Ivysaur,Ivysaur,妙蛙草,官方
+宝可梦,3,Venusaur,Venusaur,妙蛙花,官方
+宝可梦,4,Charmander,Charmander,小火龙,官方
+宝可梦,5,Charmeleon,Charmeleon,火恐龙,官方
+宝可梦,6,Charizard,Charizard,喷火龙,官方
+宝可梦,7,Squirtle,Squirtle,杰尼龟,官方
+宝可梦,8,Wartortle,Wartortle,卡咪龟,官方
+宝可梦,9,Blastoise,Blastoise,水箭龟,官方
+宝可梦,10,Caterpie,Caterpie,绿毛虫,官方
+宝可梦,11,Metapod,Metapod,铁甲蛹,官方
+宝可梦,12,Butterfree,Butterfree,巴大蝶,官方
+宝可梦,13,Weedle,Weedle,独角虫,官方
+宝可梦,14,Kakuna,Kakuna,铁壳蛹,官方
+宝可梦,15,Beedrill,Beedrill,大针蜂,官方
+宝可梦,16,Pidgey,Pidgey,波波,官方
+宝可梦,17,Pidgeotto,Pidgeotto,比比鸟,官方
+宝可梦,18,Pidgeot,Pidgeot,大比鸟,官方
+宝可梦,19,Rattata,Rattata,小拉达,官方
+宝可梦,20,Raticate,Raticate,拉达,官方
+宝可梦,21,Spearow,Spearow,烈雀,官方
+宝可梦,22,Fearow,Fearow,大嘴雀,官方
+宝可梦,23,Ekans,Ekans,阿柏蛇,官方
+宝可梦,24,Arbok,Arbok,阿柏怪,官方
+宝可梦,25,Pikachu,Pikachu,皮卡丘,官方
+宝可梦,26,Raichu,Raichu,雷丘,官方
+宝可梦,27,Sandshrew,Sandshrew,穿山鼠,官方
+宝可梦,28,Sandslash,Sandslash,穿山王,官方
+宝可梦,29,Nidoran H.,Nidoran H.,尼多兰,官方（♀）
+宝可梦,30,Nidorina,Nidorina,尼多娜,官方
+宝可梦,31,Nidoqueen,Nidoqueen,尼多后,官方
+宝可梦,32,Nidoran M.,Nidoran M.,尼多朗,官方（♂）
+宝可梦,33,Nidorino,Nidorino,尼多力诺,官方
+宝可梦,34,Nidoking,Nidoking,尼多王,官方
+宝可梦,35,Clefairy,Clefairy,皮皮,官方
+宝可梦,36,Clefable,Clefable,皮可西,官方
+宝可梦,37,Vulpix,Vulpix,六尾,官方
+宝可梦,38,Ninetales,Ninetales,九尾,官方
+宝可梦,39,Jigglypuff,Jigglypuff,胖丁,官方
+宝可梦,40,Wigglytuff,Wigglytuff,胖可丁,官方
+宝可梦,41,Zubat,Zubat,超音蝠,官方
+宝可梦,42,Golbat,Golbat,大嘴蝠,官方
+宝可梦,43,Oddish,Oddish,走路草,官方
+宝可梦,44,Gloom,Gloom,臭臭花,官方
+宝可梦,45,Vileplume,Vileplume,霸王花,官方
+宝可梦,46,Paras,Paras,派拉斯,官方
+宝可梦,47,Parasect,Parasect,派拉斯特,官方
+宝可梦,48,Venonat,Venonat,毛球,官方
+宝可梦,49,Venomoth,Venomoth,摩鲁蛾,官方
+宝可梦,50,Diglett,Diglett,地鼠,官方
+宝可梦,51,Dugtrio,Dugtrio,三地鼠,官方
+宝可梦,52,Meowth,Meowth,喵喵,官方
+宝可梦,53,Persian,Persian,猫老大,官方
+宝可梦,54,Psyduck,Psyduck,可达鸭,官方
+宝可梦,55,Golduck,Golduck,哥达鸭,官方
+宝可梦,56,Mankey,Mankey,猴怪,官方
+宝可梦,57,Primeape,Primeape,火暴猴,官方
+宝可梦,58,Growlithe,Growlithe,卡蒂狗,官方
+宝可梦,59,Arcanine,Arcanine,风速狗,官方
+宝可梦,60,Poliwag,Poliwag,蚊香蝌蚪,官方
+宝可梦,61,Poliwhirl,Poliwhirl,蚊香君,官方
+宝可梦,62,Poliwrath,Poliwrath,蚊香泳士,官方
+宝可梦,63,Abra,Abra,凯西,官方
+宝可梦,64,Kadabra,Kadabra,勇基拉,官方
+宝可梦,65,Alakazam,Alakazam,胡地,官方
+宝可梦,66,Machop,Machop,腕力,官方
+宝可梦,67,Machoke,Machoke,豪力,官方
+宝可梦,68,Machamp,Machamp,怪力,官方
+宝可梦,69,Bellsprout,Bellsprout,喇叭芽,官方
+宝可梦,70,Weepinbell,Weepinbell,口呆花,官方
+宝可梦,71,Victreebel,Victreebel,大食花,官方
+宝可梦,72,Tentacool,Tentacool,玛瑙水母,官方
+宝可梦,73,Tentacruel,Tentacruel,毒刺水母,官方
+宝可梦,74,Geodude,Geodude,小拳石,官方
+宝可梦,75,Graveler,Graveler,隆隆石,官方
+宝可梦,76,Golem,Golem,隆隆岩,官方
+宝可梦,77,Ponyta,Ponyta,小火马,官方
+宝可梦,78,Rapidash,Rapidash,烈焰马,官方
+宝可梦,79,Slowpoke,Slowpoke,呆呆兽,官方
+宝可梦,80,Slowbro,Slowbro,呆壳兽,官方
+宝可梦,81,Magnemite,Magnemite,小磁怪,官方
+宝可梦,82,Magneton,Magneton,三合一磁怪,官方
+宝可梦,83,Farfetch'd,Farfetch'd,大葱鸭,官方
+宝可梦,84,Doduo,Doduo,嘟嘟,官方
+宝可梦,85,Dodrio,Dodrio,嘟嘟利,官方
+宝可梦,86,Seel,Seel,小海狮,官方
+宝可梦,87,Dewgong,Dewgong,白海狮,官方
+宝可梦,88,Grimer,Grimer,臭泥,官方
+宝可梦,89,Muk,Muk,臭臭泥,官方
+宝可梦,90,Shellder,Shellder,大舌贝,官方
+宝可梦,91,Cloyster,Cloyster,刺甲贝,官方
+宝可梦,92,Gastly,Gastly,鬼斯,官方
+宝可梦,93,Haunter,Haunter,鬼斯通,官方
+宝可梦,94,Gengar,Gengar,耿鬼,官方
+宝可梦,95,Onix,Onix,大岩蛇,官方
+宝可梦,96,Drowzee,Drowzee,催眠貘,官方
+宝可梦,97,Hypno,Hypno,引梦貘人,官方
+宝可梦,98,Krabby,Krabby,大钳蟹,官方
+宝可梦,99,Kingler,Kingler,巨钳蟹,官方
+宝可梦,100,Voltorb,Voltorb,霹雳电球,官方
+宝可梦,101,Electrode,Electrode,顽皮雷弹,官方
+宝可梦,102,Exeggcute,Exeggcute,蛋蛋,官方
+宝可梦,103,Exeggutor,Exeggutor,椰蛋树,官方
+宝可梦,104,Cubone,Cubone,卡拉卡拉,官方
+宝可梦,105,Marowak,Marowak,嘎啦嘎啦,官方
+宝可梦,106,Hitmonlee,Hitmonlee,飞腿郎,官方
+宝可梦,107,Hitmonchan,Hitmonchan,快拳郎,官方
+宝可梦,108,Lickitung,Lickitung,大舌头,官方
+宝可梦,109,Koffing,Koffing,瓦斯弹,官方
+宝可梦,110,Weezing,Weezing,双弹瓦斯,官方
+宝可梦,111,Rhyhorn,Rhyhorn,独角犀牛,官方
+宝可梦,112,Rhydon,Rhydon,钻角犀兽,官方
+宝可梦,113,Chansey,Chansey,吉利蛋,官方
+宝可梦,114,Tangela,Tangela,蔓藤怪,官方
+宝可梦,115,Kangaskhan,Kangaskhan,袋兽,官方
+宝可梦,116,Horsea,Horsea,墨海马,官方
+宝可梦,117,Seadra,Seadra,海刺龙,官方
+宝可梦,118,Goldeen,Goldeen,角金鱼,官方
+宝可梦,119,Seaking,Seaking,金鱼王,官方
+宝可梦,120,Staryu,Staryu,海星星,官方
+宝可梦,121,Starmie,Starmie,宝石海星,官方
+宝可梦,122,Mr. Mime,Mr. Mime,魔墙人偶,官方
+宝可梦,123,Scyther,Scyther,飞天螳螂,官方
+宝可梦,124,Jynx,Jynx,迷唇姐,官方
+宝可梦,125,Electabuzz,Electabuzz,电击兽,官方
+宝可梦,126,Magmar,Magmar,鸭嘴火兽,官方
+宝可梦,127,Pinsir,Pinsir,凯罗斯,官方
+宝可梦,128,Tauros,Tauros,肯泰罗,官方
+宝可梦,129,Magikarp,Magikarp,鲤鱼王,官方
+宝可梦,130,Gyarados,Gyarados,暴鲤龙,官方
+宝可梦,131,Lapras,Lapras,拉普拉斯,官方
+宝可梦,132,Ditto,Ditto,百变怪,官方
+宝可梦,133,Eevee,Eevee,伊布,官方
+宝可梦,134,Vaporeon,Vaporeon,水伊布,官方
+宝可梦,135,Jolteon,Jolteon,雷伊布,官方
+宝可梦,136,Flareon,Flareon,火伊布,官方
+宝可梦,137,Porygon,Porygon,多边兽,官方
+宝可梦,138,Omanyte,Omanyte,菊石兽,官方
+宝可梦,139,Omastar,Omastar,多刺菊石兽,官方
+宝可梦,140,Kabuto,Kabuto,化石盔,官方
+宝可梦,141,Kabutops,Kabutops,镰刀盔,官方
+宝可梦,142,Aerodactyl,Aerodactyl,化石翼龙,官方
+宝可梦,143,Snorlax,Snorlax,卡比兽,官方
+宝可梦,144,Articuno,Articuno,急冻鸟,官方
+宝可梦,145,Zapdos,Zapdos,闪电鸟,官方
+宝可梦,146,Moltres,Moltres,火焰鸟,官方
+宝可梦,147,Dratini,Dratini,迷你龙,官方
+宝可梦,148,Dragonair,Dragonair,哈克龙,官方
+宝可梦,149,Dragonite,Dragonite,快龙,官方
+宝可梦,150,Mewtwo,Mewtwo,超梦,官方
+宝可梦,151,Mew,Mew,梦幻,官方
+宝可梦,152,Chikorita,Chikorita,菊草叶,官方
+宝可梦,153,Bayleef,Bayleef,月桂叶,官方
+宝可梦,154,Meganium,Meganium,大竺葵,官方
+宝可梦,155,Cyndaquil,Cyndaquil,火球鼠,官方
+宝可梦,156,Quilava,Quilava,火岩鼠,官方
+宝可梦,157,Typhlosion,Typhlosion,火暴兽,官方
+宝可梦,158,Totodile,Totodile,小锯鳄,官方
+宝可梦,159,Croconaw,Croconaw,蓝鳄,官方
+宝可梦,160,Feraligatr,Feraligatr,大力鳄,官方
+宝可梦,161,Sentret,Sentret,尾立,官方
+宝可梦,162,Furret,Furret,大尾立,官方
+宝可梦,163,Hoothoot,Hoothoot,咕咕,官方
+宝可梦,164,Noctowl,Noctowl,猫头夜鹰,官方
+宝可梦,165,Ledyba,Ledyba,芭瓢虫,官方
+宝可梦,166,Ledian,Ledian,安瓢虫,官方
+宝可梦,167,Spinarak,Spinarak,圆丝蛛,官方
+宝可梦,168,Ariados,Ariados,阿利多斯,官方
+宝可梦,169,Crobat,Crobat,叉字蝠,官方
+宝可梦,170,Chinchou,Chinchou,灯笼鱼,官方
+宝可梦,171,Lanturn,Lanturn,电灯怪,官方
+宝可梦,172,Pichu,Pichu,皮丘,官方
+宝可梦,173,Cleffa,Cleffa,皮宝宝,官方
+宝可梦,174,Igglybuff,Igglybuff,宝宝丁,官方
+宝可梦,175,Togepi,Togepi,波克比,官方
+宝可梦,176,Togetic,Togetic,波克基古,官方
+宝可梦,177,Natu,Natu,天然雀,官方
+宝可梦,178,Xatu,Xatu,天然鸟,官方
+宝可梦,179,Mareep,Mareep,咩利羊,官方
+宝可梦,180,Flaaffy,Flaaffy,茸茸羊,官方
+宝可梦,181,Ampharos,Ampharos,电龙,官方
+宝可梦,182,Bellossom,Bellossom,美丽花,官方
+宝可梦,183,Marill,Marill,玛力露,官方
+宝可梦,184,Azumarill,Azumarill,玛力露丽,官方
+宝可梦,185,Sudowoodo,Sudowoodo,树才怪,官方
+宝可梦,186,Politoed,Politoed,蚊香蛙皇,官方
+宝可梦,187,Hoppip,Hoppip,毽子草,官方
+宝可梦,188,Skiploom,Skiploom,毽子花,官方
+宝可梦,189,Jumpluff,Jumpluff,毽子棉,官方
+宝可梦,190,Aipom,Aipom,长尾怪手,官方
+宝可梦,191,Sunkern,Sunkern,向日种子,官方
+宝可梦,192,Sunflora,Sunflora,向日花怪,官方
+宝可梦,193,Yanma,Yanma,蜻蜻蜓,官方
+宝可梦,194,Wooper,Wooper,乌波,官方
+宝可梦,195,Quagsire,Quagsire,沼王,官方
+宝可梦,196,Espeon,Espeon,太阳伊布,官方
+宝可梦,197,Umbreon,Umbreon,月亮伊布,官方
+宝可梦,198,Murkrow,Murkrow,黑暗鸦,官方
+宝可梦,199,Slowking,Slowking,呆呆王,官方
+宝可梦,200,Misdreavus,Misdreavus,梦妖,官方
+宝可梦,201,Unown,Unown,未知图腾,官方
+宝可梦,202,Wobbuffet,Wobbuffet,果然翁,官方
+宝可梦,203,Girafarig,Girafarig,麒麟奇,官方
+宝可梦,204,Pineco,Pineco,榛果球,官方
+宝可梦,205,Forretress,Forretress,佛烈托斯,官方
+宝可梦,206,Dunsparce,Dunsparce,土龙弟弟,官方
+宝可梦,207,Gligar,Gligar,天蝎,官方
+宝可梦,208,Steelix,Steelix,大钢蛇,官方
+宝可梦,209,Snubbull,Snubbull,布鲁,官方
+宝可梦,210,Granbull,Granbull,布鲁皇,官方
+宝可梦,211,Qwilfish,Qwilfish,千针鱼,官方
+宝可梦,212,Scizor,Scizor,巨钳螳螂,官方
+宝可梦,213,Shuckle,Shuckle,壶壶,官方
+宝可梦,214,Heracross,Heracross,赫拉克罗斯,官方
+宝可梦,215,Sneasel,Sneasel,狃拉,官方
+宝可梦,216,Teddiursa,Teddiursa,熊宝宝,官方
+宝可梦,217,Ursaring,Ursaring,圈圈熊,官方
+宝可梦,218,Slugma,Slugma,熔岩虫,官方
+宝可梦,219,Magcargo,Magcargo,熔岩蜗牛,官方
+宝可梦,220,Swinub,Swinub,小山猪,官方
+宝可梦,221,Piloswine,Piloswine,长毛猪,官方
+宝可梦,222,Corsola,Corsola,太阳珊瑚,官方
+宝可梦,223,Remoraid,Remoraid,铁炮鱼,官方
+宝可梦,224,Octillery,Octillery,章鱼桶,官方
+宝可梦,225,Delibird,Delibird,信使鸟,官方
+宝可梦,226,Mantine,Mantine,巨翅飞鱼,官方
+宝可梦,227,Skarmory,Skarmory,盔甲鸟,官方
+宝可梦,228,Houndour,Houndour,戴鲁比,官方
+宝可梦,229,Houndoom,Houndoom,黑鲁加,官方
+宝可梦,230,Kingdra,Kingdra,刺龙王,官方
+宝可梦,231,Phanpy,Phanpy,小小象,官方
+宝可梦,232,Donphan,Donphan,顿甲,官方
+宝可梦,233,Porygon2,Porygon2,多边兽２型,官方
+宝可梦,234,Stantler,Stantler,惊角鹿,官方
+宝可梦,235,Smeargle,Smeargle,图图犬,官方
+宝可梦,236,Tyrogue,Tyrogue,无畏小子,官方
+宝可梦,237,Hitmontop,Hitmontop,战舞郎,官方
+宝可梦,238,Smoochum,Smoochum,迷唇娃,官方
+宝可梦,239,Elekid,Elekid,电击怪,官方
+宝可梦,240,Magby,Magby,鸭嘴宝宝,官方
+宝可梦,241,Miltank,Miltank,大奶罐,官方
+宝可梦,242,Blissey,Blissey,幸福蛋,官方
+宝可梦,243,Raikou,Raikou,雷公,官方
+宝可梦,244,Entei,Entei,炎帝,官方
+宝可梦,245,Suicune,Suicune,水君,官方
+宝可梦,246,Larvitar,Larvitar,幼基拉斯,官方
+宝可梦,247,Pupitar,Pupitar,沙基拉斯,官方
+宝可梦,248,Tyranitar,Tyranitar,班基拉斯,官方
+宝可梦,249,Lugia,Lugia,洛奇亚,官方
+宝可梦,250,Ho-Oh,Ho-Oh,凤王,官方
+宝可梦,251,Celebi,Celebi,时拉比,官方
+宝可梦,252,Treecko,Treecko,木守宫,官方
+宝可梦,253,Grovyle,Grovyle,森林蜥蜴,官方
+宝可梦,254,Sceptile,Sceptile,蜥蜴王,官方
+宝可梦,255,Torchic,Torchic,火稚鸡,官方
+宝可梦,256,Combusken,Combusken,力壮鸡,官方
+宝可梦,257,Blaziken,Blaziken,火焰鸡,官方
+宝可梦,258,Mudkip,Mudkip,水跃鱼,官方
+宝可梦,259,Marshtomp,Marshtomp,沼跃鱼,官方
+宝可梦,260,Swampert,Swampert,巨沼怪,官方
+宝可梦,261,Poochyena,Poochyena,土狼犬,官方
+宝可梦,262,Mightyena,Mightyena,大狼犬,官方
+宝可梦,263,Zigzagoon,Zigzagoon,蛇纹熊,官方
+宝可梦,264,Linoone,Linoone,直冲熊,官方
+宝可梦,265,Wurmple,Wurmple,刺尾虫,官方
+宝可梦,266,Silcoon,Silcoon,甲壳茧,官方
+宝可梦,267,Beautifly,Beautifly,狩猎凤蝶,官方
+宝可梦,268,Cascoon,Cascoon,盾甲茧,官方
+宝可梦,269,Dustox,Dustox,毒粉蛾,官方
+宝可梦,270,Lotad,Lotad,莲叶童子,官方
+宝可梦,271,Lombre,Lombre,莲帽小童,官方
+宝可梦,272,Ludicolo,Ludicolo,乐天河童,官方
+宝可梦,273,Seedot,Seedot,橡实果,官方
+宝可梦,274,Nuzleaf,Nuzleaf,长鼻叶,官方
+宝可梦,275,Shiftry,Shiftry,狡猾天狗,官方
+宝可梦,276,Taillow,Taillow,傲骨燕,官方
+宝可梦,277,Swellow,Swellow,大王燕,官方
+宝可梦,278,Wingull,Wingull,长翅鸥,官方
+宝可梦,279,Pelipper,Pelipper,大嘴鸥,官方
+宝可梦,280,Ralts,Ralts,拉鲁拉丝,官方
+宝可梦,281,Kirlia,Kirlia,奇鲁莉安,官方
+宝可梦,282,Gardevoir,Gardevoir,沙奈朵,官方
+宝可梦,283,Surskit,Surskit,溜溜糖球,官方
+宝可梦,284,Masquerain,Masquerain,雨翅蛾,官方
+宝可梦,285,Shroomish,Shroomish,蘑蘑菇,官方
+宝可梦,286,Breloom,Breloom,斗笠菇,官方
+宝可梦,287,Slakoth,Slakoth,懒人獭,官方
+宝可梦,288,Vigoroth,Vigoroth,过动猿,官方
+宝可梦,289,Slaking,Slaking,请假王,官方
+宝可梦,290,Nincada,Nincada,土居忍士,官方
+宝可梦,291,Ninjask,Ninjask,铁面忍者,官方
+宝可梦,292,Shedinja,Shedinja,脱壳忍者,官方
+宝可梦,293,Whismur,Whismur,咕妞妞,官方
+宝可梦,294,Loudred,Loudred,吼爆弹,官方
+宝可梦,295,Exploud,Exploud,爆音怪,官方
+宝可梦,296,Makuhita,Makuhita,幕下力士,官方
+宝可梦,297,Hariyama,Hariyama,铁掌力士,官方
+宝可梦,298,Azurill,Azurill,露力丽,官方
+宝可梦,299,Nosepass,Nosepass,朝北鼻,官方
+宝可梦,300,Skitty,Skitty,向尾喵,官方
+宝可梦,301,Delcatty,Delcatty,优雅猫,官方
+宝可梦,302,Sableye,Sableye,勾魂眼,官方
+宝可梦,303,Mawile,Mawile,大嘴娃,官方
+宝可梦,304,Aron,Aron,可可多拉,官方
+宝可梦,305,Lairon,Lairon,可多拉,官方
+宝可梦,306,Aggron,Aggron,波士可多拉,官方
+宝可梦,307,Meditite,Meditite,玛沙那,官方
+宝可梦,308,Medicham,Medicham,恰雷姆,官方
+宝可梦,309,Electrike,Electrike,落雷兽,官方
+宝可梦,310,Manectric,Manectric,雷电兽,官方
+宝可梦,311,Plusle,Plusle,正电拍拍,官方
+宝可梦,312,Minun,Minun,负电拍拍,官方
+宝可梦,313,Volbeat,Volbeat,电萤虫,官方
+宝可梦,314,Illumise,Illumise,甜甜萤,官方
+宝可梦,315,Roselia,Roselia,毒蔷薇,官方
+宝可梦,316,Gulpin,Gulpin,溶食兽,官方
+宝可梦,317,Swalot,Swalot,吞食兽,官方
+宝可梦,318,Carvanha,Carvanha,利牙鱼,官方
+宝可梦,319,Sharpedo,Sharpedo,巨牙鲨,官方
+宝可梦,320,Wailmer,Wailmer,吼吼鲸,官方
+宝可梦,321,Wailord,Wailord,吼鲸王,官方
+宝可梦,322,Numel,Numel,呆火驼,官方
+宝可梦,323,Camerupt,Camerupt,喷火驼,官方
+宝可梦,324,Torkoal,Torkoal,煤炭龟,官方
+宝可梦,325,Spoink,Spoink,跳跳猪,官方
+宝可梦,326,Grumpig,Grumpig,噗噗猪,官方
+宝可梦,327,Spinda,Spinda,晃晃斑,官方
+宝可梦,328,Trapinch,Trapinch,大颚蚁,官方
+宝可梦,329,Vibrava,Vibrava,超音波幼虫,官方
+宝可梦,330,Flygon,Flygon,沙漠蜻蜓,官方
+宝可梦,331,Cacnea,Cacnea,刺球仙人掌,官方
+宝可梦,332,Cacturne,Cacturne,梦歌仙人掌,官方
+宝可梦,333,Swablu,Swablu,青绵鸟,官方
+宝可梦,334,Altaria,Altaria,七夕青鸟,官方
+宝可梦,335,Zangoose,Zangoose,猫鼬斩,官方
+宝可梦,336,Seviper,Seviper,饭匙蛇,官方
+宝可梦,337,Lunatone,Lunatone,月石,官方
+宝可梦,338,Solrock,Solrock,太阳岩,官方
+宝可梦,339,Barboach,Barboach,泥泥鳅,官方
+宝可梦,340,Whiscash,Whiscash,鲶鱼王,官方
+宝可梦,341,Corphish,Corphish,龙虾小兵,官方
+宝可梦,342,Crawdaunt,Crawdaunt,铁螯龙虾,官方
+宝可梦,343,Baltoy,Baltoy,天秤偶,官方
+宝可梦,344,Claydol,Claydol,念力土偶,官方
+宝可梦,345,Lileep,Lileep,触手百合,官方
+宝可梦,346,Cradily,Cradily,摇篮百合,官方
+宝可梦,347,Anorith,Anorith,太古羽虫,官方
+宝可梦,348,Armaldo,Armaldo,太古盔甲,官方
+宝可梦,349,Feebas,Feebas,丑丑鱼,官方
+宝可梦,350,Milotic,Milotic,美纳斯,官方
+宝可梦,351,Castform,Castform,飘浮泡泡,官方
+宝可梦,352,Kecleon,Kecleon,变隐龙,官方
+宝可梦,353,Shuppet,Shuppet,怨影娃娃,官方
+宝可梦,354,Banette,Banette,诅咒娃娃,官方
+宝可梦,355,Duskull,Duskull,夜巡灵,官方
+宝可梦,356,Dusclops,Dusclops,彷徨夜灵,官方
+宝可梦,357,Tropius,Tropius,热带龙,官方
+宝可梦,358,Chimecho,Chimecho,风铃铃,官方
+宝可梦,359,Absol,Absol,阿勃梭鲁,官方
+宝可梦,360,Wynaut,Wynaut,小果然,官方
+宝可梦,361,Snorunt,Snorunt,雪童子,官方
+宝可梦,362,Glalie,Glalie,冰鬼护,官方
+宝可梦,363,Spheal,Spheal,海豹球,官方
+宝可梦,364,Sealeo,Sealeo,海魔狮,官方
+宝可梦,365,Walrein,Walrein,帝牙海狮,官方
+宝可梦,366,Clamperl,Clamperl,珍珠贝,官方
+宝可梦,367,Huntail,Huntail,猎斑鱼,官方
+宝可梦,368,Gorebyss,Gorebyss,樱花鱼,官方
+宝可梦,369,Relicanth,Relicanth,古空棘鱼,官方
+宝可梦,370,Luvdisc,Luvdisc,爱心鱼,官方
+宝可梦,371,Bagon,Bagon,宝贝龙,官方
+宝可梦,372,Shelgon,Shelgon,甲壳龙,官方
+宝可梦,373,Salamence,Salamence,暴飞龙,官方
+宝可梦,374,Beldum,Beldum,铁哑铃,官方
+宝可梦,375,Metang,Metang,金属怪,官方
+宝可梦,376,Metagross,Metagross,巨金怪,官方
+宝可梦,377,Regirock,Regirock,雷吉洛克,官方
+宝可梦,378,Regice,Regice,雷吉艾斯,官方
+宝可梦,379,Registeel,Registeel,雷吉斯奇鲁,官方
+宝可梦,380,Latias,Latias,拉帝亚斯,官方
+宝可梦,381,Latios,Latios,拉帝欧斯,官方
+宝可梦,382,Kyogre,Kyogre,盖欧卡,官方
+宝可梦,383,Groudon,Groudon,固拉多,官方
+宝可梦,384,Rayquaza,Rayquaza,烈空坐,官方
+宝可梦,385,Jirachi,Jirachi,基拉祈,官方
+宝可梦,386,Deoxys,Deoxys,代欧奇希斯,官方
+宝可梦,387,Turtwig,Turtwig,草苗龟,官方
+宝可梦,388,Grotle,Grotle,树林龟,官方
+宝可梦,389,Torterra,Torterra,土台龟,官方
+宝可梦,390,Chimchar,Chimchar,小火焰猴,官方
+宝可梦,391,Monferno,Monferno,猛火猴,官方
+宝可梦,392,Infernape,Infernape,烈焰猴,官方
+宝可梦,393,Piplup,Piplup,波加曼,官方
+宝可梦,394,Prinplup,Prinplup,波皇子,官方
+宝可梦,395,Empoleon,Empoleon,帝王拿波,官方
+宝可梦,396,Starly,Starly,姆克儿,官方
+宝可梦,397,Staravia,Staravia,姆克鸟,官方
+宝可梦,398,Staraptor,Staraptor,姆克鹰,官方
+宝可梦,399,Bidoof,Bidoof,大牙狸,官方
+宝可梦,400,Bibarel,Bibarel,大尾狸,官方
+宝可梦,401,Kricketot,Kricketot,圆法师,官方
+宝可梦,402,Kricketune,Kricketune,音箱蟀,官方
+宝可梦,403,Shinx,Shinx,小猫怪,官方
+宝可梦,404,Luxio,Luxio,勒克猫,官方
+宝可梦,405,Luxray,Luxray,伦琴猫,官方
+宝可梦,406,Budew,Budew,含羞苞,官方
+宝可梦,407,Roserade,Roserade,罗丝雷朵,官方
+宝可梦,408,Cranidos,Cranidos,头盖龙,官方
+宝可梦,409,Rampardos,Rampardos,战槌龙,官方
+宝可梦,410,Shieldon,Shieldon,盾甲龙,官方
+宝可梦,411,Bastiodon,Bastiodon,护城龙,官方
+宝可梦,412,Burmy,Burmy,结草儿,官方
+宝可梦,413,Wormadam,Wormadam,结草贵妇,官方
+宝可梦,414,Mothim,Mothim,绅士蛾,官方
+宝可梦,415,Combee,Combee,三蜜蜂,官方
+宝可梦,416,Vespiquen,Vespiquen,蜂女王,官方
+宝可梦,417,Pachirisu,Pachirisu,帕奇利兹,官方
+宝可梦,418,Buizel,Buizel,泳圈鼬,官方
+宝可梦,419,Floatzel,Floatzel,浮潜鼬,官方
+宝可梦,420,Cherubi,Cherubi,樱花宝,官方
+宝可梦,421,Cherrim,Cherrim,樱花儿,官方
+宝可梦,422,Shellos,Shellos,无壳海兔,官方
+宝可梦,423,Gastrodon,Gastrodon,海兔兽,官方
+宝可梦,424,Ambipom,Ambipom,双尾怪手,官方
+宝可梦,425,Drifloon,Drifloon,飘飘球,官方
+宝可梦,426,Drifblim,Drifblim,随风球,官方
+宝可梦,427,Buneary,Buneary,卷卷耳,官方
+宝可梦,428,Lopunny,Lopunny,长耳兔,官方
+宝可梦,429,Mismagius,Mismagius,梦妖魔,官方
+宝可梦,430,Honchkrow,Honchkrow,乌鸦头头,官方
+宝可梦,431,Glameow,Glameow,魅力喵,官方
+宝可梦,432,Purugly,Purugly,东施喵,官方
+宝可梦,433,Chingling,Chingling,铃铛响,官方
+宝可梦,434,Stunky,Stunky,臭鼬噗,官方
+宝可梦,435,Skuntank,Skuntank,坦克臭鼬,官方
+宝可梦,436,Bronzor,Bronzor,铜镜怪,官方
+宝可梦,437,Bronzong,Bronzong,青铜钟,官方
+宝可梦,438,Bonsly,Bonsly,盆才怪,官方
+宝可梦,439,Mime Jr.,Mime Jr.,魔尼尼,官方
+宝可梦,440,Happiny,Happiny,小福蛋,官方
+宝可梦,441,Chatot,Chatot,聒噪鸟,官方
+宝可梦,442,Spiritomb,Spiritomb,花岩怪,官方
+宝可梦,443,Gible,Gible,圆陆鲨,官方
+宝可梦,444,Gabite,Gabite,尖牙陆鲨,官方
+宝可梦,445,Garchomp,Garchomp,烈咬陆鲨,官方
+宝可梦,446,Munchlax,Munchlax,小卡比兽,官方
+宝可梦,447,Riolu,Riolu,利欧路,官方
+宝可梦,448,Lucario,Lucario,路卡利欧,官方
+宝可梦,449,Hippopotas,Hippopotas,沙河马,官方
+宝可梦,450,Hippowdon,Hippowdon,河马兽,官方
+宝可梦,451,Skorupi,Skorupi,钳尾蝎,官方
+宝可梦,452,Drapion,Drapion,龙王蝎,官方
+宝可梦,453,Croagunk,Croagunk,不良蛙,官方
+宝可梦,454,Toxicroak,Toxicroak,毒骷蛙,官方
+宝可梦,455,Carnivine,Carnivine,尖牙笼,官方
+宝可梦,456,Finneon,Finneon,荧光鱼,官方
+宝可梦,457,Lumineon,Lumineon,霓虹鱼,官方
+宝可梦,458,Mantyke,Mantyke,小球飞鱼,官方
+宝可梦,459,Snover,Snover,雪笠怪,官方
+宝可梦,460,Abomasnow,Abomasnow,暴雪王,官方
+宝可梦,461,Weavile,Weavile,玛狃拉,官方
+宝可梦,462,Magnezone,Magnezone,自爆磁怪,官方
+宝可梦,463,Lickilicky,Lickilicky,大舌舔,官方
+宝可梦,464,Rhyperior,Rhyperior,超甲狂犀,官方
+宝可梦,465,Tangrowth,Tangrowth,巨蔓藤,官方
+宝可梦,466,Electivire,Electivire,电击魔兽,官方
+宝可梦,467,Magmortar,Magmortar,鸭嘴炎兽,官方
+宝可梦,468,Togekiss,Togekiss,波克基斯,官方
+宝可梦,469,Yanmega,Yanmega,远古巨蜓,官方
+宝可梦,470,Leafeon,Leafeon,叶伊布,官方
+宝可梦,471,Glaceon,Glaceon,冰伊布,官方
+宝可梦,472,Gliscor,Gliscor,天蝎王,官方
+宝可梦,473,Mamoswine,Mamoswine,象牙猪,官方
+宝可梦,474,Porygon-Z,Porygon-Z,多边兽乙型,官方
+宝可梦,475,Gallade,Gallade,艾路雷朵,官方
+宝可梦,476,Probopass,Probopass,大朝北鼻,官方
+宝可梦,477,Dusknoir,Dusknoir,黑夜魔灵,官方
+宝可梦,478,Froslass,Froslass,雪妖女,官方
+宝可梦,479,Rotom,Rotom,洛托姆,官方
+宝可梦,480,Uxie,Uxie,由克希,官方
+宝可梦,481,Mesprit,Mesprit,艾姆利多,官方
+宝可梦,482,Azelf,Azelf,亚克诺姆,官方
+宝可梦,483,Dialga,Dialga,帝牙卢卡,官方
+宝可梦,484,Palkia,Palkia,帕路奇亚,官方
+宝可梦,485,Heatran,Heatran,席多蓝恩,官方
+宝可梦,486,Regigigas,Regigigas,雷吉奇卡斯,官方
+宝可梦,487,Giratina,Giratina,骑拉帝纳,官方
+宝可梦,488,Cresselia,Cresselia,克雷色利亚,官方
+宝可梦,489,Phione,Phione,霏欧纳,官方
+宝可梦,490,Manaphy,Manaphy,玛纳霏,官方
+宝可梦,491,Darkrai,Darkrai,达克莱伊,官方
+宝可梦,492,Shaymin,Shaymin,谢米,官方
+宝可梦,493,Arceus,Arceus,阿尔宙斯,官方
+宝可梦,494,Terodactyl,Terodactyl,幼翼龙,自译：化石翼龙的退化型
+宝可梦,495,Pikablue,Pikablue,皮卡蓝,自译：皮卡丘的恶属性进化型，Pika+blue
+宝可梦,496,Ghost,Ghost,幽灵,官方（初代紫苑镇宝可梦塔的“幽灵”）
+宝可梦,497,Pryncice,Pryncice,迷唇公主,自译：迷唇姐的冰/超能进化型，princess+ice
+宝可梦,499,Latly,Latly,小拉帝,自译：拉帝亚斯/拉帝欧斯的幼年型
+宝可梦,500,Mewthree,Mewthree,超梦三,自译：超梦的进化型
+宝可梦,501,Zorua,Zorua,索罗亚,官方
+宝可梦,502,Zoroark,Zoroark,索罗亚克,官方
+宝可梦,503,Kytto,Kytto,百变飞怪,自译：百变怪的飞行进化型
+宝可梦,504,Orphegasus,Orphegasus,烈焰天马,自译：烈焰马的进化型，飞马
+宝可梦,505,Eeveon,Eeveon,进化伊布,自译：伊布的一般属性进化型
+宝可梦,506,Phanteon,Phanteon,幽伊布,自译：幽灵属性伊布
+宝可梦,507,Drakeon,Drakeon,龙伊布,自译：龙属性伊布
+宝可梦,508,Rockeon,Rockeon,岩伊布,自译：岩石属性伊布
+宝可梦,509,Rekivolt,Rekivolt,伏特岩,自译：电/岩石，rocky+volt
+宝可梦,510,Tursoot,Tursoot,煤灰龟,自译：火属性龟，turtle+soot
+宝可梦,511,Torkore,Torkore,熔核龟,自译：煤炭龟的火/钢进化型，tortoise+core
+宝可梦,512,Scyclaw,Scyclaw,毒爪螳螂,自译：飞天螳螂的钢/毒分支进化
+宝可梦,513,Betearow,Betearow,暗嘴雀,自译：大嘴雀的恶/飞行进化型
+宝可梦,514,Harfetch'd,Harfetch'd,天葱鸭,自译：大葱鸭的草/飞行进化型（旧名 Skyleaf'd）
+宝可梦,515,Chartfortt,Chartfortt,和弦鸟,自译：聒噪鸟的进化型，chord chart
+宝可梦,516,Psicovenom,Psicovenom,念毒兽,自译：毒/超能传说宝可梦
+宝可梦,517,Gripherial,Gripherial,冰炎狮鹫,自译：冰/火传说宝可梦，griffin
+宝可梦,518,Snivy,Snivy,藤藤蛇,官方
+宝可梦,519,Servine,Servine,青藤蛇,官方
+宝可梦,520,Serperior,Serperior,君主蛇,官方
+宝可梦,521,Tepig,Tepig,暖暖猪,官方
+宝可梦,522,Pignite,Pignite,炒炒猪,官方
+宝可梦,523,Emboar,Emboar,炎武王,官方
+宝可梦,524,Oshawott,Oshawott,水水獭,官方
+宝可梦,525,Dewott,Dewott,双刃丸,官方
+宝可梦,526,Samurott,Samurott,大剑鬼,官方
+宝可梦,527,Drilbur,Drilbur,螺钉地鼠,官方
+宝可梦,528,Excadrill,Excadrill,龙头地鼠,官方
+宝可梦,529,Sandile,Sandile,黑眼鳄,官方
+宝可梦,530,Krokorok,Krokorok,混混鳄,官方
+宝可梦,531,Krookodile,Krookodile,流氓鳄,官方
+宝可梦,532,Litwick,Litwick,烛光灵,官方
+宝可梦,533,Lampent,Lampent,灯火幽灵,官方
+宝可梦,534,Chandelure,Chandelure,水晶灯火灵,官方
+宝可梦,535,Axew,Axew,牙牙,官方
+宝可梦,536,Fraxure,Fraxure,斧牙龙,官方
+宝可梦,537,Haxorus,Haxorus,双斧战龙,官方
+宝可梦,538,Deino,Deino,单首龙,官方
+宝可梦,539,Zweilous,Zweilous,双首暴龙,官方
+宝可梦,540,Hydreigon,Hydreigon,三首恶龙,官方
+宝可梦,541,Larvesta,Larvesta,燃烧虫,官方
+宝可梦,542,Volcarona,Volcarona,火神蛾,官方
+宝可梦,543,Reshiram,Reshiram,莱希拉姆,官方
+宝可梦,544,Zekrom,Zekrom,捷克罗姆,官方
+宝可梦,545,Kyurem,Kyurem,酋雷姆,官方
+宝可梦,546,Keldeo,Keldeo,凯路迪欧,官方
+宝可梦,551,Joltik,Joltik,电电虫,官方
+宝可梦,552,Galvantula,Galvantula,电蜘蛛,官方
+宝可梦,553,Pansage,Pansage,花椰猴,官方
+宝可梦,554,Simisage,Simisage,花椰猿,官方
+宝可梦,555,Pansear,Pansear,爆香猴,官方
+宝可梦,556,Simisear,Simisear,爆香猿,官方
+宝可梦,557,Panpour,Panpour,冷水猴,官方
+宝可梦,558,Simipour,Simipour,冷水猿,官方
+宝可梦,559,Emolga,Emolga,电飞鼠,官方
+宝可梦,560,Victini,Victini,比克提尼,官方
+宝可梦,561,Roggenrola,Roggenrola,石丸子,官方
+宝可梦,562,Boldore,Boldore,地幔岩,官方
+宝可梦,563,Gigalith,Gigalith,庞岩怪,官方
+宝可梦,564,Timburr,Timburr,搬运小匠,官方
+宝可梦,565,Gurdurr,Gurdurr,铁骨土人,官方
+宝可梦,566,Conkeldurr,Conkeldurr,修建老匠,官方
+宝可梦,572,Throh,Throh,投摔鬼,官方
+宝可梦,573,Sawk,Sawk,打击鬼,官方
+宝可梦,574,Solosis,Solosis,单卵细胞球,官方
+宝可梦,575,Duosion,Duosion,双卵细胞球,官方
+宝可梦,576,Reuniclus,Reuniclus,人造细胞卵,官方
+宝可梦,577,Gothita,Gothita,哥德宝宝,官方
+宝可梦,578,Gothorita,Gothorita,哥德小童,官方
+宝可梦,579,Gothitelle,Gothitelle,哥德小姐,官方
+宝可梦,580,Trubbish,Trubbish,破破袋,官方
+宝可梦,581,Garbodor,Garbodor,灰尘山,官方
+宝可梦,582,Dwebble,Dwebble,石居蟹,官方
+宝可梦,583,Crustle,Crustle,岩殿居蟹,官方
+宝可梦,584,Druddigon,Druddigon,赤面龙,官方
+宝可梦,588,Darumaka,Darumaka,火红不倒翁,官方
+宝可梦,589,Darmanitan,Darmanitan,达摩狒狒,官方
+宝可梦,590,Scraggy,Scraggy,滑滑小子,官方
+宝可梦,591,Scrafty,Scrafty,头巾混混,官方
+宝可梦,592,Deerling,Deerling,四季鹿,官方
+宝可梦,593,Sawsbuck,Sawsbuck,萌芽鹿,官方
+宝可梦,594,Foongus,Foongus,哎呀球菇,官方
+宝可梦,595,Amoonguss,Amoonguss,败露球菇,官方
+宝可梦,596,Karrablast,Karrablast,盖盖虫,官方
+宝可梦,597,Escavalier,Escavalier,骑士蜗牛,官方
+宝可梦,598,Shelmet,Shelmet,小嘴蜗,官方
+宝可梦,599,Accelgor,Accelgor,敏捷虫,官方
+宝可梦,600,Sigilyph,Sigilyph,象征鸟,官方
+宝可梦,629,Purrloin,Purrloin,扒手猫,官方
+宝可梦,630,Liepard,Liepard,酷豹,官方
+宝可梦,631,Patrat,Patrat,探探鼠,官方
+宝可梦,632,Watchog,Watchog,步哨鼠,官方
+宝可梦,633,Lillipup,Lillipup,小约克,官方
+宝可梦,634,Herdier,Herdier,哈约克,官方
+宝可梦,635,Stoutland,Stoutland,长毛狗,官方
+宝可梦,636,Munna,Munna,食梦梦,官方
+宝可梦,637,Musharna,Musharna,梦梦蚀,官方
+宝可梦,638,Pidove,Pidove,豆豆鸽,官方
+宝可梦,639,Tranquill,Tranquill,咕咕鸽,官方
+宝可梦,640,Unfezant,Unfezant,高傲雉鸡,官方
+宝可梦,641,Blitzle,Blitzle,斑斑马,官方
+宝可梦,642,Zebstrika,Zebstrika,雷电斑马,官方
+宝可梦,643,Woobat,Woobat,滚滚蝙蝠,官方
+宝可梦,644,Swoobat,Swoobat,心蝙蝠,官方
+宝可梦,645,Audino,Audino,差不多娃娃,官方
+宝可梦,646,Tympole,Tympole,圆蝌蚪,官方
+宝可梦,647,Palpitoad,Palpitoad,蓝蟾蜍,官方
+宝可梦,648,Seismitoad,Seismitoad,蟾蜍王,官方
+宝可梦,649,Bouffalant,Bouffalant,爆炸头水牛,官方
+宝可梦,650,Rufflet,Rufflet,毛头小鹰,官方
+宝可梦,651,Braviary,Braviary,勇士雄鹰,官方
+宝可梦,652,Vullaby,Vullaby,秃鹰丫头,官方
+宝可梦,653,Mandibuzz,Mandibuzz,秃鹰娜,官方
+宝可梦,654,Golett,Golett,泥偶小人,官方
+宝可梦,655,Golurk,Golurk,泥偶巨人,官方
+宝可梦,656,Pawniard,Pawniard,驹刀小兵,官方
+宝可梦,657,Bisharp,Bisharp,劈斩司令,官方
+宝可梦,658,Frillish,Frillish,轻飘飘,官方
+宝可梦,659,Jellicent,Jellicent,胖嘟嘟,官方
+宝可梦,662,Heatmor,Heatmor,熔蚁兽,官方
+宝可梦,663,Durant,Durant,铁蚁,官方
+宝可梦,664,Basculin,Basculin,野蛮鲈鱼,官方
+宝可梦,666,Cryogonal,Cryogonal,几何雪花,官方
+宝可梦,667,Sewaddle,Sewaddle,虫宝包,官方
+宝可梦,668,Swadloon,Swadloon,宝包茧,官方
+宝可梦,669,Leavanny,Leavanny,保姆虫,官方
+宝可梦,670,Venipede,Venipede,百足蜈蚣,官方
+宝可梦,671,Whirlipede,Whirlipede,车轮球,官方
+宝可梦,672,Scolipede,Scolipede,蜈蚣王,官方
+宝可梦,673,Cottonee,Cottonee,木棉球,官方
+宝可梦,674,Whimsicott,Whimsicott,风妖精,官方
+宝可梦,675,Petilil,Petilil,百合根娃娃,官方
+宝可梦,676,Lilligant,Lilligant,裙儿小姐,官方
+宝可梦,677,Maractus,Maractus,沙铃仙人掌,官方
+宝可梦,678,Yamask,Yamask,哭哭面具,官方
+宝可梦,679,Cofagrigus,Cofagrigus,迭失棺,官方
+宝可梦,680,Tirtouga,Tirtouga,原盖海龟,官方
+宝可梦,681,Carracosta,Carracosta,肋骨海龟,官方
+宝可梦,682,Archen,Archen,始祖小鸟,官方
+宝可梦,683,Archeops,Archeops,始祖大鸟,官方
+宝可梦,684,Vanillite,Vanillite,迷你冰,官方
+宝可梦,685,Vanillish,Vanillish,多多冰,官方
+宝可梦,686,Vanilluxe,Vanilluxe,双倍多多冰,官方
+宝可梦,687,Ducklett,Ducklett,鸭宝宝,官方
+宝可梦,688,Swanna,Swanna,舞天鹅,官方
+宝可梦,689,Alomomola,Alomomola,保姆曼波,官方
+宝可梦,690,Ferroseed,Ferroseed,种子铁球,官方
+宝可梦,691,Ferrothorn,Ferrothorn,坚果哑铃,官方
+宝可梦,692,Klink,Klink,齿轮儿,官方
+宝可梦,693,Klang,Klang,齿轮组,官方
+宝可梦,694,Klinklang,Klinklang,齿轮怪,官方
+宝可梦,695,Tynamo,Tynamo,麻麻小鱼,官方
+宝可梦,696,Eelektrik,Eelektrik,麻麻鳗,官方
+宝可梦,697,Eelektross,Eelektross,麻麻鳗鱼王,官方
+宝可梦,698,Elgyem,Elgyem,小灰怪,官方
+宝可梦,699,Beheeyem,Beheeyem,大宇怪,官方
+宝可梦,718,Mienfoo,Mienfoo,功夫鼬,官方
+宝可梦,719,Mienshao,Mienshao,师父鼬,官方
+宝可梦,720,Minccino,Minccino,泡沫栗鼠,官方
+宝可梦,721,Cinccino,Cinccino,奇诺栗鼠,官方
+宝可梦,723,Stunfisk,Stunfisk,泥巴鱼,官方
+宝可梦,724,Cubchoo,Cubchoo,喷嚏熊,官方
+宝可梦,725,Beartic,Beartic,冻原熊,官方
+宝可梦,726,Cobalion,Cobalion,勾帕路翁,官方
+宝可梦,727,Terrakion,Terrakion,代拉基翁,官方
+宝可梦,728,Virizion,Virizion,毕力吉翁,官方
+宝可梦,729,Tornadus,Tornadus,龙卷云,官方
+宝可梦,730,Thundurus,Thundurus,雷电云,官方
+宝可梦,731,Landorus,Landorus,土地云,官方
+宝可梦,732,Meloetta,Meloetta,美洛耶塔,官方
+宝可梦,733,Genesect,Genesect,盖诺赛克特,官方
+宝可梦,738,Sylveon,Sylveon,仙子伊布,官方
+宝可梦,743,Xerneas,Xerneas,哲尔尼亚斯,官方
+宝可梦,744,Yveltal,Yveltal,伊裴尔塔尔,官方
+宝可梦,745,Chespin,Chespin,哈力栗,官方
+宝可梦,746,Quilladin,Quilladin,胖胖哈力,官方
+宝可梦,747,Chesnaught,Chesnaught,布里卡隆,官方
+宝可梦,748,Fennekin,Fennekin,火狐狸,官方
+宝可梦,749,Braixen,Braixen,长尾火狐,官方
+宝可梦,750,Delphox,Delphox,妖火红狐,官方
+宝可梦,751,Froakie,Froakie,呱呱泡蛙,官方
+宝可梦,752,Frogadier,Frogadier,呱头蛙,官方
+宝可梦,753,Greninja,Greninja,甲贺忍蛙,官方
+宝可梦,754,Bunnelby,Bunnelby,掘掘兔,官方
+宝可梦,755,Diggersby,Diggersby,掘地兔,官方
+宝可梦,756,Fletchling,Fletchling,小箭雀,官方
+宝可梦,757,Fletchinder,Fletchinder,火箭雀,官方
+宝可梦,758,Talonflame,Talonflame,烈箭鹰,官方
+宝可梦,759,Scatterbug,Scatterbug,粉蝶虫,官方
+宝可梦,760,Spewpa,Spewpa,粉蝶蛹,官方
+宝可梦,761,Vivillon,Vivillon,彩粉蝶,官方
+宝可梦,762,Litleo,Litleo,小狮狮,官方
+宝可梦,763,Pyroar,Pyroar,火炎狮,官方
+宝可梦,764,Flabébé,Flabébé,花蓓蓓,官方
+宝可梦,765,Floette,Floette,花叶蒂,官方
+宝可梦,766,Florges,Florges,花洁夫人,官方
+宝可梦,767,Skiddo,Skiddo,坐骑小羊,官方
+宝可梦,768,Gogoat,Gogoat,坐骑山羊,官方
+宝可梦,769,Pancham,Pancham,顽皮熊猫,官方
+宝可梦,770,Pangoro,Pangoro,霸道熊猫,官方
+宝可梦,771,Furfrou,Furfrou,多丽米亚,官方
+宝可梦,772,Espurr,Espurr,妙喵,官方
+宝可梦,773,Meowstic,Meowstic,超能妙喵,官方
+宝可梦,774,Honedge,Honedge,独剑鞘,官方
+宝可梦,775,Doublade,Doublade,双剑鞘,官方
+宝可梦,776,Aegislash,Aegislash,坚盾剑怪,官方
+宝可梦,777,Spritzee,Spritzee,粉香香,官方
+宝可梦,778,Aromatisse,Aromatisse,芳香精,官方
+宝可梦,779,Swirlix,Swirlix,绵绵泡芙,官方
+宝可梦,780,Slurpuff,Slurpuff,胖甜妮,官方
+宝可梦,781,Inkay,Inkay,好啦鱿,官方
+宝可梦,782,Malamar,Malamar,乌贼王,官方
+宝可梦,783,Binacle,Binacle,龟脚脚,官方
+宝可梦,784,Barbaracle,Barbaracle,龟足巨铠,官方
+宝可梦,785,Skrelp,Skrelp,垃垃藻,官方
+宝可梦,786,Dragalge,Dragalge,毒藻龙,官方
+宝可梦,787,Clauncher,Clauncher,铁臂枪虾,官方
+宝可梦,788,Clawitzer,Clawitzer,钢炮臂虾,官方
+宝可梦,789,Helioptile,Helioptile,伞电蜥,官方
+宝可梦,790,Heliolisk,Heliolisk,光电伞蜥,官方
+宝可梦,791,Tyrunt,Tyrunt,宝宝暴龙,官方
+宝可梦,792,Tyrantrum,Tyrantrum,怪颚龙,官方
+宝可梦,793,Amaura,Amaura,冰雪龙,官方
+宝可梦,794,Aurorus,Aurorus,冰雪巨龙,官方
+宝可梦,795,Hawlucha,Hawlucha,摔角鹰人,官方
+宝可梦,796,Dedenne,Dedenne,咚咚鼠,官方
+宝可梦,797,Carbink,Carbink,小碎钻,官方
+宝可梦,798,Goomy,Goomy,黏黏宝,官方
+宝可梦,799,Sliggoo,Sliggoo,黏美儿,官方
+宝可梦,800,Goodra,Goodra,黏美龙,官方
+宝可梦,801,Klefki,Klefki,钥圈儿,官方
+宝可梦,826,Phantump,Phantump,小木灵,官方
+宝可梦,827,Trevenant,Trevenant,朽木妖,官方
+宝可梦,828,Pumpkaboo,Pumpkaboo,南瓜精,官方
+宝可梦,829,Gourgeist,Gourgeist,南瓜怪人,官方
+宝可梦,830,Bergmite,Bergmite,冰宝,官方
+宝可梦,831,Avalugg,Avalugg,冰岩怪,官方
+宝可梦,832,Noibat,Noibat,嗡蝠,官方
+宝可梦,833,Noivern,Noivern,音波龙,官方
+宝可梦,834,Zygarde,Zygarde,基格尔德,官方
+宝可梦,835,Diancie,Diancie,蒂安希,官方
+宝可梦,836,Hoopa,Hoopa,胡帕,官方
+宝可梦,837,Volcanion,Volcanion,波尔凯尼恩,官方
+宝可梦,890,Kangaskid,Kangaskid,小袋兽,自译：袋兽的幼年型
+宝可梦,900,Dratector,Dratector,龙守卫,自译：龙/格斗，dragon+protector
+宝可梦,901,Rowlet,Rowlet,木木枭,官方
+宝可梦,902,Dartrix,Dartrix,投羽枭,官方
+宝可梦,903,Decidueye,Decidueye,狙射树枭,官方
+宝可梦,904,Litten,Litten,火斑喵,官方
+宝可梦,905,Torracat,Torracat,炎热喵,官方
+宝可梦,906,Incineroar,Incineroar,炽焰咆哮虎,官方
+宝可梦,907,Popplio,Popplio,球球海狮,官方
+宝可梦,908,Brionne,Brionne,花漾海狮,官方
+宝可梦,909,Primarina,Primarina,西狮海壬,官方
+宝可梦,910,Pikipek,Pikipek,小笃儿,官方
+宝可梦,911,Trumbeak,Trumbeak,喇叭啄鸟,官方
+宝可梦,912,Toucannon,Toucannon,铳嘴大鸟,官方
+宝可梦,913,Yungoos,Yungoos,猫鼬少,官方
+宝可梦,914,Gumshoos,Gumshoos,猫鼬探长,官方
+宝可梦,915,Grubbin,Grubbin,强颚鸡母虫,官方
+宝可梦,916,Charjabug,Charjabug,虫电宝,官方
+宝可梦,917,Vikavolt,Vikavolt,锹农炮虫,官方
+宝可梦,918,Crabrawler,Crabrawler,好胜蟹,官方
+宝可梦,919,Crabominable,Crabominable,好胜毛蟹,官方
+宝可梦,920,Oricorio,Oricorio,花舞鸟,官方
+宝可梦,924,Cutiefly,Cutiefly,萌虻,官方
+宝可梦,925,Ribombee,Ribombee,蝶结萌虻,官方
+宝可梦,926,Rockruff,Rockruff,岩狗狗,官方
+宝可梦,927,Lycanroc,Lycanroc,鬃岩狼人,官方
+宝可梦,929,Wishiwashi,Wishiwashi,弱丁鱼,官方
+宝可梦,931,Mareanie,Mareanie,好坏星,官方
+宝可梦,932,Toxapex,Toxapex,超坏星,官方
+宝可梦,933,Mudbray,Mudbray,泥驴仔,官方
+宝可梦,934,Mudsdale,Mudsdale,重泥挽马,官方
+宝可梦,935,Dewpider,Dewpider,滴蛛,官方
+宝可梦,936,Araquanid,Araquanid,滴蛛霸,官方
+宝可梦,937,Fomantis,Fomantis,伪螳草,官方
+宝可梦,938,Lurantis,Lurantis,兰螳花,官方
+宝可梦,939,Morelull,Morelull,睡睡菇,官方
+宝可梦,940,Shiinotic,Shiinotic,灯罩夜菇,官方
+宝可梦,941,Salandit,Salandit,夜盗火蜥,官方
+宝可梦,942,Salazzle,Salazzle,焰后蜥,官方
+宝可梦,943,Stufful,Stufful,童偶熊,官方
+宝可梦,944,Bewear,Bewear,穿着熊,官方
+宝可梦,945,Bounsweet,Bounsweet,甜竹竹,官方
+宝可梦,946,Steenee,Steenee,甜舞妮,官方
+宝可梦,947,Tsareena,Tsareena,甜冷美后,官方
+宝可梦,948,Comfey,Comfey,花疗环环,官方
+宝可梦,949,Oranguru,Oranguru,智挥猩,官方
+宝可梦,950,Passimian,Passimian,投掷猴,官方
+宝可梦,951,Wimpod,Wimpod,胆小虫,官方
+宝可梦,952,Golisopod,Golisopod,具甲武者,官方
+宝可梦,953,Sandygast,Sandygast,沙丘娃,官方
+宝可梦,954,Palossand,Palossand,噬沙堡爷,官方
+宝可梦,955,Pyukumuku,Pyukumuku,拳海参,官方
+宝可梦,956,Type:Null,Código Cero,属性：空,官方
+宝可梦,957,Silvally,Silvally,银伴战兽,官方
+宝可梦,958,Minior,Minior,小陨星,官方
+宝可梦,966,Komala,Komala,树枕尾熊,官方
+宝可梦,967,Turtonator,Turtonator,爆焰龟兽,官方
+宝可梦,968,Togedemaru,Togedemaru,托戈德玛尔,官方
+宝可梦,969,Mimikyu,Mimikyu,谜拟丘,官方
+宝可梦,970,Bruxish,Bruxish,磨牙彩皮鱼,官方
+宝可梦,971,Drampa,Drampa,老翁龙,官方
+宝可梦,972,Dhelmise,Dhelmise,破破舵轮,官方
+宝可梦,973,Jangmo-o,Jangmo-o,心鳞宝,官方
+宝可梦,974,Hakamo-o,Hakamo-o,鳞甲龙,官方
+宝可梦,975,Kommo-o,Kommo-o,杖尾鳞甲龙,官方
+宝可梦,976,Tapu Koko,Tapu Koko,卡璞·鸣鸣,官方
+宝可梦,977,Tapu Lele,Tapu Lele,卡璞·蝶蝶,官方
+宝可梦,978,Tapu Bulu,Tapu Bulu,卡璞·哞哞,官方
+宝可梦,979,Tapu Fini,Tapu Fini,卡璞·鳍鳍,官方
+宝可梦,980,Cosmog,Cosmog,科斯莫古,官方
+宝可梦,981,Cosmoem,Cosmoem,科斯莫姆,官方
+宝可梦,982,Solgaleo,Solgaleo,索尔迦雷欧,官方
+宝可梦,983,Lunala,Lunala,露奈雅拉,官方
+宝可梦,984,Nihilego,Nihilego,虚吾伊德,官方
+宝可梦,985,Buzzwole,Buzzwole,爆肌蚊,官方
+宝可梦,986,Pheromosa,Pheromosa,费洛美螂,官方
+宝可梦,987,Xurkitree,Xurkitree,电束木,官方
+宝可梦,988,Celesteela,Celesteela,铁火辉夜,官方
+宝可梦,989,Kartana,Kartana,纸御剑,官方
+宝可梦,990,Guzzlord,Guzzlord,恶食大王,官方
+宝可梦,991,Necrozma,Necrozma,奈克洛兹玛,官方
+宝可梦,992,Magearna,Magearna,玛机雅娜,官方
+宝可梦,994,Marshadow,Marshadow,玛夏多,官方
+宝可梦,1000,Missigno,Missigno,缺失号码,自译（MissingNo.）
+宝可梦,1037,Iriden,Iriden,芽角鹿,自译：星之地区草属性御三家
+宝可梦,1038,Ceriden,Ceriden,岩角鹿,自译：芽角鹿的草/岩石进化型
+宝可梦,1039,Galocero,Galocero,巨角鹿,自译：岩角鹿的进化型，大角鹿
+宝可梦,1040,Mabonny,Mabonny,魔焰兔,自译：星之地区火属性御三家，魔术师+兔
+宝可梦,1041,Whisbonny,Whisbonny,愿焰兔,自译：魔焰兔的火/妖精进化型，wish+bunny
+宝可梦,1042,Oribonny,Oribonny,灵焰兔,自译：愿焰兔的进化型，Ori（灵魂）
+宝可梦,1043,Ornigrim,Ornigrim,鸭嘴仔,自译：星之地区水属性御三家，鸭嘴兽
+宝可梦,1044,Labrigrim,Labrigrim,鸭嘴拳手,自译：鸭嘴仔的水/格斗进化型
+宝可梦,1045,Ornitaro,Ornitaro,鸭嘴武王,自译：鸭嘴拳手的进化型
+宝可梦,1046,Stakataka,Stakataka,垒磊石,官方
+宝可梦,1047,Blacephalon,Blacephalon,砰头小丑,官方
+宝可梦,1048,Poipole,Poipole,毒贝比,官方
+宝可梦,1049,Naganadel,Naganadel,四颚针龙,官方
+宝可梦,1050,Zeraora,Zeraora,捷拉奥拉,官方
+宝可梦,1054,Aereon,Aereon,风伊布,自译：飞行属性伊布
+宝可梦,1055,Lephideon,Lephideon,蝶伊布,自译：虫属性伊布（鳞翅目）
+宝可梦,1056,Duneon,Duneon,沙伊布,自译：地面属性伊布
+宝可梦,1057,Bandeon,Bandeon,斗伊布,自译：格斗属性伊布
+宝可梦,1058,Lireon,Lireon,毒伊布,自译：毒属性伊布（臭鼬）
+宝可梦,1059,Titaneon,Titaneon,钢伊布,自译：钢属性伊布
+宝可梦,1060,Meltan,Meltan,美录坦,官方
+宝可梦,1061,Melmetal,Melmetal,美录梅塔,官方
+宝可梦,1067,Grookey,Grookey,敲音猴,官方
+宝可梦,1068,Thwackey,Thwackey,啪咚猴,官方
+宝可梦,1069,Rillaboom,Rillaboom,轰擂金刚猩,官方
+宝可梦,1070,Scorbunny,Scorbunny,炎兔儿,官方
+宝可梦,1071,Raboot,Raboot,腾蹴小将,官方
+宝可梦,1072,Cinderace,Cinderace,闪焰王牌,官方
+宝可梦,1073,Sobble,Sobble,泪眼蜥,官方
+宝可梦,1074,Drizzile,Drizzile,变涩蜥,官方
+宝可梦,1075,Inteleon,Inteleon,千面避役,官方
+宝可梦,1076,Skwovet,Skwovet,贪心栗鼠,官方
+宝可梦,1077,Greedent,Greedent,藏饱栗鼠,官方
+宝可梦,1078,Rookidee,Rookidee,稚山雀,官方
+宝可梦,1079,Corvisquire,Corvisquire,蓝鸦,官方
+宝可梦,1080,Corviknight,Corviknight,钢铠鸦,官方
+宝可梦,1081,Blipbug,Blipbug,索侦虫,官方
+宝可梦,1082,Dottler,Dottler,天罩虫,官方
+宝可梦,1083,Orbeetle,Orbeetle,以欧路普,官方
+宝可梦,1084,Nickit,Nickit,狡小狐,官方
+宝可梦,1085,Thievul,Thievul,猾大狐,官方
+宝可梦,1086,Gossifleur,Gossifleur,幼棉棉,官方
+宝可梦,1087,Eldegoss,Eldegoss,白蓬蓬,官方
+宝可梦,1088,Wooloo,Wooloo,毛辫羊,官方
+宝可梦,1089,Dubwool,Dubwool,毛毛角羊,官方
+宝可梦,1090,Chewtle,Chewtle,咬咬龟,官方
+宝可梦,1091,Drednaw,Drednaw,暴噬龟,官方
+宝可梦,1092,Yamper,Yamper,来电汪,官方
+宝可梦,1093,Boltund,Boltund,逐电犬,官方
+宝可梦,1094,Rolycoly,Rolycoly,小炭仔,官方
+宝可梦,1095,Carkol,Carkol,大炭车,官方
+宝可梦,1096,Coalossal,Coalossal,巨炭山,官方
+宝可梦,1097,Applin,Applin,啃果虫,官方
+宝可梦,1098,Flapple,Flapple,苹裹龙,官方
+宝可梦,1099,Appletun,Appletun,丰蜜龙,官方
+宝可梦,1100,Silicobra,Silicobra,沙包蛇,官方
+宝可梦,1101,Sandaconda,Sandaconda,沙螺蟒,官方
+宝可梦,1102,Cramorant,Cramorant,古月鸟,官方
+宝可梦,1103,Arrokuda,Arrokuda,刺梭鱼,官方
+宝可梦,1104,Barraskewda,Barraskewda,戽斗尖梭,官方
+宝可梦,1105,Toxel,Toxel,电音婴,官方
+宝可梦,1106,Toxtricity,Toxtricity,颤弦蝾螈,官方
+宝可梦,1107,Sizzlipede,Sizzlipede,烧火蚣,官方
+宝可梦,1108,Centiskorch,Centiskorch,焚焰蚣,官方
+宝可梦,1109,Clobbopus,Clobbopus,拳拳蛸,官方
+宝可梦,1110,Grapploct,Grapploct,八爪武师,官方
+宝可梦,1111,Sinistea,Sinistea,来悲茶,官方
+宝可梦,1112,Polteageist,Polteageist,怖思壶,官方
+宝可梦,1113,Hatenna,Hatenna,迷布莉姆,官方
+宝可梦,1114,Hattrem,Hattrem,提布莉姆,官方
+宝可梦,1115,Hatterene,Hatterene,布莉姆温,官方
+宝可梦,1116,Impidimp,Impidimp,捣蛋小妖,官方
+宝可梦,1117,Morgrem,Morgrem,诈唬魔,官方
+宝可梦,1118,Grimmsnarl,Grimmsnarl,长毛巨魔,官方
+宝可梦,1121,Obstagoon,Obstagoon,堵拦熊,官方
+宝可梦,1123,Perrserker,Perrserker,喵头目,官方
+宝可梦,1125,Cursola,Cursola,魔灵珊瑚,官方
+宝可梦,1127,Sirfetch'd,Sirfetch'd,葱游兵,官方
+宝可梦,1129,Mr. Rime,Mr. Rime,踏冰人偶,官方
+宝可梦,1136,Runerigus,Runerigus,迭失板,官方
+宝可梦,1138,Milcery,Milcery,小仙奶,官方
+宝可梦,1139,Alcremie,Alcremie,霜奶仙,官方
+宝可梦,1140,Falinks,Falinks,列阵兵,官方
+宝可梦,1141,Pincurchin,Pincurchin,啪嚓海胆,官方
+宝可梦,1142,Snom,Snom,雪吞虫,官方
+宝可梦,1143,Frosmoth,Frosmoth,雪绒蛾,官方
+宝可梦,1144,Stonjourner,Stonjourner,巨石丁,官方
+宝可梦,1145,Eiscue,Eiscue,冰砌鹅,官方
+宝可梦,1146,Indeedee,Indeedee,爱管侍,官方
+宝可梦,1147,Morpeko,Morpeko,莫鲁贝可,官方
+宝可梦,1148,Cufant,Cufant,铜象,官方
+宝可梦,1149,Copperajah,Copperajah,大王铜象,官方
+宝可梦,1150,Dracozolt,Dracozolt,雷鸟龙,官方
+宝可梦,1151,Arctozolt,Arctozolt,雷鸟海兽,官方
+宝可梦,1152,Dracovish,Dracovish,鳃鱼龙,官方
+宝可梦,1153,Arctovish,Arctovish,鳃鱼海兽,官方
+宝可梦,1154,Duraludon,Duraludon,铝钢龙,官方
+宝可梦,1155,Dreepy,Dreepy,多龙梅西亚,官方
+宝可梦,1156,Drakloak,Drakloak,多龙奇,官方
+宝可梦,1157,Dragapult,Dragapult,多龙巴鲁托,官方
+宝可梦,1158,Zacian,Zacian,苍响,官方
+宝可梦,1159,Zamazenta,Zamazenta,藏玛然特,官方
+宝可梦,1160,Eternatus,Eternatus,无极汰那,官方
+宝可梦,1235,Kubfu,Kubfu,熊徒弟,官方
+宝可梦,1236,Urshifu,Urshifu,武道熊师,官方
+宝可梦,1238,Calyrex,Calyrex,蕾冠王,官方
+宝可梦,1242,Regieleki,Regieleki,雷吉艾勒奇,官方
+宝可梦,1243,Regidrago,Regidrago,雷吉铎拉戈,官方
+宝可梦,1244,Zarude,Zarude,萨戮德,官方
+宝可梦,1250,Glastrier,Glastrier,雪暴马,官方
+宝可梦,1251,Spectrier,Spectrier,灵幽马,官方
+宝可梦,1254,Wyrdeer,Wyrdeer,诡角鹿,官方
+宝可梦,1255,Basculegion,Basculegion,幽尾玄鱼,官方
+宝可梦,1256,Kleavor,Kleavor,劈斧螳螂,官方
+宝可梦,1262,Ursaluna,Ursaluna,月月熊,官方
+宝可梦,1264,Sneasler,Sneasler,大狃拉,官方
+宝可梦,1266,Overqwil,Overqwil,万针鱼,官方
+宝可梦,1267,Enamorus,Enamorus,眷恋云,官方
+宝可梦,1282,Unown King,Rey Unown,未知图腾王,自译
+宝可梦,1283,Silver,Silver,小银,自译：洛奇亚的幼年型，取自动画
+宝可梦,1284,Sprigatito,Sprigatito,新叶喵,官方
+宝可梦,1285,Floragato,Floragato,蒂蕾喵,官方
+宝可梦,1286,Meowscarada,Meowscarada,魔幻假面喵,官方
+宝可梦,1287,Fuecoco,Fuecoco,呆火鳄,官方
+宝可梦,1288,Crocalor,Crocalor,炙烫鳄,官方
+宝可梦,1289,Skeledirge,Skeledirge,骨纹巨声鳄,官方
+宝可梦,1290,Quaxly,Quaxly,润水鸭,官方
+宝可梦,1291,Quaxwell,Quaxwell,涌跃鸭,官方
+宝可梦,1292,Quaquaval,Quaquaval,狂欢浪舞鸭,官方
+宝可梦,1293,Lechonk,Lechonk,爱吃豚,官方
+宝可梦,1294,Oinkologne,Oinkologne,飘香豚,官方
+宝可梦,1295,Tarountula,Tarountula,团珠蛛,官方
+宝可梦,1296,Spidops,Spidops,操陷蛛,官方
+宝可梦,1297,Nymble,Nymble,豆蟋蟀,官方
+宝可梦,1298,Lokix,Lokix,烈腿蝗,官方
+宝可梦,1299,Pawmi,Pawmi,布拨,官方
+宝可梦,1300,Pawmo,Pawmo,布土拨,官方
+宝可梦,1301,Pawmot,Pawmot,巴布土拨,官方
+宝可梦,1302,Tandemaus,Tandemaus,一对鼠,官方
+宝可梦,1303,Maushold,Maushold,一家鼠,官方
+宝可梦,1304,Fidough,Fidough,狗仔包,官方
+宝可梦,1305,Dachsbun,Dachsbun,麻花犬,官方
+宝可梦,1306,Smoliv,Smoliv,迷你芙,官方
+宝可梦,1307,Dolliv,Dolliv,奥利纽,官方
+宝可梦,1308,Arboliva,Arboliva,奥利瓦,官方
+宝可梦,1309,Squawkabilly,Squawkabilly,怒鹦哥,官方
+宝可梦,1310,Nacli,Nacli,盐石宝,官方
+宝可梦,1311,Naclstack,Naclstack,盐石垒,官方
+宝可梦,1312,Garganacl,Garganacl,盐石巨灵,官方
+宝可梦,1313,Charcadet,Charcadet,炭小侍,官方
+宝可梦,1314,Armarouge,Armarouge,红莲铠骑,官方
+宝可梦,1315,Ceruledge,Ceruledge,苍炎刃鬼,官方
+宝可梦,1316,Tadbulb,Tadbulb,光蚪仔,官方
+宝可梦,1317,Bellibolt,Bellibolt,电肚蛙,官方
+宝可梦,1318,Wattrel,Wattrel,电海燕,官方
+宝可梦,1319,Kilowattrel,Kilowattrel,大电海燕,官方
+宝可梦,1320,Maschiff,Maschiff,偶叫獒,官方
+宝可梦,1321,Mabosstiff,Mabosstiff,獒教父,官方
+宝可梦,1322,Shroodle,Shroodle,滋汁鼹,官方
+宝可梦,1323,Grafaiai,Grafaiai,涂标客,官方
+宝可梦,1324,Bramblin,Bramblin,纳噬草,官方
+宝可梦,1325,Brambleghast,Brambleghast,怖纳噬草,官方
+宝可梦,1326,Toedscool,Toedscool,原野水母,官方
+宝可梦,1327,Toedscruel,Toedscruel,陆地水母,官方
+宝可梦,1328,Klawf,Klawf,毛崖蟹,官方
+宝可梦,1329,Capsakid,Capsakid,热辣娃,官方
+宝可梦,1330,Scovillain,Scovillain,狠辣椒,官方
+宝可梦,1331,Rellor,Rellor,虫滚泥,官方
+宝可梦,1332,Rabsca,Rabsca,虫甲圣,官方
+宝可梦,1333,Flittle,Flittle,飘飘雏,官方
+宝可梦,1334,Espathra,Espathra,超能艳鸵,官方
+宝可梦,1335,Tinkatink,Tinkatink,小锻匠,官方
+宝可梦,1336,Tinkatuff,Tinkatuff,巧锻匠,官方
+宝可梦,1337,Tinkaton,Tinkaton,巨锻匠,官方
+宝可梦,1338,Wiglett,Wiglett,海地鼠,官方
+宝可梦,1339,Wugtrio,Wugtrio,三海地鼠,官方
+宝可梦,1340,Bombirdier,Bombirdier,下石鸟,官方
+宝可梦,1341,Finizen,Finizen,波普海豚,官方
+宝可梦,1342,Palafin,Palafin,海豚侠,官方
+宝可梦,1343,Varoom,Varoom,噗隆隆,官方
+宝可梦,1344,Revavroom,Revavroom,普隆隆姆,官方
+宝可梦,1345,Cyclizar,Cyclizar,摩托蜥,官方
+宝可梦,1346,Orthworm,Orthworm,拖拖蚓,官方
+宝可梦,1347,Glimmet,Glimmet,晶光芽,官方
+宝可梦,1348,Glimmora,Glimmora,晶光花,官方
+宝可梦,1349,Greavard,Greavard,墓仔狗,官方
+宝可梦,1350,Houndstone,Houndstone,墓扬犬,官方
+宝可梦,1351,Flamigo,Flamigo,缠红鹤,官方
+宝可梦,1352,Cetoddle,Cetoddle,走鲸,官方
+宝可梦,1353,Cetitan,Cetitan,浩大鲸,官方
+宝可梦,1354,Veluza,Veluza,轻身鳕,官方
+宝可梦,1355,Dondozo,Dondozo,吃吼霸,官方
+宝可梦,1356,Tatsugiri,Tatsugiri,米立龙,官方
+宝可梦,1357,Annihilape,Annihilape,弃世猴,官方
+宝可梦,1358,Clodsire,Clodsire,土王,官方
+宝可梦,1359,Farigiraf,Farigiraf,奇麒麟,官方
+宝可梦,1360,Dudunsparce,Dudunsparce,土龙节节,官方
+宝可梦,1361,Kingambit,Kingambit,仆刀将军,官方
+宝可梦,1362,Great Tusk,Colmilargo,雄伟牙,官方
+宝可梦,1363,Scream Tail,Colagrito,吼叫尾,官方
+宝可梦,1364,Brute Bonnet,Furioseta,猛恶菇,官方
+宝可梦,1365,Flutter Mane,Melenaleteo,振翼发,官方
+宝可梦,1366,Slither Wing,Reptalada,爬地翅,官方
+宝可梦,1367,Sandy Shocks,Pelarena,沙铁皮,官方
+宝可梦,1368,Iron Treads,Ferrodada,铁辙迹,官方
+宝可梦,1369,Iron Bundle,Ferrosaco,铁包袱,官方
+宝可梦,1370,Iron Hands,Ferropalmas,铁臂膀,官方
+宝可梦,1371,Iron Jugulis,Ferrocuello,铁脖颈,官方
+宝可梦,1372,Iron Moth,Ferropolilla,铁毒蛾,官方
+宝可梦,1373,Iron Thorns,Ferropúas,铁荆棘,官方
+宝可梦,1374,Frigibax,Frigibax,凉脊龙,官方
+宝可梦,1375,Arctibax,Arctibax,冻脊龙,官方
+宝可梦,1376,Baxcalibur,Baxcalibur,戟脊龙,官方
+宝可梦,1377,Gimmighoul,Gimmighoul,索财灵,官方
+宝可梦,1378,Gholdengo,Gholdengo,赛富豪,官方
+宝可梦,1379,Wo-Chien,Wo-Chien,古简蜗,官方
+宝可梦,1380,Chien-Pao,Chien-Pao,古剑豹,官方
+宝可梦,1381,Ting-Lu,Ting-Lu,古鼎鹿,官方
+宝可梦,1382,Chi-Yu,Chi-Yu,古玉鱼,官方
+宝可梦,1383,Roaring Moon,Bramaluna,轰鸣月,官方
+宝可梦,1384,Iron Valiant,Ferropaladín,铁武者,官方
+宝可梦,1385,Koraidon,Koraidon,故勒顿,官方
+宝可梦,1386,Miraidon,Miraidon,密勒顿,官方
+宝可梦,1401,Raging Bolt,Electrofuria,猛雷鼓,官方
+宝可梦,1402,Gouging Fire,Flamariete,破空焰,官方
+宝可梦,1403,Walking Wake,Ondulagua,波荡水,官方
+宝可梦,1404,Iron Crown,Ferrotesta,铁头壳,官方
+宝可梦,1405,Iron Boulder,Ferromole,铁磐岩,官方
+宝可梦,1406,Iron Leaves,Ferroverdor,铁斑叶,官方
+宝可梦,1407,Archaludon,Archaludon,铝钢桥龙,官方
+宝可梦,1408,Dipplin,Dipplin,裹蜜虫,官方
+宝可梦,1409,Hydrapple,Hydrapple,蜜集大蛇,官方
+宝可梦,1410,Poltchageist,Poltchageist,斯魔茶,官方
+宝可梦,1411,Sinistcha,Sinistcha,来悲粗茶,官方
+宝可梦,1412,Okidogi,Okidogi,够赞狗,官方
+宝可梦,1413,Munkidori,Munkidori,愿增猿,官方
+宝可梦,1414,Fezandipiti,Fezandipiti,吉雉鸡,官方
+宝可梦,1415,Ogerpon,Ogerpon,厄诡椪,官方
+宝可梦,1419,Terapagos,Terapagos,太乐巴戈斯,官方
+宝可梦,1423,Pecharu,Pecharu,桃歹郎,官方（游戏里名字被截短）
+宝可梦,1425,Cryogelix,Cryogelix,大冰蛇,自译：水晶大岩蛇的冰/地面进化型，对应大钢蛇
+宝可梦,1426,Mega Venusaur,Mega Venusaur,超级妙蛙花,规则：超级××
+宝可梦,1427,Mega Charizard X,Mega Charizard X,超级喷火龙X,规则：超级××
+宝可梦,1428,Mega Charizard Y,Mega Charizard Y,超级喷火龙Y,规则：超级××
+宝可梦,1429,Mega Blastoise,Mega Blastoise,超级水箭龟,规则：超级××
+宝可梦,1430,Mega Alakazam,Mega Alakazam,超级胡地,规则：超级××
+宝可梦,1431,Mega Gengar,Mega Gengar,超级耿鬼,规则：超级××
+宝可梦,1432,Mega Kangaskhan,Mega Kangaskhan,超级袋兽,规则：超级××
+宝可梦,1433,Mega Pinsir,Mega Pinsir,超级凯罗斯,规则：超级××
+宝可梦,1434,Mega Gyarados,Mega Gyarados,超级暴鲤龙,规则：超级××
+宝可梦,1435,Mega Aerodactyl,Mega Aerodactyl,超级化石翼龙,规则：超级××
+宝可梦,1436,Mega Mewtwo X,Mega Mewtwo X,超级超梦X,规则：超级××
+宝可梦,1437,Mega Mewtwo Y,Mega Mewtwo Y,超级超梦Y,规则：超级××
+宝可梦,1438,Mega Ampharos,Mega Ampharos,超级电龙,规则：超级××
+宝可梦,1439,Mega Scizor,Mega Scizor,超级巨钳螳螂,规则：超级××
+宝可梦,1440,Mega Heracross,Mega Heracross,超级赫拉克罗斯,规则：超级××
+宝可梦,1441,Mega Houndoom,Mega Houndoom,超级黑鲁加,规则：超级××
+宝可梦,1442,Mega Tyranitar,Mega Tyranitar,超级班基拉斯,规则：超级××
+宝可梦,1443,Mega Blaziken,Mega Blaziken,超级火焰鸡,规则：超级××
+宝可梦,1444,Mega Gardevoir,Mega Gardevoir,超级沙奈朵,规则：超级××
+宝可梦,1445,Mega Mawile,Mega Mawile,超级大嘴娃,规则：超级××
+宝可梦,1446,Mega Aggron,Mega Aggron,超级波士可多拉,规则：超级××
+宝可梦,1447,Mega Medicham,Mega Medicham,超级恰雷姆,规则：超级××
+宝可梦,1448,Mega Manectric,Mega Manectric,超级雷电兽,规则：超级××
+宝可梦,1449,Mega Banette,Mega Banette,超级诅咒娃娃,规则：超级××
+宝可梦,1450,Mega Absol,Mega Absol,超级阿勃梭鲁,规则：超级××
+宝可梦,1451,Mega Garchomp,Mega Garchomp,超级烈咬陆鲨,规则：超级××
+宝可梦,1452,Mega Lucario,Mega Lucario,超级路卡利欧,规则：超级××
+宝可梦,1453,Mega Abomasnow,Mega Abomasnow,超级暴雪王,规则：超级××
+宝可梦,1454,Mega Pikablue,Mega Pikablue,超级皮卡蓝,规则：超级××
+宝可梦,1455,Mega Latias,Mega Latias,超级拉帝亚斯,规则：超级××
+宝可梦,1456,Mega Latios,Mega Latios,超级拉帝欧斯,规则：超级××
+宝可梦,1457,Mega Sceptile,Mega Sceptile,超级蜥蜴王,规则：超级××
+宝可梦,1458,Mega Swampert,Mega Swampert,超级巨沼怪,规则：超级××
+宝可梦,1459,Mega Diancie,Mega Diancie,超级蒂安希,规则：超级××
+宝可梦,1460,Mega Slowbro,Mega Slowbro,超级呆壳兽,规则：超级××
+宝可梦,1461,Mega Metagross,Mega Metagross,超级巨金怪,规则：超级××
+宝可梦,1462,Mega Salamence,Mega Salamence,超级暴飞龙,规则：超级××
+宝可梦,1463,Mega Audino,Mega Audino,超级差不多娃娃,规则：超级××
+宝可梦,1464,Mega Gallade,Mega Gallade,超级艾路雷朵,规则：超级××
+宝可梦,1465,Mega Beedrill,Mega Beedrill,超级大针蜂,规则：超级××
+宝可梦,1466,Mega Pidgeot,Mega Pidgeot,超级大比鸟,规则：超级××
+宝可梦,1467,Mega Steelix,Mega Steelix,超级大钢蛇,规则：超级××
+宝可梦,1468,Mega Glalie,Mega Glalie,超级冰鬼护,规则：超级××
+宝可梦,1469,Mega Sharpedo,Mega Sharpedo,超级巨牙鲨,规则：超级××
+宝可梦,1470,Mega Camerupt,Mega Camerupt,超级喷火驼,规则：超级××
+宝可梦,1471,Mega Altaria,Mega Altaria,超级七夕青鸟,规则：超级××
+宝可梦,1472,Mega Lopunny,Mega Lopunny,超级长耳兔,规则：超级××
+宝可梦,1473,Mega Sableye,Mega Sableye,超级勾魂眼,规则：超级××
+宝可梦,1474,Mega Rayquaza,Mega Rayquaza,超级烈空坐,规则：超级××
+宝可梦,1475,Mega Black Tyranitar,Mega Black Tyranitar,超级黑色班基拉斯,规则：超级××
+宝可梦,1476,Mega Dark Mewtwo X,Mega Dark Mewtwo X,超级暗黑超梦X,规则：超级××
+宝可梦,1477,Mega Dark Mewtwo Y,Mega Dark Mewtwo Y,超级暗黑超梦Y,规则：超级××
+宝可梦,1478,Mega Raichu Z,Mega Raichu Z,超级雷丘Z,规则：超级××
+宝可梦,1479,Mega Raichu A,Mega Raichu A,超级雷丘A,规则：超级××
+宝可梦,1480,Mega Scyclaw,Mega Scyclaw,超级毒爪螳螂,规则：超级××
+宝可梦,1481,Mega Cryogelix,Mega Cryogelix,超级大冰蛇,规则：超级××
+宝可梦,1482,Mega Starmie,Mega Starmie,超级宝石海星,规则：超级××
+宝可梦,1483,Mega Clefable,Mega Clefable,超级皮可西,规则：超级××
+宝可梦,1484,Mega Victreebel,Mega Victreebel,超级大食花,规则：超级××
+宝可梦,1485,Mega Dragonite,Mega Dragonite,超级快龙,规则：超级××
+宝可梦,1486,Mega Skarmory,Mega Skarmory,超级盔甲鸟,规则：超级××
+宝可梦,1487,Mega Chimeco,Mega Chimeco,超级风铃铃,规则：超级××
+宝可梦,1488,Mega Chandelure,Mega Chandelure,超级水晶灯火灵,规则：超级××
+宝可梦,1489,Mega Scrafty,Mega Scrafty,超级头巾混混,规则：超级××
+宝可梦,1490,Mega Pyroar,Mega Pyroar,超级火炎狮,规则：超级××
+宝可梦,1491,Mega Malamar,Mega Malamar,超级乌贼王,规则：超级××
+宝可梦,1492,Mega Hawlucha,Mega Hawlucha,超级摔角鹰人,规则：超级××
+宝可梦,1493,Mega Meganium,Mega Meganium,超级大竺葵,规则：超级××
+宝可梦,1494,Mega Feraligatr,Mega Feraligatr,超级大力鳄,规则：超级××
+宝可梦,1495,Mega Froslass,Mega Froslass,超级雪妖女,规则：超级××
+宝可梦,1496,Mega Emboar,Mega Emboar,超级炎武王,规则：超级××
+宝可梦,1497,Mega Chesnaught,Mega Chesnaught,超级布里卡隆,规则：超级××
+宝可梦,1498,Mega Delphox,Mega Delphox,超级妖火红狐,规则：超级××
+宝可梦,1499,Mega Greninja,Mega Greninja,超级甲贺忍蛙,规则：超级××
+宝可梦,1500,Mega Zeraora,Mega Zeraora,超级捷拉奥拉,规则：超级××
+宝可梦,1501,Mega Falinks,Mega Falinks,超级列阵兵,规则：超级××
+宝可梦,1502,Mega Heatran,Mega Heatran,超级席多蓝恩,规则：超级××
+宝可梦,1503,Mega Golurk,Mega Golurk,超级泥偶巨人,规则：超级××
+宝可梦,1504,Mega Scolipede,Mega Scolipede,超级蜈蚣王,规则：超级××
+宝可梦,1505,Mega Eelektross,Mega Eelektross,超级麻麻鳗鱼王,规则：超级××
+宝可梦,1506,Mega Meowstic,Mega Meowstic,超级超能妙喵,规则：超级××
+宝可梦,1507,Mega Barbaracle,Mega Barbaracle,超级龟足巨铠,规则：超级××
+宝可梦,1508,Mega Dragalge,Mega Dragalge,超级毒藻龙,规则：超级××
+宝可梦,1509,Mega Floette,Mega Floette,超级花叶蒂,规则：超级××
+宝可梦,1510,Mega Crabominable,Mega Crabominable,超级好胜毛蟹,规则：超级××
+宝可梦,1511,Mega Drampa,Mega Drampa,超级老翁龙,规则：超级××
+宝可梦,1512,Mega Zygarde,Mega Zygarde,超级基格尔德,规则：超级××
+宝可梦,1513,Mega Scovillain,Mega Scovillain,超级狠辣椒,规则：超级××
+宝可梦,1514,Mega Glimmora,Mega Glimmora,超级晶光花,规则：超级××
+宝可梦,1515,Mega Baxcalibur,Mega Baxcalibur,超级戟脊龙,规则：超级××
+宝可梦,1516,Mega Raichu X,Mega Raichu X,超级雷丘X,规则：超级××
+宝可梦,1517,Mega Raichu Y,Mega Raichu Y,超级雷丘Y,规则：超级××
+宝可梦,1518,Mega Absol Z,Mega Absol Z,超级阿勃梭鲁Z,规则：超级××
+宝可梦,1519,Mega Garchomp Z,Mega Garchomp Z,超级烈咬陆鲨Z,规则：超级××
+宝可梦,1520,Mega Lucario Z,Mega Lucario Z,超级路卡利欧Z,规则：超级××
+宝可梦,1521,Mega Excadrill,Mega Excadrill,超级龙头地鼠,规则：超级××
+宝可梦,1522,Mega Staraptor,Mega Staraptor,超级姆克鹰,规则：超级××
+宝可梦,1523,Mega Darkrai,Mega Darkrai,超级达克莱伊,规则：超级××
+宝可梦,1524,Venusaur Gigamax,Venusaur Gigamax,超极巨化妙蛙花,规则：超极巨化××
+宝可梦,1525,Charizard Gigamax,Charizard Gigamax,超极巨化喷火龙,规则：超极巨化××
+宝可梦,1526,Blastoise Gigamax,Blastoise Gigamax,超极巨化水箭龟,规则：超极巨化××
+宝可梦,1527,Butterfree Gigamax,Butterfree Gigamax,超极巨化巴大蝶,规则：超极巨化××
+宝可梦,1528,Pikachu Gigamax,Pikachu Gigamax,超极巨化皮卡丘,规则：超极巨化××
+宝可梦,1529,Meowth Gigamax,Meowth Gigamax,超极巨化喵喵,规则：超极巨化××
+宝可梦,1530,Machamp Gigamax,Machamp Gigamax,超极巨化怪力,规则：超极巨化××
+宝可梦,1531,Gengar Gigamax,Gengar Gigamax,超极巨化耿鬼,规则：超极巨化××
+宝可梦,1532,Kingler Gigamax,Kingler Gigamax,超极巨化巨钳蟹,规则：超极巨化××
+宝可梦,1533,Lapras Gigamax,Lapras Gigamax,超极巨化拉普拉斯,规则：超极巨化××
+宝可梦,1534,Eevee Gigamax,Eevee Gigamax,超极巨化伊布,规则：超极巨化××
+宝可梦,1535,Snorlax Gigamax,Snorlax Gigamax,超极巨化卡比兽,规则：超极巨化××
+宝可梦,1536,Garbodor Gigamax,Garbodor Gigamax,超极巨化灰尘山,规则：超极巨化××
+宝可梦,1537,Melmetal Gigamax,Melmetal Gigamax,超极巨化美录梅塔,规则：超极巨化××
+宝可梦,1538,Rillaboom Gigamax,Rillaboom Gigamax,超极巨化轰擂金刚猩,规则：超极巨化××
+宝可梦,1539,Cinderace Gigamax,Cinderace Gigamax,超极巨化闪焰王牌,规则：超极巨化××
+宝可梦,1540,Inteleon Gigamax,Inteleon Gigamax,超极巨化千面避役,规则：超极巨化××
+宝可梦,1541,Corviknight Gigamax,Corviknight Gigamax,超极巨化钢铠鸦,规则：超极巨化××
+宝可梦,1542,Orbeetle Gigamax,Orbeetle Gigamax,超极巨化以欧路普,规则：超极巨化××
+宝可梦,1543,Drednaw Gigamax,Drednaw Gigamax,超极巨化暴噬龟,规则：超极巨化××
+宝可梦,1544,Coalossal Gigamax,Coalossal Gigamax,超极巨化巨炭山,规则：超极巨化××
+宝可梦,1545,Flapple Gigamax,Flapple Gigamax,超极巨化苹裹龙,规则：超极巨化××
+宝可梦,1546,Appletun Gigamax,Appletun Gigamax,超极巨化丰蜜龙,规则：超极巨化××
+宝可梦,1547,Sandaconda Gigamax,Sandaconda Gigamax,超极巨化沙螺蟒,规则：超极巨化××
+宝可梦,1548,Toxtricity Gigamax,Toxtricity Gigamax,超极巨化颤弦蝾螈,规则：超极巨化××
+宝可梦,1549,Centiskorch Gigamax,Centiskorch Gigamax,超极巨化焚焰蚣,规则：超极巨化××
+宝可梦,1550,Hatterene Gigamax,Hatterene Gigamax,超极巨化布莉姆温,规则：超极巨化××
+宝可梦,1551,Grimmsnarl Gigamax,Grimmsnarl Gigamax,超极巨化长毛巨魔,规则：超极巨化××
+宝可梦,1552,Alcremie Gigamax,Alcremie Gigamax,超极巨化霜奶仙,规则：超极巨化××
+宝可梦,1553,Copperajah Gigamax,Copperajah Gigamax,超极巨化大王铜象,规则：超极巨化××
+宝可梦,1554,Duraludon Gigamax,Duraludon Gigamax,超极巨化铝钢龙,规则：超极巨化××
+宝可梦,1555,Eternatus Gigamax,Eternatus Gigamax,超极巨化无极汰那,规则：超极巨化××
+招式,1,Ember,Ascuas,火花,官方
+招式,2,Flamethrower,Lanzallamas,喷射火焰,官方
+招式,3,Fire Blast,Llamarada,大字爆炎,官方
+招式,4,Razor Leaf,Hoja afilada,飞叶快刀,官方
+招式,5,Solar Beam,Rayo solar,日光束,官方
+招式,6,Thunder Shock,Impactrueno,电击,官方
+招式,7,Thunder,Trueno,打雷,官方
+招式,8,Water Gun,Pistola agua,水枪,官方
+招式,9,Surf,Surf,冲浪,官方
+招式,10,Tackle,Placaje,撞击,官方
+招式,11,Quick Attack,Ataque rápido,电光一闪,官方
+招式,12,Leer,Malicioso,瞪眼,官方
+招式,13,Gust,Tornado,起风,官方
+招式,14,Fire Spin,Giro fuego,火焰旋涡,官方
+招式,15,Whirlpool,Torbellino,潮旋,官方
+招式,16,Shadow Ball,Bola sombra,暗影球,官方
+招式,17,Earthquake,Terremoto,地震,官方
+招式,18,Growl,Gruñido,叫声,官方
+招式,19,Vine Whip,Látigo cepa,藤鞭,官方
+招式,20,Bubble Beam,Rayo burbuja,泡沫光线,官方
+招式,21,String Shot,Disparo demora,吐丝,官方
+招式,22,Poison Sting,Picotazo veneno,毒针,官方
+招式,23,Pound,Destructor,拍击,官方
+招式,24,Karate Chop,Golpe kárate,空手劈,官方
+招式,25,Double Slap,Doble bofetón,连环巴掌,官方
+招式,26,Comet Punch,Puño cometa,连续拳,官方
+招式,27,Mega Punch,Megapuño,百万吨重拳,官方
+招式,28,Pay Day,Día de pago,聚宝功,官方
+招式,29,Fire Punch,Puño fuego,火焰拳,官方
+招式,30,Ice Punch,Puño hielo,冰冻拳,官方
+招式,31,Thunder Punch,Puño trueno,雷电拳,官方
+招式,32,Scratch,Arañazo,抓,官方
+招式,33,Vice Grip,Agarre,夹住,官方
+招式,34,Guillotine,Guillotina,断头钳,官方
+招式,35,Razor Wind,Viento cortante,旋风刀,官方
+招式,36,Swords Dance,Danza espada,剑舞,官方
+招式,37,Cut,Corte,居合斩,官方
+招式,38,Wing Attack,Ataque ala,翅膀攻击,官方
+招式,39,Whirlwind,Remolino,吹飞,官方
+招式,40,Fly,Vuelo,飞翔,官方
+招式,41,Thunderbolt,Rayo,十万伏特,官方
+招式,42,Confusion,Confusión,念力,官方
+招式,43,Psychic,Psíquico,精神强念,官方
+招式,44,Bind,Atadura,绑紧,官方
+招式,45,Slam,Atizar,摔打,官方
+招式,46,Stomp,Pisotón,踩踏,官方
+招式,47,Double Kick,Doble patada,二连踢,官方
+招式,48,Mega Kick,Megapatada,百万吨重踢,官方
+招式,49,Jump Kick,Patada salto,飞踢,官方
+招式,50,Rolling Kick,Patada giro,回旋踢,官方
+招式,51,Sand Attack,Ataque arena,泼沙,官方
+招式,52,Headbutt,Golpe cabeza,头锤,官方
+招式,53,Horn Attack,Cornada,角撞,官方
+招式,54,Fury Attack,Ataque furia,乱击,官方
+招式,55,Horn Drill,Perforador,角钻,官方
+招式,56,Body Slam,Golpe cuerpo,泰山压顶,官方
+招式,57,Wrap,Constricción,紧束,官方
+招式,58,Take Down,Derribo,猛撞,官方
+招式,59,Thrash,Saña,大闹一番,官方
+招式,60,Double-Edge,Doble filo,舍身冲撞,官方
+招式,61,Tail Whip,Látigo,摇尾巴,官方
+招式,62,Twineedle,Doble ataque,双针,官方
+招式,63,Pin Missile,Pin misil,飞弹针,官方
+招式,64,Bite,Mordisco,咬住,官方
+招式,65,Roar,Rugido,吼叫,官方
+招式,66,Sing,Canto,唱歌,官方
+招式,67,Supersonic,Supersónico,超音波,官方
+招式,68,Sonic Boom,Bomba sónica,音爆,官方
+招式,69,Disable,Anulación,定身法,官方
+招式,70,Acid,Ácido,溶解液,官方
+招式,71,Mist,Neblina,白雾,官方
+招式,72,Hydro Pump,Hidrobomba,水炮,官方
+招式,73,Ice Beam,Rayo hielo,冰冻光束,官方
+招式,74,Blizzard,Ventisca,暴风雪,官方
+招式,75,Psybeam,Psicorrayo,幻象光线,官方
+招式,76,Aurora Beam,Rayo aurora,极光束,官方
+招式,77,Hyper Beam,Hiperrayo,破坏光线,官方
+招式,78,Peck,Picotazo,啄,官方
+招式,79,Drill Peck,Pico taladro,啄钻,官方
+招式,80,Submission,Sumisión,地狱翻滚,官方
+招式,81,Low Kick,Patada baja,踢倒,官方
+招式,82,Counter,Contraataque,双倍奉还,官方
+招式,83,Seismic Toss,Sísmico,地球上投,官方
+招式,84,Strength,Fuerza,怪力,官方
+招式,85,Absorb,Absorber,吸取,官方
+招式,86,Mega Drain,Megaagotar,超级吸取,官方
+招式,87,Leech Seed,Drenadoras,寄生种子,官方
+招式,88,Growth,Desarrollo,生长,官方
+招式,89,Poison Powder,Polvo veneno,毒粉,官方
+招式,90,Stun Spore,Paralizador,麻痹粉,官方
+招式,91,Sleep Powder,Somnífero,催眠粉,官方
+招式,92,Petal Dance,Danza pétalo,花瓣舞,官方
+招式,93,Dragon Rage,Furia dragón,龙之怒,官方
+招式,94,Thunder Wave,Onda trueno,电磁波,官方
+招式,95,Rock Throw,Lanzarrocas,落石,官方
+招式,96,Fissure,Fisura,地裂,官方
+招式,97,Dig,Excavar,挖洞,官方
+招式,98,Toxic,Tóxico,剧毒,官方
+招式,99,Hypnosis,Hipnosis,催眠术,官方
+招式,100,Meditate,Meditación,瑜伽姿势,官方
+招式,101,Agility,Agilidad,高速移动,官方
+招式,102,Rage,Furia,愤怒,官方
+招式,103,Teleport,Teletransporte,瞬间移动,官方
+招式,104,Night Shade,Tinieblas,黑夜魔影,官方
+招式,105,Mimic,Mimético,模仿,官方
+招式,106,Screech,Chirrido,刺耳声,官方
+招式,107,Double Team,Doble equipo,影子分身,官方
+招式,108,Recover,Recuperación,自我再生,官方
+招式,109,Harden,Fortaleza,变硬,官方
+招式,110,Minimize,Reducción,变小,官方
+招式,111,Smokescreen,Pantalla de humo,烟幕,官方
+招式,112,Confuse Ray,Rayo confuso,奇异之光,官方
+招式,113,Withdraw,Refugio,缩入壳中,官方
+招式,114,Defense Curl,Rizo defensa,变圆,官方
+招式,115,Barrier,Barrera,屏障,官方
+招式,116,Light Screen,Pantalla de luz,光墙,官方
+招式,117,Haze,Niebla,黑雾,官方
+招式,118,Reflect,Reflejo,反射壁,官方
+招式,119,Focus Energy,Foco energía,聚气,官方
+招式,120,Bide,Venganza,忍耐,官方
+招式,121,Metronome,Metrónomo,挥指,官方
+招式,122,Mirror Move,Espejo,鹦鹉学舌,官方
+招式,123,Self-Destruct,Autodestrucción,自爆,官方
+招式,124,Egg Bomb,Bomba huevo,炸蛋,官方
+招式,125,Lick,Lengüetazo,舌舔,官方
+招式,126,Smog,Polución,浊雾,官方
+招式,127,Sludge,Residuos,污泥攻击,官方
+招式,128,Bone Club,Hueso palo,骨棒,官方
+招式,129,Waterfall,Cascada,攀瀑,官方
+招式,130,Clamp,Tenaza,贝壳夹击,官方
+招式,131,Swift,Meteoros,高速星星,官方
+招式,132,Skull Bash,Cabezazo,火箭头锤,官方
+招式,133,Spike Cannon,Clavo cañón,尖刺加农炮,官方
+招式,134,Constrict,Restricción,缠绕,官方
+招式,135,Amnesia,Amnesia,瞬间失忆,官方
+招式,136,Kinesis,Kinético,折弯汤匙,官方
+招式,137,Soft-Boiled,Ovocuración,生蛋,官方
+招式,138,High Jump Kick,Patada salto alta,飞膝踢,官方
+招式,139,Glare,Deslumbrar,大蛇瞪眼,官方
+招式,140,Dream Eater,Come sueños,食梦,官方
+招式,141,Poison Gas,Gas venenoso,毒瓦斯,官方
+招式,142,Barrage,Bombardeo,投球,官方
+招式,143,Leech Life,Chupavidas,吸血,官方
+招式,144,Lovely Kiss,Beso amoroso,恶魔之吻,官方
+招式,145,Sky Attack,Ataque aéreo,神鸟猛击,官方
+招式,146,Transform,Transformación,变身,官方
+招式,147,Bubble,Burbuja,泡沫,官方
+招式,148,Dizzy Punch,Puño mareo,迷昏拳,官方
+招式,149,Spore,Espora,蘑菇孢子,官方
+招式,150,Flash,Destello,闪光,官方
+招式,151,Psywave,Psicoonda,精神波,官方
+招式,152,Splash,Salpicadura,跃起,官方
+招式,153,Acid Armor,Armadura ácida,溶化,官方
+招式,154,Crabhammer,Martillazo,蟹钳锤,官方
+招式,155,Explosion,Explosión,大爆炸,官方
+招式,156,Fury Swipes,Golpes furia,乱抓,官方
+招式,157,Bonemerang,Huesomerang,骨头回力镖,官方
+招式,158,Rest,Descanso,睡觉,官方
+招式,159,Rock Slide,Avalancha,岩崩,官方
+招式,160,Hyper Fang,Hiper colmillo,必杀门牙,官方
+招式,161,Sharpen,Afilar,棱角化,官方
+招式,162,Conversion,Conversión,纹理,官方
+招式,163,Tri Attack,Triataque,三重攻击,官方
+招式,164,Super Fang,Superdiente,愤怒门牙,官方
+招式,165,Slash,Cuchillada,劈开,官方
+招式,166,Substitute,Sustituto,替身,官方
+招式,167,Struggle,Forcejeo,挣扎,官方
+招式,168,Sweet Scent,Dulce aroma,甜甜香气,官方
+招式,169,Worry Seed,Abatidoras,烦恼种子,官方
+招式,170,Synthesis,Fotosíntesis,光合作用,官方
+招式,171,Seed Bomb,Bomba germen,种子炸弹,官方
+招式,172,Frenzy Plant,Planta feroz,疯狂植物,官方
+招式,173,Silver Wind,Viento plata,银色旋风,官方
+招式,174,Tailwind,Viento afín,顺风,官方
+招式,175,Safeguard,Velo sagrado,神秘守护,官方
+招式,176,Captivate,Seducción,诱惑,官方
+招式,177,Bug Buzz,Zumbido,虫鸣,官方
+招式,178,Spark,Chispa,电光,官方
+招式,179,Feint,Amago,佯攻,官方
+招式,180,Discharge,Chispazo,放电,官方
+招式,181,Volt Tackle,Placaje eléctrico,伏特攻击,官方
+招式,182,Helping Hand,Refuerzo,帮助,官方
+招式,183,Baton Pass,Relevo,接棒,官方
+招式,184,Last Resort,Última baza,珍藏,官方
+招式,185,Trump Card,As oculto,王牌,官方
+招式,186,Foresight,Profecía,识破,官方
+招式,187,Endure,Aguante,挺住,官方
+招式,188,Force Palm,Palmeo,发劲,官方
+招式,189,Copycat,Copión,仿效,官方
+招式,190,Reversal,Inversión,起死回生,官方
+招式,191,Scary Face,Cara susto,鬼面,官方
+招式,192,Thunder Fang,Colmillo rayo,雷电牙,官方
+招式,193,Fire Fang,Colmillo ígneo,火焰牙,官方
+招式,194,Ice Fang,Colmillo hielo,冰冻牙,官方
+招式,195,Blast Burn,Anillo ígneo,爆炸烈焰,官方
+招式,196,Hydro Cannon,Hidrocañón,加农水炮,官方
+招式,197,Dragon Claw,Garra dragón,龙爪,官方
+招式,198,Shadow Claw,Garra umbría,暗影爪,官方
+招式,199,Air Slash,Tajo aéreo,空气斩,官方
+招式,200,Cross Chop,Tajo cruzado,十字劈,官方
+招式,201,Heat Wave,Onda ígnea,热风,官方
+招式,202,Flare Blitz,Envite ígneo,闪焰冲锋,官方
+招式,203,Rapid Spin,Giro rápido,高速旋转,官方
+招式,204,Protect,Protección,守住,官方
+招式,205,Water Pulse,Hidropulso,水之波动,官方
+招式,206,Aqua Tail,Acua cola,水流尾,官方
+招式,207,Iron Defense,Defensa férrea,铁壁,官方
+招式,208,Rain Dance,Danza lluvia,求雨,官方
+招式,209,Sunny Day,Día soleado,大晴天,官方
+招式,210,Sandstorm,Tormenta arena,沙暴,官方
+招式,211,Hail,Granizo,冰雹,官方
+招式,212,Crunch,Triturar,咬碎,官方
+招式,213,Flash Cannon,Cañón resplandor,加农光炮,官方
+招式,214,Bug Bite,Picadura,虫咬,官方
+招式,215,Pursuit,Persecución,追打,官方
+招式,216,Shock Wave,Onda voltio,电击波,官方
+招式,217,Assurance,Buena baza,恶意追击,官方
+招式,218,Poison Jab,Puya nociva,毒击,官方
+招式,219,Endeavor,Esfuerzo,蛮干,官方
+招式,220,Sketch,Esquema,写生,官方
+招式,221,Triple Kick,Triple patada,三连踢,官方
+招式,222,Thief,Ladrón,小偷,官方
+招式,223,Spider Web,Telaraña,蛛网,官方
+招式,224,Mind Reader,Telépata,心之眼,官方
+招式,225,Nightmare,Pesadilla,恶梦,官方
+招式,226,Flame Wheel,Rueda fuego,火焰轮,官方
+招式,227,Snore,Ronquido,打鼾,官方
+招式,228,Curse,Maldición,诅咒,官方
+招式,229,Flail,Azote,抓狂,官方
+招式,230,Conversion2,Conversión2,纹理２,官方
+招式,231,Aeroblast,Aerochorro,气旋攻击,官方
+招式,232,Cotton Spore,Esporagodón,棉孢子,官方
+招式,233,Spite,Rencor,怨恨,官方
+招式,234,Powder Snow,Nieve polvo,细雪,官方
+招式,235,Mach Punch,Ultra puño,音速拳,官方
+招式,236,Feint Attack,Finta,出奇一击,官方
+招式,237,Sweet Kiss,Beso dulce,天使之吻,官方
+招式,238,Belly Drum,Tambor,腹鼓,官方
+招式,239,Sludge Bomb,Bomba lodo,污泥炸弹,官方
+招式,240,Mud-Slap,Bofetón lodo,掷泥,官方
+招式,241,Octazooka,Pulpocañón,章鱼桶炮,官方
+招式,242,Spikes,Púas,撒菱,官方
+招式,243,Zap Cannon,Electrocañón,电磁炮,官方
+招式,244,Destiny Bond,Mismo destino,同命,官方
+招式,245,Perish Song,Canto mortal,灭亡之歌,官方
+招式,246,Icy Wind,Viento hielo,冰冻之风,官方
+招式,247,Detect,Detección,看穿,官方
+招式,248,Bone Rush,Ataque óseo,骨棒乱打,官方
+招式,249,Lock-On,Fijar blanco,锁定,官方
+招式,250,Outrage,Enfado,逆鳞,官方
+招式,251,Metal Claw,Garra metal,金属爪,官方
+招式,252,Giga Drain,Gigadrenado,终极吸取,官方
+招式,253,Charm,Encanto,撒娇,官方
+招式,254,Rollout,Rodar,滚动,官方
+招式,255,False Swipe,Falso tortazo,点到为止,官方
+招式,256,Swagger,Contoneo,虚张声势,官方
+招式,257,Milk Drink,Batido,喝牛奶,官方
+招式,258,Fury Cutter,Corte furia,连斩,官方
+招式,259,Steel Wing,Ala de acero,钢翼,官方
+招式,260,Mean Look,Mal de ojo,黑色目光,官方
+招式,261,Attract,Atracción,迷人,官方
+招式,262,Sleep Talk,Sonámbulo,梦话,官方
+招式,263,Heal Bell,Cascabel cura,治愈铃声,官方
+招式,264,Return,Retribución,报恩,官方
+招式,265,Present,Presente,礼物,官方
+招式,266,Frustration,Frustración,迁怒,官方
+招式,267,Pain Split,Divide dolor,分担痛楚,官方
+招式,268,Sacred Fire,Fuego sagrado,神圣之火,官方
+招式,269,Magnitude,Magnitud,震级,官方
+招式,270,Dynamic Punch,Puño dinámico,爆裂拳,官方
+招式,271,Megahorn,Megacuerno,超级角击,官方
+招式,272,Dragon Breath,Dragoaliento,龙息,官方
+招式,273,Encore,Otra vez,再来一次,官方
+招式,274,Iron Tail,Cola férrea,铁尾,官方
+招式,275,Vital Throw,Llave vital,借力摔,官方
+招式,276,Morning Sun,Sol matinal,晨光,官方
+招式,277,Moonlight,Luz lunar,月光,官方
+招式,278,Hidden Power,Poder oculto,觉醒力量,官方
+招式,279,Twister,Ciclón,龙卷风,官方
+招式,280,Mirror Coat,Manto espejo,镜面反射,官方
+招式,281,Psych Up,Autosugestión,自我暗示,官方
+招式,282,Extreme Speed,Vel. extrema,神速,官方
+招式,283,Ancient Power,Poder pasado,原始之力,官方
+招式,284,Future Sight,Premonición,预知未来,官方
+招式,285,Rock Smash,Golpe roca,碎岩,官方
+招式,286,Beat Up,Paliza,围攻,官方
+招式,287,Fake Out,Sorpresa,击掌奇袭,官方
+招式,288,Uproar,Alboroto,吵闹,官方
+招式,289,Stockpile,Reserva,蓄力,官方
+招式,290,Spit Up,Escupir,喷出,官方
+招式,291,Swallow,Tragar,吞下,官方
+招式,292,Torment,Tormento,无理取闹,官方
+招式,293,Flatter,Camelo,吹捧,官方
+招式,294,Will-O-Wisp,Fuego fatuo,鬼火,官方
+招式,295,Memento,Legado,临别礼物,官方
+招式,296,Facade,Imagen,硬撑,官方
+招式,297,Focus Punch,Puño certero,真气拳,官方
+招式,298,Smelling Salts,Estímulo,清醒,官方
+招式,299,Follow Me,Señuelo,看我嘛,官方
+招式,300,Nature Power,Adaptación,自然之力,官方
+招式,301,Charge,Carga,充电,官方
+招式,302,Taunt,Mofa,挑衅,官方
+招式,303,Trick,Truco,戏法,官方
+招式,304,Role Play,Imitación,扮演,官方
+招式,305,Wish,Deseo,祈愿,官方
+招式,306,Assist,Ayuda,借助,官方
+招式,307,Ingrain,Arraigo,扎根,官方
+招式,308,Superpower,Fuerza bruta,蛮力,官方
+招式,309,Magic Coat,Capa mágica,魔法反射,官方
+招式,310,Recycle,Reciclaje,回收利用,官方
+招式,311,Revenge,Desquite,报复,官方
+招式,312,Brick Break,Demolición,劈瓦,官方
+招式,313,Yawn,Bostezo,哈欠,官方
+招式,314,Knock Off,Desarme,拍落,官方
+招式,315,Eruption,Estallido,喷火,官方
+招式,316,Skill Swap,Intercambio,特性互换,官方
+招式,317,Imprison,Sellar,封印,官方
+招式,318,Refresh,Alivio,焕然一新,官方
+招式,319,Grudge,Rabia,怨念,官方
+招式,320,Snatch,Robo,抢夺,官方
+招式,321,Secret Power,Daño secreto,秘密之力,官方
+招式,322,Dive,Buceo,潜水,官方
+招式,323,Arm Thrust,Empujón,猛推,官方
+招式,324,Camouflage,Camuflaje,保护色,官方
+招式,325,Tail Glow,Luminicola,萤火,官方
+招式,326,Luster Purge,Resplandor,洁净光芒,官方
+招式,327,Mist Ball,Bola neblina,薄雾球,官方
+招式,328,Feather Dance,Danza pluma,羽毛舞,官方
+招式,329,Teeter Dance,Danza caos,摇晃舞,官方
+招式,330,Blaze Kick,Patada ígnea,火焰踢,官方
+招式,331,Mud Sport,Chapoteo lodo,玩泥巴,官方
+招式,332,Ice Ball,Bola hielo,冰球,官方
+招式,333,Needle Arm,Brazo pincho,尖刺臂,官方
+招式,334,Slack Off,Relajo,偷懒,官方
+招式,335,Hyper Voice,Vozarrón,巨声,官方
+招式,336,Poison Fang,Colmillo veneno,剧毒牙,官方
+招式,337,Crush Claw,Garra brutal,撕裂爪,官方
+招式,338,Meteor Mash,Puño meteoro,彗星拳,官方
+招式,339,Astonish,Impresionar,惊吓,官方
+招式,340,Weather Ball,Meteorobola,气象球,官方
+招式,341,Aromatherapy,Aromaterapia,芳香治疗,官方
+招式,342,Fake Tears,Llanto falso,假哭,官方
+招式,343,Air Cutter,Aire afilado,空气利刃,官方
+招式,344,Overheat,Sofoco,过热,官方
+招式,345,Odor Sleuth,Rastreo,气味侦测,官方
+招式,346,Rock Tomb,Tumba rocas,岩石封锁,官方
+招式,347,Metal Sound,Eco metálico,金属音,官方
+招式,348,Grass Whistle,Silbato,草笛,官方
+招式,349,Tickle,Cosquillas,挠痒,官方
+招式,350,Cosmic Power,Masa cósmica,宇宙力量,官方
+招式,351,Water Spout,Salpicar,喷水,官方
+招式,352,Signal Beam,Rayo señal,信号光束,官方
+招式,353,Shadow Punch,Puño sombra,暗影拳,官方
+招式,354,Extrasensory,Paranormal,神通力,官方
+招式,355,Sky Uppercut,Gancho alto,冲天拳,官方
+招式,356,Sand Tomb,Bucle arena,流沙地狱,官方
+招式,357,Sheer Cold,Frío polar,绝对零度,官方
+招式,358,Muddy Water,Agua lodosa,浊流,官方
+招式,359,Bullet Seed,Semilladora,种子机关枪,官方
+招式,360,Aerial Ace,Golpe aéreo,燕返,官方
+招式,361,Icicle Spear,Carámbano,冰锥,官方
+招式,362,Block,Bloqueo,挡路,官方
+招式,363,Howl,Aullido,长嚎,官方
+招式,364,Bulk Up,Corpulencia,健美,官方
+招式,365,Bounce,Bote,弹跳,官方
+招式,366,Mud Shot,Disparo lodo,泥巴射击,官方
+招式,367,Poison Tail,Cola veneno,毒尾,官方
+招式,368,Covet,Antojo,渴望,官方
+招式,369,Magical Leaf,Hoja mágica,魔法叶,官方
+招式,370,Water Sport,Hidrochorro,玩水,官方
+招式,371,Calm Mind,Paz mental,冥想,官方
+招式,372,Leaf Blade,Hoja aguda,叶刃,官方
+招式,373,Dragon Dance,Danza dragón,龙之舞,官方
+招式,374,Rock Blast,Pedrada,岩石爆击,官方
+招式,375,Doom Desire,Deseo oculto,破灭之愿,官方
+招式,376,Psycho Boost,Psicoataque,精神突进,官方
+招式,377,Roost,Respiro,羽栖,官方
+招式,378,Gravity,Gravedad,重力,官方
+招式,379,Miracle Eye,Gran ojo,奇迹之眼,官方
+招式,380,Wake-Up Slap,Espabila,唤醒巴掌,官方
+招式,381,Hammer Arm,Machada,臂锤,官方
+招式,382,Gyro Ball,Giro bola,陀螺球,官方
+招式,383,Healing Wish,Deseo cura,治愈之愿,官方
+招式,384,Brine,Salmuera,盐水,官方
+招式,385,Natural Gift,Don natural,自然之恩,官方
+招式,386,Pluck,Picoteo,啄食,官方
+招式,387,Acupressure,Acupresión,点穴,官方
+招式,388,Metal Burst,Represión metal,金属爆炸,官方
+招式,389,U-turn,Ida y vuelta,急速折返,官方
+招式,390,Close Combat,A bocajarro,近身战,官方
+招式,391,Payback,Vendetta,以牙还牙,官方
+招式,392,Embargo,Embargo,查封,官方
+招式,393,Fling,Lanzamiento,投掷,官方
+招式,394,Psycho Shift,Psico-cambio,精神转移,官方
+招式,395,Heal Block,Anticura,回复封锁,官方
+招式,396,Wring Out,Estrujón,绞紧,官方
+招式,397,Power Trick,Truco fuerza,力量戏法,官方
+招式,398,Gastro Acid,Bilis,胃液,官方
+招式,399,Lucky Chant,Conjuro,幸运咒语,官方
+招式,400,Me First,Yo primero,抢先一步,官方
+招式,401,Power Swap,Cambiafuerza,力量互换,官方
+招式,402,Guard Swap,Cambiadefensa,防守互换,官方
+招式,403,Punishment,Castigo,惩罚,官方
+招式,404,Sucker Punch,Golpe bajo,突袭,官方
+招式,405,Toxic Spikes,Púas tóxicas,毒菱,官方
+招式,406,Heart Swap,Cambia almas,心灵互换,官方
+招式,407,Aqua Ring,Acua aro,水流环,官方
+招式,408,Magnet Rise,Levitón,电磁飘浮,官方
+招式,409,Aura Sphere,Esfera aural,波导弹,官方
+招式,410,Rock Polish,Pulimento,岩石打磨,官方
+招式,411,Dark Pulse,Pulso umbrío,恶之波动,官方
+招式,412,Night Slash,Tajo umbrío,暗袭要害,官方
+招式,413,X-Scissor,Tijera x,十字剪,官方
+招式,414,Dragon Pulse,Pulso dragón,龙之波动,官方
+招式,415,Dragon Rush,Carga dragón,龙之俯冲,官方
+招式,416,Power Gem,Joya de luz,力量宝石,官方
+招式,417,Drain Punch,Puño drenaje,吸取拳,官方
+招式,418,Vacuum Wave,Onda vacío,真空波,官方
+招式,419,Focus Blast,Onda certera,真气弹,官方
+招式,420,Energy Ball,Energibola,能量球,官方
+招式,421,Brave Bird,Pájaro osado,勇鸟猛攻,官方
+招式,422,Earth Power,Tierra viva,大地之力,官方
+招式,423,Switcheroo,Trapicheo,掉包,官方
+招式,424,Giga Impact,Gigaimpacto,终极冲击,官方
+招式,425,Nasty Plot,Maquinación,诡计,官方
+招式,426,Bullet Punch,Puño bala,子弹拳,官方
+招式,427,Avalanche,Alud,雪崩,官方
+招式,428,Ice Shard,Esquirla helada,冰砾,官方
+招式,429,Shadow Sneak,Sombra vil,影子偷袭,官方
+招式,430,Mud Bomb,Bomba fango,泥巴炸弹,官方
+招式,431,Psycho Cut,Psicocorte,精神利刃,官方
+招式,432,Zen Headbutt,Cabezazo zen,意念头锤,官方
+招式,433,Mirror Shot,Disparo espejo,镜光射击,官方
+招式,434,Rock Climb,Treparrocas,攀岩,官方
+招式,435,Defog,Despejar,清除浓雾,官方
+招式,436,Trick Room,Espacio raro,戏法空间,官方
+招式,437,Draco Meteor,Cometa draco,流星群,官方
+招式,438,Lava Plume,Humareda,喷烟,官方
+招式,439,Leaf Storm,Lluevehojas,飞叶风暴,官方
+招式,440,Power Whip,Latigazo,强力鞭打,官方
+招式,441,Rock Wrecker,Romperrocas,岩石炮,官方
+招式,442,Cross Poison,Veneno x,十字毒刃,官方
+招式,443,Gunk Shot,Lanzamugre,垃圾射击,官方
+招式,444,Iron Head,Cabeza de hierro,铁头,官方
+招式,445,Magnet Bomb,Bomba imán,磁铁炸弹,官方
+招式,446,Stone Edge,Roca afilada,尖石攻击,官方
+招式,447,Stealth Rock,Trampa rocas,隐形岩,官方
+招式,448,Grass Knot,Hierba lazo,打草结,官方
+招式,449,Chatter,Cháchara,喋喋不休,官方
+招式,450,Judgment,Sentencia,制裁光砾,官方
+招式,451,Charge Beam,Rayo carga,充电光束,官方
+招式,452,Wood Hammer,Mazazo,木槌,官方
+招式,453,Aqua Jet,Acua jet,水流喷射,官方
+招式,454,Attack Order,Al ataque,攻击指令,官方
+招式,455,Defend Order,A defender,防御指令,官方
+招式,456,Heal Order,Auxilio,回复指令,官方
+招式,457,Head Smash,Testarazo,双刃头锤,官方
+招式,458,Double Hit,Doble golpe,二连击,官方
+招式,459,Roar of Time,Distorsión,时光咆哮,官方
+招式,460,Spacial Rend,Corte vacío,亚空裂斩,官方
+招式,461,Lunar Dance,Danza lunar,新月舞,官方
+招式,462,Crush Grip,Agarrón,捏碎,官方
+招式,463,Magma Storm,Lluvia ígnea,熔岩风暴,官方
+招式,464,Dark Void,Brecha negra,暗黑洞,官方
+招式,465,Seed Flare,Fogonazo,种子闪光,官方
+招式,466,Ominous Wind,Viento aciago,奇异之风,官方
+招式,467,Shadow Force,Golpe umbrío,暗影潜袭,官方
+招式,468,Fire Wave,Ola-lava,熔岩浪潮,自译
+招式,469,Reverse Room,Espacio inverso,逆转空间,自译（参照官方“戏法空间”系）
+招式,470,Venom Star,Estrella veneno,剧毒之星,自译
+招式,471,Absolute Zero,Cero absoluto,绝对冰点,自译（官方“绝对零度”已被招式 Sheer Cold 占用）
+招式,472,Psystrike,Onda mental,精神击破,官方
+招式,473,Leaf Tornado,Ciclón de hojas,青草搅拌器,官方
+招式,474,Flame Charge,Nitrocarga,蓄能焰袭,官方
+招式,475,Razor Shell,Concha filo,贝壳刃,官方
+招式,476,Night Daze,Pulso noche,暗黑爆破,官方
+招式,477,Electro Ball,Bola voltio,电球,官方
+招式,478,Drill Run,Taladradora,直冲钻,官方
+招式,479,Hone Claws,Afilagarras,磨爪,官方
+招式,480,Foul Play,Juego sucio,欺诈,官方
+招式,481,Flame Burst,Pirotecnia,烈焰溅射,官方
+招式,482,Hex,Infortunio,祸不单行,官方
+招式,483,Dual Chop,Golpe bis,二连劈,官方
+招式,484,Work Up,Avivar,自我激励,官方
+招式,485,Quiver Dance,Danza aleteo,蝶舞,官方
+招式,486,Fiery Dance,Danza llama,火之舞,官方
+招式,487,Bolt Strike,Ataque fulgor,雷击,官方
+招式,488,Blue Flare,Llama azul,青焰,官方
+招式,489,Fusion Flare,Llama fusión,交错火焰,官方
+招式,490,Fusion Bolt,Rayo fusión,交错闪电,官方
+招式,491,Sacred Sword,Espada santa,圣剑,官方
+招式,492,Ice Burn,Llama gélida,极寒冷焰,官方
+招式,493,Freeze Shock,Rayo gélido,冰冻伏特,官方
+招式,494,Hurricane,Vendaval,暴风,官方
+招式,495,Inferno,Infierno,炼狱,官方
+招式,496,Electroweb,Electrotela,电网,官方
+招式,497,Searing Shot,Bomba ígnea,火焰弹,官方
+招式,498,Incinerate,Calcinación,烧尽,官方
+招式,499,V-Create,V de fuego,Ｖ热焰,官方
+招式,500,Final Gambit,Sacrificio,搏命,官方
+招式,501,Stored Power,Poder reserva,辅助力量,官方
+招式,502,Heat Crash,Golpe calor,高温重压,官方
+招式,503,Scald,Escaldar,热水,官方
+招式,504,Acrobatics,Acróbata,杂技,官方
+招式,505,Volt Switch,Voltiocambio,伏特替换,官方
+招式,506,Retaliate,Represalia,报仇,官方
+招式,507,Smack Down,Antiaéreo,击落,官方
+招式,508,Chip Away,Guardia baja,逐步击破,官方
+招式,509,Low Sweep,Puntapié,下盘踢,官方
+招式,510,Storm Throw,Llave corsé,山岚摔,官方
+招式,511,Circle Throw,Llave giro,巴投,官方
+招式,512,Quick Guard,Anticipo,快速防守,官方
+招式,513,Wide Guard,Vastaguardia,广域防守,官方
+招式,514,Head Charge,Ariete,爆炸头突击,官方
+招式,515,Glaciate,Mundo gélido,冰封世界,官方
+招式,516,Secret Sword,Sable místico,神秘之剑,官方
+招式,517,Guard Split,Isoguardia,防守平分,官方
+招式,518,Power Split,Isofuerza,力量平分,官方
+招式,519,Wonder Room,Zona extraña,奇妙空间,官方
+招式,520,Psyshock,Psicocarga,精神冲击,官方
+招式,521,Venoshock,Carga tóxica,毒液冲击,官方
+招式,522,Autotomize,Aligerar,身体轻量化,官方
+招式,523,Rage Powder,Polvo ira,愤怒粉,官方
+招式,524,Telekinesis,Telequinesis,意念移物,官方
+招式,525,Magic Room,Zona mágica,魔法空间,官方
+招式,526,Sludge Wave,Onda tóxica,污泥波,官方
+招式,527,Heavy Slam,Cuerpo pesado,重磅冲撞,官方
+招式,528,Synchronoise,Sincrorruido,同步干扰,官方
+招式,529,Soak,Empapar,浸水,官方
+招式,530,Coil,Enrosque,盘蜷,官方
+招式,531,Acid Spray,Bomba ácida,酸液炸弹,官方
+招式,532,Simple Beam,Onda simple,单纯光束,官方
+招式,533,Entrainment,Danza amiga,找伙伴,官方
+招式,534,After You,Cede paso,您先请,官方
+招式,535,Round,Canon,轮唱,官方
+招式,536,Echoed Voice,Eco voz,回声,官方
+招式,537,Clear Smog,Niebla clara,清除之烟,官方
+招式,538,Icicle Crash,Chuzos,冰柱坠击,官方
+招式,539,Ally Switch,Cambio de banda,交换场地,官方
+招式,540,Shell Smash,Rompecoraza,破壳,官方
+招式,541,Heal Pulse,Pulso cura,治愈波动,官方
+招式,542,Sky Drop,Caída libre,自由落体,官方
+招式,543,Shift Gear,Cambio de marcha,换档,官方
+招式,544,Quash,Último lugar,延后,官方
+招式,545,Reflect Type,Clonatipo,镜面属性,官方
+招式,546,Bestow,Ofrenda,传递礼物,官方
+招式,547,Grass Pledge,Voto planta,草之誓约,官方
+招式,548,Fire Pledge,Voto fuego,火之誓约,官方
+招式,549,Water Pledge,Voto agua,水之誓约,官方
+招式,550,Struggle Bug,Estoicismo,虫之抵抗,官方
+招式,551,Bulldoze,Terratemblor,重踏,官方
+招式,552,Frost Breath,Vaho gélido,冰息,官方
+招式,553,Dragon Tail,Cola dragón,龙尾,官方
+招式,554,Wild Charge,Voltio cruel,疯狂伏特,官方
+招式,555,Heart Stamp,Arrumaco,爱心印章,官方
+招式,556,Horn Leech,Asta drenaje,木角,官方
+招式,557,Steamroller,Rodillo púas,疯狂滚压,官方
+招式,558,Cotton Guard,Rizo algodón,棉花防守,官方
+招式,559,Tail Slap,Plumerazo,扫尾拍打,官方
+招式,560,Gear Grind,Rueda doble,齿轮飞盘,官方
+招式,561,Draining Kiss,Beso drenaje,吸取之吻,官方
+招式,562,Techno Blast,Tecno shock,高科技光炮,官方
+招式,563,Relic Song,Canto arcaico,古老之歌,官方
+招式,564,Snarl,Alarido,大声咆哮,官方
+招式,565,Fairy Wind,Viento feérico,妖精之风,官方
+招式,566,Moonblast,Fuerza lunar,月亮之力,官方
+招式,567,Play Rough,Carantoña,嬉闹,官方
+招式,568,Dazzling Gleam,Brillo mágico,魔法闪耀,官方
+招式,569,Misty Terrain,Campo de niebla,薄雾场地,官方
+招式,570,Infestation,Acoso,死缠烂打,官方
+招式,571,Parabolic Charge,Carga parábola,抛物面充电,官方
+招式,572,Mystical Fire,Llama embrujada,魔法火焰,官方
+招式,573,Disarming Voice,Voz cautivadora,魅惑之声,官方
+招式,574,Freeze-Dry,Liofilización,冷冻干燥,官方
+招式,575,Boomburst,Estruendo,爆音波,官方
+招式,576,Belch,Eructo,打嗝,官方
+招式,577,Oblivion Wing,Ala mortífera,死亡之翼,官方
+招式,578,Water Shuriken,Shuriken de agua,飞水手里剑,官方
+招式,579,Fell Stinger,Aguijón letal,致命针刺,官方
+招式,580,Sticky Web,Red viscosa,黏黏网,官方
+招式,581,Nuzzle,Moflete estático,蹭蹭脸颊,官方
+招式,582,Phantom Force,Golpe fantasma,潜灵奇袭,官方
+招式,583,Flying Press,Plancha voladora,飞身重压,官方
+招式,584,Power-Up Punch,Puño incremento,增强拳,官方
+招式,585,Petal Blizzard,Tormenta floral,落英缤纷,官方
+招式,586,Land's Wrath,Fuerza telúrica,大地神力,官方
+招式,587,King's Shield,Escudo real,王者盾牌,官方
+招式,588,Powder,Polvo explosivo,粉尘,官方
+招式,589,Eerie Impulse,Onda anómala,怪异电波,官方
+招式,590,Electric Terrain,Campo eléctrico,电气场地,官方
+招式,591,Electrify,Electrificación,输电,官方
+招式,592,Ion Deluge,Cortina plasma,等离子浴,官方
+招式,593,Magnetic Flux,Aura magnética,磁场操控,官方
+招式,594,Trick-or-Treat,Halloween,万圣夜,官方
+招式,595,Aromatic Mist,Niebla aromática,芳香薄雾,官方
+招式,596,Baby-Doll Eyes,Ojitos tiernos,圆瞳,官方
+招式,597,Crafty Shield,Truco defensa,戏法防守,官方
+招式,598,Fairy Lock,Cerrojo feérico,妖精之锁,官方
+招式,599,Flower Shield,Defensa floral,鲜花防守,官方
+招式,600,Geomancy,Geocontrol,大地掌控,官方
+招式,601,Mat Block,Escudo tatami,掀榻榻米,官方
+招式,602,Confide,Confidencia,密语,官方
+招式,603,Noble Roar,Rugido de guerra,战吼,官方
+招式,604,Play Nice,Camaradería,和睦相处,官方
+招式,605,Happy Hour,Paga extra,欢乐时光,官方
+招式,606,Celebrate,Celebración,庆祝,官方
+招式,607,Forest's Curse,Condena silvana,森林诅咒,官方
+招式,608,Grassy Terrain,Campo de hierba,青草场地,官方
+招式,609,Spiky Shield,Barrera espinosa,尖刺防守,官方
+招式,610,Parting Shot,Última palabra,抛下狠话,官方
+招式,611,Topsy-Turvy,Reversión,颠倒,官方
+招式,612,Rototiller,Fertilizante,耕地,官方
+招式,613,Venom Drench,Trampa venenosa,毒液陷阱,官方
+招式,614,Diamond Storm,Torm. de diamantes,钻石风暴,官方
+招式,615,Steam Eruption,Chorro de vapor,蒸汽爆炸,官方
+招式,616,Hyperspace Hole,Paso dimensional,异次元洞,官方
+招式,617,Hold Back,Clemencia,手下留情,官方
+招式,618,Thousand Arrows,Mil flechas,千箭齐发,官方
+招式,619,Thousand Waves,Mil temblores,千波激荡,官方
+招式,620,Light of Ruin,Luz aniquiladora,破灭之光,官方
+招式,621,Hold Hands,Manos juntas,牵手,官方
+招式,622,Origin Pulse,Pulso primigenio,根源波动,官方
+招式,623,Precipice Blades,Filo del abismo,断崖之剑,官方
+招式,624,Dragon Ascent,Ascenso draco,画龙点睛,官方
+招式,625,Hyperspace Fury,Cerco dimensión,异次元猛攻,官方
+招式,626,Anchor Shot,Anclaje,掷锚,官方
+招式,627,Smart Strike,Cuerno certero,修长之角,官方
+招式,628,Sunsteel Strike,Meteoimpacto,流星闪冲,官方
+招式,629,Gear Up,Piñón auxiliar,辅助齿轮,官方
+招式,630,Sparkling Aria,Aria burbuja,泡影的咏叹调,官方
+招式,631,Liquidation,Hidroariete,水流裂破,官方
+招式,632,Pollen Puff,Bola de polen,花粉团,官方
+招式,633,First Impression,Escaramuza,迎头一击,官方
+招式,634,Lunge,Plancha,猛扑,官方
+招式,635,Clanging Scales,Fragor escamas,鳞片噪音,官方
+招式,636,Dragon Hammer,Martillo dragón,龙锤,官方
+招式,637,Core Enforcer,Núcleo castigo,核心惩罚者,官方
+招式,638,Zing Zap,Electropunzada,麻麻刺刺,官方
+招式,639,Shadow Bone,Hueso sombrío,暗影之骨,官方
+招式,640,Spirit Shackle,Puntada sombría,缝影,官方
+招式,641,Moongeist Beam,Rayo umbrío,暗影之光,官方
+招式,642,Spectral Thief,Robasombra,暗影偷盗,官方
+招式,643,Shell Trap,Coraza trampa,陷阱甲壳,官方
+招式,644,Fire Lash,Látigo ígneo,火焰鞭,官方
+招式,645,Burn Up,Llama final,燃尽,官方
+招式,646,Fleur Cannon,Cañón floral,花朵加农炮,官方
+招式,647,Floral Healing,Cura floral,花疗,官方
+招式,648,Nature's Madness,Furia natural,自然之怒,官方
+招式,649,Hammer Ice,Martillo hielo,冰锤,官方
+招式,650,Aurora Veil,Velo aurora,极光幕,官方
+招式,651,Laser Focus,Aguzar,磨砺,官方
+招式,652,Revelation Dance,Danza despertar,觉醒之舞,官方
+招式,653,Spotlight,Foco,聚光灯,官方
+招式,654,Multi-Attack,Multiataque,多属性攻击,官方
+招式,655,Tearful Look,Ojos llorosos,泪眼汪汪,官方
+招式,656,Strength Sap,Absorbefuerza,吸取力量,官方
+招式,657,Solar Blade,Cuchilla solar,日光刃,官方
+招式,658,Leafage,Follaje,树叶,官方
+招式,659,Trop Kick,Patada tropical,热带踢,官方
+招式,660,Speed Swap,Cambiavelocidad,速度互换,官方
+招式,661,Psychic Terrain,Campo psíquico,精神场地,官方
+招式,662,Prismatic Laser,Láser prisma,棱镜镭射,官方
+招式,663,Instruct,Mandato,号令,官方
+招式,664,Psychic Fangs,Psicocolmillo,精神之牙,官方
+招式,665,Accelerock,Roca veloz,冲岩,官方
+招式,667,Power Trip,Chulería,嚣张,官方
+招式,668,Brutal Swing,Giro vil,狂舞挥打,官方
+招式,669,Throat Chop,Golpe mordaza,地狱突刺,官方
+招式,670,Darkest Lariat,Lariat oscuro,ＤＤ金勾臂,官方
+招式,671,High Horsepower,Fuerza equina,十万马力,官方
+招式,672,Stomping Tantrum,Pataleta,跺脚,官方
+招式,673,Shore Up,Recogearena,集沙,官方
+招式,674,Baneful Bunker,Búnker,碉堡,官方
+招式,675,Toxic Thread,Hilo venenoso,毒丝,官方
+招式,676,Purify,Purificación,净化,官方
+招式,677,Beak Blast,Pico cañón,鸟嘴加农炮,官方
+招式,678,Mind Blown,Cabeza sorpresa,惊爆大头,官方
+招式,679,Plasma Fists,Puños plasma,等离子闪电拳,官方
+招式,680,Photon Geyser,Géiser fotónico,光子喷涌,官方
+招式,681,Double Iron Bash,Ferropuño doble,钢拳双击,官方
+招式,682,Passion,Pasión,热情,自译
+招式,683,Dynamax Cannon,Cañón dinamax,极巨炮,官方
+招式,684,Snipe Shot,Disparo certero,狙击,官方
+招式,685,Jaw Lock,Presa maxilar,紧咬不放,官方
+招式,686,Stuff Cheeks,Atiborramiento,大快朵颐,官方
+招式,687,No Retreat,Bastión final,背水一战,官方
+招式,688,Tar Shot,Alquitranazo,沥青射击,官方
+招式,689,Magic Powder,Polvo mágico,魔法粉,官方
+招式,690,Dragon Darts,Dracoflechas,龙箭,官方
+招式,691,Teatime,Hora del té,茶会,官方
+招式,692,Octolock,Octopresa,蛸固,官方
+招式,693,Bolt Beak,Electropico,电喙,官方
+招式,694,Fishious Rend,Branquibocado,鳃咬,官方
+招式,695,Court Change,Cambio de cancha,换场,官方
+招式,696,Clangorous Soul,Estruendo escama,魂舞烈音爆,官方
+招式,697,Body Press,Plancha corporal,扑击,官方
+招式,698,Decorate,Decoración,装饰,官方
+招式,699,Drum Beating,Batería asalto,鼓击,官方
+招式,700,Snap Trap,Cepo,捕兽夹,官方
+招式,701,Pyro Ball,Balón ígneo,火焰球,官方
+招式,702,Behemoth Blade,Tajo supremo,巨兽斩,官方
+招式,703,Behemoth Bash,Embate supremo,巨兽弹,官方
+招式,704,Aura Wheel,Rueda aural,气场轮,官方
+招式,705,Breaking Swipe,Vasto impacto,广域破坏,官方
+招式,706,Branch Poke,Punzada rama,木枝突刺,官方
+招式,707,Overdrive,Amplificador,破音,官方
+招式,708,Apple Acid,Ácido málico,苹果酸,官方
+招式,709,Grav Apple,Fuerza g,万有引力,官方
+招式,710,Spirit Break,Choque anímico,灵魂冲击,官方
+招式,711,Strange Steam,Cautivapor,神奇蒸汽,官方
+招式,712,Life Dew,Gota vital,生命水滴,官方
+招式,713,Obstruct,Obstrucción,拦堵,官方
+招式,714,False Surrender,Irreverencia,假跪真撞,官方
+招式,715,Meteor Assault,Asalto estelar,流星突击,官方
+招式,716,Eternabeam,Rayo infinito,无极光束,官方
+招式,717,Steel Beam,Metaláser,铁蹄光线,官方
+招式,718,Steel Roller,Allanador férreo,铁滚轮,官方
+招式,719,Surging Strikes,Azote torrencial,水流连打,官方
+招式,720,Flip Turn,Viraje,快速折返,官方
+招式,721,Skitter Smack,Golpe rastrero,爬击,官方
+招式,722,Dragon Energy,Dracoenergía,巨龙威能,官方
+招式,723,Scale Shot,Ráfaga escamas,鳞射,官方
+招式,724,Rising Voltage,Alto voltaje,电力上升,官方
+招式,725,Thunder Cage,Electrojaula,雷电囚笼,官方
+招式,726,Astral Barrage,Orbes espectro,星碎,官方
+招式,727,Poltergeist,Poltergeist,灵骚,官方
+招式,728,Burning Jealousy,Envidia ardiente,妒火,官方
+招式,729,Misty Explosion,Bruma explosiva,薄雾炸裂,官方
+招式,730,Glacial Lance,Lanza glacial,雪矛,官方
+招式,731,Triple Axel,Triple axel,三旋击,官方
+招式,732,Coaching,Motivación,指导,官方
+招式,733,Thunderous Kick,Patada relámpago,雷鸣蹴击,官方
+招式,734,Terrain Pulse,Pulso de campo,大地波动,官方
+招式,735,Jungle Healing,Cura selvática,丛林治疗,官方
+招式,736,Grassy Glide,Fitoimpulso,青草滑梯,官方
+招式,737,Eerie Spell,Conjuro funesto,诡异咒语,官方
+招式,738,Expanding Force,Vasta fuerza,广域战力,官方
+招式,739,Meteor Beam,Rayo meteórico,流星光束,官方
+招式,740,Fiery Wrath,Furia candente,怒火中烧,官方
+招式,741,Wicked Blow,Golpe oscuro,暗冥强击,官方
+招式,742,Scorching Sands,Arenas ardientes,热沙大地,官方
+招式,743,Corrosive Gas,Gas corrosivo,腐蚀气体,官方
+招式,744,Shell Side Arm,Moluscañón,臂贝武器,官方
+招式,745,Dual Wingbeat,Ala bis,双翼,官方
+招式,746,Freezing Glare,Mirada heladora,冰冷视线,官方
+招式,747,Zippy Zap,Pikaturbo,电电加速,官方
+招式,748,Floaty Fall,Pikapicado,飘飘坠落,官方
+招式,749,Splishy Splash,Salpikasurf,滔滔冲浪,官方
+招式,750,Pika Papow,Pikatormenta,闪闪雷光,官方
+招式,751,Veevee Volley,Eevimpacto,砰砰击破,官方
+招式,752,Bouncy Bubble,Vapodrenaje,活活气泡,官方
+招式,753,Buzzy Buzz,Joltioparálisis,麻麻电击,官方
+招式,754,Sizzly Slide,Flarembestida,熊熊火爆,官方
+招式,755,Baddy Bad,Umbreozona,坏坏领域,官方
+招式,756,Glitzy Glow,Espeaura,哗哗气场,官方
+招式,757,Sappy Seed,Leafitobombas,茁茁轰炸,官方
+招式,758,Freezy Frost,Glaceoprisma,冰冰霜冻,官方
+招式,759,Sparkly Swirl,Sylveotornado,亮亮风暴,官方
+招式,760,Knobbly Binding,Eevatadura,伊布缠绕,自译：进化伊布专属招式
+招式,761,Murky Burst,Phantoexplosión,幽伊爆裂,自译：幽伊布专属招式
+招式,762,Scary Breath,Drakealiento,龙伊吐息,自译：龙伊布专属招式
+招式,763,Rocky Catapult,Rockeocatapulta,岩伊投石,自译：岩伊布专属招式
+招式,764,Springy Peak,Aereopico,风伊啄击,自译：风伊布专属招式
+招式,765,Petty Scare,Lephisusto,蝶伊惊吓,自译：蝶伊布专属招式
+招式,766,Bumpy Quake,Dunetemblor,沙伊震地,自译：沙伊布专属招式
+招式,767,Acuity Hit,Bandeogolpe,斗伊重击,自译：斗伊布专属招式
+招式,768,Stinky Smoke,Lireapestoso,毒伊臭烟,自译：毒伊布专属招式
+招式,769,Brassy Claw,Titangarra,钢伊利爪,自译：钢伊布专属招式
+招式,770,Aura Force,Aurafuerza,波导之力,自译（Aura 官方译“波导”）
+招式,771,Aura Energy,Auraenergía,波导能量,自译
+招式,772,Shelter,Retracción,闭关,官方
+招式,773,Wave Crash,Envite acuático,波动冲,官方
+招式,774,Wildbolt Storm,Electormenta,鸣雷风暴,官方
+招式,775,Infernal Parade,Marcha espectral,群魔乱舞,官方
+招式,776,Bitter Malice,Rencor reprimido,冤冤相报,官方
+招式,777,Raging Fury,Erupción de ira,大愤慨,官方
+招式,778,Springtide Storm,Ciclón primavera,阳春风暴,官方
+招式,779,Mountain Gale,Viento carámbano,冰山风,官方
+招式,780,Victory Dance,Danza triunfal,胜利之舞,官方
+招式,781,Triple Arrows,Triple flecha,三连箭,官方
+招式,782,Power Shift,Cambiapoder,力量转换,官方
+招式,783,Chloroblast,Clorofiláser,叶绿爆震,官方
+招式,784,Esper Wing,Ala aural,气场之翼,官方
+招式,785,Psyshield Bash,Asalto barrera,屏障猛攻,官方
+招式,786,Take Heart,Bálsamo osado,勇气填充,官方
+招式,787,Lunar Blessing,Plegaria lunar,新月祈祷,官方
+招式,788,Mystical Power,Poder místico,神秘之力,官方
+招式,789,Stone Axe,Hachazo pétreo,岩斧,官方
+招式,790,Lash Out,Desahogo,泄愤,官方
+招式,791,Ceaseless Edge,Tajo metralla,秘剑·千重涛,官方
+招式,792,Headlong Rush,Arremetida,突飞猛扑,官方
+招式,793,Sandsear Storm,Simún de arena,热沙风暴,官方
+招式,794,Dire Claw,Garra nociva,克命爪,官方
+招式,795,Barb Barrage,Mil púas tóxicas,毒千针,官方
+招式,796,Bleakwind Storm,Vendaval gélido,枯叶风暴,官方
+招式,797,Make It Rain,Fiebre dorada,淘金潮,官方
+招式,798,Gigaton Hammer,Martillo colosal,巨力锤,官方
+招式,799,Spin Out,Quemarrueda,疾速转轮,官方
+招式,800,Chilling Water,Agua fría,泼冷水,官方
+招式,801,Aqua Step,Danza acuática,流水旋舞,官方
+招式,802,Hydro Steam,Hidrovapor,水蒸气,官方
+招式,803,Jet Punch,Puño jet,喷射拳,官方
+招式,804,Aqua Cutter,Tajo acuático,水波刀,官方
+招式,805,Triple Dive,Triple inmersión,三连钻,官方
+招式,806,Pounce,Brinco,虫扑,官方
+招式,807,Silk Trap,Telatrampa,线阱,官方
+招式,808,Glaive Rush,Asalto espadón,巨剑突击,官方
+招式,809,Order Up,Oído cocina,上菜,官方
+招式,810,Electro Drift,Electroderrape,闪电猛冲,官方
+招式,811,Double Shock,Electropalmas,电光双击,官方
+招式,812,Last Respects,Homenaje póstumo,扫墓,官方
+招式,813,Rage Fist,Puño furia,愤怒之拳,官方
+招式,814,Torch Song,Canto ardiente,闪焰高歌,官方
+招式,815,Armor Cannon,Cañón armadura,铠农炮,官方
+招式,816,Bitter Blade,Espada lamento,悔念剑,官方
+招式,817,Blazing Torque,Pirochoque,灼热暴冲,官方
+招式,818,Magical Torque,Feerichoque,魔法暴冲,官方
+招式,819,Chilly Reception,Fría acogida,冷笑话,官方
+招式,820,Snowscape,Paisaje nevado,雪景,官方
+招式,821,Ice Spinner,Pirueta helada,冰旋,官方
+招式,822,Collision Course,Nitrochoque,全开猛撞,官方
+招式,823,Axe Kick,Patada hacha,下压踢,官方
+招式,824,Combat Torque,Pugnachoque,格斗暴冲,官方
+招式,825,Shed Tail,Autotomía,断尾,官方
+招式,826,Doodle,Decalcomanía,描绘,官方
+招式,827,Fillet Away,Deslome,甩肉,官方
+招式,828,Raging Bull,Furia taurina,怒牛,官方
+招式,829,Hyper Drill,Hipertaladro,强力钻,官方
+招式,830,Tidy Up,Limpieza general,大扫除,官方
+招式,831,Revival Blessing,Plegaria vital,复生祈祷,官方
+招式,832,Population Bomb,Proliferación,鼠数儿,官方
+招式,833,Tera Blast,Teraexplosión,太晶爆发,官方
+招式,834,Trailblaze,Abrecaminos,起草,官方
+招式,835,Spicy Extract,Extracto picante,辣椒精华,官方
+招式,836,Flower Trick,Truco floral,千变万花,官方
+招式,837,Lumina Crash,Fotocolisión,琉光冲激,官方
+招式,838,Twin Beam,Láser doble,双光束,官方
+招式,839,Psyblade,Psicohojas,精神剑,官方
+招式,840,Salt Cure,Salazón,盐腌,官方
+招式,841,Ruination,Calamidad,大灾难,官方
+招式,842,Kowtow Cleave,Genufendiente,仆刀,官方
+招式,843,Wicked Torque,Ominochoque,黑暗暴冲,官方
+招式,844,Comeuppance,Resarcimiento,复仇,官方
+招式,845,Mortal Spin,Giro mortífero,晶光转转,官方
+招式,846,Noxius Torque,Ponzochoque,剧毒暴冲,官方
+招式,847,Electro Shot,Electrorrayo,电光束,官方
+招式,848,Syrup Bomb,Bomba caramelo,糖浆炸弹,官方
+招式,849,Hidden Strength,Fuerza oculta,隐藏之力,自译（官方“觉醒力量”是 Hidden Power）
+招式,850,Supercell Slam,Plancha voltáica,闪电强袭,官方
+招式,851,Upper Hand,Palma rauda,快手还击,官方
+招式,852,Hard Press,Prensa metálica,硬压,官方
+招式,853,Tachyon Cutter,Tajo taquión,迅子利刃,官方
+招式,854,Dragon Cheer,Bramido dragón,龙声鼓舞,官方
+招式,855,Fickle Beam,Láser veleidoso,随机光,官方
+招式,856,Thunderclap,Relámpago súbito,迅雷,官方
+招式,857,Temper Flare,Cólera ardiente,豁出去,官方
+招式,858,Burning Bulwark,Llama protectora,火焰守护,官方
+招式,859,Alluring Voice,Canto encantador,魅诱之声,官方
+招式,860,Blood Moon,Luna roja,血月,官方
+招式,861,Matcha Gotcha,Cañón batidor,刷刷茶炮,官方
+招式,862,Ivy Cudgel,Garrote liana,棘藤棒,官方
+招式,863,Psychic Noise,Psicorruido,精神噪音,官方
+招式,864,Mighty Cleave,Filo potente,强刃攻击,官方
+招式,865,Malignant Chain,Cadena virulenta,邪毒锁链,官方
+招式,866,Tera Starstorm,Teraclúster,晶光星群,官方
+特性,1,Stench,Hedor,恶臭,官方
+特性,2,Drizzle,Llovizna,降雨,官方
+特性,3,Speed Boost,Impulso,加速,官方
+特性,4,Battle Armor,Armadura Batalla,战斗盔甲,官方
+特性,5,Sturdy,Robustez,结实,官方
+特性,6,Damp,Humedad,湿气,官方
+特性,7,Limber,Flexibilidad,柔软,官方
+特性,8,Sand Veil,Velo Arena,沙隐,官方
+特性,9,Static,Electricidad Estática,静电,官方
+特性,10,Volt Absorb,Absorbe Electricidad,蓄电,官方
+特性,11,Water Absorb,Absorbe Agua,储水,官方
+特性,12,Oblivious,Despiste,迟钝,官方
+特性,13,Cloud Nine,Aclimatación,无关天气,官方
+特性,14,Compound Eyes,Ojo Compuesto,复眼,官方
+特性,15,Insomnia,Insomnio,不眠,官方
+特性,16,Color Change,Cambio Color,变色,官方
+特性,17,Immunity,Inmunidad,免疫,官方
+特性,18,Flash Fire,Absorbe Fuego,引火,官方
+特性,19,Shield Dust,Polvo Escudo,鳞粉,官方
+特性,20,Own Tempo,Ritmo Propio,我行我素,官方
+特性,21,Suction Cups,Ventosas,吸盘,官方
+特性,22,Intimidate,Intimidación,威吓,官方
+特性,23,Shadow Tag,Sombra Trampa,踩影,官方
+特性,24,Rough Skin,Piel Tosca,粗糙皮肤,官方
+特性,25,Wonder Guard,Superguarda,神奇守护,官方
+特性,26,Levitate,Levitación,飘浮,官方
+特性,27,Effect Spore,Efecto Espora,孢子,官方
+特性,28,Synchronize,Sincronía,同步,官方
+特性,29,Clear Body,Cuerpo Puro,恒净之躯,官方
+特性,30,Natural Cure,Cura Natural,自然回复,官方
+特性,31,Lightning Rod,Pararrayos,避雷针,官方
+特性,32,Serene Grace,Dicha,天恩,官方
+特性,33,Swift Swim,Nado Rápido,悠游自如,官方
+特性,34,Chlorophyll,Clorofila,叶绿素,官方
+特性,35,Illuminate,Iluminación,发光,官方
+特性,36,Trace,Calco,复制,官方
+特性,37,Huge Power,Potencia,大力士,官方
+特性,38,Poison Point,Punto Tóxico,毒刺,官方
+特性,39,Inner Focus,Fuerza mental,精神力,官方
+特性,40,Magma Armor,Escudo Magma,熔岩铠甲,官方
+特性,41,Water Veil,Velo Agua,水幕,官方
+特性,42,Magnet Pull,Imán,磁力,官方
+特性,43,Soundproof,Insonorizar,隔音,官方
+特性,44,Rain Dish,Cura Lluvia,雨盘,官方
+特性,45,Sand Stream,Chorro Arena,扬沙,官方
+特性,46,Pressure,Presión,压迫感,官方
+特性,47,Thick Fat,Sebo,厚脂肪,官方
+特性,48,Early Bird,Madrugar,早起,官方
+特性,49,Flame Body,Cuerpo Llama,火焰之躯,官方
+特性,50,Run Away,Fuga,逃跑,官方
+特性,51,Keen Eye,Vista Lince,锐利目光,官方
+特性,52,Hyper Cutter,Corte Fuerte,怪力钳,官方
+特性,53,Pickup,Recogida,捡拾,官方
+特性,54,Truant,Pereza,懒惰,官方
+特性,55,Hustle,Entusiasmo,活力,官方
+特性,56,Cute Charm,Gran Encanto,迷人之躯,官方
+特性,57,Plus,Más,正电,官方
+特性,58,Minus,Menos,负电,官方
+特性,59,Forecast,Predicción,阴晴不定,官方
+特性,60,Sticky Hold,Viscosidad,黏着,官方
+特性,61,Shed Skin,Mudar,蜕皮,官方
+特性,62,Guts,Agallas,毅力,官方
+特性,63,Marvel Scale,Escama Especial,神奇鳞片,官方
+特性,64,Liquid Ooze,Viscosecreción,污泥浆,官方
+特性,65,Overgrow,Espesura,茂盛,官方
+特性,66,Blaze,Mar Llamas,猛火,官方
+特性,67,Torrent,Torrente,激流,官方
+特性,68,Swarm,Enjambre,虫之预感,官方
+特性,69,Rock Head,Cabeza Roca,坚硬脑袋,官方
+特性,70,Drought,Sequía,日照,官方
+特性,71,Arena Trap,Trampa Arena,沙穴,官方
+特性,72,Vital Spirit,Espíritu Vital,干劲,官方
+特性,73,White Smoke,Humo Blanco,白色烟雾,官方
+特性,74,Pure Power,Energía Pura,瑜伽之力,官方
+特性,75,Shell Armor,Caparazón,硬壳盔甲,官方
+特性,76,Air Lock,Esclusa de Aire,气闸,官方
+特性,77,Tangled Feet,Tumbos,蹒跚,官方
+特性,78,Motor Drive,Electromotor,电气引擎,官方
+特性,79,Rivalry,Rivalidad,斗争心,官方
+特性,80,Steadfast,Impasible,不屈之心,官方
+特性,81,Snow Cloak,Manto Níveo,雪隐,官方
+特性,82,Gluttony,Gula,贪吃鬼,官方
+特性,83,Anger Point,Irascible,愤怒穴位,官方
+特性,84,Unburden,Liviano,轻装,官方
+特性,85,Heatproof,Ignífugo,耐热,官方
+特性,86,Simple,Simple,单纯,官方
+特性,87,Dry Skin,Piel Seca,干燥皮肤,官方
+特性,88,Download,Descarga,下载,官方
+特性,89,Iron Fist,Puño Férreo,铁拳,官方
+特性,90,Poison Heal,Antídoto,毒疗,官方
+特性,91,Adaptability,Adaptable,适应力,官方
+特性,92,Skill Link,Encadenado,连续攻击,官方
+特性,93,Hydration,Hidratación,湿润之躯,官方
+特性,94,Solar Power,Poder Solar,太阳之力,官方
+特性,95,Quick Feet,Pies Rápidos,飞毛腿,官方
+特性,96,Normalize,Normalidad,一般皮肤,官方
+特性,97,Sniper,Francotirador,狙击手,官方
+特性,98,Magic Guard,Muro Mágico,魔法防守,官方
+特性,99,No Guard,Indefenso,无防守,官方
+特性,100,Stall,Rezagado,慢出,官方
+特性,101,Technician,Experto,技术高手,官方
+特性,102,Leaf Guard,Defensa Hoja,叶子防守,官方
+特性,103,Klutz,Zoquete,笨拙,官方
+特性,104,Mold Breaker,Rompemoldes,破格,官方
+特性,105,Super Luck,Afortunado,超幸运,官方
+特性,106,Aftermath,Detonación,引爆,官方
+特性,107,Anticipation,Anticipación,危险预知,官方
+特性,108,Forewarn,Alerta,预知梦,官方
+特性,109,Unaware,Ignorante,纯朴,官方
+特性,110,Tinted Lens,Cromolente,有色眼镜,官方
+特性,111,Filter,Filtro,过滤,官方
+特性,112,Slow Start,Inicio Lento,慢启动,官方
+特性,113,Scrappy,Intrépido,胆量,官方
+特性,114,Storm Drain,Colector,引水,官方
+特性,115,Ice Body,Gélido,冰冻之躯,官方
+特性,116,Solid Rock,Roca Sólida,坚硬岩石,官方
+特性,117,Snow Warning,Nevada,降雪,官方
+特性,118,Honey Gather,Recogemiel,采蜜,官方
+特性,119,Frisk,Cacheo,察觉,官方
+特性,120,Reckless,Audaz,舍身,官方
+特性,121,Multitype,Multitipo,多属性,官方
+特性,122,Flower Gift,Don Floral,花之礼,官方
+特性,123,Bad Dreams,Mal Sueño,梦魇,官方
+特性,124,Pickpocket,Hurto,顺手牵羊,官方
+特性,125,Sheer Force,Potencia Bruta,强行,官方
+特性,126,Contrary,Respondón,唱反调,官方
+特性,127,Unnerve,Nerviosismo,紧张感,官方
+特性,128,Defiant,Competitivo,不服输,官方
+特性,129,Defeatist,Flaqueza,软弱,官方
+特性,130,Cursed Body,Cuerpo Maldito,诅咒之躯,官方
+特性,131,Healer,Alma Cura,治愈之心,官方
+特性,132,Friend Guard,Compiescolta,友情防守,官方
+特性,133,Weak Armor,Armadura Frágil,碎裂铠甲,官方
+特性,134,Heavy Metal,Metal Pesado,重金属,官方
+特性,135,Light Metal,Metal Liviano,轻金属,官方
+特性,136,Multiscale,Multiescamas,多重鳞片,官方
+特性,137,Toxic Boost,Ímpetu Tóxico,中毒激升,官方
+特性,138,Flare Boost,Ímpetu Ardiente,受热激升,官方
+特性,139,Harvest,Cosecha,收获,官方
+特性,140,Telepathy,Telepatía,心灵感应,官方
+特性,141,Moody,Veleta,心情不定,官方
+特性,142,Overcoat,Funda,防尘,官方
+特性,143,Poison Touch,Toque Tóxico,毒手,官方
+特性,144,Regenerator,Regeneración,再生力,官方
+特性,145,Big Pecks,Sacapecho,健壮胸肌,官方
+特性,146,Sand Rush,Ímpetu Arena,拨沙,官方
+特性,147,Wonder Skin,Piel Milagro,奇迹皮肤,官方
+特性,148,Analytic,Cálculo Final,分析,官方
+特性,149,Illusion,Ilusión,幻觉,官方
+特性,150,Imposter,Impostor,变身者,官方
+特性,151,Infiltrator,Allanamiento,穿透,官方
+特性,152,Mummy,Momia,木乃伊,官方
+特性,153,Moxie,Autoestima,自信过度,官方
+特性,154,Justified,Justiciero,正义之心,官方
+特性,155,Rattled,Cobardía,胆怯,官方
+特性,156,Magic Bounce,Espejo Mágico,魔法镜,官方
+特性,157,Sap Sipper,Herbívoro,食草,官方
+特性,158,Prankster,Bromista,恶作剧之心,官方
+特性,159,Sand Force,Poder Arena,沙之力,官方
+特性,160,Iron Barbs,Punta Acero,铁刺,官方
+特性,161,Zen Mode,Modo Daruma,达摩模式,官方
+特性,162,Victory Star,Tinovictoria,胜利之星,官方
+特性,163,Turboblaze,Turbollama,涡轮火焰,官方
+特性,164,Teravolt,Terravoltaje,兆级电压,官方
+特性,165,Chimera,Quimera,奇美拉,自译
+特性,166,Pixilate,Piel Feérica,妖精皮肤,官方
+特性,167,Tough Claws,Garra Dura,硬爪,官方
+特性,168,Mega Launcher,Megadisparador,超级发射器,官方
+特性,169,Parental Bond,Amor Filial,亲子爱,官方
+特性,170,Aerilate,Piel Celeste,飞行皮肤,官方
+特性,171,Cheek Pouch,Carrillo,颊囊,官方
+特性,172,Flower Veil,Velo Flor,花幕,官方
+特性,173,Fur Coat,Pelaje Recio,毛皮大衣,官方
+特性,174,Stance Change,Cambio Táctico,战斗切换,官方
+特性,175,Sweet Veil,Velo Dulce,甜幕,官方
+特性,176,Strong Jaw,Mandíbula Fuerte,强壮之颚,官方
+特性,177,Refrigerate,Piel Helada,冰冻皮肤,官方
+特性,178,Bulletproof,Antibalas,防弹,官方
+特性,179,Magician,Prestidigitador,魔术师,官方
+特性,180,Protean,Mutatipo,变幻自如,官方
+特性,181,Gale Wings,Alas Vendaval,疾风之翼,官方
+特性,182,Symbiosis,Simbiosis,共生,官方
+特性,183,Grass Pelt,Manto Frondoso,草之毛皮,官方
+特性,184,Aroma Veil,Velo Aroma,芳香幕,官方
+特性,185,Gooey,Baba,黏滑,官方
+特性,186,Competitive,Tenacidad,好胜,官方
+特性,187,Fairy Aura,Aura Feérica,妖精气场,官方
+特性,188,Dark Aura,Aura Oscura,暗黑气场,官方
+特性,189,Aura Break,Rompeaura,气场破坏,官方
+特性,190,Primordial Sea,Mar del Albor,始源之海,官方
+特性,191,Desolate Land,Tierra del Ocaso,终结之地,官方
+特性,192,Delta Stream,Ráfaga Delta,德尔塔气流,官方
+特性,193,Long Reach,Remoto,远隔,官方
+特性,194,Liquid Voice,Voz Fluida,湿润之声,官方
+特性,195,Stakeout,Vigilante,蹲守,官方
+特性,196,Dancer,Pareja de Baile,舞者,官方
+特性,197,Schooling,Banco,鱼群,官方
+特性,198,Merciless,Ensañamiento,不仁不义,官方
+特性,199,Stamina,Firmeza,持久力,官方
+特性,200,Water Bubble,Pompa,水泡,官方
+特性,201,Corrosion,Corrosión,腐蚀,官方
+特性,202,Fluffy,Peluche,毛茸茸,官方
+特性,203,Queenly Majesty,Regia Presencia,女王的威严,官方
+特性,204,Triage,Primer Auxilio,先行治疗,官方
+特性,205,Receiver,Receptor,接球手,官方
+特性,206,Emergency Exit,Retirada,危险回避,官方
+特性,207,Water Compaction,Hidrorrefuerzo,遇水凝固,官方
+特性,208,Innards Out,Revés,飞出的内在物,官方
+特性,209,RKS System,Sistema Alfa,ＡＲ系统,官方
+特性,210,Shields Down,Escudo Limitado,界限盾壳,官方
+特性,211,Comatose,Letargo Perenne,绝对睡眠,官方
+特性,212,Disguise,Disfraz,画皮,官方
+特性,213,Dazzling,Cuerpo Vívido,鲜艳之躯,官方
+特性,214,Berserk,Cólera,怒火冲天,官方
+特性,215,Steelworker,Acero Templado,钢能力者,官方
+特性,216,Electric Surge,Electrogénesis,电气制造者,官方
+特性,217,Psychic Surge,Psicogénesis,精神制造者,官方
+特性,218,Grassy Surge,Herbogénesis,青草制造者,官方
+特性,219,Misty Surge,Nebulogénesis,薄雾制造者,官方
+特性,220,Full Metal Body,Guardia Metálica,金属防护,官方
+特性,221,Shadow Shield,Guardia Espectro,幻影防守,官方
+特性,222,Soul-Heart,Coránima,魂心,官方
+特性,223,Beast Boost,Ultraimpulso,异兽提升,官方
+特性,224,Power of Alchemy,Reacción Química,化学之力,官方
+特性,225,Galvanize,Piel Eléctrica,电气皮肤,官方
+特性,226,Tangling Hair,Rizos Rebeldes,卷发,官方
+特性,227,Prism Armor,Armadura Prisma,棱镜装甲,官方
+特性,228,Surge Surfer,Cola Surf,冲浪之尾,官方
+特性,229,Slush Rush,Quitanieves,拨雪,官方
+特性,230,Power Construct,Agrupamiento,群聚变形,官方
+特性,231,Battery,Batería,蓄电池,官方
+特性,232,Battle Bond,Fuerte Afecto,牵绊变身,官方
+特性,233,Wimp Out,Huida,跃跃欲逃,官方
+特性,234,Intrepid Sword,Espada Indómita,不挠之剑,官方
+特性,235,Dauntless Shield,Escudo Recio,不屈之盾,官方
+特性,236,Libero,Líbero,自由者,官方
+特性,237,Ball Fetch,Recogebolas,捡球,官方
+特性,238,Cotton Down,Pelusa,棉絮,官方
+特性,239,Propeller Tail,Hélice Caudal,螺旋尾鳍,官方
+特性,240,Mirror Armor,Coraza Reflejo,镜甲,官方
+特性,241,Gulp Missile,Tragamisil,一口导弹,官方
+特性,242,Stalwart,Acérrimo,坚毅,官方
+特性,243,Steam Engine,Combustible,蒸汽机,官方
+特性,244,Punk Rock,Punk Rock,庞克摇滚,官方
+特性,245,Sand Spit,Expulsarena,吐沙,官方
+特性,246,Ice Scales,Escama de Hielo,冰鳞粉,官方
+特性,247,Ripen,Maduración,熟成,官方
+特性,248,Ice Face,Cara de Hielo,结冻头,官方
+特性,249,Power Spot,Fuente Energía,能量点,官方
+特性,250,Mimicry,Mimetismo,拟态,官方
+特性,251,Screen Cleaner,Antibarrera,除障,官方
+特性,252,Steely Spirit,Alma Acerada,钢之意志,官方
+特性,253,Perish Body,Cuerpo Mortal,灭亡之躯,官方
+特性,254,Wandering Spirit,Alma Errante,游魂,官方
+特性,255,Gorilla Tactics,Monotema,一猩一意,官方
+特性,256,Neutralizing Gas,Gas Reactivo,化学变化气体,官方
+特性,257,Pastel Veil,Velo Pastel,粉彩护幕,官方
+特性,258,Hunger Switch,Mutapetito,饱了又饿,官方
+特性,259,Quick Draw,Mano rápida,速击,官方
+特性,260,Unseen Fist,Puño invisible,无形拳,官方
+特性,261,Curious Medicine,Medicina extraña,怪药,官方
+特性,262,Transistor,Transistor,电晶体,官方
+特性,263,Dragon's Maw,Mandíbula dragón,龙颚,官方
+特性,264,Chilling Neigh,Relincho blanco,苍白嘶鸣,官方
+特性,265,Grim Neigh,Relincho negro,漆黑嘶鸣,官方
+特性,266,As One,Unidad ecuestre,人马一体,官方
+特性,268,Beads of Ruin,Abalorio debacle,灾祸之玉,官方
+特性,269,Vessel of Ruin,Caldero debacle,灾祸之鼎,官方
+特性,270,Zero to Hero,Cambio heroico,全能变身,官方
+特性,271,Toxic Debris,Capa tóxica,毒满地,官方
+特性,272,Quark Drive,Carga cuark,夸克充能,官方
+特性,273,Armor Tail,Cola armadura,尾甲,官方
+特性,274,Commander,Comandar,发号施令,官方
+特性,275,Anger Shell,Coraza ira,愤怒甲壳,官方
+特性,276,Sharpness,Cortante,锋锐,官方
+特性,277,Good As Gold,Cuerpo áureo,黄金之躯,官方
+特性,278,Well-Baked Body,Cuerpo horneado,焦香之躯,官方
+特性,279,Electromorphosis,Dinamo,电力转换,官方
+特性,280,Seed Sower,Disemillar,掉出种子,官方
+特性,281,Wind Power,Energía eólica,风力发电,官方
+特性,282,Sword of Ruin,Espada debacle,灾祸之剑,官方
+特性,283,Supreme Overlord,General supremo,大将,官方
+特性,284,Earth Eater,Geofagia,食土,官方
+特性,285,Orichalcum Pulse,Latido oricalco,绯红脉动,官方
+特性,286,Hadron Engine,Motor hadrónico,强子引擎,官方
+特性,287,Lingering Aroma,Olor persistente,甩不掉的气味,官方
+特性,288,Opportunist,Oportunista,跟风,官方
+特性,289,Protosynthesis,Paleosíntesis,古代活性,官方
+特性,290,Guard Dog,Perro guardián,看门犬,官方
+特性,291,Mycelium Might,Poder fúngico,菌丝之力,官方
+特性,292,Cud Chew,Rumia,反刍,官方
+特性,293,Purifying Salt,Sal purificadora,洁净之盐,官方
+特性,294,Wind Rider,Surcavientos,乘风,官方
+特性,295,Tablets of Ruin,Tablilla debacle,灾祸之简,官方
+特性,296,Thermal Exchange,Termoconversión,热交换,官方
+特性,297,Rocky Payload,Transportarrocas,搬岩,官方
+特性,298,Costar,Unísono,同台共演,官方
+特性,299,Hailstorm,Granizada,冰雹风暴,自译
+特性,300,Poison Puppeteer,Títere tóxico,毒傀儡,官方
+特性,301,Tera Shift,Teracambio,太晶变形,官方
+特性,302,Tera Shell,Teracaparazón,太晶甲壳,官方
+特性,303,Teraform Zero,Teraformación 0,归零化境,官方
+特性,304,Supersweet Syrup,Néctar dulce,甘露之蜜,官方
+特性,305,Hospitality,Hospitalidad,款待,官方
+特性,306,Mind's Eye,Ojo Mental,心眼,官方
+特性,307,Toxic Chain,Cadena Tóxica,毒锁链,官方
+特性,308,Neuroforce,Fuerza Cerebral,脑核之力,官方
+特性,309,Piercing Drill,Turbotaladro,贯穿钻,官方
+特性,310,Dragonize,Piel Dragontina,龙皮肤,官方
+特性,311,Mega Sol,Megasolar,超级日光,官方
+特性,312,Spicy Spray,Salpicante,辣椒喷发,官方
+特性,313,Eelevate,Impulso Anguila,鳗鳗高升,官方
+特性,314,Fire Mane,Crin de Fuego,火焰鬃毛,官方
+道具,1,Poké Ball,Poké Ball,精灵球,官方
+道具,2,Great Ball,Super Ball,超级球,官方
+道具,3,Ultra Ball,Ultra Ball,高级球,官方
+道具,4,Master Ball,Master Ball,大师球,官方
+道具,5,Safari Ball,Safari Ball,狩猎球,官方
+道具,6,Premier Ball,Honor Ball,纪念球,官方
+道具,7,Net Ball,Malla Ball,捕网球,官方
+道具,8,Dive Ball,Buceo Ball,潜水球,官方
+道具,9,Timer Ball,Turno Ball,计时球,官方
+道具,10,Luxury Ball,Lujo Ball,豪华球,官方
+道具,11,Nest Ball,Nido Ball,巢穴球,官方
+道具,12,Repeat Ball,Acopio Ball,重复球,官方
+道具,13,Star Ball,Star Ball,星之球,自译
+道具,14,GS Ball,GS Ball,GS球,官方
+道具,15,Potion,Poción,伤药,官方
+道具,16,Super Potion,Superpoción,好伤药,官方
+道具,17,Hyper Potion,Hiperpoción,厉害伤药,官方
+道具,18,Max Potion,Poción Máxima,全满药,官方
+道具,19,Full Restore,Restaurar Todo,全复药,官方
+道具,20,Full Heal,Cura Total,万灵药,官方
+道具,21,Revive,Revivir,活力碎片,官方
+道具,22,Max Revive,Revivir Máximo,活力块,官方
+道具,23,Fresh Water,Agua Fresca,美味之水,官方
+道具,24,Soda Pop,Refresco,劲爽汽水,官方
+道具,25,Lemonade,Limonada,果汁牛奶,官方
+道具,26,Moomoo Milk,Leche Mu-Mu,哞哞鲜奶,官方
+道具,27,Antidote,Antídoto,解毒药,官方
+道具,28,Burn Heal,Antiquemar,灼伤药,官方
+道具,29,Ice Heal,Antihielo,解冻药,官方
+道具,30,Awakening,Despertar,解眠药,官方
+道具,31,Paralyze Heal,Antiparalizador,解麻药,官方
+道具,32,HP Up,Más PS,ＨＰ增强剂,官方
+道具,33,Calcium,Calcio,特攻增强剂,官方
+道具,34,Iron,Hierro,防御增强剂,官方
+道具,35,Carbos,Carbohidratos,速度增强剂,官方
+道具,36,Protein,Proteína,攻击增强剂,官方
+道具,37,Zinc,Zinc,特防增强剂,官方
+道具,38,Rare Candy,Caramelo Raro,神奇糖果,官方
+道具,39,Repel,Repelente,除虫喷雾,官方
+道具,40,Super Repel,SuperRepel,白银喷雾,官方
+道具,41,Max Repel,MaxRepel,黄金喷雾,官方
+道具,42,Escape Rope,Cuerda Huida,离洞绳,官方
+道具,43,Sun Stone,Piedra Solar,日之石,官方
+道具,44,Moon Stone,Piedra Lunar,月之石,官方
+道具,45,Fire Stone,Piedra Fuego,火之石,官方
+道具,46,Thunder Stone,Piedra Trueno,雷之石,官方
+道具,47,Water Stone,Piedra Agua,水之石,官方
+道具,48,Leaf Stone,Piedra Hoja,叶之石,官方
+道具,49,Shiny Stone,Piedra Día,光之石,官方
+道具,50,Dusk Stone,Piedra Noche,暗之石,官方
+道具,51,Dawn Stone,Piedra Alba,觉醒之石,官方
+道具,52,Oval Stone,Piedra Oval,浑圆之石,官方
+道具,53,King's Rock,Roca Del Rey,王者之证,官方
+道具,54,Ice Rock,Piedra Hielo,冰之石,官方
+道具,55,Reaper Cloth,Tela Terrible,灵界之布,官方
+道具,56,Razor Claw,Garra Afilada,锐利之爪,官方
+道具,57,Razor Fang,Colmillo Agudo,锐利之牙,官方
+道具,58,Twisted Spoon,Cuchara Torcida,弯曲的汤匙,官方
+道具,59,Black Belt,Cinturón Negro,黑带,官方
+道具,60,Hard Stone,Piedra Dura,硬石头,官方
+道具,61,Spell Tag,Hechizo,诅咒之符,官方
+道具,62,Metal Coat,Rev. Metálico,金属膜,官方
+道具,63,Electrizer,Electrizador,电力增幅器,官方
+道具,64,Magmarizer,Magmatizador,熔岩增幅器,官方
+道具,65,Protector,Protector,护具,官方
+道具,66,Up-Grade,Mejora,升级数据,官方
+道具,67,Dubious Disc,Disco Extraño,可疑补丁,官方
+道具,68,Deepseatooth,Diente Marino,深海之牙,官方
+道具,69,Deepseascale,Escama Marina,深海鳞片,官方
+道具,70,Dragon Scale,Escama Dragón,龙之鳞片,官方
+道具,71,Sacred Ash,Ceniza Sagrada,圣灰,官方
+道具,72,Old Amber,Ámbar Viejo,秘密琥珀,官方
+道具,73,Helix Fossil,Fósil Helix,贝壳化石,官方
+道具,74,Dome Fossil,Fósil Domo,甲壳化石,官方
+道具,75,Root Fossil,Fósil Raíz,根状化石,官方
+道具,76,Claw Fossil,Fósil Garra,爪子化石,官方
+道具,77,Armor Fossil,Fósil Coraza,盾甲化石,官方
+道具,78,Skull Fossil,Fósil Cráneo,头盖化石,官方
+道具,79,Pearl,Perla Pequeña,珍珠,官方
+道具,80,Big Pearl,Perla Grande,大珍珠,官方
+道具,81,Nugget,Pepita,金珠,官方
+道具,82,Sapphire,Zafiro,蓝宝石,官方
+道具,83,Ruby,Rubí,红宝石,官方
+道具,84,Emerald,Esmeralda,绿宝石,官方
+道具,85,Star Piece,Trozo Estrella,星星碎片,官方
+道具,86,Stardust,Polvo Estelar,星星沙子,官方
+道具,87,Rare Bone,Hueso Raro,贵重骨头,官方
+道具,88,Tiny Mushroom,MiniSeta,小蘑菇,官方
+道具,89,Big Mushroom,Seta Grande,大蘑菇,官方
+道具,90,Everstone,Piedra Eterna,不变之石,官方
+道具,91,Blank Plate,Tabla Neutra,净空石板,官方
+道具,92,Flame Plate,Tabla Fuego,火球石板,官方
+道具,93,Splash Plate,Tabla Linfa,水滴石板,官方
+道具,94,Meadow Plate,Tabla Pradal,碧绿石板,官方
+道具,95,Zap Plate,Tabla Trueno,雷电石板,官方
+道具,96,Stone Plate,Tabla Pétrea,岩石石板,官方
+道具,97,Fist Plate,Tabla Fuerte,拳头石板,官方
+道具,98,Earth Plate,Tabla Terrax,大地石板,官方
+道具,99,Mind Plate,Tabla Mental,神奇石板,官方
+道具,100,Toxic Plate,Tabla Tóxica,剧毒石板,官方
+道具,101,Insect Plate,Tabla Bicho,玉虫石板,官方
+道具,102,Icicle Plate,Tabla Helada,冰柱石板,官方
+道具,103,Dread Plate,Tabla Oscura,恶颜石板,官方
+道具,104,Iron Plate,Tabla Acero,钢铁石板,官方
+道具,105,Sky Plate,Tabla Cielo,蓝天石板,官方
+道具,106,Spooky Plate,Tabla Terror,妖怪石板,官方
+道具,107,Draco Plate,Tabla Draco,龙之石板,官方
+道具,108,Forbidden Plate,Tabla Prohibida,禁忌石板,自译（参照官方“××石板”）
+道具,109,Cheri Berry,Baya Zreza,樱子果,官方
+道具,110,Chesto Berry,Baya Atania,零余果,官方
+道具,111,Pecha Berry,Baya Meloc,桃桃果,官方
+道具,112,Rawst Berry,Baya Safre,莓莓果,官方
+道具,113,Aspear Berry,Baya Perasi,利木果,官方
+道具,114,Leppa Berry,Baya Zanama,苹野果,官方
+道具,115,Oran Berry,Baya Aranja,橙橙果,官方
+道具,116,Persim Berry,Baya Caquic,柿仔果,官方
+道具,117,Lum Berry,Baya Ziuela,木子果,官方
+道具,118,Sitrus Berry,Baya Zidra,文柚果,官方
+道具,119,Figy Berry,Baya Higog,勿花果,官方
+道具,120,Wiki Berry,Baya Wiki,异奇果,官方
+道具,121,Mago Berry,Baya Ango,芒芒果,官方
+道具,122,Aguav Berry,Baya Guaya,乐芭果,官方
+道具,123,Iapapa Berry,Baya Pabaya,芭亚果,官方
+道具,124,Razz Berry,Baya Frambu,蔓莓果,官方
+道具,125,Bluk Berry,Baya Oram,墨莓果,官方
+道具,126,Nanab Berry,Baya Latano,蕉香果,官方
+道具,127,Wepear Berry,Baya Peragu,西梨果,官方
+道具,128,Pinap Berry,Baya Pinia,凰梨果,官方
+道具,129,Pomeg Berry,Baya Grana,榴石果,官方
+道具,130,Kelpsy Berry,Baya Algama,藻根果,官方
+道具,131,Qualot Berry,Baya Ispero,比巴果,官方
+道具,132,Hondew Berry,Baya Meluce,哈密果,官方
+道具,133,Grepa Berry,Baya Uvav,萄葡果,官方
+道具,134,Tamato Berry,Baya Tamate,茄番果,官方
+道具,135,Cornn Berry,Baya Mais,玉黍果,官方
+道具,136,Magost Berry,Baya Aostan,岳竹果,官方
+道具,137,Rabuta Berry,Baya Rautan,茸丹果,官方
+道具,138,Nomel Berry,Baya Monli,檬柠果,官方
+道具,139,Spelon Berry,Baya Wikano,刺角果,官方
+道具,140,Pamtre Berry,Baya Plama,椰木果,官方
+道具,141,Watmel Berry,Baya Sambia,瓜西果,官方
+道具,142,Durin Berry,Baya Rudion,金枕果,官方
+道具,143,Belue Berry,Baya Andano,靛莓果,官方
+道具,144,Liechi Berry,Baya Lichi,枝荔果,官方
+道具,145,Ganlon Berry,Baya Gonlan,龙睛果,官方
+道具,146,Salac Berry,Baya Aslac,沙鳞果,官方
+道具,147,Petaya Berry,Baya Yapati,龙火果,官方
+道具,148,Apicot Berry,Baya Aricoc,杏仔果,官方
+道具,149,Lansat Berry,Baya Zonlan,兰萨果,官方
+道具,150,Starf Berry,Baya Arabol,星桃果,官方
+道具,151,Enigma Berry,Baya Enigma,谜芝果,官方
+道具,152,Silver Wing,Ala Plateada,银色之羽,官方
+道具,153,Rainbow Wing,Ala Arcoíris,虹色之羽,官方
+道具,154,Lunar Wing,Pluma Lunar,新月之羽,官方
+道具,155,Lustrous Orb,Lustresfera,白玉宝珠,官方
+道具,156,Adamant Orb,Diamansfera,金刚宝珠,官方
+道具,157,Griseous Orb,Griseosfera,白金宝珠,官方
+道具,158,Gracidea,Flor Gracídea,葛拉西蒂亚花,官方
+道具,159,Magma Stone,Piedra Magma,火山镇石,官方
+道具,160,Blue Orb,Esfera Azul,靛蓝色宝珠,官方
+道具,161,Red Orb,Esfera Roja,朱红色宝珠,官方
+道具,162,Jade Orb,Esfera Verde,草绿色宝珠,官方
+道具,163,Exp. Share,Repartir Exp.,学习装置,官方
+道具,164,Amulet Coin,Mon. Amuleto,护符金币,官方
+道具,165,Elec. Ring,Anillo Elec.,电力戒指,自译
+道具,166,GPS,GPS,GPS,原文
+道具,167,Rekiem Key,Llave Rekiem,雷奇姆钥匙,自译（音译）
+道具,168,SquirtBottle,Regadera,杰尼龟喷壶,官方
+道具,169,Coin Case,Monedero,代币盒,官方
+道具,170,Hidden Package,Paquete Oculto,隐藏包裹,自译
+道具,171,Special Herb,Hierba Especial,特制药草,自译
+道具,172,Knife,Cuchillo,小刀,自译
+道具,173,Axe,Hacha,斧头,自译
+道具,174,Bow,Arco,弓,自译
+道具,175,Azure Flute,Flauta Azur,天界之笛,官方
+道具,176,SmartPhone,SmartPhone,智能手机,自译
+道具,177,Central Key,Llave Central,发电厂钥匙,官方
+道具,178,Matarile Key,Llave Matarile,马塔利钥匙,自译（音译）
+道具,179,Rocket Key,Llave Rocket,火箭钥匙,自译（参照官方“火箭队”）
+道具,180,Exp. Inhibitor,Inhibidor de Exp.,经验抑制器,自译
+道具,181,Old Rod,Caña Vieja,破旧钓竿,官方
+道具,182,Good Rod,Caña Buena,好钓竿,官方
+道具,183,Super Rod,Súper Caña,厉害钓竿,官方
+道具,184,Bicycle,Bicicleta,自行车,官方
+道具,185,xPod Star,xPod Star,xPod Star,原文（游戏内音乐播放器）
+道具,186,Map,Mapa,城镇地图,官方
+道具,187,Poké Flute,Flauta Pkmn,宝可梦之笛,官方
+道具,188,Mystery Pass,Pase Misterio,神秘通行证,自译
+道具,189,Solar Pass,Pase Solar,太阳通行证,自译
+道具,190,Dark Pass,Pase Oscuro,黑暗通行证,自译
+道具,191,Jungle Pass,Pase Jungla,丛林通行证,自译
+道具,192,Front Pass,Pase Frente,开拓区通行证,自译
+道具,193,Mega Ring,Mega-Aro,超级环,官方
+道具,194,HM1 Cut,MO1 Corte,秘传学习器01 居合斩,规则：学习器+招式名
+道具,195,HM2 Fly,MO2 Vuelo,秘传学习器02 飞翔,规则：学习器+招式名
+道具,196,HM3 Surf,MO3 Surf,秘传学习器03 冲浪,规则：学习器+招式名
+道具,197,HM4 Strength,MO4 Fuerza,秘传学习器04 怪力,规则：学习器+招式名
+道具,198,HM5 Flash,MO5 Destello,秘传学习器05 闪光,规则：学习器+招式名
+道具,199,HM6 Rock Smash,MO6 Golpe Roca,秘传学习器06 碎岩,规则：学习器+招式名
+道具,200,HM7 Dive,MO7 Buceo,秘传学习器07 潜水,规则：学习器+招式名
+道具,201,TM1 Teleport,MT1 Teletransporte,招式学习器01 瞬间移动,规则：学习器+招式名
+道具,202,TM2 Dynamic Punch,MT2 Puño Dinámico,招式学习器02 爆裂拳,规则：学习器+招式名
+道具,203,TM3 Dragon Claw,MT3 Garra Dragón,招式学习器03 龙爪,规则：学习器+招式名
+道具,204,TM4 Safeguard,MT4 Velo Sagrado,招式学习器04 神秘守护,规则：学习器+招式名
+道具,205,TM5 Substitute,MT5 Sustituto,招式学习器05 替身,规则：学习器+招式名
+道具,206,TM6 Toxic,MT6 Tóxico,招式学习器06 剧毒,规则：学习器+招式名
+道具,207,TM7 Sludge Bomb,MT7 Bomba Lodo,招式学习器07 污泥炸弹,规则：学习器+招式名
+道具,208,TM8 Iron Tail,MT8 Cola Férrea,招式学习器08 铁尾,规则：学习器+招式名
+道具,209,TM9 Sandstorm,MT9 Tormenta Arena,招式学习器09 沙暴,规则：学习器+招式名
+道具,210,TM10 Sunny Day,MT10 Día Soleado,招式学习器10 大晴天,规则：学习器+招式名
+道具,211,TM11 Rain Dance,MT11 Danza Lluvia,招式学习器11 求雨,规则：学习器+招式名
+道具,212,TM12 Hail,MT12 Granizo,招式学习器12 冰雹,规则：学习器+招式名
+道具,213,TM13 Hidden Power,MT13 Poder Oculto,招式学习器13 觉醒力量,规则：学习器+招式名
+道具,214,TM14 Double Team,MT14 Doble Equipo,招式学习器14 影子分身,规则：学习器+招式名
+道具,215,TM15 Hyper Beam,MT15 Hiperrayo,招式学习器15 破坏光线,规则：学习器+招式名
+道具,216,TM16 Dig,MT16 Excavar,招式学习器16 挖洞,规则：学习器+招式名
+道具,217,TM17 Earthquake,MT17 Terremoto,招式学习器17 地震,规则：学习器+招式名
+道具,218,TM18 Protect,MT18 Protección,招式学习器18 守住,规则：学习器+招式名
+道具,219,TM19 Shock Wave,MT19 Onda Voltio,招式学习器19 电击波,规则：学习器+招式名
+道具,220,TM20 Focus Blast,MT20 Onda Certera,招式学习器20 真气弹,规则：学习器+招式名
+道具,221,TM21 Aerial Ace,MT21 Golpe Aéreo,招式学习器21 燕返,规则：学习器+招式名
+道具,222,TM22 Silver Wind,MT22 Viento Plata,招式学习器22 银色旋风,规则：学习器+招式名
+道具,223,TM23 Dragon Pulse,MT23 Pulso Dragón,招式学习器23 龙之波动,规则：学习器+招式名
+道具,224,TM24 Thunder Wave,MT24 Onda Trueno,招式学习器24 电磁波,规则：学习器+招式名
+道具,225,TM25 Thunderbolt,MT25 Rayo,招式学习器25 十万伏特,规则：学习器+招式名
+道具,226,TM26 Thunder,MT26 Trueno,招式学习器26 打雷,规则：学习器+招式名
+道具,227,TM27 Ice Beam,MT27 Rayo Hielo,招式学习器27 冰冻光束,规则：学习器+招式名
+道具,228,TM28 Blizzard,MT28 Ventisca,招式学习器28 暴风雪,规则：学习器+招式名
+道具,229,TM29 Psychic,MT29 Psíquico,招式学习器29 精神强念,规则：学习器+招式名
+道具,230,TM30 Shadow Ball,MT30 Bola Sombra,招式学习器30 暗影球,规则：学习器+招式名
+道具,231,TM31 Flamethrower,MT31 Lanzallamas,招式学习器31 喷射火焰,规则：学习器+招式名
+道具,232,TM32 Fire Blast,MT32 Llamarada,招式学习器32 大字爆炎,规则：学习器+招式名
+道具,233,TM33 Giga Drain,MT33 Gigadrenado,招式学习器33 终极吸取,规则：学习器+招式名
+道具,234,TM34 Solar Beam,MT34 Rayo Solar,招式学习器34 日光束,规则：学习器+招式名
+道具,235,TM35 Rock Tomb,MT35 Tumbarocas,招式学习器35 岩石封锁,规则：学习器+招式名
+道具,236,TM36 Rock Slide,MT36 Avalancha,招式学习器36 岩崩,规则：学习器+招式名
+道具,237,TM37 Dark Pulse,MT37 Pulso Umbrío,招式学习器37 恶之波动,规则：学习器+招式名
+道具,238,TM38 Poison Jab,MT38 Puya Nociva,招式学习器38 毒击,规则：学习器+招式名
+道具,239,TM39 Giga Impact,MT39 Gigaimpacto,招式学习器39 终极冲击,规则：学习器+招式名
+道具,240,TM40 Water Pulse,MT40 Hidropulso,招式学习器40 水之波动,规则：学习器+招式名
+道具,241,TM41 Explosion,MT41 Explosión,招式学习器41 大爆炸,规则：学习器+招式名
+道具,242,TM42 X-Scissor,MT42 Tijera X,招式学习器42 十字剪,规则：学习器+招式名
+道具,243,TM43 Rest,MT43 Descanso,招式学习器43 睡觉,规则：学习器+招式名
+道具,244,TM44 False Swipe,MT44 Falsotortazo,招式学习器44 点到为止,规则：学习器+招式名
+道具,245,TM45 Secret Power,MT45 Daño Secreto,招式学习器45 秘密之力,规则：学习器+招式名
+道具,246,TM46 Extreme Speed,MT46 Vel. Extrema,招式学习器46 神速,规则：学习器+招式名
+道具,247,TM47 Whirlpool,MT47 Torbellino,招式学习器47 潮旋,规则：学习器+招式名
+道具,248,TM48 Waterfall,MT48 Cascada,招式学习器48 攀瀑,规则：学习器+招式名
+道具,249,TM49 Fire Wave,MT49 Ola-Lava,招式学习器49 熔岩浪潮,规则：学习器+招式名
+道具,250,TM50 Rock Climb,MT50 Treparrocas,招式学习器50 攀岩,规则：学习器+招式名
+道具,251,TM51 Metronome,MT51 Metrónomo,招式学习器51 挥指,规则：学习器+招式名
+道具,252,TM52 Mimic,MT52 Mimético,招式学习器52 模仿,规则：学习器+招式名
+道具,253,TM53 Sweet Scent,MT53 Dulce Aroma,招式学习器53 甜甜香气,规则：学习器+招式名
+道具,254,TM54 DragonBreath,MT54 Dragoaliento,招式学习器54 龙息,规则：学习器+招式名
+道具,255,TM55 Thunder Punch,MT55 Puño Trueno,招式学习器55 雷电拳,规则：学习器+招式名
+道具,256,TM56 Fire Punch,MT56 Puño Fuego,招式学习器56 火焰拳,规则：学习器+招式名
+道具,257,TM57 Ice Punch,MT57 Puño Hielo,招式学习器57 冰冻拳,规则：学习器+招式名
+道具,258,TM58 Drain Punch,MT58 Puño Drenaje,招式学习器58 吸取拳,规则：学习器+招式名
+道具,259,TM59 Roost,MT59 Respiro,招式学习器59 羽栖,规则：学习器+招式名
+道具,260,TM60 Brine,MT60 Salmuera,招式学习器60 盐水,规则：学习器+招式名
+道具,261,TM61 Facade,MT61 Imagen,招式学习器61 硬撑,规则：学习器+招式名
+道具,262,TM62 Stone Edge,MT62 Roca Afilada,招式学习器62 尖石攻击,规则：学习器+招式名
+道具,263,TM63 Energy Ball,MT63 Energibola,招式学习器63 能量球,规则：学习器+招式名
+道具,264,TM64 Captivate,MT64 Seducción,招式学习器64 诱惑,规则：学习器+招式名
+道具,265,TM65 Flash Cannon,MT65 Cañón Resp.,招式学习器65 加农光炮,规则：学习器+招式名
+道具,266,TM66 Skill Swap,MT66 Intercambio,招式学习器66 特性互换,规则：学习器+招式名
+道具,267,TM67 Brick Break,MT67 Demolición,招式学习器67 劈瓦,规则：学习器+招式名
+道具,268,TM68 Swagger,MT68 Contoneo,招式学习器68 虚张声势,规则：学习器+招式名
+道具,269,TM69 Thief,MT69 Ladrón,招式学习器69 小偷,规则：学习器+招式名
+道具,270,TM70 Miracle Eye,MT70 Gran Ojo,招式学习器70 奇迹之眼,规则：学习器+招式名
+道具,271,TM71 Zap Cannon,MT71 Electrocañón,招式学习器71 电磁炮,规则：学习器+招式名
+道具,272,TM72 Light Screen,MT72 Pantalla Luz,招式学习器72 光墙,规则：学习器+招式名
+道具,273,TM73 Reflect,MT73 Reflejo,招式学习器73 反射壁,规则：学习器+招式名
+道具,274,TM74 Magnet Rise,MT74 Levitón,招式学习器74 电磁飘浮,规则：学习器+招式名
+道具,275,TM75 Trick Room,MT75 Espacio Raro,招式学习器75 戏法空间,规则：学习器+招式名
+道具,276,TM76 Psyshock,MT76 Psicocarga,招式学习器76 精神冲击,规则：学习器+招式名
+道具,277,TM77 Venoshock,MT77 Cargatóxica,招式学习器77 毒液冲击,规则：学习器+招式名
+道具,278,TM78 Smack Down,MT78 Antiaéreo,招式学习器78 击落,规则：学习器+招式名
+道具,279,TM79 Bulldoze,MT79 Terratemblor,招式学习器79 重踏,规则：学习器+招式名
+道具,280,TM80 Scald,MT80 Escaldar,招式学习器80 热水,规则：学习器+招式名
+道具,281,TM81 U-Turn,MT81 Ida y vuelta,招式学习器81 急速折返,规则：学习器+招式名
+道具,282,TM82 Acrobatics,MT82 Acróbata,招式学习器82 杂技,规则：学习器+招式名
+道具,283,TM83 Retaliate,MT83 Represalia,招式学习器83 报仇,规则：学习器+招式名
+道具,284,TM84 Struggle Bug,MT84 Estoicismo,招式学习器84 虫之抵抗,规则：学习器+招式名
+道具,285,TM85 Work Up,MT85 Avivar,招式学习器85 自我激励,规则：学习器+招式名
+道具,286,TM86 Dragon Tail,MT86 Cola dragón,招式学习器86 龙尾,规则：学习器+招式名
+道具,287,TM87 Snarl,MT87 Alarido,招式学习器87 大声咆哮,规则：学习器+招式名
+道具,288,TM88 Calm Mind,MT88 Paz Mental,招式学习器88 冥想,规则：学习器+招式名
+道具,289,TM89 Frost Breath,MT89 Vaho gélido,招式学习器89 冰息,规则：学习器+招式名
+道具,290,TM90 Wild Charge,MT90 Voltio cruel,招式学习器90 疯狂伏特,规则：学习器+招式名
+道具,291,Antibiotic,Antibiótico,抗生素,自译
+道具,292,Love Heal,Antiamor,迷恋解药,自译
+道具,293,Curse Heal,Antimaldic.,诅咒解药,自译
+道具,294,Max Elixir,Max. Elixir,ＰＰ多项全补剂,官方
+道具,295,X Attack,Ataque X,力量强化,官方
+道具,296,X Defend,Defensa X,防御强化,官方
+道具,297,X Speed,Velocidad X,速度强化,官方
+道具,298,X Accuracy,Precisión X,命中强化,官方
+道具,299,X Special,Especial X,特攻强化,官方
+道具,300,X Special Defend,Def. Espec. X,特防强化,官方
+道具,301,Dire Hit,Directo,要害攻击,官方
+道具,302,Guard Spec.,Prot. Especial,能力防守,官方
+道具,303,Leftovers,Restos,吃剩的东西,官方
+道具,304,Shell Bell,Campana Concha,贝壳之铃,官方
+道具,305,Black Sludge,Lodo Negro,黑色污泥,官方
+道具,306,Big Nugget,Maxipepita,巨大金珠,官方
+道具,307,Pearl String,Sarta perlas,丸子珍珠,官方
+道具,308,Balm Mushroom,Seta Aromática,芳香蘑菇,官方
+道具,309,Comet Shard,Frag. Cometa,彗星碎片,官方
+道具,310,Silk Scarf,Pañuelo Seda,丝绸围巾,官方
+道具,311,Charcoal,Carbón,木炭,官方
+道具,312,Mystic Water,Agua Mística,神秘水滴,官方
+道具,313,Miracle Seed,Semilla Milagro,奇迹种子,官方
+道具,314,Magnet,Imán,磁铁,官方
+道具,315,Soft Sand,Arena Fina,柔软沙子,官方
+道具,316,Silver Powder,Polvo Plata,银粉,官方
+道具,317,Poison Barb,Flecha Ven.,毒针,官方
+道具,318,Nevermeltice,Antiderretir,不融冰,官方
+道具,319,Black Glasses,Gafas de Sol,黑色眼镜,官方
+道具,320,Sharp Beak,Pico Afilado,锐利鸟嘴,官方
+道具,321,Dragon fang,Colmillo Dragón,龙之牙,官方
+道具,322,Mineral Stone,Piedra Mineral,矿物石,自译
+道具,323,Magic Rock,Roca Mágica,魔法岩,自译
+道具,324,Weights,Pesas,负重,自译
+道具,325,Ninja Band,Cinta Ninja,忍者头带,自译
+道具,326,Spear,Lanza,长矛,自译
+道具,327,Prism Scale,Escama Bella,美丽鳞片,官方
+道具,328,Plume Fossil,Fósil Pluma,羽毛化石,官方
+道具,329,Cover Fossil,Fósil Tapa,背盖化石,官方
+道具,330,Light Ball,Bola Luminosa,电气球,官方
+道具,331,Aura Sphere,Bola Aural,波导之球,自译（道具）
+道具,332,Eon Sphere,Bola Eon,无限之球,自译（Eon 官方译“无限”）
+道具,333,Herb Sphere,Bola Hierba,药草之球,自译
+道具,334,Burning Sphere,Bola Ardiente,燃烧之球,自译
+道具,335,Aquatic Sphere,Bola Acuática,水生之球,自译
+道具,336,Old Cape,Capa Antigua,旧披风,自译
+道具,337,Special Armor,Armadura Esp.,特制铠甲,自译
+道具,338,Light Stone,Orbe Claro,光明石,官方
+道具,339,Dark Stone,Orbe Oscuro,黑暗石,官方
+道具,340,God Stone,Piedra Dios,神之石,自译
+道具,341,Burn Drive,PiroROM,火焰卡带,官方
+道具,342,Douse Drive,HidroROM,水流卡带,官方
+道具,343,Shock Drive,FulgoROM,闪电卡带,官方
+道具,344,Chill Drive,CrioROM,冰冻卡带,官方
+道具,345,Shiny Charm,Amuleto Iris,闪耀护符,官方
+道具,346,Lucky Egg,Huevo Suerte,幸运蛋,官方
+道具,347,Honey,Miel,甜甜蜜,官方
+道具,348,Eviolite,Mineral Evol.,进化奇石,官方
+道具,349,Flame Orb,Llamasfera,火焰宝珠,官方
+道具,350,Toxic Orb,Toxisfera,剧毒宝珠,官方
+道具,351,Sticky Barb,Toxiestrella,附着针,官方
+道具,352,Binding Band,Banda Atadura,紧绑束带,官方
+道具,353,Focus Sash,Banda Focus,气势披带,官方
+道具,354,Ring Target,Blanco,标靶,官方
+道具,355,Iron Ball,Bola Férrea,黑色铁球,官方
+道具,356,Eject Button,Botón Escape,逃脱按键,官方
+道具,357,Rocky Helmet,Casco Dentado,凸凸头盔,官方
+道具,358,Choice Band,Cinta Elección,讲究头带,官方
+道具,359,Expert Belt,Cinta Experto,达人带,官方
+道具,360,Focus Band,Cinta Focus,气势头带,官方
+道具,361,Wise Glasses,Gafas Especiales,博识眼镜,官方
+道具,362,Choice Specs,Gafas Elección,讲究眼镜,官方
+道具,363,Quick Claw,Garra Rápida,先制之爪,官方
+道具,364,Berserk Gene,Gen Loco,狂暴基因,官方（动画/宝可梦卡）
+道具,365,Destiny Knot,Lazo Destino,红线,官方
+道具,366,Black Knot,Lazo Negro,黑色红线,自译
+道具,367,Choice Scarf,Pañuelo Elección,讲究围巾,官方
+道具,368,Scope Lens,Periscopio,焦点镜,官方
+道具,369,Cell Battery,Pila,充电电池,官方
+道具,370,Big Root,Raíz Grande,大根茎,官方
+道具,371,Light Clay,Refleluz,光之黏土,官方
+道具,372,Heat Rock,Roca Calor,炽热岩石,官方
+道具,373,Icy Rock,Roca Helada,冰冷岩石,官方
+道具,374,Damp Rock,Roca Lluvia,潮湿岩石,官方
+道具,375,Smooth Rock,Roca Suave,沙沙岩石,官方
+道具,376,Zoom Lens,Telescopio,对焦镜,官方
+道具,377,Life Orb,Vidasfera,生命宝珠,官方
+道具,378,Conductive Bracer,Braz. Conduct.,导电护腕,自译
+道具,379,Justice Bracer,Braz. Justicia,正义护腕,自译
+道具,380,Spirit Bracer,Braz. Espíritu,灵魂护腕,自译
+道具,381,Earthly Bracer,Braz. Terrenal,大地护腕,自译
+道具,382,Celestial Bracer,Braz. Celestial,天空护腕,自译
+道具,383,Corrosive Bracer,Braz. Corrosivo,腐蚀护腕,自译
+道具,384,Normal Gem,Gema Normal,一般宝石,官方
+道具,385,Fire Gem,Gema Fuego,火之宝石,官方
+道具,386,Water Gem,Gema Agua,水之宝石,官方
+道具,387,Grass Gem,Gema Planta,草之宝石,官方
+道具,388,Electric Gem,Gema Eléctrica,电之宝石,官方
+道具,389,Rock Gem,Gema Roca,岩石宝石,官方
+道具,390,Fighting Gem,Gema Lucha,格斗宝石,官方
+道具,391,Ground Gem,Gema Tierra,地面宝石,官方
+道具,392,Psychic Gem,Gema Psíquica,超能力宝石,官方
+道具,393,Poison Gem,Gema Veneno,毒之宝石,官方
+道具,394,Bug Gem,Gema Bicho,虫之宝石,官方
+道具,395,Ice Gem,Gema Hielo,冰之宝石,官方
+道具,396,Dark Gem,Gema Siniestra,恶之宝石,官方
+道具,397,Steel Gem,Gema Acero,钢之宝石,官方
+道具,398,Flying Gem,Gema Voladora,飞行宝石,官方
+道具,399,Ghost Gem,Gema Fantasma,幽灵宝石,官方
+道具,400,Dragon Gem,Gema Dragón,龙之宝石,官方
+道具,401,Power Weight,Pesa Recia,力量负重,官方
+道具,402,Power Bracer,Brazal Recio,力量护腕,官方
+道具,403,Power Belt,Cinto Recio,力量腰带,官方
+道具,404,Power Lens,Lente Recia,力量镜,官方
+道具,405,Power Band,Banda Recia,力量束带,官方
+道具,406,Power Anklet,Franja Recia,力量护踝,官方
+道具,407,Reveal Glass,Espejo Veraz,现形镜,官方
+道具,408,Mewtwonite X,Mewtwoita X,超梦进化石Ｘ,官方
+道具,409,Mewtwonite Y,Mewtwoita Y,超梦进化石Ｙ,官方
+道具,410,Pixie Plate,Tabla Duende,妖精石板,官方
+道具,411,Magic Wand,Varita Mágica,魔法杖,自译
+道具,412,Nymph Stone,Piedra Ninfa,仙子石,自译
+道具,413,Fairy Gem,Gema Hada,妖精宝石,官方
+道具,414,Ampharosite,Ampharosita,电龙进化石,官方
+道具,415,Venusaurite,Venusaurita,妙蛙花进化石,官方
+道具,416,Charizardite X,Charizardita X,喷火龙进化石Ｘ,官方
+道具,417,Charizardite Y,Charizardita Y,喷火龙进化石Ｙ,官方
+道具,418,Blastoisinite,Blastoisita,水箭龟进化石,官方
+道具,419,Pikablutite,Pikabluita,皮卡蓝进化石,规则：××进化石
+道具,420,Lucarionite,Lucarita,路卡利欧进化石,官方
+道具,421,Blazikenite,Blazikenita,火焰鸡进化石,官方
+道具,422,Gardevoirite,Gardevoirita,沙奈朵进化石,官方
+道具,423,Absolite,Absolita,阿勃梭鲁进化石,官方
+道具,424,Mawilite,Mawilita,大嘴娃进化石,官方
+道具,425,Abomasite,Abomasnowita,暴雪王进化石,官方
+道具,426,Aerodactylite,Aerodactylita,化石翼龙进化石,官方
+道具,427,Aggronite,Aggronita,波士可多拉进化石,官方
+道具,428,Alakazamite,Alakazamita,胡地进化石,官方
+道具,429,Banettite,Banettita,诅咒娃娃进化石,官方
+道具,430,Garchompite,Garchompita,烈咬陆鲨进化石,官方
+道具,431,Gengarite,Gengarita,耿鬼进化石,官方
+道具,432,Gyaradosite,Gyaradosita,暴鲤龙进化石,官方
+道具,433,Heracrossite,Heracrossita,赫拉克罗斯进化石,官方
+道具,434,Houndoomite,Houndoomita,黑鲁加进化石,官方
+道具,435,Kangaskhanite,Kangaskhanita,袋兽进化石,官方
+道具,436,Manectite,Manectricita,雷电兽进化石,官方
+道具,437,Medichamite,Medichamita,恰雷姆进化石,官方
+道具,438,Pinsirite,Pinsirita,凯罗斯进化石,官方
+道具,439,Scizorite,Scizorita,巨钳螳螂进化石,官方
+道具,440,Tyranitarite,Tyranitarita,班基拉斯进化石,官方
+道具,441,Magic Bracer,Braz. Mágico,魔法护腕,自译
+道具,442,Dark Prism,Prisma Oscuro,黑暗棱镜,自译
+道具,443,Primal Prism,Prisma Primario,原始棱镜,自译
+道具,444,Latiasite,Latiasita,拉帝亚斯进化石,官方
+道具,445,Latiosite,Latiosita,拉帝欧斯进化石,官方
+道具,446,Sceptilite,Sceptilita,蜥蜴王进化石,官方
+道具,447,Swampertite,Swampertita,巨沼怪进化石,官方
+道具,448,Sableynite,Sableynita,勾魂眼进化石,官方
+道具,449,Diancite,Diancita,蒂安希进化石,官方
+道具,450,Red Prism,Prisma Rojo,朱红色宝珠,官方
+道具,451,Blue Prism,Prisma Azul,靛蓝色宝珠,官方
+道具,452,Slowbronite,Slowbronita,呆壳兽进化石,官方
+道具,453,Metagrossite,Metagrossita,巨金怪进化石,官方
+道具,454,Salamencite,Salamencita,暴飞龙进化石,官方
+道具,455,Audinite,Audinita,差不多娃娃进化石,官方
+道具,456,Galladite,Galladita,艾路雷朵进化石,官方
+道具,457,Beedrillite,Beedrillita,大针蜂进化石,官方
+道具,458,Pidgeotite,Pidgeotita,大比鸟进化石,官方
+道具,459,Steelixite,Steelixita,大钢蛇进化石,官方
+道具,460,Glalitite,Glalita,冰鬼护进化石,官方
+道具,461,Sharpedonite,Sharpedonita,巨牙鲨进化石,官方
+道具,462,Cameruptite,Cameruptita,喷火驼进化石,官方
+道具,463,Altarianite,Altarianita,七夕青鸟进化石,官方
+道具,464,Lopunnite,Lopunnita,长耳兔进化石,官方
+道具,465,Sachet,Saquito Fragante,香袋,官方
+道具,466,Whipped Dream,Dulce de Nata,泡沫奶油,官方
+道具,467,Strange Souvenir,Estatuilla Rara,神秘摆设,官方
+道具,468,Sail Fossil,Fósil Aleta,鳍之化石,官方
+道具,469,Jaw Fossil,Fósil Mandíbula,颚之化石,官方
+道具,470,Prison Bottle,Vasija Castigo,惩戒之壶,官方
+道具,471,Hypnotic Crown,Corona Hipnótica,催眠王冠,自译
+道具,472,Fast Ball,Rapid Ball,速度球,官方
+道具,473,Level Ball,Nivel Ball,等级球,官方
+道具,474,Bait Ball,Cebo Ball,诱饵球,官方
+道具,475,Weight Ball,Peso Ball,沉重球,官方
+道具,476,Love Ball,Amor Ball,甜蜜球,官方
+道具,477,Friend Ball,Amigo Ball,友友球,官方
+道具,478,Moon Ball,Luna Ball,月亮球,官方
+道具,479,Heal Ball,Sana Ball,治愈球,官方
+道具,480,Dusk Ball,Ocaso Ball,黑暗球,官方
+道具,482,Cherish Ball,Gloria Ball,贵重球,官方
+道具,483,Black Ball,Black Ball,黑色球,自译
+道具,484,Notebook,Cuaderno,笔记本,自译
+道具,485,N-Solarizer ,Necrosol,奈克洛索尔合体器,官方
+道具,486,N-Lunarizer,Necroluna,奈克洛露奈合体器,官方
+道具,487,Ultranecrozium Z,Ultranecrostal Z,究极奈克洛Ｚ,官方
+道具,488,Normalium Z,Normastal Z,一般Ｚ,官方
+道具,489,Firium Z,Pirostal Z,火Ｚ,官方
+道具,490,Waterium Z,Hidrostal Z,水Ｚ,官方
+道具,491,Grassium Z,Fitostal Z,草Ｚ,官方
+道具,492,Electrium Z,Electrostal Z,电Ｚ,官方
+道具,493,Rockium Z,Litostal Z,岩石Ｚ,官方
+道具,494,Fightinium Z,Lizastal Z,格斗Ｚ,官方
+道具,495,Groundium Z,Geostal Z,地面Ｚ,官方
+道具,496,Psychium Z,Psicostal Z,超能力Ｚ,官方
+道具,497,Poisonium Z,Toxistal Z,毒Ｚ,官方
+道具,498,Buginium Z,Insectostal Z,虫Ｚ,官方
+道具,499,Icium Z,Criostal Z,冰Ｚ,官方
+道具,500,Darkinium Z,Nictostal Z,恶Ｚ,官方
+道具,501,Steelium Z,Metalostal Z,钢Ｚ,官方
+道具,502,Flyinium Z,Aerostal Z,飞行Ｚ,官方
+道具,503,Ghostium Z,Espectrostal Z,幽灵Ｚ,官方
+道具,504,Dragonium Z,Dracostal Z,龙Ｚ,官方
+道具,505,Fairium Z,Feeristal Z,妖精Ｚ,官方
+道具,506,Pikanium Z,Pikastal Z,皮卡丘Ｚ,官方
+道具,507,Pikashunium Z,Ash-Pikastal Z,智皮卡Ｚ,官方
+道具,508,Aloraichium Z,Alo-Raistal Z,阿罗雷Ｚ,官方
+道具,509,Eevium Z,Eeveestal Z,伊布Ｚ,官方
+道具,510,Snorlium Z,Snorlastal Z,卡比兽Ｚ,官方
+道具,511,Mewnium Z,Mewstal Z,梦幻Ｚ,官方
+道具,512,Decidium Z,Dueyestal Z,狙射树枭Ｚ,官方
+道具,513,Incinium Z,Incinostal Z,炽焰咆哮虎Ｚ,官方
+道具,514,Primarium Z,Primastal Z,西狮海壬Ｚ,官方
+道具,515,Tapunium Z,Tapistal Z,卡璞Ｚ,官方
+道具,516,Marshadium Z,Marshastal Z,玛夏多Ｚ,官方
+道具,517,Kommonium Z,Kommostal Z,杖尾鳞甲龙Ｚ,官方
+道具,518,Lycanium Z,Lycanrostal Z,鬃岩狼人Ｚ,官方
+道具,519,Solganium Z,Solgaleostal Z,索尔迦雷欧Ｚ,官方
+道具,520,Lunalium Z,Lunalastal Z,露奈雅拉Ｚ,官方
+道具,521,Mimikium Z,Mimikyustal Z,谜拟ＱＺ,官方
+道具,522,Beast Ball,Ente Ball,究极球,官方
+道具,523,Oval Charm,Amuleto oval,圆形护符,官方
+道具,524,Relic Copper,Real cobre,古代铜币,官方
+道具,525,Relic Silver,Real plata,古代银币,官方
+道具,526,Relic Gold,Real oro,古代金币,官方
+道具,527,Relic Vase,Ánfora,古代之壶,官方
+道具,528,Relic Band,Brazal Plata,古代手镯,官方
+道具,529,Relic Statue,Efigie antigua,古代石像,官方
+道具,530,Relic Crown,Corona antigua,古代王冠,官方
+道具,531,Zygarde Cube,Arca de Zygarde,基格尔德多面体,官方
+道具,532,Snowball,Bola de nieve,雪球,官方
+道具,533,Absorb Bulb,Tubérculo,球根,官方
+道具,534,Luminous Moss,Musgo brillante,光苔,官方
+道具,535,Ability Capsule,Cápsula habilidad,特性胶囊,官方
+道具,536,Lock Capsule,Cápsula candado,上锁的容器,官方
+道具,537,Gold Bottle Cap,Chapa dorada,金色王冠,官方
+道具,538,Bottle Cap,Chapa plateada,银色王冠,官方
+道具,539,Assault Vest,Chaleco asalto,突击背心,官方
+道具,540,Thick Club,Hueso grueso,粗骨头,官方
+道具,541,Soul Dew,Rocío bondad,心之水滴,官方
+道具,542,Air balloon,Globo helio,气球,官方
+道具,543,Stick,Puerro,大葱,官方
+道具,544,Quick Powder,Polvo veloz,速度粉,官方
+道具,545,Brightpowder,Polvo brillo,光粉,官方
+道具,546,Silverpowder,Polvo metálico,银粉,官方
+道具,547,Heal Powder,Polvo curación,万能粉,官方
+道具,548,Energypowder,Polvo energía,元气粉,官方
+道具,549,Energy Root,Raíz energía,元气根,官方
+道具,550,Revival Herb,Hierba revivir,复活草,官方
+道具,551,Yellow Nectar,Néctar amarillo,金黄色花蜜,官方
+道具,552,Red Nectar,Néctar rojo,朱红色花蜜,官方
+道具,553,Pink Nectar,Néctar rosa,桃粉色花蜜,官方
+道具,554,Purple Nectar,Néctar violeta,兰紫色花蜜,官方
+道具,555,Yellow Flute,Flauta amarilla,黄色玻璃哨,官方
+道具,556,Blue Flute,Flauta azul,蓝色玻璃哨,官方
+道具,557,Red Flute,Flauta roja,红色玻璃哨,官方
+道具,558,Green Flute,Flauta verde,绿色玻璃哨,自译（参照官方“××玻璃哨”）
+道具,559,Violet Flute,Flauta violeta,紫色玻璃哨,自译
+道具,560,White Flute,Flauta blanca,白色玻璃哨,官方
+道具,561,Black Flute,Flauta negra,黑色玻璃哨,官方
+道具,562,Sun Flute,Flauta solar,太阳之笛,官方
+道具,563,Moon Flute,Flauta lunar,月亮之笛,官方
+道具,564,White Herb,Hierba blanca,白色香草,官方
+道具,565,Power Herb,Hierba única,强力香草,官方
+道具,566,Mental Herb,Hierba mental,心灵香草,官方
+道具,567,Travel Trunk,Maleta,衣物箱,官方
+道具,568,Z-Powwer Ring,Superpulsera Z,Ｚ强力手环,官方
+道具,569,Shed Shell,Muda concha,美丽空壳,官方
+道具,570,Protective Pads,Paracontacto,部位护具,官方
+道具,571,Lucky Punch,Puño suerte,吉利拳,官方
+道具,572,Shoal Salt,Sal cardumen,浅滩海盐,官方
+道具,573,Weakness Policy,Seguro debilidad,弱点保险,官方
+道具,574,Misty Seed,Semilla bruma,薄雾种子,官方
+道具,575,Electric Seed,Semilla electro,电气种子,官方
+道具,577,Psychic Seed,Semilla psique,精神种子,官方
+道具,578,Old Charm,Talismán,古代护符,官方
+道具,579,Tea,Té,茶,官方
+道具,580,Berry Juice,Zumo de baya,树果汁,官方
+道具,581,Discount Coupon,Vale descuento,折价券,官方
+道具,582,Old Gateau,Barrita plus,森之羊羹,官方
+道具,583,Shoal shell,Concha cardumen,浅滩贝壳,官方
+道具,584,Red card,Tarjeta roja,红牌,官方
+道具,585,Plasma Card,Tarjeta Plasma,等离子卡,官方
+道具,586,Health Wing,Pluma vigor,体力之羽,官方
+道具,587,Muscle Wing,Pluma músculo,肌力之羽,官方
+道具,588,Resist Wing,Pluma aguante,抵抗之羽,官方
+道具,589,Genius Wing,Pluma intelecto,智力之羽,官方
+道具,590,Clever Wing,Pluma mente,精神之羽,官方
+道具,591,Swift Wing,Pluma ímpetu,瞬发之羽,官方
+道具,592,Pretty Wing,Pluma bella,美丽之羽,官方
+道具,593,Terrain Extender,Cubresuelos,大地膜,官方
+道具,594,Grip Claw,Garra garfio,紧缠钩爪,官方
+道具,595,Rage Candy Bar,Caramelo furia,愤怒馒头,官方
+道具,596,Lava Cookie,Galleta lava,釜炎仙贝,官方
+道具,597,Casteliacone,Porcehelado,飞云冰淇淋,官方
+道具,598,Lumiose Galette,Crepe Luminalia,密阿雷格雷派饼,官方
+道具,599,Shalour Sable,Galleta Yantra,娑罗沙布蕾,官方
+道具,600,Big Malasada,Malasada maxi,大马拉萨达,官方
+道具,601,Desert Stone,Piedra Desierto,沙漠之石,自译（参照官方“××之石”）
+道具,602,Bug Stone,Piedra Bicho,虫之石,自译
+道具,603,Sky Stone,Piedra Celeste,天空之石,自译
+道具,604,Venus Stone,Piedra Venus,金星之石,自译
+道具,605,Mars Stone,Piedra Marte,火星之石,自译
+道具,606,Metal Stone,Piedra Metálica,金属之石,自译
+道具,607,Green Cable,Cable Verde,绿色电缆,自译
+道具,608,Blue Cable,Cable Azul,蓝色电缆,自译
+道具,609,Violet Cable,Cable Violeta,紫色电缆,自译
+道具,610,Red Cable,Cable Rojo,红色电缆,自译
+道具,611,Yellow Cable,Cable Amarillo,黄色电缆,自译
+道具,612,Ruby Scepter,Cetro Esmeralda,红宝石权杖,自译
+道具,613,Sapphire Scepter,Cetro Rubí,蓝宝石权杖,自译
+道具,614,Emerald Scepter,Cetro Zafiro,绿宝石权杖,自译
+道具,615,Bronze Scepter,Cetro Bronce,青铜权杖,自译
+道具,616,Silver Scepter,Cetro Plateado,白银权杖,自译
+道具,617,Golden Scepter,Cetro Dorado,黄金权杖,自译
+道具,618,TM91 Steel Wing,MT91 Ala De Acero,招式学习器91 钢翼,规则：学习器+招式名
+道具,619,TM92 Dazzling Gleam,MT92 Brillo Mágico,招式学习器92 魔法闪耀,规则：学习器+招式名
+道具,620,TM93 Grass Knot,MT93 Hierba Lazo,招式学习器93 打草结,规则：学习器+招式名
+道具,621,TM94 Swords Dance,MT94 Danza Espada,招式学习器94 剑舞,规则：学习器+招式名
+道具,622,TM95 Brutal Swing,MT95 Giro Vil,招式学习器95 狂舞挥打,规则：学习器+招式名
+道具,623,TM96 Play Rough,MT96 Carantoña,招式学习器96 嬉闹,规则：学习器+招式名
+道具,624,TM97 Knock Off,MT97 Desarme,招式学习器97 拍落,规则：学习器+招式名
+道具,625,TM98 Payback,MT98 Vendetta,招式学习器98 以牙还牙,规则：学习器+招式名
+道具,626,TM99 Stomping Tantrum,MT99 Pataleta,招式学习器99 跺脚,规则：学习器+招式名
+道具,627,TM100 Moonblast,MT100 Fuerza Lunar,招式学习器100 月亮之力,规则：学习器+招式名
+道具,628,TM101 Shadow Punch,MT101 Puño Sombra,招式学习器101 暗影拳,规则：学习器+招式名
+道具,629,TM102 Hydro Pump,MT102 Hidrobomba,招式学习器102 水炮,规则：学习器+招式名
+道具,630,TM103 Draining Kiss,MT103 Beso Drenaje,招式学习器103 吸取之吻,规则：学习器+招式名
+道具,631,TM104 Power Gem,MT104 Joya De Luz,招式学习器104 力量宝石,规则：学习器+招式名
+道具,632,TM105 Hurricane,MT105 Vendaval,招式学习器105 暴风,规则：学习器+招式名
+道具,633,TM106 Brave Bird,MT106 Pájaro Osado,招式学习器106 勇鸟猛攻,规则：学习器+招式名
+道具,634,TM107 Trick,MT107 Truco,招式学习器107 戏法,规则：学习器+招式名
+道具,635,TM108 Crunch,MT108 Triturar,招式学习器108 咬碎,规则：学习器+招式名
+道具,636,TM109 Bug Buzz,MT109 Zumbido,招式学习器109 虫鸣,规则：学习器+招式名
+道具,637,TM110 Megahorn,MT110 Megacuerno,招式学习器110 超级角击,规则：学习器+招式名
+道具,638,Star Earring,Pendiente Star,星之耳环,自译
+道具,639,Ancient Vessel,Vasija Ancestral,古代容器,自译
+道具,640,Secret Scroll,Pergamino Secreto,秘传卷轴,自译
+道具,641,Cursed Ring,Anillo Maldito,诅咒戒指,自译
+道具,642,Tart Apple,Manzana Ácida,酸酸苹果,官方
+道具,643,Sweet Apple,Manzana Dulce,甜甜苹果,官方
+道具,644,Chipped Pot,Tetera Rota,缺损的茶壶,官方
+道具,645,Lagging Tail,Cola Plúmbea,后攻之尾,官方
+道具,646,Large Leek,Puerro Grueso,粗枝大葱,官方
+道具,647,Galarica Cuff,Brazal Galanuez,伽勒豆蔻手环,官方
+道具,648,Galarica Wreath,Corona Galanuez,伽勒豆蔻花圈,官方
+道具,649,Strawberry Sweet,Confite Fresa,草莓糖饰,官方
+道具,650,Love Sweet,Confite Corazón,爱心糖饰,官方
+道具,651,Flower Sweet,Confite Flor,花朵糖饰,官方
+道具,652,Star Sweet,Confite Estrella,星星糖饰,官方
+道具,653,Clover Sweet,Confite Trébol,幸运草糖饰,官方
+道具,654,Berry Sweet,Confite Fruto,野莓糖饰,官方
+道具,655,Ribbon Sweet,Confite Lazo,蝴蝶结糖饰,官方
+道具,656,Rusted Shield,Escudo Oxidado,腐朽的盾,官方
+道具,657,Rusted Sword,Espada Oxidada,腐朽的剑,官方
+道具,658,Dynamax Band,Maximuñequera,极巨腕带,官方
+道具,659,Dynamax Crystal,Cristal Dinamax,极巨结晶,官方
+道具,660,Dynamax Candy,Caramelo Dinamax,极巨糖果,官方
+道具,661,White Mane Hair,Crin Blanca,白色鬃毛,官方
+道具,662,Black Mane Hair,Crin Negra,黑色鬃毛,官方
+道具,663,Radiant Petal,Pétalo Fulgor,光辉花瓣,官方
+道具,664,Reins of Unity,Riendas Unión,牵绊缰绳,官方
+道具,665,Wishing Star,Estrella Deseo,许愿星,官方
+道具,666,Fossilized Fish,Ictiofósil,化石鱼,官方
+道具,667,Fossilized Drake,Dracofósil,化石龙,官方
+道具,668,Fossilized Bird,Ornitofósil,化石鸟,官方
+道具,669,Fossilized Dino,Plesiofósil,化石海兽,官方
+道具,670,Peat Block,Bloque Turba,泥炭块,官方
+道具,671,Black Augurite,Mineral Negro,黑奇石,官方
+道具,672,Raichite,Raichita Star,雷丘进化石,官方
+道具,673,Eeveeite,Eeveeita,伊布进化石,规则：××进化石
+道具,674,Drone Star,Dron Star,星之无人机,自译
+道具,675,Exp. Charm,Amuleto Exp.,经验护符,官方
+道具,676,Pure Amulet,Amuleto Puro,清净坠饰,官方
+道具,677,Level Stone,Piedra Nivel,等级之石,自译
+道具,678,Pre-Evolution Stone,Piedra Pre-Evolutiva,退化之石,自译
+道具,679,Coins Bag,Bolsa de Monedas,钱币袋,自译
+道具,680,Heavy-Duty Boots,Botas Gruesas,厚底靴,官方
+道具,681,Sweet Heart,Corazón Dulce,心形甜点,官方
+道具,682,Pewter Crunchies,Rokikos,深灰米果,官方
+道具,683,Exp. Candy XS,Caramelo Exp. XS,经验糖果ＸＳ,官方
+道具,684,Exp. Candy S,Caramelo Exp. S,经验糖果Ｓ,官方
+道具,685,Exp. Candy M,Caramelo Exp. M,经验糖果Ｍ,官方
+道具,686,Exp. Candy L,Caramelo Exp. L,经验糖果Ｌ,官方
+道具,687,Exp. Candy XL,Caramelo Exp. XL,经验糖果ＸＬ,官方
+道具,688,Metronome,Metrónomo,节拍器,官方
+道具,689,Auspicious Armor,Armadura Auspiciosa,庆祝之铠,官方
+道具,690,Malicious Armor,Armadura Maldita,咒术之铠,官方
+道具,691,Syrupy Apple,Manzana Melosa,蜜汁苹果,官方
+道具,692,Masterpiece Teacup,Cuenco Exquisito,杰作茶碗,官方
+道具,693,Metal Alloy,Metal Compuesto,复合金属,官方
+道具,694,Teal Mask,Mascara Turquesa,碧草面具,官方
+道具,695,Cornerstone Mask,Mascara Cimiento,础石面具,官方
+道具,696,Wellspring Mask,Mascara Fuente,水井面具,官方
+道具,697,Hearthflame Mask,Mascara Horno,火灶面具,官方
+道具,698,Vigor Mochi,Mochi Vigor,体力粘糕,官方
+道具,699,Muscle Mochi,Mochi Músculo,肌力粘糕,官方
+道具,700,Stamina Mochi,Mochi Aguante,抵抗粘糕,官方
+道具,701,Intellect Mochi,Mochi Intelecto,智力粘糕,官方
+道具,702,Mind Mochi,Mochi Mente,精神粘糕,官方
+道具,703,Impetus Mochi,Mochi Impetu,瞬发粘糕,官方
+道具,704,Reset Mochi,Mochi Reinicio,重置年糕,自译（参照官方“××年糕”）
+道具,705,Normal Tera Shard,Teralito Normal,一般太晶碎块,官方
+道具,706,Fire Tera Shard,Teralito Fuego,火太晶碎块,官方
+道具,707,Water Tera Shard,Teralito Agua,水太晶碎块,官方
+道具,708,Grass Tera Shard,Teralito Planta,草太晶碎块,官方
+道具,709,Electric Tera Shard,Teralito Eléctrico,电太晶碎块,官方
+道具,710,Rock Tera Shard,Teralito Roca,岩石太晶碎块,官方
+道具,711,Fighting Tera Shard,Teralito Lucha,格斗太晶碎块,官方
+道具,712,Ground Tera Shard,Teralito Tierra,地面太晶碎块,官方
+道具,713,Psychic Tera Shard,Teralito Psíquico,超能力太晶碎块,官方
+道具,714,Poison Tera Shard,Teralito Veneno,毒太晶碎块,官方
+道具,715,Bug Tera Shard,Teralito Bicho,虫太晶碎块,官方
+道具,716,Ice Tera Shard,Teralito Hielo,冰太晶碎块,官方
+道具,717,Dark Tera Shard,Teralito Siniestro,恶太晶碎块,官方
+道具,718,Steel Tera Shard,Teralito Acero,钢太晶碎块,官方
+道具,719,Flying Tera Shard,Teralito Volador,飞行太晶碎块,官方
+道具,720,Ghost Tera Shard,Teralito Fantasma,幽灵太晶碎块,官方
+道具,721,Dragon Tera Shard,Teralito Dragón,龙太晶碎块,官方
+道具,722,Fairy Tera Shard,Teralito Hada,妖精太晶碎块,官方
+道具,723,Stellar Tera Shard,Teralito Astral,星晶太晶碎块,官方
+道具,724,Lure,Colonia,引虫香水,官方
+道具,725,Super Lure,Supercolonia,白银香水,官方
+道具,726,Max Lure,Colonia Máxima,黄金香水,官方
+道具,727,Copy Herb,Hierba Copia,模仿香草,官方
+道具,728,Stealth Cape,Capa Furtiva,密探斗篷,官方
+道具,729,Boxing Glove,Guante de Boxeo,拳击手套,官方
+道具,730,Super Stoppers,Supertapones,厉害耳塞,官方
+道具,731,Mouth Spray,Espray Bucal,爽喉喷雾,官方
+道具,732,Cocktail Dice,Dado Trucado,机变骰子,官方
+道具,733,Goggles,Gafa protectora,防尘护目镜,官方
+道具,734,Offensive Bean,Gragea Ofensiva,攻击豆,自译
+道具,735,Defensive Bean,Gragea Defensiva,防御豆,自译
+道具,736,Multi Bean,Gragea Multi,万能豆,自译
+道具,737,Critical Bean,Gragea Crítica,会心豆,自译
+道具,738,Evasive Bean,Gragea Evasiva,闪避豆,自译
+道具,739,Adrenaline Orb,Nerviosfera,胆怯球,官方
+道具,740,Legend Plate,Tabla Legendaria,传说石板,官方
+道具,741,Chilan Berry,Baya Chilan,灯浆果,官方
+道具,742,Occa Berry,Baya Caoca,巧可果,官方
+道具,743,Passho Berry,Baya Pasio,千香果,官方
+道具,744,Rindo Berry,Baya Tamar,罗子果,官方
+道具,745,Wacan Berry,Baya Gualot,烛木果,官方
+道具,746,Charti Berry,Baya Alcho,草蚕果,官方
+道具,747,Chople Berry,Baya Pomaro,莲蒲果,官方
+道具,748,Shuca Berry,Baya Acardo,腰木果,官方
+道具,749,Payapa Berry,Baya Payapa,福禄果,官方
+道具,750,Kebia Berry,Baya Kebia,通通果,官方
+道具,751,Tanga Berry,Baya Yecana,扁樱果,官方
+道具,752,Yache Berry,Baya Rimoya,番荔果,官方
+道具,753,Colbur Berry,Baya Dillo,刺耳果,官方
+道具,754,Babiri Berry,Baya Bariba,霹霹果,官方
+道具,755,Coba Berry,Baya Kouba,棱瓜果,官方
+道具,756,Kasib Berry,Baya Drasi,佛柑果,官方
+道具,757,Haban Berry,Baya Anjiro,莓榴果,官方
+道具,758,Roseli Berry,Baya Hibis,洛玫果,官方
+道具,759,Micle Berry,Baya Lagro,奇秘果,官方
+道具,760,Custap Berry,Baya Chiri,释陀果,官方
+道具,761,Jaboca Berry,Baya Jaboca,嘉珍果,官方
+道具,762,Rowap Berry,Baya Magua,雾莲果,官方
+道具,763,Maranga Berry,Baya Maranga,香罗果,官方
+道具,764,Kee Berry,Baya Biglia,亚开果,官方
+道具,765,Hopo Berry,Baya Lupu,苹野果,官方
+道具,766,Full Incense,Incienso Suave,饱腹薰香,官方
+道具,767,Rock Incense,Incienso Roca,岩石薰香,官方
+道具,768,Wave Incense,Incienso Acua,涟漪薰香,官方
+道具,769,Rose Incense,Incienso Floral,花朵薰香,官方
+道具,770,Sea Incense,Incienso Marino,海潮薰香,官方
+道具,771,Lax Incense,Incienso Lento,悠闲薰香,官方
+道具,772,Luck Incense,Incienso Duplo,幸运薰香,官方
+道具,773,Odd Incense,Incienso Raro,奇异薰香,官方
+道具,774,Pure Incense,Incienso Puro,洁净薰香,官方
+道具,775,Scyclawite,Scyclawita,毒爪螳螂进化石,规则：××进化石
+道具,776,Cryogelixite,Cryogelixita,大冰蛇进化石,规则：××进化石
+道具,777,Starminite,Starmita,宝石海星进化石,官方
+道具,778,Clefablite,Clefablita,皮可西进化石,官方
+道具,779,Victreebelite,Victreebelita,大食花进化石,官方
+道具,780,Dragoninite,Dragonitita,快龙进化石,官方
+道具,781,Meganiumite,Meganiumita,大竺葵进化石,官方
+道具,782,Feraligite,Feraligatrita,大力鳄进化石,官方
+道具,783,Skarmorite,Skarmorita,盔甲鸟进化石,官方
+道具,784,Froslassite,Froslassita,雪妖女进化石,官方
+道具,785,Emboarite,Emboarita,炎武王进化石,官方
+道具,786,Excadrite,Excadrillita,龙头地鼠进化石,官方
+道具,787,Scolipite,Scolipedita,蜈蚣王进化石,官方
+道具,788,Scraftinite,Scraftita,头巾混混进化石,官方
+道具,789,Eelektrossite,Eelektrossita,麻麻鳗鱼王进化石,官方
+道具,790,Chandelurite,Chandelurita,水晶灯火灵进化石,官方
+道具,791,Chesnaughtite,Chesnaughtita,布里卡隆进化石,官方
+道具,792,Delphoxite,Delphoxita,妖火红狐进化石,官方
+道具,793,Greninjite,Greninjanita,甲贺忍蛙进化石,官方
+道具,794,Pyroarite,Pyroarita,火炎狮进化石,官方
+道具,795,Floettite,Floettita,花叶蒂进化石,官方
+道具,796,Malamarite,Malamarita,乌贼王进化石,官方
+道具,797,Barbaracite,Barbaraclita,龟足巨铠进化石,官方
+道具,798,Dragalgite,Dragalgita,毒藻龙进化石,官方
+道具,799,Hawluchanite,Hawluchanita,摔角鹰人进化石,官方
+道具,800,Zygardite,Zygardita,基格尔德进化石,官方
+道具,801,Drampanite,Drampanita,老翁龙进化石,官方
+道具,802,Falinksite,Falinksita,列阵兵进化石,官方
+道具,803,Raichunite X,Raichita X,雷丘进化石X,官方
+道具,804,Raichunite Y,Raichita Y,雷丘进化石Y,官方
+道具,805,Baxcalibrite,Baxcaliburita,戟脊龙进化石,官方
+道具,806,Chimechite,Chimechita,风铃铃进化石,官方
+道具,807,Absolite Z,Absolita Z,阿勃梭鲁进化石Z,官方
+道具,808,Garchompite Z,Garchompita Z,烈咬陆鲨进化石Z,官方
+道具,809,Staraptorite,Staraptorita,姆克鹰进化石,官方
+道具,810,Lucarionite Z,Lucarita Z,路卡利欧进化石Z,官方
+道具,811,Heatranite,Heatranita,席多蓝恩进化石,官方
+道具,812,Darkrainite,Darkrainita,达克莱伊进化石,官方
+道具,813,Golurkite,Golurkita,泥偶巨人进化石,官方
+道具,814,Meowsticite,Meowsticita,超能妙喵进化石,官方
+道具,815,Crabominablite,Crabominablita,好胜毛蟹进化石,官方
+道具,816,Golisopodite,Golisopodita,具甲武者进化石,官方
+道具,817,Magearnite,Magearnita,玛机雅娜进化石,官方
+道具,818,Zeraoranite,Zeraoranita,捷拉奥拉进化石,官方
+道具,819,Scovillainite,Scovillainita,狠辣椒进化石,官方
+道具,820,Glimmornite,Glimmoranita,晶光花进化石,官方
+道具,821,Tatsugirite,Tatsugirita,米立龙进化石,官方

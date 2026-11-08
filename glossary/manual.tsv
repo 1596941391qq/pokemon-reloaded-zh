@@ -1,0 +1,169 @@
+kind	en	zh	note
+pkmn	Nidoran H.	尼多兰	官方（♀）
+pkmn	Nidoran M.	尼多朗	官方（♂）
+pkmn	Pecharu	桃歹郎	官方（游戏里名字被截短）
+pkmn	Ghost	幽灵	官方（初代紫苑镇宝可梦塔的“幽灵”）
+pkmn	Missigno	缺失号码	自译（MissingNo.）
+pkmn	Pikablue	皮卡蓝	自译：皮卡丘的恶属性进化型，Pika+blue
+pkmn	Orphegasus	烈焰天马	自译：烈焰马的进化型，飞马
+pkmn	Betearow	暗嘴雀	自译：大嘴雀的恶/飞行进化型
+pkmn	Harfetch'd	天葱鸭	自译：大葱鸭的草/飞行进化型（旧名 Skyleaf'd）
+pkmn	Chartfortt	和弦鸟	自译：聒噪鸟的进化型，chord chart
+pkmn	Cryogelix	大冰蛇	自译：水晶大岩蛇的冰/地面进化型，对应大钢蛇
+pkmn	Kangaskid	小袋兽	自译：袋兽的幼年型
+pkmn	Terodactyl	幼翼龙	自译：化石翼龙的退化型
+pkmn	Scyclaw	毒爪螳螂	自译：飞天螳螂的钢/毒分支进化
+pkmn	Pryncice	迷唇公主	自译：迷唇姐的冰/超能进化型，princess+ice
+pkmn	Kytto	百变飞怪	自译：百变怪的飞行进化型
+pkmn	Eeveon	进化伊布	自译：伊布的一般属性进化型
+pkmn	Rockeon	岩伊布	自译：岩石属性伊布
+pkmn	Aereon	风伊布	自译：飞行属性伊布
+pkmn	Lephideon	蝶伊布	自译：虫属性伊布（鳞翅目）
+pkmn	Duneon	沙伊布	自译：地面属性伊布
+pkmn	Bandeon	斗伊布	自译：格斗属性伊布
+pkmn	Lireon	毒伊布	自译：毒属性伊布（臭鼬）
+pkmn	Titaneon	钢伊布	自译：钢属性伊布
+pkmn	Phanteon	幽伊布	自译：幽灵属性伊布
+pkmn	Drakeon	龙伊布	自译：龙属性伊布
+pkmn	Tursoot	煤灰龟	自译：火属性龟，turtle+soot
+pkmn	Torkore	熔核龟	自译：煤炭龟的火/钢进化型，tortoise+core
+pkmn	Silver	小银	自译：洛奇亚的幼年型，取自动画
+pkmn	Latly	小拉帝	自译：拉帝亚斯/拉帝欧斯的幼年型
+pkmn	Mewthree	超梦三	自译：超梦的进化型
+pkmn	Iriden	芽角鹿	自译：星之地区草属性御三家
+pkmn	Ceriden	岩角鹿	自译：芽角鹿的草/岩石进化型
+pkmn	Galocero	巨角鹿	自译：岩角鹿的进化型，大角鹿
+pkmn	Mabonny	魔焰兔	自译：星之地区火属性御三家，魔术师+兔
+pkmn	Whisbonny	愿焰兔	自译：魔焰兔的火/妖精进化型，wish+bunny
+pkmn	Oribonny	灵焰兔	自译：愿焰兔的进化型，Ori（灵魂）
+pkmn	Ornigrim	鸭嘴仔	自译：星之地区水属性御三家，鸭嘴兽
+pkmn	Labrigrim	鸭嘴拳手	自译：鸭嘴仔的水/格斗进化型
+pkmn	Ornitaro	鸭嘴武王	自译：鸭嘴拳手的进化型
+pkmn	Rekivolt	伏特岩	自译：电/岩石，rocky+volt
+pkmn	Dratector	龙守卫	自译：龙/格斗，dragon+protector
+pkmn	Unown King	未知图腾王	自译
+pkmn	Psicovenom	念毒兽	自译：毒/超能传说宝可梦
+pkmn	Gripherial	冰炎狮鹫	自译：冰/火传说宝可梦，griffin
+attack	Fire Wave	熔岩浪潮	自译
+attack	Reverse Room	逆转空间	自译（参照官方“戏法空间”系）
+attack	Venom Star	剧毒之星	自译
+attack	Absolute Zero	绝对冰点	自译（官方“绝对零度”已被招式 Sheer Cold 占用）
+attack	Passion	热情	自译
+attack	Knobbly Binding	伊布缠绕	自译：进化伊布专属招式
+attack	Murky Burst	幽伊爆裂	自译：幽伊布专属招式
+attack	Scary Breath	龙伊吐息	自译：龙伊布专属招式
+attack	Rocky Catapult	岩伊投石	自译：岩伊布专属招式
+attack	Springy Peak	风伊啄击	自译：风伊布专属招式
+attack	Petty Scare	蝶伊惊吓	自译：蝶伊布专属招式
+attack	Bumpy Quake	沙伊震地	自译：沙伊布专属招式
+attack	Acuity Hit	斗伊重击	自译：斗伊布专属招式
+attack	Stinky Smoke	毒伊臭烟	自译：毒伊布专属招式
+attack	Brassy Claw	钢伊利爪	自译：钢伊布专属招式
+attack	Aura Force	波导之力	自译（Aura 官方译“波导”）
+attack	Aura Energy	波导能量	自译
+attack	Hidden Strength	隐藏之力	自译（官方“觉醒力量”是 Hidden Power）
+abilities	Chimera	奇美拉	自译
+abilities	Hailstorm	冰雹风暴	自译
+obj	Star Ball	星之球	自译
+obj	GS Ball	GS球	官方
+obj	Sapphire	蓝宝石	官方
+obj	Ruby	红宝石	官方
+obj	Emerald	绿宝石	官方
+obj	Forbidden Plate	禁忌石板	自译（参照官方“××石板”）
+obj	Elec. Ring	电力戒指	自译
+obj	GPS	GPS	原文
+obj	Rekiem Key	安魂钥匙	自译（音译）
+obj	Hidden Package	隐藏包裹	自译
+obj	Special Herb	特制药草	自译
+obj	Knife	小刀	自译
+obj	Axe	斧头	自译
+obj	Bow	弓	自译
+obj	SmartPhone	智能手机	自译
+obj	Matarile Key	马塔利钥匙	自译（音译）
+obj	Rocket Key	火箭钥匙	自译（参照官方“火箭队”）
+obj	Exp. Inhibitor	经验抑制器	自译
+obj	Bicycle	自行车	官方
+obj	xPod Star	xPod Star	原文（游戏内音乐播放器）
+obj	Mystery Pass	神秘通行证	自译
+obj	Solar Pass	太阳通行证	自译
+obj	Dark Pass	黑暗通行证	自译
+obj	Jungle Pass	丛林通行证	自译
+obj	Front Pass	开拓区通行证	自译
+obj	Antibiotic	抗生素	自译
+obj	Love Heal	迷恋解药	自译
+obj	Curse Heal	诅咒解药	自译
+obj	X Special	特攻强化	官方
+obj	X Special Defend	特防强化	官方
+obj	Mineral Stone	矿物石	自译
+obj	Magic Rock	魔法岩	自译
+obj	Weights	负重	自译
+obj	Ninja Band	忍者头带	自译
+obj	Spear	长矛	自译
+obj	Aura Sphere	波导之球	自译（道具）
+obj	Eon Sphere	无限之球	自译（Eon 官方译“无限”）
+obj	Herb Sphere	药草之球	自译
+obj	Burning Sphere	燃烧之球	自译
+obj	Aquatic Sphere	水生之球	自译
+obj	Old Cape	旧披风	自译
+obj	Special Armor	特制铠甲	自译
+obj	God Stone	神之石	自译
+obj	Berserk Gene	狂暴基因	官方（动画/宝可梦卡）
+obj	Black Knot	黑色红线	自译
+obj	Conductive Bracer	导电护腕	自译
+obj	Justice Bracer	正义护腕	自译
+obj	Spirit Bracer	灵魂护腕	自译
+obj	Earthly Bracer	大地护腕	自译
+obj	Celestial Bracer	天空护腕	自译
+obj	Corrosive Bracer	腐蚀护腕	自译
+obj	Magic Wand	魔法杖	自译
+obj	Nymph Stone	仙子石	自译
+obj	Magic Bracer	魔法护腕	自译
+obj	Dark Prism	黑暗棱镜	自译
+obj	Primal Prism	原始棱镜	自译
+obj	Hypnotic Crown	催眠王冠	自译
+obj	Black Ball	黑色球	自译
+obj	Notebook	笔记本	自译
+obj	Green Flute	绿色玻璃哨	自译（参照官方“××玻璃哨”）
+obj	Violet Flute	紫色玻璃哨	自译
+obj	Desert Stone	沙漠之石	自译（参照官方“××之石”）
+obj	Bug Stone	虫之石	自译
+obj	Sky Stone	天空之石	自译
+obj	Venus Stone	金星之石	自译
+obj	Mars Stone	火星之石	自译
+obj	Metal Stone	金属之石	自译
+obj	Green Cable	绿色电缆	自译
+obj	Blue Cable	蓝色电缆	自译
+obj	Violet Cable	紫色电缆	自译
+obj	Red Cable	红色电缆	自译
+obj	Yellow Cable	黄色电缆	自译
+obj	Ruby Scepter	红宝石权杖	自译
+obj	Sapphire Scepter	蓝宝石权杖	自译
+obj	Emerald Scepter	绿宝石权杖	自译
+obj	Bronze Scepter	青铜权杖	自译
+obj	Silver Scepter	白银权杖	自译
+obj	Golden Scepter	黄金权杖	自译
+obj	Star Earring	星之耳环	自译
+obj	Ancient Vessel	古代容器	自译
+obj	Secret Scroll	秘传卷轴	自译
+obj	Cursed Ring	诅咒戒指	自译
+obj	Dynamax Crystal	极巨结晶	官方
+obj	Drone Star	星之无人机	自译
+obj	Level Stone	等级之石	自译
+obj	Pre-Evolution Stone	退化之石	自译
+obj	Coins Bag	钱币袋	自译
+obj	Reset Mochi	重置年糕	自译（参照官方“××年糕”）
+obj	Stellar Tera Shard	星晶太晶碎块	官方
+obj	Offensive Bean	攻击豆	自译
+obj	Defensive Bean	防御豆	自译
+obj	Multi Bean	万能豆	自译
+obj	Critical Bean	会心豆	自译
+obj	Evasive Bean	闪避豆	自译
+obj	Hopo Berry	苹野果	官方
+obj	Pikablutite	皮卡蓝进化石	规则：××进化石
+obj	Raichite	雷丘进化石	官方
+obj	Eeveeite	伊布进化石	规则：××进化石
+obj	Scyclawite	毒爪螳螂进化石	规则：××进化石
+obj	Cryogelixite	大冰蛇进化石	规则：××进化石
+pkmn	Black Tyranitar	黑色班基拉斯	自译：游戏原创形态
+pkmn	Dark Mewtwo	暗黑超梦	自译：游戏原创形态
+pkmn	Chimeco	风铃铃	官方（游戏里拼写为 Chimeco）
