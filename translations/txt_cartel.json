@@ -1,0 +1,2756 @@
+[
+ {
+  "id": 1,
+  "en": "Entry is prohibited to#mediocre trainers!",
+  "es": "¡Prohibido el paso para#entrenadores mediocres!",
+  "zh": "平庸的训练家#禁止入内！"
+ },
+ {
+  "id": 2,
+  "en": "¡The door is closed!",
+  "es": "¡La puerta está cerrada!",
+  "zh": "门锁着！"
+ },
+ {
+  "id": 3,
+  "en": "$prota$'s house",
+  "es": "Casa de $prota$",
+  "zh": "$prota$的家"
+ },
+ {
+  "id": 4,
+  "en": "$rival$'s house",
+  "es": "Casa de $rival$",
+  "zh": "$rival$的家"
+ },
+ {
+  "id": 5,
+  "en": "Oak's Pokémon Lab",
+  "es": "Laboratorio del Profesor Oak",
+  "zh": "大木博士的宝可梦研究所"
+ },
+ {
+  "id": 6,
+  "en": "It's crammed full of books about Pokémon Medicine.",
+  "es": "Está lleno de libros sobre Medicina Pokémon.",
+  "zh": "满是关于宝可梦医学的书。"
+ },
+ {
+  "id": 7,
+  "en": "It's crammed full of books.",
+  "es": "Está lleno de libros sobre los Pokémon.",
+  "zh": "满是关于宝可梦的书。"
+ },
+ {
+  "id": 8,
+  "en": "There is nothing good on TV at this moment.",
+  "es": "A estas horas no hay nada bueno en la tele.",
+  "zh": "现在电视里没有什么好节目。"
+ },
+ {
+  "id": 9,
+  "en": "It's a Nintendo Switch.",
+  "es": "Es una Nintendo Switch.",
+  "zh": "这是一台任天堂Switch。"
+ },
+ {
+  "id": 10,
+  "en": "Here are books of all kinds!",
+  "es": "¡Aquí hay libros de todo tipo!",
+  "zh": "这里有各种各样的书！"
+ },
+ {
+  "id": 11,
+  "en": "",
+  "es": "",
+  "zh": ""
+ },
+ {
+  "id": 12,
+  "en": "Press F5 to Save and F6 to Load.",
+  "es": "Pulsa F5 para Guardar y F6 para Cargar.",
+  "zh": "按F5存档，按F6读档。"
+ },
+ {
+  "id": 13,
+  "en": "Press Enter to show#the Main Menu.",
+  "es": "Pulsa Enter para mostrar#el Menú Principal.",
+  "zh": "按Enter键显示#主菜单。"
+ },
+ {
+  "id": 14,
+  "en": "Press F1 to see the help.#Press 0 to see the controls.",
+  "es": "Pulsa F1 para ver la ayuda.#Pulsa 0 para ver los controles.",
+  "zh": "按F1查看帮助。#按0查看操作方式。"
+ },
+ {
+  "id": 15,
+  "en": "It's crammed full of books about Battling.",
+  "es": "Está lleno de libros sobre los Combates Pokémon.",
+  "zh": "满是关于宝可梦对战的书。"
+ },
+ {
+  "id": 16,
+  "en": "pokemon-reloaded.blogspot.com",
+  "es": "pokemon-reloaded.blogspot.com",
+  "zh": "pokemon-reloaded.blogspot.com"
+ },
+ {
+  "id": 17,
+  "en": "In this region, television doesn't have good programs.",
+  "es": "En esta región, la televisión no tiene buenos programas.",
+  "zh": "这个地区的电视没有什么好节目。"
+ },
+ {
+  "id": 18,
+  "en": "Valde Town School",
+  "es": "Escuela de Pueblo Valde",
+  "zh": "瓦尔德镇学校"
+ },
+ {
+  "id": 19,
+  "en": "This television looks a bit old.",
+  "es": "Esta televisión parece un poco vieja.",
+  "zh": "这台电视看起来有点旧。"
+ },
+ {
+  "id": 20,
+  "en": "Pokémon's stats are: Attack, Special Attack, Defense, Special Defense, Speed and HP. Each Pokémon is unique. Two Pokémon of the same species and the same level will have different stats.",
+  "es": "Los stats de los Pokémon son: Ataque, Ataque Especial, Defensa, Defensa Especial, Velocidad y PS. Cada Pokémon es único. Dos Pokémon de la misma especie y del mismo nivel, tendrán stats diferentes.",
+  "zh": "宝可梦的能力有：攻击、特攻、防御、特防、速度和HP。每只宝可梦都是独一无二的。同一种类、同一等级的两只宝可梦，能力也会不同。"
+ },
+ {
+  "id": 21,
+  "en": "There are 3 forms of attack: Physical Attacks, Special Attacks and Status Attacks. Physical attacks depend on the Attack and Defense of the Pokémon. Special attacks depend on Sp. Attack and Sp. Defense. And Status attacks don't depend on stats.",
+  "es": "Existen 3 formas de ataque: Ataques Físicos, Ataques Especiales y Ataques de Estado. Los ataques Físicos dependen del Ataque y Defensa de los Pokémon. Los ataques Especiales dependen del At. Especial y la Def. Especial. Y los ataques de estado no dependen de los stats.",
+  "zh": "招式分为3种：物理招式、特殊招式和变化招式。物理招式取决于宝可梦的攻击和防御，特殊招式取决于特攻和特防，变化招式则与能力无关。"
+ },
+ {
+  "id": 22,
+  "en": "There are 18 types of Pokémon: Normal, Water, Fire, Grass, Electric, Rock, Ground, Fighting, Poison, Bug, Psychic, Ice, Dark, Flying, Steel, Ghost, Dragon and Fairy.",
+  "es": "Hay 18 tipos distintos de Pokémon: Normal, Agua, Fuego, Planta, Eléctrico, Roca, Tierra, Lucha, Veneno, Bicho, Psíquico, Hielo, Siniestro, Volador, Acero, Fantasma, Dragón y Hada.",
+  "zh": "宝可梦共有18种属性：一般、水、火、草、电、岩石、地面、格斗、毒、虫、超能力、冰、恶、飞行、钢、幽灵、龙和妖精。"
+ },
+ {
+  "id": 23,
+  "en": "Pokémon can have different status. OK, Paralyzed, Burned, Asleep, Poisoned, Frozen, Confused, Infatuated, Infected, Cursed and Fainted.",
+  "es": "Los Pokémon pueden tener distintos estados. OK, Paralizado, Quemado, Dormido, Envenenado, Congelado, Confuso, Enamorado, Infectado, Maldito y Debilitado.",
+  "zh": "宝可梦会陷入各种状态：正常、麻痹、灼伤、睡眠、中毒、冰冻、混乱、着迷、感染、诅咒和濒死。"
+ },
+ {
+  "id": 24,
+  "en": "Battling Faculty",
+  "es": "Facultad de Combate",
+  "zh": "对战学院"
+ },
+ {
+  "id": 25,
+  "en": "Science Museum",
+  "es": "Museo de la Ciencia",
+  "zh": "科学博物馆"
+ },
+ {
+  "id": 26,
+  "en": "Rowan's Pokémon Lab",
+  "es": "Laboratorio del Profesor Serbal",
+  "zh": "七叶博士的宝可梦研究所"
+ },
+ {
+  "id": 27,
+  "en": "Gym \\#1. Leader Mino",
+  "es": "Gimnasio \\#1. Líder Mino",
+  "zh": "道馆 \\#1　馆主：米诺"
+ },
+ {
+  "id": 28,
+  "en": "House of Neurologists",
+  "es": "Casa de los Neurólogos",
+  "zh": "神经学家之家"
+ },
+ {
+  "id": 29,
+  "en": "There is nothing good being played on TV at this time.",
+  "es": "A estas horas no dan nada bueno por la tele.",
+  "zh": "现在电视里没有什么好节目。"
+ },
+ {
+  "id": 30,
+  "en": "The TV is off.",
+  "es": "La tele está apagada.",
+  "zh": "电视关着。"
+ },
+ {
+  "id": 31,
+  "en": "They're playing an old film.",
+  "es": "Están echando una película antigua.",
+  "zh": "正在播一部老电影。"
+ },
+ {
+  "id": 32,
+  "en": "Those are 2 fossils from Extinct Pokémon. Dome Fossil: Kabuto. Helix Fossil: Omanyte.",
+  "es": "Son 2 fósiles de Pokémon Extintos. Fósil Domo: Kabuto. Fósil Helix: Omanyte.",
+  "zh": "这是2块已灭绝宝可梦的化石。　甲壳化石：化石盔　贝壳化石：菊石兽"
+ },
+ {
+  "id": 33,
+  "en": "Old Amber. Aerodactyl's DNA can be found inside.",
+  "es": "Ámbar Viejo. El ADN de Aerodactyl se encuentra en su interior.",
+  "zh": "秘密琥珀。里面能找到化石翼龙的DNA。"
+ },
+ {
+  "id": 34,
+  "en": "It's crammed full of books about ancient Pokémon.",
+  "es": "Está lleno de libros sobre los Pokémon antiguos.",
+  "zh": "满是关于古代宝可梦的书。"
+ },
+ {
+  "id": 35,
+  "en": "Really weird formulas and drawings. Better not touch anything...",
+  "es": "Son fórmulas y dibujos muy extraños. Mejor no tocar nada...",
+  "zh": "全是非常奇怪的公式和图画。还是什么都别碰的好……"
+ },
+ {
+  "id": 36,
+  "en": "Those are 4 fossils from Extinct Pokémon. Root Fossil: Lileep. Claw Fossil: Anorith. Skull Fossil: Cránidos. Armor Fossil: Shieldon.",
+  "es": "Son 4 fósiles de Pokémon Extintos. Fósil Raíz: Lileep. Fósil Garra: Anorith. Fósil Cráneo: Cránidos. Fósil Armadura: Shieldon.",
+  "zh": "这是4块已灭绝宝可梦的化石。　根状化石：触手百合　爪子化石：太古羽虫　头盖化石：头盖龙　盾甲化石：盾甲龙"
+ },
+ {
+  "id": 37,
+  "en": "It's a fossil from an Extinct Pokémon. The fossil's nature hasn't been discovered yet.",
+  "es": "Es un fósil de un Pokémon Extinto. Aún no se ha descubierto la naturaleza de este fósil.",
+  "zh": "这是一块已灭绝宝可梦的化石。还没有查明这块化石的种类。"
+ },
+ {
+  "id": 38,
+  "en": "Spaceship.",
+  "es": "Nave Espacial.",
+  "zh": "宇宙飞船"
+ },
+ {
+  "id": 39,
+  "en": "Evolution has its pros and cons. When evolving, Pokémon increase their stats, but slow down the attack learning process.",
+  "es": "La evolución tiene sus pros y sus contras. Cuando evolucionan, los Pokémon aumentan sus stats, pero ralentizan su aprendizaje de ataques.",
+  "zh": "进化有利也有弊。进化时宝可梦的能力会提升，但学会招式的速度会变慢。"
+ },
+ {
+  "id": 40,
+  "en": "Amateur Fisher's house",
+  "es": "Casa Pescador Amateur",
+  "zh": "业余渔夫之家"
+ },
+ {
+  "id": 41,
+  "en": "It's a Fishing program.",
+  "es": "Es un programa sobre Pesca.",
+  "zh": "这是一个钓鱼节目。"
+ },
+ {
+  "id": 42,
+  "en": "Name Rater's house",
+  "es": "Casa del Inspector de Motes",
+  "zh": "姓名评价师之家"
+ },
+ {
+  "id": 43,
+  "en": "Pokémon Day Care",
+  "es": "Guardería Pokémon",
+  "zh": "宝可梦寄放屋"
+ },
+ {
+  "id": 44,
+  "en": "Gym \\#2. Leader Willy",
+  "es": "Gimnasio \\#2. Líder Willy",
+  "zh": "道馆 \\#2　馆主：威利"
+ },
+ {
+  "id": 45,
+  "en": "In this farm they have cable television!",
+  "es": "¡En esta granja tienen televisión por cable!",
+  "zh": "这座农场居然有有线电视！"
+ },
+ {
+  "id": 46,
+  "en": "Old Hotel",
+  "es": "Antiguo Hotel",
+  "zh": "古老酒店"
+ },
+ {
+  "id": 47,
+  "en": "Gym \\#3. Leader Noelia",
+  "es": "Gimnasio \\#3. Líder Noelia",
+  "zh": "道馆 \\#3　馆主：诺埃莉娅"
+ },
+ {
+  "id": 48,
+  "en": "Gym \\#3. Leader Helia",
+  "es": "Gimnasio \\#3. Líder Helia",
+  "zh": "道馆 \\#3　馆主：赫莉娅"
+ },
+ {
+  "id": 49,
+  "en": "Darkrai#Legendary Pokémon",
+  "es": "Darkrai#Pokémon Legendario",
+  "zh": "达克莱伊#传说宝可梦"
+ },
+ {
+  "id": 50,
+  "en": "Mayor's house",
+  "es": "Casa del Alcalde",
+  "zh": "镇长之家"
+ },
+ {
+  "id": 51,
+  "en": "This city is a bit Dark… They always watch horror films.",
+  "es": "Esta ciudad es un poco Siniestra... Siempre ponen películas sangrientas.",
+  "zh": "这座城市有点阴森……总是在放恐怖片。"
+ },
+ {
+  "id": 52,
+  "en": "Berry Master's house",
+  "es": "Casa del Bayólogo.",
+  "zh": "树果大师之家"
+ },
+ {
+  "id": 53,
+  "en": "Gym \\#4. Leader Bobby",
+  "es": "Gimnasio \\#4. Líder Bobby",
+  "zh": "道馆 \\#4　馆主：鲍比"
+ },
+ {
+  "id": 54,
+  "en": "There is nothing good on TV. Still, it would be good to stay in here. It's really cold outside.",
+  "es": "No dan nada bueno por la tele. Aunque sería ideal quedarse aquí dentro. En la calle hace mucho frío.",
+  "zh": "电视上没什么好节目。不过还是待在屋里好，外面实在太冷了。"
+ },
+ {
+  "id": 55,
+  "en": "There is nothing good on TV. I don't know what I expected, though…",
+  "es": "No dan nada bueno por la tele. Aunque no sé qué esperaba...",
+  "zh": "电视上没什么好节目。不过我还指望什么呢……"
+ },
+ {
+  "id": 56,
+  "en": "The King of Ice shall come#with the order and six ices",
+  "es": "El Rey del Hielo vendrá con#el orden y con seis hielos.",
+  "zh": "冰之王将携着秩序#与六块冰而来"
+ },
+ {
+  "id": 57,
+  "en": "Extinct Pokémon Lab",
+  "es": "Lab. Pokémon Extintos",
+  "zh": "已灭绝宝可梦研究所"
+ },
+ {
+  "id": 58,
+  "en": "Even though they are small houses, they have TVs.",
+  "es": "Aunque son casas pequeñas, disponen de televisiones.",
+  "zh": "虽然是小房子，却都有电视。"
+ },
+ {
+  "id": 59,
+  "en": "Weather Institute",
+  "es": "Instituto Meteorológico",
+  "zh": "气象研究所"
+ },
+ {
+  "id": 60,
+  "en": "Skuiro's house",
+  "es": "Casa de Skuiro",
+  "zh": "斯奎罗之家"
+ },
+ {
+  "id": 61,
+  "en": "Name: Lapras. Also known as the king of the seas.",
+  "es": "Nombre: Lapras. También conocido como el rey de los mares.",
+  "zh": "名称：拉普拉斯。也被称为海之王。"
+ },
+ {
+  "id": 62,
+  "en": "Name: Kangaskhan. A maternal Pokémon that raises its child in a pouch in its belly.",
+  "es": "Nombre: Kangaskhan. Un Pokémon maternal que cría a sus hijos en una bolsa de su barriga.",
+  "zh": "名称：袋兽。腹部有育儿袋、会照顾孩子的母性宝可梦。"
+ },
+ {
+  "id": 63,
+  "en": "Name: Blissey. Catching a Pokémon of this species is extremely lucky!",
+  "es": "Nombre: Blissey. Atrapar uno de los Pokémon de esta especie, ¡es cuestión de suerte!",
+  "zh": "名称：幸福蛋。能捕到这个种类的宝可梦，可真是走了大运！"
+ },
+ {
+  "id": 64,
+  "en": "Name: Absol. Has the ability to predict natural disasters. That's why people say that seeing one brings bad luck.",
+  "es": "Nombre: Absol. Tiene la habilidad de predecir catástrofes naturales. Por eso la gente dice que ver uno trae mala suerte.",
+  "zh": "名称：阿勃梭鲁。能够预知自然灾害。所以人们说看到它会带来厄运。"
+ },
+ {
+  "id": 65,
+  "en": "Name: Pachirisu. It is capable of creating and storing static electricity to be used in both battle and self-defense.",
+  "es": "Nombre: Pachirisu. Es capaz de crear y almacenar electricidad estática para ser usada tanto en batalla como en defensa propia.",
+  "zh": "名称：帕奇利兹。能够制造并储存静电，用于战斗和自卫。"
+ },
+ {
+  "id": 66,
+  "en": "Gym \\#5. Leader Rosama",
+  "es": "Gimnasio \\#5. Líder Rosama",
+  "zh": "道馆 \\#5　馆主：罗萨玛"
+ },
+ {
+  "id": 67,
+  "en": "Elm's pokémon Lab",
+  "es": "Laboratorio del Profesor Elm",
+  "zh": "空木博士的宝可梦研究所"
+ },
+ {
+  "id": 68,
+  "en": "Police Station",
+  "es": "Comisaría de Policía",
+  "zh": "警察局"
+ },
+ {
+  "id": 69,
+  "en": "Flower Shop",
+  "es": "Floristería",
+  "zh": "花店"
+ },
+ {
+  "id": 70,
+  "en": "There are races on TV. In this city they broadcast Pokémon Races.",
+  "es": "Están haciendo carreras por la tele. En esta ciudad retrasmiten las carreras del Pokémon Race.",
+  "zh": "电视里正在转播比赛。这座城市转播宝可梦赛跑。"
+ },
+ {
+  "id": 71,
+  "en": "I don't even know why I bother checking the TV...",
+  "es": "No sé ni para qué me molesto en mirar la tele...",
+  "zh": "我都不知道自己为什么还要费劲看电视……"
+ },
+ {
+  "id": 72,
+  "en": "Notice: I'll be back soon#Signed: Rosama.",
+  "es": "Cartel: Volveré pronto.#Firmado: Rosama.",
+  "zh": "告示：我马上回来。#署名：罗萨玛"
+ },
+ {
+  "id": 73,
+  "en": "It's a Pokémon egg.",
+  "es": "Es un huevo Pokémon.",
+  "zh": "这是一颗宝可梦的蛋。"
+ },
+ {
+  "id": 74,
+  "en": "They are broadcasting a documentary about Pokémon eggs hatching",
+  "es": "Estan poniendo un documental sobre la crianza de huevos Pokémon.",
+  "zh": "电视里正在播一部关于宝可梦蛋孵化的纪录片。"
+ },
+ {
+  "id": 75,
+  "en": "It's crammed full of books about flowers and other plants.",
+  "es": "Está lleno de libros sobre flores y otras plantas.",
+  "zh": "满是关于花和其他植物的书。"
+ },
+ {
+  "id": 76,
+  "en": "The symbol of Star Region.#It's a Violet Star.",
+  "es": "Símbolo de la Región Star.#Es una Estrella Violeta.",
+  "zh": "星辰地区的标志。#是一颗紫色的星星。"
+ },
+ {
+  "id": 77,
+  "en": "Birch's Pokémon Lab",
+  "es": "Laboratorio del Profesor Abedul",
+  "zh": "小田卷博士的宝可梦研究所"
+ },
+ {
+  "id": 78,
+  "en": "Gym \\#7. Leader Locke",
+  "es": "Gimnasio \\#7. Líder Locke",
+  "zh": "道馆 \\#7　馆主：洛克"
+ },
+ {
+  "id": 79,
+  "en": "Abandoned house#Entry forbidden",
+  "es": "Casa Abandonada#Prohibido el paso",
+  "zh": "废弃的房子#禁止入内"
+ },
+ {
+  "id": 80,
+  "en": "There's nothing on TV. They are in a commercial break, now…",
+  "es": "No hay nada en la tele. Ahora están en anuncios publicitarios...",
+  "zh": "电视里什么都没有。现在正在播广告……"
+ },
+ {
+  "id": 81,
+  "en": "It's crammed full of books about Greco-Roman art.@No…!@Also about Pokémon.",
+  "es": "Está lleno de libros sobre arte Greco-Romano.@¡No...!@Sobre los Pokémon también.",
+  "zh": "满是关于希腊罗马艺术的书。@不对……！@也有关于宝可梦的。"
+ },
+ {
+  "id": 82,
+  "en": "GF: Service Counter.@1F: Trainer's Market.@2F: VideoGames.@3F: Wiseman Gifts.@4F: Drugstore.@ROOFTOP: Vending Machines.",
+  "es": "PB: Puesto de información.@P1: Tienda de Entrenadores.@P2: VideoJuegos.@P3: Souvenirs y Regalos.@P4: Farmacia.@AZOTEA: Distribuidores.",
+  "zh": "1F：服务台。@2F：训练家市场。@3F：电子游戏。@4F：纪念品与礼品。@5F：药店。@屋顶：自动贩卖机。"
+ },
+ {
+  "id": 83,
+  "en": "They are ads for games:@Blue, Red and Yellow!@Gold, Silver and Crystal!@Ruby, Sapphire and Emerald!@Diamond, Pearl and Platinum!@White, Black, White 2 and Black 2!",
+  "es": "Son anuncios de juegos:@¡Azul, Rojo y Amarillo!@¡Oro, Plata y Cristal!@¡Rubí, Zafiro y Esmeralda!@¡Diamante, Perla y Platino!@¡Blanco, Negro, Blanco 2 y Negro 2!",
+  "zh": "这些是游戏的广告：@红、蓝和黄！@金、银和水晶！@红宝石、蓝宝石和绿宝石！@钻石、珍珠和白金！@白、黑、白2和黑2！"
+ },
+ {
+  "id": 84,
+  "en": "They are ads for games:@X and Y!@Sun and Moon!@¡Sword and Shield!@¡Scarlet and Violet!",
+  "es": "Son anuncios de juegos:@¡X e Y!@¡Sol y Luna!@¡Espada y Escudo!@¡Escarlata y Púrpura!",
+  "zh": "这些是游戏的广告：@X和Y！@太阳和月亮！@剑和盾！@朱和紫！"
+ },
+ {
+  "id": 85,
+  "en": "Rooftop of Pole City#Department Store",
+  "es": "Azotea del Centro Comercial#de Ciudad Polar.",
+  "zh": "北辰市#百货商场屋顶"
+ },
+ {
+  "id": 86,
+  "en": "The King of Rock shall come#with the order and six rocks",
+  "es": "El Rey de la Roca vendrá con#el orden y con seis rocas.",
+  "zh": "岩石之王将携着秩序#与六块岩石而来"
+ },
+ {
+  "id": 87,
+  "en": "Mohamed's house",
+  "es": "Casa de Mohamed",
+  "zh": "穆罕默德之家"
+ },
+ {
+  "id": 88,
+  "en": "Move Reminder",
+  "es": "Recordador de movimientos",
+  "zh": "招式回想员"
+ },
+ {
+  "id": 89,
+  "en": "Rigel Saloon",
+  "es": "Saloon de Rigel",
+  "zh": "参宿酒馆"
+ },
+ {
+  "id": 90,
+  "en": "Gym \\#6. Leader Adalia",
+  "es": "Gimnasio \\#6. Líder Adalia",
+  "zh": "道馆 \\#6　馆主：阿达莉娅"
+ },
+ {
+  "id": 91,
+  "en": "It's neither the place nor the time to watch the TV.",
+  "es": "No es el momento ni el lugar para ver la tele.",
+  "zh": "现在不是看电视的时候，这里也不是看电视的地方。"
+ },
+ {
+  "id": 92,
+  "en": "Star Power Plant#Energy Island",
+  "es": "Central Eléctrica de Star#Isla Energía",
+  "zh": "星辰发电厂#能量岛"
+ },
+ {
+  "id": 93,
+  "en": "Hot Cave#Heat Island",
+  "es": "Cueva Caliente#Isla Calor",
+  "zh": "灼热洞窟#炎热岛"
+ },
+ {
+  "id": 94,
+  "en": "Hurricane Cave#Wind Island",
+  "es": "Cueva Vendaval#Isla Viento",
+  "zh": "飓风洞窟#疾风岛"
+ },
+ {
+  "id": 95,
+  "en": "Meteorite A",
+  "es": "Meteorito A",
+  "zh": "陨石A"
+ },
+ {
+  "id": 96,
+  "en": "Meteorite D",
+  "es": "Meteorito D",
+  "zh": "陨石D"
+ },
+ {
+  "id": 97,
+  "en": "Meteorite S",
+  "es": "Meteorito V",
+  "zh": "陨石S"
+ },
+ {
+  "id": 98,
+  "en": "Meteorite N",
+  "es": "Meteorito N",
+  "zh": "陨石N"
+ },
+ {
+  "id": 99,
+  "en": "It's a television.",
+  "es": "Es una televisión.",
+  "zh": "这是一台电视。"
+ },
+ {
+  "id": 100,
+  "en": "It's crammed full of all kind of books.",
+  "es": "Esta lleno de libros de todo tipo.",
+  "zh": "满是各种各样的书。"
+ },
+ {
+  "id": 101,
+  "en": "<- Antares City#Route 20->",
+  "es": "<- Ciudad Antares#Ruta 20 ->",
+  "zh": "← 心宿市#20号道路 →"
+ },
+ {
+  "id": 102,
+  "en": "Star Bank",
+  "es": "Banco Star",
+  "zh": "星辰银行"
+ },
+ {
+  "id": 103,
+  "en": "Scorpio Building",
+  "es": "Edificio Scorpio",
+  "zh": "天蝎大厦"
+ },
+ {
+  "id": 104,
+  "en": "Antares Library",
+  "es": "Biblioteca Antares",
+  "zh": "心宿图书馆"
+ },
+ {
+  "id": 105,
+  "en": "Research and Technology#Center",
+  "es": "Centro de Investigación#y tecnología",
+  "zh": "研究与技术#中心"
+ },
+ {
+  "id": 106,
+  "en": "Gym \\#8. Leader Fer",
+  "es": "Gimnasio \\#8. Líder Fer",
+  "zh": "道馆 \\#8　馆主：菲尔"
+ },
+ {
+  "id": 107,
+  "en": "Notice: CLOSED",
+  "es": "Cartel: CERRADO",
+  "zh": "告示：停止营业"
+ },
+ {
+  "id": 108,
+  "en": "Basement 1: Informatics.",
+  "es": "Sótano 1: Informática.",
+  "zh": "地下1层：信息技术。"
+ },
+ {
+  "id": 109,
+  "en": "It's crammed full of IT books",
+  "es": "Esta lleno de libros de Informática.",
+  "zh": "满是信息技术方面的书。"
+ },
+ {
+  "id": 110,
+  "en": "It's a XBox One game console.",
+  "es": "Es una videoconsola XBox One.",
+  "zh": "这是一台Xbox One游戏机。"
+ },
+ {
+  "id": 111,
+  "en": "It's a PlayStation 5 game console.",
+  "es": "Es una videoconsola PlayStation 5.",
+  "zh": "这是一台PlayStation 5游戏机。"
+ },
+ {
+  "id": 112,
+  "en": "It's a Nintendo Switch game console.",
+  "es": "Es una videoconsola Nintendo Switch.",
+  "zh": "这是一台任天堂Switch游戏机。"
+ },
+ {
+  "id": 113,
+  "en": "The screen is full of zeros and ones.",
+  "es": "La pantalla está llena de ceros y unos.",
+  "zh": "屏幕上满是0和1。"
+ },
+ {
+  "id": 114,
+  "en": "Looks like some kind of code… I don't understand anything.",
+  "es": "Parece una especie de código... No entiendo nada.",
+  "zh": "好像是某种代码……什么都看不懂。"
+ },
+ {
+  "id": 115,
+  "en": "Seems like someone has been playing online Poker.",
+  "es": "Parece que alguien ha estado jugando al Póquer por internet.",
+  "zh": "好像有人一直在网上打扑克。"
+ },
+ {
+  "id": 116,
+  "en": "Seems like someone has been playing a LOL game.",
+  "es": "Parece que alguien ha estado jugando una partida al LOL.",
+  "zh": "好像有人刚打了一局LOL。"
+ },
+ {
+  "id": 117,
+  "en": "It's a telephone.",
+  "es": "Es un teléfono.",
+  "zh": "这是一部电话。"
+ },
+ {
+  "id": 118,
+  "en": "Basement 2: Experiments.",
+  "es": "Sótano 2: Experimentos.",
+  "zh": "地下2层：实验。"
+ },
+ {
+  "id": 119,
+  "en": "Physics Books.",
+  "es": "Libros de Física.",
+  "zh": "物理学的书。"
+ },
+ {
+  "id": 120,
+  "en": "Chemistry books.",
+  "es": "Libros de Química.",
+  "zh": "化学的书。"
+ },
+ {
+  "id": 121,
+  "en": "Maths books.",
+  "es": "Libros de Matemáticas.",
+  "zh": "数学的书。"
+ },
+ {
+  "id": 122,
+  "en": "Scientific magazines.",
+  "es": "Revistas científicas.",
+  "zh": "科学杂志。"
+ },
+ {
+  "id": 123,
+  "en": "Very advanced books of all kinds.",
+  "es": "Libros muy avanzados de todo tipo.",
+  "zh": "各种非常高深的书。"
+ },
+ {
+  "id": 124,
+  "en": "Mathematic formulas.",
+  "es": "Fórmulas matemáticas.",
+  "zh": "数学公式。"
+ },
+ {
+  "id": 125,
+  "en": "It reads: 'An expert is someone who has made all possible mistakes in its field of knowledge'",
+  "es": "Aquí pone: 'Un experto es una persona que ha cometido todos los errores posibles en su campo del conocimiento'",
+  "zh": "上面写着：‘专家，就是在自己专业领域里犯过所有可能错误的人。’"
+ },
+ {
+  "id": 126,
+  "en": "It reads: 'A man is mortal because of its fears and immortal because of its wishes'",
+  "es": "Aquí pone: 'El hombre es mortal por sus temores e inmortal por sus deseos'",
+  "zh": "上面写着：‘人因恐惧而终有一死，因愿望而永垂不朽。’"
+ },
+ {
+  "id": 127,
+  "en": "It's a really big machine with lots of buttons.",
+  "es": "Es una máquina muy grande con muchos botones.",
+  "zh": "这是一台非常大的机器，有很多按钮。"
+ },
+ {
+  "id": 128,
+  "en": "Basement 3: Biology.",
+  "es": "Sótano 3: Biología.",
+  "zh": "地下3层：生物。"
+ },
+ {
+  "id": 129,
+  "en": "It's a really weird machine…",
+  "es": "Es una máquina muy rara...",
+  "zh": "这是一台非常奇怪的机器……"
+ },
+ {
+  "id": 130,
+  "en": "Biology and Geology books.",
+  "es": "Libros de Biología y Geología.",
+  "zh": "生物学和地质学的书。"
+ },
+ {
+  "id": 131,
+  "en": "Basement 4: Teleportation.",
+  "es": "Sótano 4: Teletranporte.",
+  "zh": "地下4层：传送。"
+ },
+ {
+  "id": 132,
+  "en": "Really weird formulas and equations.",
+  "es": "Fórmulas y ecuaciones muy raras.",
+  "zh": "全是非常奇怪的公式和方程。"
+ },
+ {
+  "id": 133,
+  "en": "It reads: 'Quantum phisics was wrong in its entirety. To teleport finite matter from a place to another instantaneously, the only thing you have to do is…' Too lazy; didn't read!",
+  "es": "Aquí pone: 'La física cuántica estaba equivocada en su totalidad. Para teletransportar materia finita de un lugar a otro instantáneamente, lo único que hay que hace es...' ¡Paso de seguir leyendo!",
+  "zh": "上面写着：‘量子物理学整个都错了。要把有限的物质瞬间从一个地方传送到另一个地方，只需要……’懒得往下看了！"
+ },
+ {
+  "id": 134,
+  "en": "It reads: 'Teleportation is possible in the three dimensions: width, length and height. But it's still not possible to move through the fourth dimension, time. It's probable that no one will ever accomplish it.'",
+  "es": "Aquí pone: 'El teletransporte es posible en las tres dimensiones: ancho, largo y alto. Pero aún no es posible moverse a través de la cuarta dimensión, el tiempo. Seguramente nadie lo consiga nunca'",
+  "zh": "上面写着：‘在宽、长、高这三个维度中，传送是可能的。但在第四个维度，也就是时间中移动，目前还做不到。大概永远都不会有人做到。’"
+ },
+ {
+  "id": 135,
+  "en": "Basement 5: TOP SECRET.",
+  "es": "Sótano 5: TOP SECRET.",
+  "zh": "地下5层：绝密。"
+ },
+ {
+  "id": 136,
+  "en": "It's crammed full of Astronomy books.",
+  "es": "Está lleno de libros de Astronomía.",
+  "zh": "满是关于天文学的书。"
+ },
+ {
+  "id": 137,
+  "en": "Press Z to read…",
+  "es": "Pulsa Z para leer...",
+  "zh": "按Z键阅读……"
+ },
+ {
+  "id": 138,
+  "en": "It reads: ' Deoxys will only show itself to DEOXYS'.",
+  "es": "Aquí pone: 'Deoxys sólo se mostrará ante DEOXYS'.",
+  "zh": "上面写着：‘代欧奇希斯只会在DEOXYS面前现身’。"
+ },
+ {
+  "id": 139,
+  "en": "Team Galactic. For the creation of#a new universe…",
+  "es": "Equipo Galaxia. Por la creación de un#universo nuevo...",
+  "zh": "银河队。为了创造#新的宇宙……"
+ },
+ {
+  "id": 140,
+  "en": "$prota$'s Pokémon.#$par1$.",
+  "es": "Pokémon de $prota$.#$par1$.",
+  "zh": "$prota$的宝可梦。#$par1$。"
+ },
+ {
+  "id": 141,
+  "en": "$prota$'s Pokémon.#$par1$.",
+  "es": "Pokémon de $prota$.#$par1$.",
+  "zh": "$prota$的宝可梦。#$par1$。"
+ },
+ {
+  "id": 142,
+  "en": "There is nothing here!",
+  "es": "¡Aquí no hay nada!",
+  "zh": "这里什么都没有！"
+ },
+ {
+  "id": 143,
+  "en": "Nothing interesting…",
+  "es": "Nada interesante...",
+  "zh": "没什么有意思的东西……"
+ },
+ {
+  "id": 144,
+  "en": "You can observe a spectacular landscape full of vegetation.",
+  "es": "Se puede observar un espectacular paisaje con mucha vegetación.",
+  "zh": "能看到一片植被繁茂的壮观景色。"
+ },
+ {
+  "id": 145,
+  "en": "Good panoramic of Route 10, but the fog doesn't let you see further.",
+  "es": "Buena panorámica de la Ruta 10, aunque la niebla impide ver más allá.",
+  "zh": "能很好地眺望10号道路，但雾太大，看不到更远的地方。"
+ },
+ {
+  "id": 146,
+  "en": "From here you can see a big desert, and a sandstorm.",
+  "es": "Desde aquí se divisa un gran desierto, y una tormenta de arena.",
+  "zh": "从这里能看到一片辽阔的沙漠，还有一场沙尘暴。"
+ },
+ {
+  "id": 147,
+  "en": "Excellent sight of Canis Cemetery. From here you can see the Mightyena statue very well.",
+  "es": "Excelente vista del Cementerio del Can. Desde aquí se ve muy bien la estatua de Mightyena.",
+  "zh": "能绝佳地眺望大犬墓园。从这里能清楚地看到大狼犬的雕像。"
+ },
+ {
+  "id": 148,
+  "en": "A big cloud of pollution surrounds Pole City!",
+  "es": "¡Una gran nube de contaminación rodea Ciudad Polar!",
+  "zh": "一大片污染云笼罩着北辰市！"
+ },
+ {
+  "id": 149,
+  "en": "You can see the Palus Swamp and the Wayward Zone in all its splendor.",
+  "es": "Se puede contemplar el Pantano Swamp y la Zona Extravío en todo su explendor.",
+  "zh": "能将帕鲁斯沼泽和迷途地带的壮丽景象尽收眼底。"
+ },
+ {
+  "id": 150,
+  "en": "The King of Steel shall come#with the order and six steels.",
+  "es": "El Rey del Acero vendrá con#el orden y con seis aceros.",
+  "zh": "钢之王将携着秩序#与六块钢而来。"
+ },
+ {
+  "id": 151,
+  "en": "The Giant King shall come#with only the three kings in order.",
+  "es": "El Rey Gigante vendrá con#solo los tres reyes en orden.",
+  "zh": "巨人之王将只携三王#依序而来。"
+ },
+ {
+  "id": 152,
+  "en": "Hall of Fame",
+  "es": "Salón de Fama",
+  "zh": "殿堂"
+ },
+ {
+  "id": 153,
+  "en": "Hoenn Pokémon League",
+  "es": "Liga Pokémon Hoenn",
+  "zh": "丰缘宝可梦联盟"
+ },
+ {
+  "id": 154,
+  "en": "Kanto Pokémon League",
+  "es": "Liga Pokémon Kanto",
+  "zh": "关都宝可梦联盟"
+ },
+ {
+  "id": 155,
+  "en": "Star Pokémon League",
+  "es": "Liga Pokémon Star",
+  "zh": "星辰宝可梦联盟"
+ },
+ {
+  "id": 156,
+  "en": "Johto Pokémon League",
+  "es": "Liga Pokémon Johto",
+  "zh": "城都宝可梦联盟"
+ },
+ {
+  "id": 157,
+  "en": "Sinnoh Pokémon League",
+  "es": "Liga Pokémon Sinnoh",
+  "zh": "神奥宝可梦联盟"
+ },
+ {
+  "id": 158,
+  "en": "Unova Pokémon League",
+  "es": "Liga Pokémon Teselia",
+  "zh": "合众宝可梦联盟"
+ },
+ {
+  "id": 159,
+  "en": "Unused Room",
+  "es": "Sala en Desuso",
+  "zh": "闲置的房间"
+ },
+ {
+  "id": 160,
+  "en": "It's crammed full of books about the Elite Four and the Pokémon Leagues",
+  "es": "Está lleno de libros sobre el Alto Mando y las Ligas Pokémon.",
+  "zh": "满是关于四天王和宝可梦联盟的书。"
+ },
+ {
+  "id": 161,
+  "en": "1B",
+  "es": "S1",
+  "zh": "B1"
+ },
+ {
+  "id": 162,
+  "en": "This cabin is empty!",
+  "es": "¡Este camarote está vacío!",
+  "zh": "这个船舱是空的！"
+ },
+ {
+  "id": 163,
+  "en": "Welcome to The Jungle!",
+  "es": "¡Bienvenido a La Jungla!",
+  "zh": "欢迎来到丛林！"
+ },
+ {
+  "id": 164,
+  "en": "Jungle Lab#Arrow Island",
+  "es": "Laboratorio Jungla#Isla Flecha",
+  "zh": "丛林研究所#箭之岛"
+ },
+ {
+  "id": 165,
+  "en": "Press Z to browse the diary.",
+  "es": "Pulsa Z para ojear el diario.",
+  "zh": "按Z键翻看日记。"
+ },
+ {
+  "id": 166,
+  "en": "Diary: February 2. We have started studying the strange Egg that Mew brought to us. We don't exactly know which Pokémon will come out from it, since Mew cannot breed with any Pokémon. It doesn't seem to belong to any species known so far.",
+  "es": "Diario 2 de Febrero. Hemos comenzado a estudiar el extraño Huevo que Mew nos trajo. No sabemos exactamente qué Pokémon saldrá, pues Mew es capaz de criar con cualquier Pokémon. No parece pertenecer a ninguna especie conocida hasta el momento.",
+  "zh": "日记　2月2日。我们开始研究梦幻带给我们的那颗奇怪的蛋。我们不清楚会孵出什么宝可梦，因为梦幻能和任何宝可梦繁殖。这颗蛋似乎不属于目前已知的任何种类。"
+ },
+ {
+  "id": 167,
+  "en": "Diary: February 28. Mewtwo insists on going out of the laboratory. It's determined to explore the world to meet all the existing Pokémon. The boss insists on not losing sight of it at any time. Our investigation keeps its course, but we advance little by little. We don't know how long we can keep it here.",
+  "es": "Diario 28 de Febrero. Mewtwo insiste en que quiere salir del laboratorio. Está empeñado en que quiere explorar el mundo para conocer todos los Pokémon que existen. El jefe insiste en que no lo perdamos de vista ni un momento. Nuestra investigación sigue su curso, pero avanzamos poco a poco. No sabemos cuánto tiempo más lo podremos retener aquí.",
+  "zh": "日记　2月28日。超梦坚持要离开研究所。它决心去探索世界，认识所有存在的宝可梦。老大坚持一刻也不能让它离开视线。我们的研究仍在继续，但进展缓慢。不知道还能把它留在这里多久。"
+ },
+ {
+  "id": 168,
+  "en": "Diary: February 7. Something incredible has happened! A Mewtwo has come out of the egg! It seems Mew must have met with a Mewtwo and both had this egg. Since it is the first Mewtwo born from an egg, it's our duty as scientists to test and investigate.",
+  "es": "Diario 7 de Febrero. ¡Ha ocurrido algo insólito! ¡Un Mewtwo ha salido del huevo! Al parecer Mew debe haberse encontrado con un Mewtwo y han tenido este huevo. Dado que es el primer Mewtwo nacido de un huevo, nuestra obligación como científicos es hacer pruebas e investigar.",
+  "zh": "日记　2月7日。发生了不可思议的事！一只超梦从蛋里出来了！看来梦幻一定是遇到了一只超梦，它们有了这颗蛋。这是第一只从蛋里诞生的超梦，作为科学家，我们有责任进行测试和研究。"
+ },
+ {
+  "id": 169,
+  "en": "Diary: February 14. Mewtwo is astoundingly intelligent. After one week alive it has the intelligence of an adult human. It's interested in Pokémon's biodiversity! The team is enthusiastic about this discovery!",
+  "es": "Diario 14 de Febrero. Mewtwo es muy inteligente. Con una semana de vida tiene la inteligencia de una persona adulta. ¡Está muy interesado en la biodiversidad Pokémon! ¡En el equipo estamos muy entusiasmados por este descubrimiento!",
+  "zh": "日记　2月14日。超梦聪明得惊人。出生才一周，智力就已和成年人类相当。它对宝可梦的生物多样性很感兴趣！团队为这一发现欢欣鼓舞！"
+ },
+ {
+  "id": 170,
+  "en": "Diary: February 20. Mewtwo is incredibly powerful! The new and mysterious sponsor of our investigations is very interested in it. Even though he seems like a really important person, he didn't want to tell us who he is. It seems he was present when the first Mewtwo was born.",
+  "es": "Diario 20 de Febrero. ¡Mewtwo es increiblemente poderoso! El nuevo y misterioso patrocinador de nuestras investigaciones está muy interesado en él. Aunque parece una persona muy importante, no ha querido decir quién es. Parece que estuvo presente cuando el primer Mewtwo fue engendrado.",
+  "zh": "日记　2月20日。超梦的力量强得难以置信！我们研究的新赞助人——一个神秘人物，对它非常感兴趣。他看起来是个很重要的人，却不肯透露身份。似乎第一只超梦诞生时他就在场。"
+ },
+ {
+  "id": 171,
+  "en": "Gordon's house#The collector",
+  "es": "Casa de Gordon#El coleccionista",
+  "zh": "戈登之家#收藏家"
+ },
+ {
+  "id": 172,
+  "en": "Breeding Lab",
+  "es": "Laboratorio de Crianza",
+  "zh": "培育研究所"
+ },
+ {
+  "id": 173,
+  "en": "<- Pike Cave#Fugacious Forest ->",
+  "es": "<- Cueva Chuzo#Bosque Fugaz ->",
+  "zh": "← 尖峰洞窟#转瞬森林 →"
+ },
+ {
+  "id": 174,
+  "en": "Arceus#Legendary Pokémon",
+  "es": "Arceus#Pokémon Legendario",
+  "zh": "阿尔宙斯#传说宝可梦"
+ },
+ {
+  "id": 175,
+  "en": "Rekiem Castle",
+  "es": "Castillo Rekiem",
+  "zh": "安魂城堡"
+ },
+ {
+  "id": 176,
+  "en": "Scoffer's house#'It's nothing personal'",
+  "es": "Casa del burlón#'No es nada personal'",
+  "zh": "嘲讽者之家#‘不是针对谁’"
+ },
+ {
+  "id": 177,
+  "en": "Why watch TV when we have Internet…",
+  "es": "Para qué ver la tele teniendo internet...",
+  "zh": "有网络了还看什么电视……"
+ },
+ {
+  "id": 178,
+  "en": "It's crammed full of books of all kinds.",
+  "es": "Está lleno de libros de todo tipo.",
+  "zh": "满是各种各样的书。"
+ },
+ {
+  "id": 179,
+  "en": "Pokémon cloning device.#(Under developement).",
+  "es": "Dispositivo de clonación#Pokémon. (En desarrollo).",
+  "zh": "宝可梦克隆装置。#（开发中）"
+ },
+ {
+  "id": 180,
+  "en": "This machine is supposed to be able to clone Pokémon. But it doesn't work, yet!",
+  "es": "Esta máquina se supone que debe clonar Pokémon. ¡Pero aún no funciona!",
+  "zh": "这台机器据说能克隆宝可梦。但现在还不能用！"
+ },
+ {
+  "id": 181,
+  "en": "Super Shinyficator",
+  "es": "Súper Shinyficador#Pokémon",
+  "zh": "宝可梦超级闪光化装置"
+ },
+ {
+  "id": 182,
+  "en": "Electromagnetism#absorption artifact.",
+  "es": "Artefacto de absorción#del electromagnetismo.",
+  "zh": "电磁吸收#装置。"
+ },
+ {
+  "id": 183,
+  "en": "This machine allows to control the electromagnetism levels.",
+  "es": "Esta máquina permite controlar los niveles de electromagnetismo.",
+  "zh": "这台机器可以控制电磁水平。"
+ },
+ {
+  "id": 184,
+  "en": "This machine prevented Teleport in the Island. Since it's destroyed, now it is possible!",
+  "es": "Esta máquina impedía el Teletransporte en la Isla. ¡Como está destruida ahora sí es posible!",
+  "zh": "这台机器曾阻止在岛上使用瞬间移动。既然已经被毁坏，现在可以用了！"
+ },
+ {
+  "id": 185,
+  "en": "It's a computer with lots of ones and zeros.",
+  "es": "Es un ordenador con muchos unos y ceros.",
+  "zh": "这是一台屏幕上满是0和1的电脑。"
+ },
+ {
+  "id": 186,
+  "en": "There are lots of formulas and strange symbols.",
+  "es": "Aquí hay muchas fórmulas y símbolos extraños.",
+  "zh": "这里有很多公式和奇怪的符号。"
+ },
+ {
+  "id": 187,
+  "en": "Pokémon-emited#radiation detector",
+  "es": "Detectores de radiación#emitida por Pokémon.",
+  "zh": "宝可梦辐射#探测器"
+ },
+ {
+  "id": 188,
+  "en": "This machine is used to track down Legendary Pokémon. It's identical to the one used by Team Magma back at Canis Cemetery.",
+  "es": "Esta máquina sirve para rastrear Pokémon Legendarios. Es idéntica a la que usaba el Team Magma en el Cementerio Can.",
+  "zh": "这台机器用来追踪传说宝可梦。和熔岩队当年在大犬墓园用的那台一模一样。"
+ },
+ {
+  "id": 189,
+  "en": "Time machine.#(Under development).",
+  "es": "Máquina del Tiempo.#(En desarrollo).",
+  "zh": "时光机。#（开发中）"
+ },
+ {
+  "id": 190,
+  "en": "Someone has painted obscene drawings in this blackboard.",
+  "es": "Alguien ha pintado dibujos obscenos en esta pizarra.",
+  "zh": "有人在这块黑板上画了下流的涂鸦。"
+ },
+ {
+  "id": 191,
+  "en": "This machine allows time travel… Could it be true?",
+  "es": "Esta máquina permite viajar en el tiempo... ¿Será cierto?",
+  "zh": "这台机器能穿越时间……是真的吗？"
+ },
+ {
+  "id": 192,
+  "en": "It shows several surveillance cameras of the building.",
+  "es": "Muestra varias cámaras de vigilancia del edificio.",
+  "zh": "显示着这栋建筑里的几个监控摄像头。"
+ },
+ {
+  "id": 193,
+  "en": "It's crammed full of pirated CDs and photocopied books.",
+  "es": "Está repleto de CDs piratas y libros fotocopiados.",
+  "zh": "堆满了盗版光盘和复印的书。"
+ },
+ {
+  "id": 194,
+  "en": "It reads: 'Teleportation is possible in the three dimensions: width, length and height. If what you wish is to travel through the fourth dimension, time, you only have to…' Too lazy; didn't read!",
+  "es": "Aquí pone: 'El teletransporte es posible en las tres dimensiones, ancho, largo y alto. Si lo que se desea es moverse a través de la cuarta dimensión, el tiempo, sólo hay que...' ¡Paso de seguir leyendo!",
+  "zh": "上面写着：‘在宽、长、高这三个维度中，传送是可能的。如果想在第四个维度，也就是时间中移动，只需要……’懒得往下看了！"
+ },
+ {
+  "id": 195,
+  "en": "Tina's house",
+  "es": "Casa de Tina",
+  "zh": "蒂娜之家"
+ },
+ {
+  "id": 196,
+  "en": "Vulcano's house",
+  "es": "Casa de Vulcano",
+  "zh": "武尔卡诺之家"
+ },
+ {
+  "id": 197,
+  "en": "German's house#The Gambler",
+  "es": "Casa de German El Ludópata",
+  "zh": "赫尔曼之家#赌徒"
+ },
+ {
+  "id": 198,
+  "en": "Terra Sanctuary",
+  "es": "Santuario Terra",
+  "zh": "地球圣域"
+ },
+ {
+  "id": 199,
+  "en": "Groudon#Legendary Pokémon",
+  "es": "Groudon#Pokémon Legendario",
+  "zh": "固拉多#传说宝可梦"
+ },
+ {
+  "id": 200,
+  "en": "Rayquaza#Legendary Pokémon",
+  "es": "Rayquaza#Pokémon Legendario",
+  "zh": "烈空坐#传说宝可梦"
+ },
+ {
+  "id": 201,
+  "en": "Kyogre#Legendary Pokémon",
+  "es": "Kyogre#Pokémon Legendario",
+  "zh": "盖欧卡#传说宝可梦"
+ },
+ {
+  "id": 202,
+  "en": "It's a big sapphire.",
+  "es": "Es un gran zafiro.",
+  "zh": "这是一颗巨大的蓝宝石。"
+ },
+ {
+  "id": 203,
+  "en": "It's a big ruby.",
+  "es": "Es un gran rubí.",
+  "zh": "这是一颗巨大的红宝石。"
+ },
+ {
+  "id": 204,
+  "en": "It's a big emerald.",
+  "es": "Es una gran esmeralda.",
+  "zh": "这是一颗巨大的绿宝石。"
+ },
+ {
+  "id": 205,
+  "en": "This humongous rock is blocking the way… Doesn't seem like it's going to move using Strength or Rock Smash!",
+  "es": "Esta enorme roca está bloqueando el camino... ¡No parece que vaya a moverse usando Fuerza o Golpe Roca!",
+  "zh": "这块巨石挡住了去路……看来用怪力或碎岩也推不动它！"
+ },
+ {
+  "id": 206,
+  "en": "Pokémon University",
+  "es": "Universidad Pokémon",
+  "zh": "宝可梦大学"
+ },
+ {
+  "id": 207,
+  "en": "Liu's house",
+  "es": "Casa de Liu",
+  "zh": "刘之家"
+ },
+ {
+  "id": 208,
+  "en": "Access Test",
+  "es": "Prueba de acceso",
+  "zh": "准入测试"
+ },
+ {
+  "id": 209,
+  "en": "D Level Exam",
+  "es": "Prueba Nivel D",
+  "zh": "D级考试"
+ },
+ {
+  "id": 210,
+  "en": "C Level Exam",
+  "es": "Prueba Nivel C",
+  "zh": "C级考试"
+ },
+ {
+  "id": 211,
+  "en": "B Level Exam",
+  "es": "Prueba Nivel B",
+  "zh": "B级考试"
+ },
+ {
+  "id": 212,
+  "en": "A Level Exam",
+  "es": "Prueba Nivel A",
+  "zh": "A级考试"
+ },
+ {
+  "id": 213,
+  "en": "S Level Exam",
+  "es": "Prueba Nivel S",
+  "zh": "S级考试"
+ },
+ {
+  "id": 214,
+  "en": "To summon Registeel, a sacred spell has to be recited.@'I invoke you, hardest existing metal'.",
+  "es": "Para convocar a Registeel, hay que recitar un conjuro sagrado.@'Yo te invoco, metal más duro existente'.",
+  "zh": "召唤雷吉斯奇鲁，需要吟诵神圣的咒语。@‘吾召唤你，现存最坚硬的金属’。"
+ },
+ {
+  "id": 215,
+  "en": "To summon Regirock, a sacred spell has to be recited.@It must be pronounced out loud and correctly.@'I invoke you, rock that rebuilds itself'.",
+  "es": "Para convocar a Regirock, hay que recitar un conjuro sagrado.@Se debe pronunciar en voz alta y correctamente.@'Yo te invoco, roca que se reconstruye'.",
+  "zh": "召唤雷吉洛克，需要吟诵神圣的咒语。@必须大声且准确地念出来。@‘吾召唤你，能够自我重建的岩石’。"
+ },
+ {
+  "id": 216,
+  "en": "To summon Regice, a sacred spell has to be recited.@'I invoke you, ice impossible to melt'.",
+  "es": "Para convocar a Regice, hay que recitar un conjuro sagrado.@'Yo te invoco, hielo imposible de derretir'.",
+  "zh": "召唤雷吉艾斯，需要吟诵神圣的咒语。@‘吾召唤你，不可能融化的冰’。"
+ },
+ {
+  "id": 217,
+  "en": "To summon Regigigas, first you'll have to find its hidden cave. It only appears the day of the Sun…@It's neccesary to be accompanied by the three kings, in the correct order.@No zone of the cave can be left without being stepped on.@To convoke it a sacred spell has to be recited.@'I invoke you, king of the giants'.",
+  "es": "Para convocar a Regigigas, primero es necesario encontrar su cueva oculta. Sólo aparece el día del sol...@Es necesario ir acompañado de los tres reyes, en el orden correcto.@No hay que dejar ninguna zona de la cueva sin pisar.@Para convocarlo hay que recitar un conjuro sagrado.@'Yo te invoco, rey de los gigantes'.",
+  "zh": "要召唤雷吉奇卡斯，首先必须找到它隐藏的洞窟。它只会在星期日出现……@必须有三王同行，并且顺序正确。@洞窟里的每一块区域都必须踏过。@召唤它需要吟诵神圣的咒语。@‘吾召唤你，巨人之王’。"
+ },
+ {
+  "id": 218,
+  "en": "Only the ones who can subdue the power of the sea and the earth will be able to measure themself against the power of the sky.",
+  "es": "Sólo quién sea capaz de doblegar el poder del mar y de la tierra podrá medirse al poder del cielo.",
+  "zh": "唯有能够制伏海洋与大地之力的人，才有资格与天空之力一较高下。"
+ },
+ {
+  "id": 219,
+  "en": "Star Multimedia",
+  "es": "Multimedia Star",
+  "zh": "星辰多媒体"
+ },
+ {
+  "id": 220,
+  "en": "This TV has 3D technology!",
+  "es": "¡Esta televisión dispone de tecnología en 3D!",
+  "zh": "这台电视有3D技术！"
+ },
+ {
+  "id": 221,
+  "en": "Volt Lab",
+  "es": "Laboratorio Voltio",
+  "zh": "伏特研究所"
+ },
+ {
+  "id": 222,
+  "en": "Pokémon Fan Club",
+  "es": "Club de Fans de Pokémon",
+  "zh": "宝可梦粉丝俱乐部"
+ },
+ {
+  "id": 223,
+  "en": "Morfeo's house",
+  "es": "Casa de Morfeo",
+  "zh": "莫菲斯之家"
+ },
+ {
+  "id": 224,
+  "en": "Let's listen carefully to#other trainers!",
+  "es": "¡Escuchemos con atención a#otros entrenadores!",
+  "zh": "让我们认真倾听#其他训练家说话！"
+ },
+ {
+  "id": 225,
+  "en": "If they boast, do the same!",
+  "es": "¡Si presumen, haz tú lo mismo!",
+  "zh": "如果他们吹嘘，你也同样吹回去！"
+ },
+ {
+  "id": 226,
+  "en": "It's completely full with books about Pokémon!",
+  "es": "¡Totalmente lleno de libros sobre los Pokémon!",
+  "zh": "满是关于宝可梦的书！"
+ },
+ {
+  "id": 227,
+  "en": "There is nothing here.",
+  "es": "Aquí no hay nada.",
+  "zh": "这里什么都没有。"
+ },
+ {
+  "id": 228,
+  "en": "They are broadcasting a black and white movie.",
+  "es": "Están poniendo una película en blanco y negro.",
+  "zh": "正在播一部黑白电影。"
+ },
+ {
+  "id": 229,
+  "en": "You can see your reflection, since the TV is off.",
+  "es": "Puedes ver tu reflejo, pues la tele está apagada.",
+  "zh": "电视关着，你能看到自己的倒影。"
+ },
+ {
+  "id": 230,
+  "en": "It's crammed full of chemical compounds and other typical objects of a laboratory.",
+  "es": "Está lleno de compuestos químicos y otros objetos típicos de un laboratorio.",
+  "zh": "满是化学化合物和其他实验室里常见的物品。"
+ },
+ {
+  "id": 231,
+  "en": "We welcome you to the true Volt Lab!",
+  "es": "¡Te damos la bienvenida al verdadero Lab. Voltio!",
+  "zh": "欢迎来到真正的伏特研究所！"
+ },
+ {
+  "id": 232,
+  "en": "Have you ever had a dream,  that you were so sure was real?@What if you were unable to wake from that dream? How would you know the difference between the dream world and the real world?",
+  "es": "¿Alguna vez has tenido un sueño, que pareciera tan real que no lo puedes distinguir de la realidad?@Y si no pudieras despertar de ese sueño, ¿cómo sabrías que estas soñando?",
+  "zh": "你有没有做过一个梦，真实得让你无法与现实区分？@如果你无法从那个梦中醒来，你怎么知道自己在做梦？"
+ },
+ {
+  "id": 233,
+  "en": "What is real?@How do you define 'real'?@If you're talking about what you can feel, what you can smell, what you can taste and see, then 'real' is simply electrical signals interpreted by your brain.",
+  "es": "¿Qué es real?@¿Cómo defines lo real?@Si estás pensando en lo que puedes sentir, lo que puedes oler, lo que puedes saborear y ver, entonces lo real son simplemente señales eléctricas interpretadas por tu cerebro.",
+  "zh": "什么是真实？@你如何定义‘真实’？@如果你指的是你能感觉到的、闻到的、尝到的和看到的，那么‘真实’只不过是被你的大脑解读的电信号。"
+ },
+ {
+  "id": 234,
+  "en": "Press Z to read…#Looks like an important message.",
+  "es": "Pulsa Z para leer...#Parece un mensaje importante.",
+  "zh": "按Z键阅读……#似乎是一条重要的信息。"
+ },
+ {
+  "id": 235,
+  "en": "In this place there is a virtually created wall that can be crossed.@You won't be able to advance if you don't discover which one is it!",
+  "es": "En este lugar hay una pared creada virtualmente, pero que puede atravesarse.@¡No podrás avanzar si no descubres de cuál se trata!",
+  "zh": "这里有一面虚拟生成的墙，但是可以穿过去。@如果找不出是哪一面，你就无法前进！"
+ },
+ {
+  "id": 236,
+  "en": "Sooner or later you'll understand the difference between knowing the way and walking the way.",
+  "es": "Tarde o temprano entenderás la diferencia entre conocer el camino y andar el camino.",
+  "zh": "迟早你会明白，知道道路和走上道路的区别。"
+ },
+ {
+  "id": 237,
+  "en": "One cannot see further from an election that they do not understand.",
+  "es": "Uno no puede ver mas allá de una elección que no entiende.",
+  "zh": "人无法看透自己不理解的选择之外的事物。"
+ },
+ {
+  "id": 238,
+  "en": "This seems to be a encrypted code.#There is no way to understand it!",
+  "es": "Parece un código cifrado.#¡No hay forma de entenderlo!",
+  "zh": "这似乎是一段加密代码。#根本看不懂！"
+ },
+ {
+  "id": 239,
+  "en": "There are no questions without answers, only poorly worded questions.",
+  "es": "No hay preguntas sin respuestas, sólo preguntas mal formuladas.",
+  "zh": "没有无解的问题，只有表述不当的问题。"
+ },
+ {
+  "id": 240,
+  "en": "Hope: the quintessence of human delusion, which is at the same time the source of our greatest power and our greatest weakness.",
+  "es": "La esperanza: la quinta esencia del engaño humano, que es al tiempo la fuente de nuestro mayor poder y nuestra mayor debilidad.",
+  "zh": "希望：人类妄念的精髓，既是我们最大力量的源泉，也是我们最大弱点的源泉。"
+ },
+ {
+  "id": 241,
+  "en": "Ignorance is bliss!",
+  "es": "¡La ignorancia es la felicidad!",
+  "zh": "无知是福！"
+ },
+ {
+  "id": 242,
+  "en": "Monument to Landorus,#Tornadus and Thundurus",
+  "es": "Monumentos a Landorus,#Tornadus y Thundurus",
+  "zh": "龙卷云、雷电云#和土地云的纪念碑"
+ },
+ {
+  "id": 243,
+  "en": "It's crammed full of books and publications of all kinds",
+  "es": "Está lleno de libros y publicaciones de todo tipo.",
+  "zh": "满是各种书籍和出版物。"
+ },
+ {
+  "id": 244,
+  "en": "Star Battle Frontier",
+  "es": "Frente de Batalla Star",
+  "zh": "星之开拓区"
+ },
+ {
+  "id": 245,
+  "en": "Frontline Café",
+  "es": "Cafetería Primera Línea",
+  "zh": "前线咖啡馆"
+ },
+ {
+  "id": 246,
+  "en": "Gripherial#Legendary Pokémon",
+  "es": "Pokémon Legendario#Gripherial",
+  "zh": "冰炎狮鹫#传说宝可梦"
+ },
+ {
+  "id": 247,
+  "en": "West Frontier#Zone and Survival",
+  "es": "Frente Oeste#La Zona y Supervivencia",
+  "zh": "西部开拓区#区域与生存"
+ },
+ {
+  "id": 248,
+  "en": "East Frontier#Tower and Hell",
+  "es": "Frente Este#Torre e Infierno",
+  "zh": "东部开拓区#塔楼与地狱"
+ },
+ {
+  "id": 249,
+  "en": "North Frontier#Palace, Tournament and Factory",
+  "es": "Frente Norte#Palacio, Torneo y Fábrica",
+  "zh": "北部开拓区#宫殿、锦标赛与工厂"
+ },
+ {
+  "id": 250,
+  "en": "Frontier Event Dome",
+  "es": "Cúpula de eventos del Frente",
+  "zh": "开拓区活动巨蛋"
+ },
+ {
+  "id": 251,
+  "en": "Palatial Door.#You don't have permission…",
+  "es": "Puerta Palacial.#No tienes permiso...",
+  "zh": "宫殿之门。#你没有许可……"
+ },
+ {
+  "id": 252,
+  "en": "Pentagonal Door.#You don't have permission…",
+  "es": "Puerta Pentagonal.#No tienes permiso...",
+  "zh": "五边形之门。#你没有许可……"
+ },
+ {
+  "id": 253,
+  "en": "Experimental Door.#You don't have permission…",
+  "es": "Puerta Experimental.#No tienes permiso...",
+  "zh": "实验之门。#你没有许可……"
+ },
+ {
+  "id": 254,
+  "en": "Abysmal Door.#You don't have permission…",
+  "es": "Puerta Abismal.#No tienes permiso...",
+  "zh": "深渊之门。#你没有许可……"
+ },
+ {
+  "id": 255,
+  "en": "Matrix Door.#You don't have permission…",
+  "es": "Puerta Matricial.#No tienes permiso...",
+  "zh": "矩阵之门。#你没有许可……"
+ },
+ {
+  "id": 256,
+  "en": "Celestial Door.#You don't have permission…",
+  "es": "Puerta Celestial.#No tienes permiso...",
+  "zh": "天界之门。#你没有许可……"
+ },
+ {
+  "id": 257,
+  "en": "Infernal Door.#You don't have permission…",
+  "es": "Puerta Infernal.#No tienes permiso...",
+  "zh": "地狱之门。#你没有许可……"
+ },
+ {
+  "id": 258,
+  "en": "I have better things to do than watch TV.",
+  "es": "Tengo mejores cosas que hacer que ver la tele.",
+  "zh": "我有比看电视更重要的事要做。"
+ },
+ {
+  "id": 259,
+  "en": "Palace Frontier",
+  "es": "Palacio del Frente",
+  "zh": "宫殿开拓区"
+ },
+ {
+  "id": 260,
+  "en": "Tournament Frontier",
+  "es": "Torneo del Frente",
+  "zh": "锦标赛开拓区"
+ },
+ {
+  "id": 261,
+  "en": "Factory Frontier",
+  "es": "Fábrica del Frente",
+  "zh": "工厂开拓区"
+ },
+ {
+  "id": 262,
+  "en": "<- Palace",
+  "es": "<- Palacio",
+  "zh": "← 宫殿"
+ },
+ {
+  "id": 263,
+  "en": "Factory ->",
+  "es": "Fábrica ->",
+  "zh": "工厂 →"
+ },
+ {
+  "id": 264,
+  "en": "Survival Frontier",
+  "es": "Supervivencia del Frente",
+  "zh": "生存开拓区"
+ },
+ {
+  "id": 265,
+  "en": "Zone Frontier",
+  "es": "La Zona del Frente",
+  "zh": "区域开拓区"
+ },
+ {
+  "id": 266,
+  "en": "Survival (North)",
+  "es": "Supervivencia (Norte)",
+  "zh": "生存（北）"
+ },
+ {
+  "id": 267,
+  "en": "Zone (South)",
+  "es": "La Zona (Sur)",
+  "zh": "区域（南）"
+ },
+ {
+  "id": 268,
+  "en": "Tower (North)",
+  "es": "Torre (Norte)",
+  "zh": "塔楼（北）"
+ },
+ {
+  "id": 269,
+  "en": "Hell (South)",
+  "es": "Infierno (Sur)",
+  "zh": "地狱（南）"
+ },
+ {
+  "id": 270,
+  "en": "Tower Frontier",
+  "es": "Torre del Frente",
+  "zh": "塔楼开拓区"
+ },
+ {
+  "id": 271,
+  "en": "Hell Frontier",
+  "es": "Infierno del Frente",
+  "zh": "地狱开拓区"
+ },
+ {
+  "id": 272,
+  "en": "Victories:",
+  "es": "Victorias: ",
+  "zh": "胜利："
+ },
+ {
+  "id": 273,
+  "en": "Defeats:",
+  "es": "Derrotas: ",
+  "zh": "失败："
+ },
+ {
+  "id": 274,
+  "en": "50 Palace Records.",
+  "es": "Registros del Palacio 50.",
+  "zh": "宫殿记录 50。"
+ },
+ {
+  "id": 275,
+  "en": "Open Palace Records.",
+  "es": "Registros del Palacio Libre.",
+  "zh": "宫殿记录 自由。"
+ },
+ {
+  "id": 276,
+  "en": "100 Palace Records.",
+  "es": "Registros del Palacio 100.",
+  "zh": "宫殿记录 100。"
+ },
+ {
+  "id": 277,
+  "en": "The following Pokémon shall be considered really powerful:#Slaking, Tyranitar, Metagross, Garchomp, Dragonite, Salamence, Hydreigon, Goodra, Wishiwashi, Kommo-o, Articuno, Zapdos, Moltres, Raikou, Entei, Suicune, Cobalion, Terrakion, Virizion, Keldeo, Regirock, Regice, Registeel, Tornadus, Thundurus, Landorus, Uxie, Mesprit, Azelf, Manaphy, Latias, Latios, Heatran, Cresselia, Shaymin, Victini, Celebi, Jirachi, Meloetta, Genesect, Psicovenom, Mew, Darkrai, Deoxys, Zygarde, Diancie, Hoopa, Volcanion, Necrozma, Magearna, Marshadow, Mega Venusaur, Mega Charizard X, Mega Charizard Y, Mega Blastoise, Mega Blaziken, Mega Pikablue, Mega Lucario, Mega Houndoom, Mega Ampharos, Mega Gyarados, Mega Alakazam, Mega Gardevoir, Mega Scizor, Mega Pinsir, Mega Heracross, Mega Gengar, Mega Aggron, Mega Abomasnow, Mega Kangaskhan, Mega Aerodactyl, Mega Sceptile, Mega Swampert, Mega Altaria, Mega Gallade, Mega Slowbro, Mega Steelix, Mega Raichu, Greninja with Battle Bond, Dragapult, Regieleki, Regidrago ,Zarude, Glastrier,  Spectrier and Enamorus.",
+  "es": "Los siguientes Pokémon serán considerados muy poderosos.@Slaking, Tyranitar, Metagross, Garchomp, Dragonite, Salamence, Hydreigon, Goodra, Wishiwashi, Kommo-o,@Articuno, Zapdos, Moltres, Raikou, Entei, Suicune, Cobalion, Terrakion, Virizion, Keldeo,@Regirock, Regice, Registeel, Tornadus, Thundurus, Landorus, Uxie, Mesprit, Azelf, Manaphy,@Latias, Latios, Heatran, Cresselia, Shaymin, Victini, Celebi, Jirachi, Meloetta, Genesect,@Psicovenom, Mew, Darkrai, Deoxys, Zygarde, Diancie, Hoopa, Volcanion, Necrozma, Magearna,@Marshadow, Mega Venusaur, Mega Charizard X, Mega Charizard Y, Mega Blastoise, Mega Blaziken,@Mega Pikablue, Mega Lucario, Mega Houndoom, Mega Ampharos, Mega Gyarados,@Mega Alakazam, Mega Gardevoir, Mega Scizor, Mega Pinsir, Mega Heracross,@Mega Gengar, Mega Aggron, Mega Abomasnow, Mega Kangaskhan, Mega Aerodactyl,@Mega Sceptile, Mega Swampert, Mega Altaria, Mega Gallade, Mega Slowbro,@Mega Steelix, Mega Raichu, Greninja con Fuerte Afecto, Dragapult, Regieleki,@Regidrago, Zarude, Glastrier,  Spectrier y Enamorus.",
+  "zh": "以下宝可梦被视为非常强大：#请假王、班基拉斯、巨金怪、烈咬陆鲨、快龙、暴飞龙、三首恶龙、黏美龙、弱丁鱼、杖尾鳞甲龙、急冻鸟、闪电鸟、火焰鸟、雷公、炎帝、水君、勾帕路翁、代拉基翁、毕力吉翁、凯路迪欧、雷吉洛克、雷吉艾斯、雷吉斯奇鲁、龙卷云、雷电云、土地云、由克希、艾姆利多、亚克诺姆、玛纳霏、拉帝亚斯、拉帝欧斯、席多蓝恩、克雷色利亚、谢米、比克提尼、时拉比、基拉祈、美洛耶塔、盖诺赛克特、念毒兽、梦幻、达克莱伊、代欧奇希斯、基格尔德、蒂安希、胡帕、波尔凯尼恩、奈克洛兹玛、玛机雅娜、玛夏多、超级妙蛙花、超级喷火龙X、超级喷火龙Y、超级水箭龟、超级火焰鸡、超级皮卡蓝、超级路卡利欧、超级黑鲁加、超级电龙、超级暴鲤龙、超级胡地、超级沙奈朵、超级巨钳螳螂、超级凯罗斯、超级赫拉克罗斯、超级耿鬼、超级波士可多拉、超级暴雪王、超级袋兽、超级化石翼龙、超级蜥蜴王、超级巨沼怪、超级七夕青鸟、超级艾路雷朵、超级呆壳兽、超级大钢蛇、超级雷丘、牵绊甲贺忍蛙、多龙巴鲁托、雷吉艾勒奇、雷吉铎拉戈、萨戮德、雪暴马、灵幽马、眷恋云。"
+ },
+ {
+  "id": 278,
+  "en": "The following Pokémon shall be considered Battle Potentials:#Mewtwo, Lugia, Ho-Oh, Kyogre, Groudon, Rayquaza, Regigigas, Dialga, Palkia, Giratina, Reshiram, Zekrom, Kyurem, Xerneas, Yveltal, Arceus, Gripherial, Mewthree, Hoopa Unbound, Mega Tyranitar, Mega Garchomp, Mega Salamence, Mega Metagross, Mega Latias, Mega Latios, Mega Diancie, Slaking with Forbidden Plate, Solgaleo, Lunala, Zacian, Zamazenta, Eternatus and Calyrex.",
+  "es": "Los siguientes Pokémon serán considerados Potenciales de Batalla.@Mewtwo, Lugia, Ho-Oh, Kyogre, Groudon, Rayquaza, Regigigas, Dialga, Palkia, Giratina,@Reshiram, Zekrom, Kyurem, Xerneas, Yveltal, Arceus, Gripherial, Mewthree, Hoopa Desatado,@Mega Tyranitar, Mega Garchomp, Mega Salamence, Mega Metagross, Mega Latias,@Mega Latios, Mega Diancie, Slaking con Tabla Prohibida, Solgaleo, Lunala,@Zacian, Zamazenta, Eternatus y Calyrex.",
+  "zh": "以下宝可梦被视为对战潜力者：#超梦、洛奇亚、凤王、盖欧卡、固拉多、烈空坐、雷吉奇卡斯、帝牙卢卡、帕路奇亚、骑拉帝纳、莱希拉姆、捷克罗姆、酋雷姆、哲尔尼亚斯、伊裴尔塔尔、阿尔宙斯、冰炎狮鹫、超梦三、解放胡帕、超级班基拉斯、超级烈咬陆鲨、超级暴飞龙、超级巨金怪、超级拉帝亚斯、超级拉帝欧斯、超级蒂安希、持有禁忌石板的请假王、索尔迦雷欧、露奈雅拉、苍响、藏玛然特、无极汰那、蕾冠王。"
+ },
+ {
+  "id": 279,
+  "en": "SuperTournament Records.",
+  "es": "Registros del SúperTorneo.",
+  "zh": "超级锦标赛记录。"
+ },
+ {
+  "id": 280,
+  "en": "MegaTournament Records.",
+  "es": "Registros del MegaTorneo.",
+  "zh": "巨型锦标赛记录。"
+ },
+ {
+  "id": 281,
+  "en": "UltraTournament Records.",
+  "es": "Registros del UltraTorneo.",
+  "zh": "究极锦标赛记录。"
+ },
+ {
+  "id": 282,
+  "en": "Electron Factory Records.",
+  "es": "Registros de la Fabrica Electrón.",
+  "zh": "电子工厂记录。"
+ },
+ {
+  "id": 283,
+  "en": "Neutron Factory Records.",
+  "es": "Registros de la Fabrica Neutrón.",
+  "zh": "中子工厂记录。"
+ },
+ {
+  "id": 284,
+  "en": "Proton Factory Records.",
+  "es": "Registros de la Fabrica Protón.",
+  "zh": "质子工厂记录。"
+ },
+ {
+  "id": 285,
+  "en": "Pokémon Center",
+  "es": "Centro Pokémon",
+  "zh": "宝可梦中心"
+ },
+ {
+  "id": 286,
+  "en": "Pokémon Shop",
+  "es": "Tienda Pokémon",
+  "zh": "宝可梦商店"
+ },
+ {
+  "id": 287,
+  "en": "Pokémon Shop (Destroyed)",
+  "es": "Tienda Pokémon (Destruida)",
+  "zh": "宝可梦商店（已损毁）"
+ },
+ {
+  "id": 288,
+  "en": "Pokémon Gym",
+  "es": "Gimnasio Pokémon",
+  "zh": "宝可梦道馆"
+ },
+ {
+  "id": 289,
+  "en": "Department Mall",
+  "es": "Centro Comercial",
+  "zh": "百货商场"
+ },
+ {
+  "id": 290,
+  "en": "Venus Perfume Factory.",
+  "es": "Fábrica de Perfumes Venus.",
+  "zh": "金星香水工厂。"
+ },
+ {
+  "id": 291,
+  "en": "It's an old map of a far away region.",
+  "es": "Es un antiguo mapa de una región lejana.",
+  "zh": "这是一张遥远地区的古老地图。"
+ },
+ {
+  "id": 292,
+  "en": "It's a poster of a Grass type Pokémon.",
+  "es": "Es un póster de un Pokémon de tipo Planta.",
+  "zh": "这是一张草属性宝可梦的海报。"
+ },
+ {
+  "id": 293,
+  "en": "It's a poster of a Fire type Pokémon.",
+  "es": "Es un póster de un Pokémon de tipo Fuego.",
+  "zh": "这是一张火属性宝可梦的海报。"
+ },
+ {
+  "id": 294,
+  "en": "It's a poster of a Water type Pokémon.",
+  "es": "Es un póster de un Pokémon de tipo Agua.",
+  "zh": "这是一张水属性宝可梦的海报。"
+ },
+ {
+  "id": 295,
+  "en": "It's a poster of a Pokeball.",
+  "es": "Es un póster de una Poké Ball.",
+  "zh": "这是一张精灵球的海报。"
+ },
+ {
+  "id": 296,
+  "en": "It's a really colorful poster.",
+  "es": "Es un póster muy vistoso.",
+  "zh": "这是一张色彩非常鲜艳的海报。"
+ },
+ {
+  "id": 297,
+  "en": "It's a big poster of a Pokémon using Lovely Kiss.",
+  "es": "Es un gran póster de un Pokémon usando Beso Amoroso.",
+  "zh": "这是一张宝可梦使用恶魔之吻的大海报。"
+ },
+ {
+  "id": 298,
+  "en": "It's a big poster of various electric Pokémon.",
+  "es": "Es un gran póster de varios Pokémon eléctricos.",
+  "zh": "这是一张多种电属性宝可梦的大海报。"
+ },
+ {
+  "id": 299,
+  "en": "It's a big poster of a flying Pokémon.",
+  "es": "Es un gran póster de un Pokémon volador.",
+  "zh": "这是一张飞行宝可梦的大海报。"
+ },
+ {
+  "id": 300,
+  "en": "It's a big, quite stylish, poster.",
+  "es": "Es un gran póster bastante estiloso.",
+  "zh": "这是一张相当有品位的大海报。"
+ },
+ {
+  "id": 301,
+  "en": "It's a big poster of a Pokémon in the sea.",
+  "es": "Es un gran póster de un Pokémon en el mar.",
+  "zh": "这是一张宝可梦在海里的大海报。"
+ },
+ {
+  "id": 302,
+  "en": "It's a big poster with the emblem of Star Region.",
+  "es": "Es un gran póster con el emblema de la Región Star.",
+  "zh": "这是一张印有星辰地区徽章的大海报。"
+ },
+ {
+  "id": 303,
+  "en": "It's a crystal figure of a flying Pokémon.",
+  "es": "Es una figura de cristal de un Pokémon volador.",
+  "zh": "这是一尊飞行宝可梦的水晶雕像。"
+ },
+ {
+  "id": 304,
+  "en": "Star League Champion",
+  "es": "Campeón de la Liga Star",
+  "zh": "星辰联盟冠军"
+ },
+ {
+  "id": 305,
+  "en": "Kanto League Champion",
+  "es": "Campeón de la Liga Kanto",
+  "zh": "关都联盟冠军"
+ },
+ {
+  "id": 306,
+  "en": "Johto League Champion",
+  "es": "Campeón de la Liga Johto",
+  "zh": "城都联盟冠军"
+ },
+ {
+  "id": 307,
+  "en": "Hoenn League Champion",
+  "es": "Campeón de la Liga Hoenn",
+  "zh": "丰缘联盟冠军"
+ },
+ {
+  "id": 308,
+  "en": "Sinnoh League Champion",
+  "es": "Campeón de la Liga Sinnoh",
+  "zh": "神奥联盟冠军"
+ },
+ {
+  "id": 309,
+  "en": "Unova League Champion",
+  "es": "Campeón de la Liga Teselia",
+  "zh": "合众联盟冠军"
+ },
+ {
+  "id": 310,
+  "en": "Kalos League Champion",
+  "es": "Campeón de la Liga Kalos",
+  "zh": "卡洛斯联盟冠军"
+ },
+ {
+  "id": 311,
+  "en": "Alola League Champion",
+  "es": "Campeón de la Liga Alola",
+  "zh": "阿罗拉联盟冠军"
+ },
+ {
+  "id": 312,
+  "en": "World Champion",
+  "es": "Campeón del Mundo",
+  "zh": "世界冠军"
+ },
+ {
+  "id": 313,
+  "en": "Pokémon Flygol",
+  "es": "Pokémon Flygol",
+  "zh": "宝可梦 FlyGol"
+ },
+ {
+  "id": 314,
+  "en": "Pokémon Race",
+  "es": "Pokémon Race",
+  "zh": "宝可梦赛跑场"
+ },
+ {
+  "id": 315,
+  "en": "Secret Shop",
+  "es": "Tienda Secreta",
+  "zh": "秘密商店"
+ },
+ {
+  "id": 316,
+  "en": "Ho-Oh#Legendary Pokémon",
+  "es": "Ho-Oh#Pokémon Legendario",
+  "zh": "凤王#传说宝可梦"
+ },
+ {
+  "id": 317,
+  "en": "Lugia#Legendary Pokémon",
+  "es": "Lugia#Pokémon Legendario",
+  "zh": "洛奇亚#传说宝可梦"
+ },
+ {
+  "id": 318,
+  "en": "GF: Bike Shop.@1F: Furniture Shop.@2F: Electronics Shop.@3F: Decoration Shop.@4F: Secret Shop.@5F: Pokémon Dolls.",
+  "es": "PB: Tienda de bicis.@P1: Tienda de muebles.@P2: Tienda electrónica.@P3: Tienda de adornos.@P4: Tienda secreta.@P5: Muñecos Pokémon.",
+  "zh": "1F：自行车店。@2F：家具店。@3F：电器店。@4F：装饰品店。@5F：秘密商店。@6F：宝可梦玩偶。"
+ },
+ {
+  "id": 319,
+  "en": "GF: Bike Shop.",
+  "es": "PB: Tienda de bicis.",
+  "zh": "1F：自行车店。"
+ },
+ {
+  "id": 320,
+  "en": "1F: Furniture Shop.",
+  "es": "P1: Tienda de muebles.",
+  "zh": "2F：家具店。"
+ },
+ {
+  "id": 321,
+  "en": "2F: Electronics Shop.",
+  "es": "P2: Tienda electrónica.",
+  "zh": "3F：电器店。"
+ },
+ {
+  "id": 322,
+  "en": "3F: Decoration Shop.",
+  "es": "P3: Tienda de adornos.",
+  "zh": "4F：装饰品店。"
+ },
+ {
+  "id": 323,
+  "en": "4F: Secret Shop.",
+  "es": "P4: Tienda secreta.",
+  "zh": "5F：秘密商店。"
+ },
+ {
+  "id": 324,
+  "en": "5F: Pokémon Dolls.",
+  "es": "P5: Muñecos Pokémon.",
+  "zh": "6F：宝可梦玩偶。"
+ },
+ {
+  "id": 325,
+  "en": "It's a cutting-edge stereo.",
+  "es": "Es un equipo de música de última generación.",
+  "zh": "这是一套最尖端的音响。"
+ },
+ {
+  "id": 326,
+  "en": "Fashion Salon",
+  "es": "Salón de moda",
+  "zh": "时装沙龙"
+ },
+ {
+  "id": 327,
+  "en": "2B",
+  "es": "S2",
+  "zh": "B2"
+ },
+ {
+  "id": 328,
+  "en": "3B",
+  "es": "S3",
+  "zh": "B3"
+ },
+ {
+  "id": 329,
+  "en": "4B",
+  "es": "S4",
+  "zh": "B4"
+ },
+ {
+  "id": 330,
+  "en": "5B",
+  "es": "S5",
+  "zh": "B5"
+ },
+ {
+  "id": 331,
+  "en": "GF",
+  "es": "B",
+  "zh": "1F"
+ },
+ {
+  "id": 332,
+  "en": "$par1$B",
+  "es": "S$par1$",
+  "zh": "B$par1$"
+ },
+ {
+  "id": 333,
+  "en": "Despair Survival Records.",
+  "es": "Registros de la Supervivencia Desesperada.",
+  "zh": "绝望生存记录。"
+ },
+ {
+  "id": 334,
+  "en": "Fear Survival Records.",
+  "es": "Registros de la Supervivencia del Miedo.",
+  "zh": "恐惧生存记录。"
+ },
+ {
+  "id": 335,
+  "en": "Anguish Survival Records.",
+  "es": "Registros de la Supervivencia Angustiosa.",
+  "zh": "苦闷生存记录。"
+ },
+ {
+  "id": 336,
+  "en": "Altar to Canopus City.@Sand and time will not erase your memory.",
+  "es": "Altar a Ciudad Canopo.@La arena y el tiempo no borrarán tu recuerdo.",
+  "zh": "通往船底市的祭坛。@黄沙与时间都不会抹去对你的记忆。"
+ },
+ {
+  "id": 337,
+  "en": "Spectacular skull of a dragon.",
+  "es": "Espectacular craneo de un dragón.",
+  "zh": "壮观的龙头骨。"
+ },
+ {
+  "id": 338,
+  "en": "It's a poster with the face of a Pikablue.",
+  "es": "Es un póster con la carita de un Pikablue.",
+  "zh": "这是一张印着皮卡蓝小脸的海报。"
+ },
+ {
+  "id": 339,
+  "en": "It is a shuriken, known weapon of ninjas.",
+  "es": "Es un shuriken, conocida arma de ninjas.",
+  "zh": "这是手里剑，忍者们的著名武器。"
+ },
+ {
+  "id": 340,
+  "en": "Prehistoric Pokémon#Tyrantrum",
+  "es": "Pokémon Prehistórico#Tyrantrum",
+  "zh": "太古宝可梦#怪颚龙"
+ },
+ {
+  "id": 341,
+  "en": "Mythical Pokémon#Shaymin",
+  "es": "Pokémon Singular#Shaymin",
+  "zh": "幻之宝可梦#谢米"
+ },
+ {
+  "id": 342,
+  "en": "Dragon Pokémon#Dragonite",
+  "es": "Pokémon Dragón#Dragonite",
+  "zh": "龙宝可梦#快龙"
+ },
+ {
+  "id": 343,
+  "en": "Legendary Pokémon#Lunala",
+  "es": "Pokémon Legendario#Lunala",
+  "zh": "传说宝可梦#露奈雅拉"
+ },
+ {
+  "id": 344,
+  "en": "Legendary Pokémon#Solgaleo",
+  "es": "Pokémon Legendario#Solgaleo",
+  "zh": "传说宝可梦#索尔迦雷欧"
+ },
+ {
+  "id": 345,
+  "en": "Oak Lab",
+  "es": "Laboratorio de Oak",
+  "zh": "大木研究所"
+ },
+ {
+  "id": 346,
+  "en": "Yesterday",
+  "es": "Ayer",
+  "zh": "昨天"
+ },
+ {
+  "id": 347,
+  "en": "Unknown place",
+  "es": "Lugar desconocido",
+  "zh": "未知的地方"
+ },
+ {
+  "id": 348,
+  "en": "A few months before",
+  "es": "Unos meses antes",
+  "zh": "几个月前"
+ },
+ {
+  "id": 349,
+  "en": "Alba Town",
+  "es": "Pueblo Alba",
+  "zh": "晨曦镇"
+ },
+ {
+  "id": 350,
+  "en": "Now",
+  "es": "Ahora",
+  "zh": "现在"
+ },
+ {
+  "id": 351,
+  "en": "Elite Four Tina",
+  "es": "Alto Mando Tina",
+  "zh": "四天王　蒂娜"
+ },
+ {
+  "id": 352,
+  "en": "Elite Four Liu",
+  "es": "Alto Mando Liu",
+  "zh": "四天王　刘"
+ },
+ {
+  "id": 353,
+  "en": "Elite Four Morfeo",
+  "es": "Alto Mando Morfeo",
+  "zh": "四天王　莫菲斯"
+ },
+ {
+  "id": 354,
+  "en": "Elite Four Vulcano",
+  "es": "Alto Mando Vulcano",
+  "zh": "四天王　武尔卡诺"
+ },
+ {
+  "id": 355,
+  "en": "Trio of elementary types",
+  "es": "Trío de tipos elemental",
+  "zh": "三大元素属性"
+ },
+ {
+  "id": 356,
+  "en": "Legendary Pokémon#Uxie",
+  "es": "Pokémon Legendario#Uxie",
+  "zh": "传说宝可梦#由克希"
+ },
+ {
+  "id": 357,
+  "en": "Legendary Pokémon#Mesprit",
+  "es": "Pokémon Legendario#Mesprit",
+  "zh": "传说宝可梦#艾姆利多"
+ },
+ {
+  "id": 358,
+  "en": "Legendary Pokémon#Azelf",
+  "es": "Pokémon Legendario#Azelf",
+  "zh": "传说宝可梦#亚克诺姆"
+ },
+ {
+  "id": 359,
+  "en": "Legendary Pokémon#Giratina",
+  "es": "Pokémon Legendario#Giratina",
+  "zh": "传说宝可梦#骑拉帝纳"
+ },
+ {
+  "id": 360,
+  "en": "Theater play \"The Little Primarina\"#(Canceled)",
+  "es": "Obra \"La Primarina\"#(Cancelada)",
+  "zh": "戏剧《西狮海壬》#（已取消）"
+ },
+ {
+  "id": 361,
+  "en": "Theater play \"The Pyroar King\"#(Canceled)",
+  "es": "Obra \"El rey Pyroar\"#(Cancelada)",
+  "zh": "戏剧《火炎狮王》#（已取消）"
+ },
+ {
+  "id": 362,
+  "en": "Theater play \"Baltoy Story\"#(Canceled)",
+  "es": "Obra \"Baltoy Story\"#(Cancelada)",
+  "zh": "戏剧《天秤偶总动员》#（已取消）"
+ },
+ {
+  "id": 363,
+  "en": "Theater play \"Three Little Tepig\"#(Canceled)",
+  "es": "Obra \"Los tres Tepig\"#(Cancelada)",
+  "zh": "戏剧《三只暖暖猪》#（已取消）"
+ },
+ {
+  "id": 364,
+  "en": "Zone One Records.",
+  "es": "Registros de la Zona Uno.",
+  "zh": "区域一记录。"
+ },
+ {
+  "id": 365,
+  "en": "Zone Three Records.",
+  "es": "Registros de la Zona Tres.",
+  "zh": "区域三记录。"
+ },
+ {
+  "id": 366,
+  "en": "Zone Six Records.",
+  "es": "Registros de la Zona Seis.",
+  "zh": "区域六记录。"
+ },
+ {
+  "id": 367,
+  "en": "Strato Tower Records.",
+  "es": "Registros en la Torre Estrato.",
+  "zh": "平流层塔记录。"
+ },
+ {
+  "id": 368,
+  "en": "Meso Tower Records.",
+  "es": "Registros en la Torre Meso.",
+  "zh": "中间层塔记录。"
+ },
+ {
+  "id": 369,
+  "en": "Exo Tower Records.",
+  "es": "Registros en la Torre Exo.",
+  "zh": "外逸层塔记录。"
+ },
+ {
+  "id": 370,
+  "en": "Number of events with a winning record greater than or equal to $par1$: $par2$",
+  "es": "Eventos con Récord de $par1$ victorias o más: $par2$",
+  "zh": "胜场数达到$par1$场以上的赛事数：$par2$"
+ },
+ {
+  "id": 371,
+  "en": "Floor 1: Free Tower@No special restrictions.",
+  "es": "Piso 1: Torre Libre@Sin restricciones especiales.",
+  "zh": "第1层：自由塔@没有特殊限制。"
+ },
+ {
+  "id": 372,
+  "en": "Floor $par1$: Tower $par2$@Only $par3$-type Pokémon can participate.",
+  "es": "Piso $par1$: Torre $par2$@Solo podrán participar Pokémon de tipo $par3$.",
+  "zh": "第$par1$层：$par2$塔@只有$par3$属性的宝可梦可以参加。"
+ },
+ {
+  "id": 373,
+  "en": "Floor 20: Star Tower@Only original Star Pokémon can participate.",
+  "es": "Piso 20: Torre Star@Solo podrán participar Pokémon originales de Star.",
+  "zh": "第20层：星辰塔@只有星辰地区原生的宝可梦可以参加。"
+ },
+ {
+  "id": 374,
+  "en": "Floor 21: Kanto Tower@Only original Kanto Pokémon can participate.",
+  "es": "Piso 21: Torre Kanto@Solo podrán participar Pokémon originales de Kanto.",
+  "zh": "第21层：关都塔@只有关都地区原生的宝可梦可以参加。"
+ },
+ {
+  "id": 375,
+  "en": "Floor 22: Johto Tower@Only original Johto Pokémon can participate.",
+  "es": "Piso 22: Torre Johto@Solo podrán participar Pokémon originales de Johto.",
+  "zh": "第22层：城都塔@只有城都地区原生的宝可梦可以参加。"
+ },
+ {
+  "id": 376,
+  "en": "Floor 23: Hoenn Tower@Only original Hoenn Pokémon can participate.",
+  "es": "Piso 23: Torre Hoenn@Solo podrán participar Pokémon originales de Hoenn.",
+  "zh": "第23层：丰缘塔@只有丰缘地区原生的宝可梦可以参加。"
+ },
+ {
+  "id": 377,
+  "en": "Floor 24: Sinnoh Tower@Only original Sinnoh Pokémon can participate.",
+  "es": "Piso 24: Torre Sinnoh@Solo podrán participar Pokémon originales de Sinnoh.",
+  "zh": "第24层：神奥塔@只有神奥地区原生的宝可梦可以参加。"
+ },
+ {
+  "id": 378,
+  "en": "Floor 25: Unova Tower@Only original Unova Pokémon can participate.",
+  "es": "Piso 25: Torre Teselia@Solo podrán participar Pokémon originales de Teselia.",
+  "zh": "第25层：合众塔@只有合众地区原生的宝可梦可以参加。"
+ },
+ {
+  "id": 379,
+  "en": "Floor 26: Kalos Tower@Only original Kalos Pokémon can participate.",
+  "es": "Piso 26: Torre Kalos@Solo podrán participar Pokémon originales de Kalos.",
+  "zh": "第26层：卡洛斯塔@只有卡洛斯地区原生的宝可梦可以参加。"
+ },
+ {
+  "id": 380,
+  "en": "Floor 27: Alola Tower@Only original Alola Pokémon can participate.",
+  "es": "Piso 27: Torre Alola@Solo podrán participar Pokémon originales de Alola.",
+  "zh": "第27层：阿罗拉塔@只有阿罗拉地区原生的宝可梦可以参加。"
+ },
+ {
+  "id": 381,
+  "en": "Floor 28: Galar Tower@Only original Galar Pokémon can participate.",
+  "es": "Piso 28: Torre Galar@Solo podrán participar Pokémon originales de Galar.",
+  "zh": "第28层：伽勒尔塔@只有伽勒尔地区原生的宝可梦可以参加。"
+ },
+ {
+  "id": 382,
+  "en": "Floor 29: Rookie Tower@Only Pokémon with a total of Stats less than 400 can participate.",
+  "es": "Piso 29: Torre Rookie@Solo podrán participar Pokémon con suma de Stats menor de 400.",
+  "zh": "第29层：新人塔@只有能力值总和低于400的宝可梦可以参加。"
+ },
+ {
+  "id": 383,
+  "en": "Floor 30: Medium Tower@Only Pokémon with a total of Stats between 400 and 500 can participate.",
+  "es": "Piso 30: Torre Media@Solo podrán participar Pokémon con suma de Stats entre 400 y 500.",
+  "zh": "第30层：中级塔@只有能力值总和在400到500之间的宝可梦可以参加。"
+ },
+ {
+  "id": 384,
+  "en": "Floor 31: Top Tower@Only Pokémon with a total of Stats greater than 500 can participate.",
+  "es": "Piso 31: Torre Top@Solo podrán participar Pokémon con suma de Stats mayor de 500.",
+  "zh": "第31层：顶级塔@只有能力值总和高于500的宝可梦可以参加。"
+ },
+ {
+  "id": 385,
+  "en": "Floor 32: Solitary Tower@Battles of a single Pokémon.",
+  "es": "Piso 32: Torre Solitaria@Combates de un solo Pokémon.",
+  "zh": "第32层：孤独塔@只进行单只宝可梦的对战。"
+ },
+ {
+  "id": 386,
+  "en": "Floor 33: Complete Tower@Battles of six Pokémon.",
+  "es": "Piso 33: Torre Completa@Combates de seis Pokémon.",
+  "zh": "第33层：完整塔@进行六只宝可梦的对战。"
+ },
+ {
+  "id": 387,
+  "en": "Floor 34: Tower Turns@Combates with a turn system.",
+  "es": "Piso 34: Torre Turnos@Combates con un sistema de turnos.",
+  "zh": "第34层：回合塔@采用回合制的对战。"
+ },
+ {
+  "id": 388,
+  "en": "Floor 35: Extreme Tower@Combates with extreme difficulty.",
+  "es": "Piso 35: Torre Extrema@Combates con dificultad extrema.",
+  "zh": "第35层：极限塔@难度极高的对战。"
+ },
+ {
+  "id": 389,
+  "en": "Floor 36: Double Tower@Battles with two against two.",
+  "es": "Piso 36: Torre Doble@Combates con dos contra dos.",
+  "zh": "第36层：双打塔@两对两的对战。"
+ },
+ {
+  "id": 390,
+  "en": "37th Floor: Triple Tower@Three-on-three combat.",
+  "es": "Piso 37: Torre Triple@Combates de tres contra tres.",
+  "zh": "第37层：三打塔@三对三的对战。"
+ },
+ {
+  "id": 391,
+  "en": "Floor 38: Blind Tower@Combates without panels or markers.",
+  "es": "Piso 38: Torre Ciega@Combates sin paneles ni marcadores.",
+  "zh": "第38层：盲塔@没有面板和标记的对战。"
+ },
+ {
+  "id": 392,
+  "en": "Floor 39: Reverse Tower@Fights with reversed effectivities.",
+  "es": "Piso 39: Torre Inversa@Combates con las efectividades invertidas.",
+  "zh": "第39层：逆转塔@属性相克效果颠倒的对战。"
+ },
+ {
+  "id": 393,
+  "en": "Floor 40: Penthouse",
+  "es": "Piso 40: Ático",
+  "zh": "第40层：顶层套房"
+ },
+ {
+  "id": 394,
+  "en": "$par1$ Records.",
+  "es": "Registros en la $par1$",
+  "zh": "$par1$记录。"
+ },
+ {
+  "id": 395,
+  "en": "Kalos Pokémon League",
+  "es": "Liga Pokémon Kalos",
+  "zh": "卡洛斯宝可梦联盟"
+ },
+ {
+  "id": 396,
+  "en": "Alola Pokémon League",
+  "es": "Liga Pokémon Alola",
+  "zh": "阿罗拉宝可梦联盟"
+ },
+ {
+  "id": 397,
+  "en": "Galar Pokémon League",
+  "es": "Liga Pokémon Galar",
+  "zh": "伽勒尔宝可梦联盟"
+ },
+ {
+  "id": 398,
+  "en": "Home.",
+  "es": "El hogar.",
+  "zh": "家。"
+ },
+ {
+  "id": 399,
+  "en": "Loyalty.",
+  "es": "Lealtad.",
+  "zh": "忠诚。"
+ },
+ {
+  "id": 400,
+  "en": "Domination.",
+  "es": "La dominación.",
+  "zh": "支配。"
+ },
+ {
+  "id": 401,
+  "en": "A being from another world.",
+  "es": "Un ser de otro mundo.",
+  "zh": "来自异世界的存在。"
+ },
+ {
+  "id": 402,
+  "en": "Rest.",
+  "es": "Descanso.",
+  "zh": "休息。"
+ },
+ {
+  "id": 403,
+  "en": "Communication.",
+  "es": "Comunicación.",
+  "zh": "沟通。"
+ },
+ {
+  "id": 404,
+  "en": "War and Force.",
+  "es": "Guerra y Fuerza.",
+  "zh": "战争与力量。"
+ },
+ {
+  "id": 405,
+  "en": "Goodness.",
+  "es": "Bondad.",
+  "zh": "善良。"
+ },
+ {
+  "id": 406,
+  "en": "Negotiation.",
+  "es": "Negociación.",
+  "zh": "谈判。"
+ },
+ {
+  "id": 407,
+  "en": "False promises.",
+  "es": "Falsas promesas.",
+  "zh": "虚假的诺言。"
+ },
+ {
+  "id": 408,
+  "en": "Prevention.",
+  "es": "Prevención.",
+  "zh": "预防。"
+ },
+ {
+  "id": 409,
+  "en": "Past Boss.",
+  "es": "Jefe Pasado.",
+  "zh": "过去的首领。"
+ },
+ {
+  "id": 410,
+  "en": "Magic.",
+  "es": "Magia.",
+  "zh": "魔法。"
+ },
+ {
+  "id": 411,
+  "en": "Here rests Sigilyph,#the guardian of the Island.",
+  "es": "Aquí reposa Sigilyph,#el guardián de la Isla.",
+  "zh": "此处长眠着象征鸟，#岛屿的守护者。"
+ },
+ {
+  "id": 412,
+  "en": "Cheated.",
+  "es": "Engaño.",
+  "zh": "欺骗。"
+ },
+ {
+  "id": 413,
+  "en": "Stress to change.",
+  "es": "Estrés Al Cambio.",
+  "zh": "对变化的压力。"
+ },
+ {
+  "id": 414,
+  "en": "Floods.",
+  "es": "Inundaciones.",
+  "zh": "洪水。"
+ },
+ {
+  "id": 415,
+  "en": "Chaos.",
+  "es": "Caos.",
+  "zh": "混沌。"
+ },
+ {
+  "id": 416,
+  "en": "Despair.",
+  "es": "Desesperación.",
+  "zh": "绝望。"
+ },
+ {
+  "id": 417,
+  "en": "Natural disasters#of the great war.",
+  "es": "Desastres naturales#de la gran guerra.",
+  "zh": "大战中的#天灾。"
+ },
+ {
+  "id": 418,
+  "en": "Hope.",
+  "es": "Esperanza.",
+  "zh": "希望。"
+ },
+ {
+  "id": 419,
+  "en": "Advantage.",
+  "es": "Ventaja.",
+  "zh": "优势。"
+ },
+ {
+  "id": 420,
+  "en": "Both sides.",
+  "es": "Dos bandos.",
+  "zh": "双方。"
+ },
+ {
+  "id": 421,
+  "en": "Union and love.",
+  "es": "Union Y Amor.",
+  "zh": "团结与爱。"
+ },
+ {
+  "id": 422,
+  "en": "Smoothness.",
+  "es": "Suavidad.",
+  "zh": "柔和。"
+ },
+ {
+  "id": 423,
+  "en": "Commitment.",
+  "es": "Compromiso.",
+  "zh": "承诺。"
+ },
+ {
+  "id": 424,
+  "en": "Secrets.",
+  "es": "Secretos.",
+  "zh": "秘密。"
+ },
+ {
+  "id": 425,
+  "en": "Endless fight.",
+  "es": "Lucha sin fin.",
+  "zh": "无尽的战斗。"
+ },
+ {
+  "id": 426,
+  "en": "Treason.",
+  "es": "Traición.",
+  "zh": "背叛。"
+ },
+ {
+  "id": 427,
+  "en": "Mind and soul.",
+  "es": "Mente y alma.",
+  "zh": "心灵与灵魂。"
+ },
+ {
+  "id": 428,
+  "en": "For safety.",
+  "es": "Por la seguridad.",
+  "zh": "为了安全。"
+ },
+ {
+  "id": 429,
+  "en": "Art.",
+  "es": "Arte.",
+  "zh": "艺术。"
+ },
+ {
+  "id": 430,
+  "en": "Fire.",
+  "es": "Fuego.",
+  "zh": "火。"
+ },
+ {
+  "id": 431,
+  "en": "Earth.",
+  "es": "Tierra.",
+  "zh": "大地。"
+ },
+ {
+  "id": 432,
+  "en": "Water.",
+  "es": "Agua.",
+  "zh": "水。"
+ },
+ {
+  "id": 433,
+  "en": "Air.",
+  "es": "Aire.",
+  "zh": "空气。"
+ },
+ {
+  "id": 434,
+  "en": "Trap.",
+  "es": "Trampa.",
+  "zh": "陷阱。"
+ },
+ {
+  "id": 435,
+  "en": "Unexpected help.",
+  "es": "Ayuda inesperada.",
+  "zh": "意外的援助。"
+ },
+ {
+  "id": 436,
+  "en": "The power of truth.",
+  "es": "El poder de la verdad.",
+  "zh": "真相的力量。"
+ },
+ {
+  "id": 437,
+  "en": "The ambush.",
+  "es": "La emboscada.",
+  "zh": "埋伏。"
+ },
+ {
+  "id": 438,
+  "en": "Pity.",
+  "es": "Lastima.",
+  "zh": "怜悯。"
+ },
+ {
+  "id": 439,
+  "en": "Fear and trepidation.",
+  "es": "Miedo y temor.",
+  "zh": "恐惧与战栗。"
+ },
+ {
+  "id": 440,
+  "en": "End of an Era.",
+  "es": "Fin de una Era.",
+  "zh": "一个时代的终结。"
+ },
+ {
+  "id": 441,
+  "en": "Justice.",
+  "es": "Justicia.",
+  "zh": "正义。"
+ },
+ {
+  "id": 442,
+  "en": "To summon Regieleki, a sacred spell has to be recited.@'I invoke you, endless electric power'.",
+  "es": "Para convocar a Regieleki, hay que recitar un conjuro sagrado.@'Yo te invoco, energía eléctrica sin fin'.",
+  "zh": "召唤雷吉艾勒奇，需要吟诵神圣的咒语。@‘吾召唤你，无尽的电力’。"
+ },
+ {
+  "id": 443,
+  "en": "To summon Regidrago, a sacred spell has to be recited.@'I invoke you, ancient dragon head'.",
+  "es": "Para convocar a Regidrago, hay que recitar un conjuro sagrado.@'Yo te invoco, cabeza de dragón ancestral'.",
+  "zh": "召唤雷吉铎拉戈，需要吟诵神圣的咒语。@‘吾召唤你，远古的龙首’。"
+ },
+ {
+  "id": 444,
+  "en": "There is an obstacle that prevents access#through the hole.",
+  "es": "Hay un obstáculo que impide acceder por#el hueco.",
+  "zh": "有障碍物挡住了#通过洞口的路。"
+ },
+ {
+  "id": 445,
+  "en": "Shinyficador",
+  "es": "Shinyficador",
+  "zh": "闪光化装置"
+ },
+ {
+  "id": 446,
+  "en": "PC Portable",
+  "es": "PC Portable",
+  "zh": "便携电脑"
+ },
+ {
+  "id": 447,
+  "en": "Generar Pokémon",
+  "es": "Generar Pokémon",
+  "zh": "Generar Pokémon"
+ },
+ {
+  "id": 448,
+  "en": "\"Truco",
+  "es": "\"Truco",
+  "zh": "\"Truco"
+ },
+ {
+  "id": 449,
+  "en": "\"Dinero\"",
+  "es": "\"Dinero\"",
+  "zh": "\"Dinero\""
+ },
+ {
+  "id": 450,
+  "en": "uieres",
+  "es": "uieres",
+  "zh": "uieres"
+ },
+ {
+  "id": 451,
+  "en": "cheat",
+  "es": "cheat",
+  "zh": "cheat"
+ },
+ {
+  "id": 452,
+  "en": "Since time immemorial, our reality has been defined by invisible barriers that separate us from unknown dimensions. However, on rare occasions, these barriers seem to weaken, allowing the entry of entities alien to our existence. We have named these life forms Ultraents, organisms whose biological structures defy the known laws of evolution. Their arrival in our world is linked to spatial anomalies detected at specific points on the planet, with a pattern that is still incomprehensible to us.",
+  "es": "Desde tiempos inmemoriales, nuestra realidad ha estado delimitada por barreras invisibles que nos separan de dimensiones desconocidas. Sin embargo, en ocasiones excepcionales, estas barreras parecen debilitarse, permitiendo la entrada de entidades ajenas a nuestra existencia. Hemos denominado a estas formas de vida Ultraentes, organismos cuyas estructuras biológicas desafían las leyes conocidas de la evolución. Su llegada a nuestro mundo está vinculada a anomalías espaciales detectadas en puntos específicos del planeta, con un patrón que aún nos resulta incomprensible.",
+  "zh": "自古以来，我们的现实就被无形的屏障所分隔，把我们与未知的维度隔开。然而在极少数的时候，这些屏障似乎会变弱，让与我们的存在格格不入的实体得以进入。我们将这些生命形态命名为究极异兽，它们的生物结构违背已知的进化法则。它们来到我们的世界，与在地球特定地点探测到的空间异常有关，其规律至今我们仍无法理解。"
+ },
+ {
+  "id": 453,
+  "en": "Our initial studies have revealed that the Ultraents exhibit a physiology that does not correspond to any terrestrial ecosystem. Their adaptability seems to transcend logic, forcing us to question the limits of biological knowledge. Research continues. If we can understand the principle of their interdimensional travel, the Aether Foundation could be on the verge of an unprecedented breakthrough. Is it possible to tame the unknown, or are we playing with forces beyond our understanding?",
+  "es": "Nuestros estudios iniciales han revelado que los Ultraentes presentan una fisiología que no se corresponde con ningún ecosistema terrestre. Su capacidad de adaptación parece trascender la lógica, lo que nos obliga a cuestionar los límites del conocimiento biológico. La investigación continúa. Si logramos comprender el principio de sus viajes interdimensionales, la Fundación Aether podría estar a las puertas de un avance sin precedentes. ¿Es posible domesticar lo desconocido, o estamos jugando con fuerzas más allá de nuestra comprensión?",
+  "zh": "我们的初步研究表明，究极异兽的生理机能与任何地球生态系统都不相符。它们的适应能力似乎超越了逻辑，迫使我们质疑生物学知识的极限。研究仍在继续。如果我们能弄懂它们跨维度旅行的原理，以太基金会或许就站在前所未有的突破的门前。驯服未知真的可能吗？还是说，我们正在玩弄超出我们理解的力量？"
+ },
+ {
+  "id": 454,
+  "en": "Extradimensional energy analysis in progress… Fluctuations detected at the Ultra Dimensional Threshold. Variable intensity. Breach risk: low.",
+  "es": "Análisis de energía extradimensional en curso… Fluctuaciones detectadas en el umbral de la Ultra Dimensión. Intensidad variable. Riesgo de brecha: bajo.",
+  "zh": "正在进行异次元能量分析……在究极空间门槛处探测到波动。强度不定。裂缝风险：低。"
+ },
+ {
+  "id": 455,
+  "en": "Report 742-B: Interactions between Ultra Beast neuropsychic waves and humans remain unexplained. Direct influence or mere coincidence?",
+  "es": "Informe 742-B: Interacciones entre las ondas neuropsíquicas de los Ultraentes y los seres humanos siguen sin explicación. ¿Influencia directa o simple coincidencia?",
+  "zh": "报告742-B：究极异兽的神经精神波与人类之间的相互作用仍无法解释。是直接影响，还是单纯的巧合？"
+ },
+ {
+  "id": 456,
+  "en": "Molecular scanning system active. Biological composition of specimen UB Burst… Result: Incompatibility with any known Earthly life form.",
+  "es": "Sistema de escaneo molecular activo. Composición biológica del espécimen UE-Explosivo… Resultado: incompatibilidad con cualquier forma de vida terrestre conocida.",
+  "zh": "分子扫描系统已启动。样本UB 爆炸的生物构成……结果：与任何已知的地球生命形态都不相容。"
+ },
+ {
+  "id": 457,
+  "en": "Restricted access. Data regarding the Ultra Threshold Project is protected by Level 5 credentials.",
+  "es": "Acceso restringido. Datos sobre el Proyecto Ultraumbral están protegidos por credenciales de nivel 5.",
+  "zh": "限制访问。关于究极门槛计划的数据受5级权限保护。"
+ },
+ {
+  "id": 458,
+  "en": "Warning: Anomalous activity detected in the interdimensional energy core. Extreme vigilance advised.",
+  "es": "Advertencia: Actividad anómala detectada en el núcleo de energía interdimensional. Se recomienda vigilancia extrema.",
+  "zh": "警告：在跨维度能量核心中探测到异常活动。建议保持高度警惕。"
+ },
+ {
+  "id": 459,
+  "en": "Magnolia's Pokémon Lab",
+  "es": "Laboratorio de la Profesora Magnolia",
+  "zh": "木兰博士的宝可梦研究所"
+ }
+]
