@@ -1,0 +1,4016 @@
+[
+ {
+  "id": 1,
+  "en": "First question",
+  "es": "Primera pregunta",
+  "zh": "第一题"
+ },
+ {
+  "id": 2,
+  "en": "Second question",
+  "es": "Segunda pregunta",
+  "zh": "第二题"
+ },
+ {
+  "id": 3,
+  "en": "Third question",
+  "es": "Tercera pregunta",
+  "zh": "第三题"
+ },
+ {
+  "id": 4,
+  "en": "Forth question",
+  "es": "Cuarta pregunta",
+  "zh": "第四题"
+ },
+ {
+  "id": 5,
+  "en": "Fifth question",
+  "es": "Quinta pregunta",
+  "zh": "第五题"
+ },
+ {
+  "id": 6,
+  "en": "Sixth question",
+  "es": "Sexta pregunta",
+  "zh": "第六题"
+ },
+ {
+  "id": 7,
+  "en": "Seventh question",
+  "es": "Séptima pregunta",
+  "zh": "第七题"
+ },
+ {
+  "id": 8,
+  "en": "Eight question",
+  "es": "Octava pregunta",
+  "zh": "第八题"
+ },
+ {
+  "id": 9,
+  "en": "Ninth question",
+  "es": "Novena pregunta",
+  "zh": "第九题"
+ },
+ {
+  "id": 10,
+  "en": "Tenth question",
+  "es": "Décima pregunta",
+  "zh": "第十题"
+ },
+ {
+  "id": 11,
+  "en": "Eleventh question",
+  "es": "Undécima pregunta",
+  "zh": "第十一题"
+ },
+ {
+  "id": 12,
+  "en": "Twelfth question",
+  "es": "Duodécima pregunta",
+  "zh": "第十二题"
+ },
+ {
+  "id": 13,
+  "en": "Thirteenth question",
+  "es": "Decimotercera pregunta",
+  "zh": "第十三题"
+ },
+ {
+  "id": 14,
+  "en": "Fourteenth question",
+  "es": "Decimocuarta pregunta",
+  "zh": "第十四题"
+ },
+ {
+  "id": 15,
+  "en": "Fifteenth question",
+  "es": "Decimoquinta pregunta",
+  "zh": "第十五题"
+ },
+ {
+  "id": 16,
+  "en": "Sixteenth question",
+  "es": "Decimosexta pregunta",
+  "zh": "第十六题"
+ },
+ {
+  "id": 17,
+  "en": "Seventeenth question",
+  "es": "Decimoséptima pregunta",
+  "zh": "第十七题"
+ },
+ {
+  "id": 18,
+  "en": "Eighteenth question",
+  "es": "Decimoctava pregunta",
+  "zh": "第十八题"
+ },
+ {
+  "id": 19,
+  "en": "Nineteenth question",
+  "es": "Decimonovena pregunta",
+  "zh": "第十九题"
+ },
+ {
+  "id": 20,
+  "en": "Twentieth question",
+  "es": "Vigésima pregunta",
+  "zh": "第二十题"
+ },
+ {
+  "id": 21,
+  "en": "The exam has come to it's end!",
+  "es": "¡El examen ha llegado a su fin!",
+  "zh": "考试结束了！"
+ },
+ {
+  "id": 22,
+  "en": "Where do trainers go in order to heal their Pokémon for free?",
+  "es": "¿Dónde van los entrenadores a curar sus Pokémon de forma gratuita?",
+  "zh": "训练家去哪里可以免费治疗自己的宝可梦？"
+ },
+ {
+  "id": 23,
+  "en": "To a Pokémon center",
+  "es": "A un Centro Pokémon",
+  "zh": "去宝可梦中心"
+ },
+ {
+  "id": 24,
+  "en": "To a Pokémart",
+  "es": "A una Tienda Pokémon",
+  "zh": "去友好商店"
+ },
+ {
+  "id": 25,
+  "en": "To the Veterinarian",
+  "es": "A un veterinario",
+  "zh": "去兽医那里"
+ },
+ {
+  "id": 26,
+  "en": "To a Hospital",
+  "es": "A un hospital",
+  "zh": "去医院"
+ },
+ {
+  "id": 27,
+  "en": "Which  of the next items can be used to catch wild Pokémon?",
+  "es": "De los siguientes objetos, selecciona con cuál se pueden atrapar Pokémon:",
+  "zh": "下列道具中，用哪个可以捕捉野生宝可梦？"
+ },
+ {
+  "id": 28,
+  "en": "Super Ball",
+  "es": "Super Ball",
+  "zh": "超级球"
+ },
+ {
+  "id": 29,
+  "en": "Ultra Ball",
+  "es": "Ultra Ball",
+  "zh": "高级球"
+ },
+ {
+  "id": 30,
+  "en": "Timer Ball",
+  "es": "Turno Ball",
+  "zh": "计时球"
+ },
+ {
+  "id": 31,
+  "en": "All of the above",
+  "es": "Todas correctas",
+  "zh": "以上皆是"
+ },
+ {
+  "id": 32,
+  "en": "Snorlax's Pokémon type is?",
+  "es": "¿Qué tipo de Pokémon es Snorlax?",
+  "zh": "卡比兽是什么属性的宝可梦？"
+ },
+ {
+  "id": 33,
+  "en": "Dark",
+  "es": "Siniestro",
+  "zh": "恶"
+ },
+ {
+  "id": 34,
+  "en": "Normal",
+  "es": "Normal",
+  "zh": "一般"
+ },
+ {
+  "id": 35,
+  "en": "Fighting",
+  "es": "Lucha",
+  "zh": "格斗"
+ },
+ {
+  "id": 36,
+  "en": "Water",
+  "es": "Agua",
+  "zh": "水"
+ },
+ {
+  "id": 37,
+  "en": "What is needed to enter the Pokémon league?",
+  "es": "¿Qué se debe hacer para participar en la Liga Pokémon?",
+  "zh": "参加宝可梦联盟需要做什么？"
+ },
+ {
+  "id": 38,
+  "en": "Be very powerful",
+  "es": "Ser muy poderoso",
+  "zh": "非常强大"
+ },
+ {
+  "id": 39,
+  "en": "Defeat the Elite four",
+  "es": "Vencer al Alto Mando",
+  "zh": "击败四天王"
+ },
+ {
+  "id": 40,
+  "en": "Earn 8 gym medals",
+  "es": "Ganar ocho medallas",
+  "zh": "获得8枚道馆徽章"
+ },
+ {
+  "id": 41,
+  "en": "Bribe the guard",
+  "es": "Sobornar al guardia",
+  "zh": "贿赂守卫"
+ },
+ {
+  "id": 42,
+  "en": "Eevee can evolve to?",
+  "es": "¿A qué Pokémon evoluciona Eevee?",
+  "zh": "伊布可以进化成哪只宝可梦？"
+ },
+ {
+  "id": 43,
+  "en": "Vaporeon",
+  "es": "Vaporeon",
+  "zh": "水伊布"
+ },
+ {
+  "id": 44,
+  "en": "Jolteon",
+  "es": "Jolteon",
+  "zh": "雷伊布"
+ },
+ {
+  "id": 45,
+  "en": "Flareon",
+  "es": "Flareon",
+  "zh": "火伊布"
+ },
+ {
+  "id": 46,
+  "en": "All of the above",
+  "es": "Todos correctos",
+  "zh": "以上皆是"
+ },
+ {
+  "id": 47,
+  "en": "Against which Pokémon type will a fire attack be effective?",
+  "es": "¿Contra qué tipo es efectivo un ataque de tipo Fuego?",
+  "zh": "火属性招式对哪种属性的宝可梦效果绝佳？"
+ },
+ {
+  "id": 48,
+  "en": "Water",
+  "es": "Agua",
+  "zh": "水"
+ },
+ {
+  "id": 49,
+  "en": "Grass",
+  "es": "Planta",
+  "zh": "草"
+ },
+ {
+  "id": 50,
+  "en": "Fire",
+  "es": "Fuego",
+  "zh": "火"
+ },
+ {
+  "id": 51,
+  "en": "None of the above",
+  "es": "Ninguno de los anteriores",
+  "zh": "以上都不是"
+ },
+ {
+  "id": 52,
+  "en": "How many times can a Meganium evolve?",
+  "es": "¿Cuántas veces puede evolucionar Meganium?",
+  "zh": "大竺葵还能进化几次？"
+ },
+ {
+  "id": 53,
+  "en": "It does not evolve",
+  "es": "No evoluciona",
+  "zh": "不会进化"
+ },
+ {
+  "id": 54,
+  "en": "One time",
+  "es": "1 vez",
+  "zh": "1次"
+ },
+ {
+  "id": 55,
+  "en": "Two times",
+  "es": "2 veces",
+  "zh": "2次"
+ },
+ {
+  "id": 56,
+  "en": "Three times",
+  "es": "3 veces",
+  "zh": "3次"
+ },
+ {
+  "id": 57,
+  "en": "Which Pokémon type is the Scratch move?",
+  "es": "¿De qué tipo es el ataque Arañazo?",
+  "zh": "抓这个招式是什么属性的？"
+ },
+ {
+  "id": 58,
+  "en": "Grass",
+  "es": "Planta",
+  "zh": "草"
+ },
+ {
+  "id": 59,
+  "en": "Bug",
+  "es": "Bicho",
+  "zh": "虫"
+ },
+ {
+  "id": 60,
+  "en": "Normal",
+  "es": "Normal",
+  "zh": "一般"
+ },
+ {
+  "id": 61,
+  "en": "Steel",
+  "es": "Acero",
+  "zh": "钢"
+ },
+ {
+  "id": 62,
+  "en": "In which location in the Star region does the Pokémon league take place?",
+  "es": "¿En qué lugar de la Región Star se celebra la Liga Pokémon?",
+  "zh": "星辰地区的宝可梦联盟在哪里举行？"
+ },
+ {
+  "id": 63,
+  "en": "Indigo Plateau",
+  "es": "Meseta Añil",
+  "zh": "石英高原"
+ },
+ {
+  "id": 64,
+  "en": "Antares City",
+  "es": "Ciudad Antares",
+  "zh": "心宿市"
+ },
+ {
+  "id": 65,
+  "en": "Ever Grande City",
+  "es": "Ciudad Colosalia",
+  "zh": "彩幽市"
+ },
+ {
+  "id": 66,
+  "en": "Sun Island",
+  "es": "Isla Sol",
+  "zh": "太阳岛"
+ },
+ {
+  "id": 67,
+  "en": "What is the maximum amount of Pokémon that can be carried by a trainer?",
+  "es": "¿Cuántos Pokémon como máximo puede llevar un entrenador?",
+  "zh": "一名训练家最多能带几只宝可梦？"
+ },
+ {
+  "id": 68,
+  "en": "A trainer cannot have a Pokémon team",
+  "es": "Un entrenador no puede llevar un equipo de Pokémon",
+  "zh": "训练家不能带宝可梦队伍"
+ },
+ {
+  "id": 69,
+  "en": "Three Pokémon",
+  "es": "Tres Pokémon",
+  "zh": "三只宝可梦"
+ },
+ {
+  "id": 70,
+  "en": "Six Pokémon",
+  "es": "Seis Pokémon",
+  "zh": "六只宝可梦"
+ },
+ {
+  "id": 71,
+  "en": "There is no limit",
+  "es": "No existe límite",
+  "zh": "没有上限"
+ },
+ {
+  "id": 72,
+  "en": "Which is the maximum level that can be reached by a Pokémon?",
+  "es": "¿Cuál es el nivel máximo que puede alcanzar un Pokémon?",
+  "zh": "宝可梦最高能升到几级？"
+ },
+ {
+  "id": 73,
+  "en": "Level 99",
+  "es": "El nivel 99",
+  "zh": "99级"
+ },
+ {
+  "id": 74,
+  "en": "Level 100",
+  "es": "El nivel 100",
+  "zh": "100级"
+ },
+ {
+  "id": 75,
+  "en": "Level 120",
+  "es": "El nivel 120",
+  "zh": "120级"
+ },
+ {
+  "id": 76,
+  "en": "There is no limit",
+  "es": "No existe nivel máximo",
+  "zh": "没有等级上限"
+ },
+ {
+  "id": 77,
+  "en": "Why does a trainer use repels?",
+  "es": "¿Para qué se utiliza el Repelente?",
+  "zh": "训练家为什么要使用除虫喷雾？"
+ },
+ {
+  "id": 78,
+  "en": "To escape from wild Pokémon",
+  "es": "Para escapar de los Pokémon salvajes",
+  "zh": "为了从野生宝可梦面前逃走"
+ },
+ {
+  "id": 79,
+  "en": "To prevent other trainers from appearing",
+  "es": "Para evitar que aparezcan otros entrenadores",
+  "zh": "为了不让其他训练家出现"
+ },
+ {
+  "id": 80,
+  "en": "To prevent wild Pokémon from appearing",
+  "es": "Para evitar que aparezcan los Pokémon salvajes",
+  "zh": "为了不让野生宝可梦出现"
+ },
+ {
+  "id": 81,
+  "en": "To grease the Poké Ball",
+  "es": "Para engrasar las Pokéball",
+  "zh": "为了给精灵球上油"
+ },
+ {
+  "id": 82,
+  "en": "Which of the next Pokémon is considered Legendary?",
+  "es": "¿Cuál de los siguientes Pokémon se considera Legendario?",
+  "zh": "下列宝可梦中，哪只被视为传说的宝可梦？"
+ },
+ {
+  "id": 83,
+  "en": "Ninetales",
+  "es": "Ninetales",
+  "zh": "九尾"
+ },
+ {
+  "id": 84,
+  "en": "Lucario",
+  "es": "Lucario",
+  "zh": "路卡利欧"
+ },
+ {
+  "id": 85,
+  "en": "Magikarp",
+  "es": "Magikarp",
+  "zh": "鲤鱼王"
+ },
+ {
+  "id": 86,
+  "en": "Articuno",
+  "es": "Articuno",
+  "zh": "急冻鸟"
+ },
+ {
+  "id": 87,
+  "en": "What level is a Pokémon that has just hatched from an egg?",
+  "es": "¿En qué nivel aparece un Pokémon tras salir de un Huevo?",
+  "zh": "刚从蛋里孵化出来的宝可梦是几级？"
+ },
+ {
+  "id": 88,
+  "en": "Level 0",
+  "es": "En el nivel 0",
+  "zh": "0级"
+ },
+ {
+  "id": 89,
+  "en": "Level 1",
+  "es": "En el nivel 1",
+  "zh": "1级"
+ },
+ {
+  "id": 90,
+  "en": "Level 2",
+  "es": "En el nivel 2",
+  "zh": "2级"
+ },
+ {
+  "id": 91,
+  "en": "Level 5",
+  "es": "En el nivel 5",
+  "zh": "5级"
+ },
+ {
+  "id": 92,
+  "en": "Which Color is a Pikachu?",
+  "es": "¿De qué color es un Pikachu?",
+  "zh": "皮卡丘是什么颜色的？"
+ },
+ {
+  "id": 93,
+  "en": "Blue",
+  "es": "Azul",
+  "zh": "蓝色"
+ },
+ {
+  "id": 94,
+  "en": "Yellow",
+  "es": "Amarillo",
+  "zh": "黄色"
+ },
+ {
+  "id": 95,
+  "en": "Red",
+  "es": "Rojo",
+  "zh": "红色"
+ },
+ {
+  "id": 96,
+  "en": "Phosphorescent green",
+  "es": "Verde fosforito",
+  "zh": "荧光绿"
+ },
+ {
+  "id": 97,
+  "en": "Choose what trainers CANNOT do:",
+  "es": "Señala qué NO puede hacer un entrenador:",
+  "zh": "请选出训练家不能做的事："
+ },
+ {
+  "id": 98,
+  "en": "Reject a Pokémon battle",
+  "es": "Rechazar un combate",
+  "zh": "拒绝宝可梦对战"
+ },
+ {
+  "id": 99,
+  "en": "Carry a team of seven Pokémon",
+  "es": "Llevar siete Pokémon",
+  "zh": "带七只宝可梦的队伍"
+ },
+ {
+  "id": 100,
+  "en": "Catch a wild Pokémon by force",
+  "es": "Capturar un Pokémon Salvaje por la fuerza",
+  "zh": "强行捕捉野生宝可梦"
+ },
+ {
+  "id": 101,
+  "en": "All of the above",
+  "es": "Todas están prohibidas",
+  "zh": "以上皆是"
+ },
+ {
+  "id": 102,
+  "en": "Which of the next attacks can be learned by using a Hidden Machine (HM)?",
+  "es": "¿Qué ataque puede ser aprendido por medio de una Máquina Oculta (MO)?,",
+  "zh": "下列招式中，哪个可以通过秘传学习器（HM）学会？"
+ },
+ {
+  "id": 103,
+  "en": "Surf",
+  "es": "Surf",
+  "zh": "冲浪"
+ },
+ {
+  "id": 104,
+  "en": "Flamethrower",
+  "es": "Lanzallamas",
+  "zh": "喷射火焰"
+ },
+ {
+  "id": 105,
+  "en": "Thunder",
+  "es": "Trueno",
+  "zh": "打雷"
+ },
+ {
+  "id": 106,
+  "en": "Splash",
+  "es": "Salpicadura",
+  "zh": "跃起"
+ },
+ {
+  "id": 107,
+  "en": "Which is the maximum age allowed for a Pokémon trainer?",
+  "es": "¿Cuál es la edad máxima permitida para entrenar Pokémon?",
+  "zh": "宝可梦训练家的年龄上限是多少？"
+ },
+ {
+  "id": 108,
+  "en": "Fourteen years",
+  "es": "Catorce años",
+  "zh": "十四岁"
+ },
+ {
+  "id": 109,
+  "en": "Twenty years",
+  "es": "Veinte años",
+  "zh": "二十岁"
+ },
+ {
+  "id": 110,
+  "en": "Eighty years",
+  "es": "Ochenta años",
+  "zh": "八十岁"
+ },
+ {
+  "id": 111,
+  "en": "There is no limit",
+  "es": "No existe límite de edad",
+  "zh": "没有年龄限制"
+ },
+ {
+  "id": 112,
+  "en": "Which of the next Pokémon is NOT a water-type one?",
+  "es": "¿Qué Pokémon NO es de tipo Agua?",
+  "zh": "下列宝可梦中，哪只不是水属性？"
+ },
+ {
+  "id": 113,
+  "en": "Poliwhirl",
+  "es": "Poliwhirl",
+  "zh": "蚊香君"
+ },
+ {
+  "id": 114,
+  "en": "Golduck",
+  "es": "Golduck",
+  "zh": "哥达鸭"
+ },
+ {
+  "id": 115,
+  "en": "Grotle",
+  "es": "Grotle",
+  "zh": "树林龟"
+ },
+ {
+  "id": 116,
+  "en": "Prinplup",
+  "es": "Prinplup",
+  "zh": "波皇子"
+ },
+ {
+  "id": 117,
+  "en": "In which island of the Solar Archipelago lies the Pokémon College?",
+  "es": "¿En qué Isla del Archipiélago Solar se encuentra la Universidad Pokémon?",
+  "zh": "宝可梦大学位于太阳群岛的哪座岛上？"
+ },
+ {
+  "id": 118,
+  "en": "Earth Island",
+  "es": "Isla Terra",
+  "zh": "地球岛"
+ },
+ {
+  "id": 119,
+  "en": "Mars Island",
+  "es": "Isla Marte",
+  "zh": "火星岛"
+ },
+ {
+  "id": 120,
+  "en": "Jupiter Island",
+  "es": "Isla Júpiter",
+  "zh": "木星岛"
+ },
+ {
+  "id": 121,
+  "en": "Halley Island",
+  "es": "Isla Halley",
+  "zh": "哈雷岛"
+ },
+ {
+  "id": 122,
+  "en": "Which Pokémon type is Nidorino?",
+  "es": "¿Qué tipo de Pokémon es Nidorino?",
+  "zh": "尼多力诺是什么属性的宝可梦？"
+ },
+ {
+  "id": 123,
+  "en": "Ground",
+  "es": "Tierra",
+  "zh": "地面"
+ },
+ {
+  "id": 124,
+  "en": "Poison",
+  "es": "Veneno",
+  "zh": "毒"
+ },
+ {
+  "id": 125,
+  "en": "Poison and Ground",
+  "es": "Veneno y Tierra",
+  "zh": "毒和地面"
+ },
+ {
+  "id": 126,
+  "en": "Non of the above",
+  "es": "Ninguno de los anteriores",
+  "zh": "以上都不是"
+ },
+ {
+  "id": 127,
+  "en": "How many items can a trainer use during a battle?",
+  "es": "¿Cuántos objetos puede usar un entrenador durante un combate?",
+  "zh": "训练家在一场对战中可以使用多少个道具？"
+ },
+ {
+  "id": 128,
+  "en": "The use of items is forbidden during battles",
+  "es": "Durante un combate está prohibido el uso de objetos",
+  "zh": "对战中禁止使用道具"
+ },
+ {
+  "id": 129,
+  "en": "The allowed amount is a maximum of 6",
+  "es": "6 objetos como máximo",
+  "zh": "最多6个"
+ },
+ {
+  "id": 130,
+  "en": "The allowed amount is a maximum of 10",
+  "es": "10 objetos como máximo",
+  "zh": "最多10个"
+ },
+ {
+  "id": 131,
+  "en": "The trainer can use as many items as he needs",
+  "es": "Todos los objetos que necesite",
+  "zh": "需要多少就能用多少"
+ },
+ {
+  "id": 132,
+  "en": "In a battle between a Fire Pokémon and a Rock Pokémon, who has the advantage?",
+  "es": "En un combate Fuego Vs Roca, ¿quién tiene más posibilidades de ganar?",
+  "zh": "在火属性宝可梦和岩石属性宝可梦的对战中，谁更占优势？"
+ },
+ {
+  "id": 133,
+  "en": "The Fire Pokémon",
+  "es": "El Pokémon de Fuego",
+  "zh": "火属性宝可梦"
+ },
+ {
+  "id": 134,
+  "en": "The Rock Pokémon",
+  "es": "El Pokémon de Roca",
+  "zh": "岩石属性宝可梦"
+ },
+ {
+  "id": 135,
+  "en": "Non of them has any advantage",
+  "es": "Las mismas posibilidades",
+  "zh": "双方都没有优势"
+ },
+ {
+  "id": 136,
+  "en": "The Rock-type does not exist",
+  "es": "No existe ningún tipo de Pokémon llamado Roca",
+  "zh": "不存在岩石属性"
+ },
+ {
+  "id": 137,
+  "en": "How many Pokémon can be caught by a single Pokémon trainer?",
+  "es": "¿Cuántos Pokémon puede capturar un entrenador?",
+  "zh": "一名宝可梦训练家可以捕捉多少只宝可梦？"
+ },
+ {
+  "id": 138,
+  "en": "There is no limit",
+  "es": "No existe límite",
+  "zh": "没有上限"
+ },
+ {
+  "id": 139,
+  "en": "It depends on the storage room",
+  "es": "Depende del lugar de almacenamiento",
+  "zh": "取决于存放空间"
+ },
+ {
+  "id": 140,
+  "en": "Only six Pokémon",
+  "es": "Sólo seis Pokémon",
+  "zh": "只能六只"
+ },
+ {
+  "id": 141,
+  "en": "Catching Pokémon is forbidden",
+  "es": "Los entrenadores tienen prohibido capturar Pokémon",
+  "zh": "禁止捕捉宝可梦"
+ },
+ {
+  "id": 142,
+  "en": "What color is a Scyther?",
+  "es": "¿De qué color es un Scyther?",
+  "zh": "飞天螳螂是什么颜色的？"
+ },
+ {
+  "id": 143,
+  "en": "Red",
+  "es": "Rojo",
+  "zh": "红色"
+ },
+ {
+  "id": 144,
+  "en": "Green",
+  "es": "Verde",
+  "zh": "绿色"
+ },
+ {
+  "id": 145,
+  "en": "yellow",
+  "es": "Amarillo",
+  "zh": "黄色"
+ },
+ {
+  "id": 146,
+  "en": "White",
+  "es": "Blanco",
+  "zh": "白色"
+ },
+ {
+  "id": 147,
+  "en": "Who belongs to the Elite Four in the Star Region?",
+  "es": "¿Quién pertenece al Alto Mando de la Región Star?",
+  "zh": "谁是星辰地区四天王的成员？"
+ },
+ {
+  "id": 148,
+  "en": "Fer",
+  "es": "Fer",
+  "zh": "菲尔"
+ },
+ {
+  "id": 149,
+  "en": "Karen",
+  "es": "Karen",
+  "zh": "梨花"
+ },
+ {
+  "id": 150,
+  "en": "Lance",
+  "es": "Lance",
+  "zh": "阿渡"
+ },
+ {
+  "id": 151,
+  "en": "Morpheus",
+  "es": "Morfeo",
+  "zh": "莫菲斯"
+ },
+ {
+  "id": 152,
+  "en": "What does the DISABLE move do?",
+  "es": "¿Qué efecto tiene el ataque Anulación?",
+  "zh": "定身法这个招式有什么效果？"
+ },
+ {
+  "id": 153,
+  "en": "The last move is disabled",
+  "es": "Impide volver a usar el último ataque",
+  "zh": "让对手无法再使用上一次用过的招式"
+ },
+ {
+  "id": 154,
+  "en": "Disables healing moves",
+  "es": "Impide recuperarse",
+  "zh": "让对手无法使用回复招式"
+ },
+ {
+  "id": 155,
+  "en": "Prevents from running away",
+  "es": "Impide huir del combate",
+  "zh": "让对手无法从对战中逃走"
+ },
+ {
+  "id": 156,
+  "en": "The DISABLE move does not exist",
+  "es": "No existe ningún ataque con ese nombre",
+  "zh": "不存在定身法这个招式"
+ },
+ {
+  "id": 157,
+  "en": "Where is Professor Oak's Laboratory in the Star Region?",
+  "es": "¿Donde se encuentra el laboratorio del Profesor Oak en la Región Star?",
+  "zh": "大木博士的研究所在星辰地区的哪里？"
+ },
+ {
+  "id": 158,
+  "en": "Antares City",
+  "es": "Ciudad Antares",
+  "zh": "心宿市"
+ },
+ {
+  "id": 159,
+  "en": "Vega City",
+  "es": "Ciudad Vega",
+  "zh": "织女市"
+ },
+ {
+  "id": 160,
+  "en": "Kena Town",
+  "es": "Pueblo Kena",
+  "zh": "凯纳镇"
+ },
+ {
+  "id": 161,
+  "en": "Alba Town",
+  "es": "Pueblo Alba",
+  "zh": "晨曦镇"
+ },
+ {
+  "id": 162,
+  "en": "What type is the Iron Tail move?",
+  "es": "¿De qué tipo es el ataque Cola Férrea?",
+  "zh": "铁尾是什么属性的招式？"
+ },
+ {
+  "id": 163,
+  "en": "Normal",
+  "es": "Normal",
+  "zh": "一般"
+ },
+ {
+  "id": 164,
+  "en": "Rock",
+  "es": "Roca",
+  "zh": "岩石"
+ },
+ {
+  "id": 165,
+  "en": "Ground",
+  "es": "Tierra",
+  "zh": "地面"
+ },
+ {
+  "id": 166,
+  "en": "None of the above",
+  "es": "Ninguno de los anteriores",
+  "zh": "以上都不是"
+ },
+ {
+  "id": 167,
+  "en": "Which city is the closest to Canis Cemetery?",
+  "es": "¿Cuál es la población más cercana al Cementerio Can?",
+  "zh": "哪个地方离大犬墓园最近？"
+ },
+ {
+  "id": 168,
+  "en": "Spica City",
+  "es": "Ciudad Spica",
+  "zh": "角宿市"
+ },
+ {
+  "id": 169,
+  "en": "Pole City",
+  "es": "Ciudad Polar",
+  "zh": "北辰市"
+ },
+ {
+  "id": 170,
+  "en": "Sirius City",
+  "es": "Ciudad Sirio",
+  "zh": "天狼市"
+ },
+ {
+  "id": 171,
+  "en": "Regulus Town",
+  "es": "Pueblo Regulo",
+  "zh": "轩辕镇"
+ },
+ {
+  "id": 172,
+  "en": "Which are the starter Pokémon in the Star Region?",
+  "es": "¿Cuáles son los Pokémon iniciales en la Región Star?",
+  "zh": "星辰地区的初始宝可梦是哪几只？"
+ },
+ {
+  "id": 173,
+  "en": "Riolu, Pikachu and Eevee",
+  "es": "Riolu, Pikachu y Eevee",
+  "zh": "利欧路、皮卡丘和伊布"
+ },
+ {
+  "id": 174,
+  "en": "Bulbasaur, Charmander and Squirtle",
+  "es": "Bulbasaur, Charmander y Squirtle",
+  "zh": "妙蛙种子、小火龙和杰尼龟"
+ },
+ {
+  "id": 175,
+  "en": "Tyrogue, Shinx and Munchlax",
+  "es": "Tyrogue, Shinx y Munchlax",
+  "zh": "无畏小子、小猫怪和小卡比兽"
+ },
+ {
+  "id": 176,
+  "en": "None of the above",
+  "es": "Ninguno de los anteriores",
+  "zh": "以上都不是"
+ },
+ {
+  "id": 177,
+  "en": "How many times can Eevee evolve?",
+  "es": "¿Cuántas veces evoluciona un Eevee?",
+  "zh": "伊布可以进化几次？"
+ },
+ {
+  "id": 178,
+  "en": "7",
+  "es": "7",
+  "zh": "7次"
+ },
+ {
+  "id": 179,
+  "en": "11",
+  "es": "11",
+  "zh": "11次"
+ },
+ {
+  "id": 180,
+  "en": "1",
+  "es": "1",
+  "zh": "1次"
+ },
+ {
+  "id": 181,
+  "en": "0",
+  "es": "0",
+  "zh": "0次"
+ },
+ {
+  "id": 182,
+  "en": "Which of the following is a ground-type Pokémon?",
+  "es": "¿Cuál de estos Pokémon es de tipo Tierra?",
+  "zh": "下列宝可梦中，哪只是地面属性？"
+ },
+ {
+  "id": 183,
+  "en": "Bulbasaur",
+  "es": "Bulbasaur",
+  "zh": "妙蛙种子"
+ },
+ {
+  "id": 184,
+  "en": "Nincada",
+  "es": "Nincada",
+  "zh": "土居忍士"
+ },
+ {
+  "id": 185,
+  "en": "Ninjask",
+  "es": "Ninjask",
+  "zh": "铁面忍者"
+ },
+ {
+  "id": 186,
+  "en": "Stunky",
+  "es": "Stunky",
+  "zh": "臭鼬噗"
+ },
+ {
+  "id": 187,
+  "en": "Poliwhirl evolves to...",
+  "es": "Poliwhirl evoluciona a...",
+  "zh": "蚊香君会进化成……"
+ },
+ {
+  "id": 188,
+  "en": "Poliwag with a Water Stone",
+  "es": "Poliwag con la Piedra Agua",
+  "zh": "蚊香蝌蚪，使用水之石"
+ },
+ {
+  "id": 189,
+  "en": "Poliwrath at level 24",
+  "es": "Poliwrath en el nivel 24",
+  "zh": "蚊香泳士，在24级时"
+ },
+ {
+  "id": 190,
+  "en": "Politoed with the King's rock ",
+  "es": "Politoed con la Roca del Rey",
+  "zh": "蚊香蛙皇，携带王者之证"
+ },
+ {
+  "id": 191,
+  "en": "None of the above",
+  "es": "Ninguna de las anteriores es correcta",
+  "zh": "以上都不对"
+ },
+ {
+  "id": 192,
+  "en": "What is the Persim Berry for?",
+  "es": "¿Para qué sirve la Baya Caquic?",
+  "zh": "柿仔果有什么用？"
+ },
+ {
+  "id": 193,
+  "en": "It can cure confusion instantly",
+  "es": "Cura la confusión",
+  "zh": "可以立刻治愈混乱"
+ },
+ {
+  "id": 194,
+  "en": "Restores 35 HP, but causes confusion",
+  "es": "Recupera 35 PS pero confunde",
+  "zh": "回复35 HP，但会陷入混乱"
+ },
+ {
+  "id": 195,
+  "en": "Heals any Status Ailments",
+  "es": "Cura todos los problemas de estado",
+  "zh": "治愈任何异常状态"
+ },
+ {
+  "id": 196,
+  "en": "Restores 60 HP but causes seeding",
+  "es": "Recupera 60 PS pero infecta",
+  "zh": "回复60 HP，但会被种下寄生种子"
+ },
+ {
+  "id": 197,
+  "en": "Which of the next Pokémon does NOT change type upon evolving?",
+  "es": "¿Cuál de estos Pokémon NO cambia de tipo con respecto a sus dos evoluciones?",
+  "zh": "下列宝可梦中，哪只在两次进化后属性都不会改变？"
+ },
+ {
+  "id": 198,
+  "en": "Caterpie",
+  "es": "Caterpie",
+  "zh": "绿毛虫"
+ },
+ {
+  "id": 199,
+  "en": "Trapinch",
+  "es": "Trapinch",
+  "zh": "大颚蚁"
+ },
+ {
+  "id": 200,
+  "en": "Dratini",
+  "es": "Dratini",
+  "zh": "迷你龙"
+ },
+ {
+  "id": 201,
+  "en": "Gible",
+  "es": "Gible",
+  "zh": "圆陆鲨"
+ },
+ {
+  "id": 202,
+  "en": "The Water Gun move will be more effective if...",
+  "es": "El ataque Pistola de Agua es más poderoso...",
+  "zh": "在什么情况下，水枪这个招式的威力会更大？"
+ },
+ {
+  "id": 203,
+  "en": "It is used by a Pokémon with a high Special Attack",
+  "es": "Con alto nivel de At. Esp.",
+  "zh": "由特攻很高的宝可梦使出时"
+ },
+ {
+  "id": 204,
+  "en": "It is used by a water-type Pokémon",
+  "es": "Con el tipo Agua",
+  "zh": "由水属性宝可梦使出时"
+ },
+ {
+  "id": 205,
+  "en": "It is used on a Pokémon with a low Special Defence",
+  "es": "Contra un Pokémon con baja Def. Esp.",
+  "zh": "对特防很低的宝可梦使出时"
+ },
+ {
+  "id": 206,
+  "en": "All of the above",
+  "es": "Todas correctas",
+  "zh": "以上皆是"
+ },
+ {
+  "id": 207,
+  "en": "Choose the INCORRECT option about the Master Ball...",
+  "es": "Selecciona la respuesta INCORRECTA relacionada con la Master Ball...",
+  "zh": "请选出关于大师球的错误说法……"
+ },
+ {
+  "id": 208,
+  "en": "It always catches the Pokémon",
+  "es": "Siempre atrapa al Pokémon",
+  "zh": "总能捕获宝可梦"
+ },
+ {
+  "id": 209,
+  "en": "Can't be bought in a Pokémart",
+  "es": "No se encuentra en tiendas",
+  "zh": "在友好商店买不到"
+ },
+ {
+  "id": 210,
+  "en": "It is black and yellow",
+  "es": "Su color es amarillo y negro",
+  "zh": "它是黑色和黄色的"
+ },
+ {
+  "id": 211,
+  "en": "It is made in Antares City",
+  "es": "Se fabrica en Ciudad Antares",
+  "zh": "它是在心宿市制造的"
+ },
+ {
+  "id": 212,
+  "en": "Which Pokémon does NOT learn Metronome by leveling up?",
+  "es": "¿Qué Pokémon NO aprende Metrónomo por nivel?",
+  "zh": "下列宝可梦中，哪只不能通过升级学会挥指？"
+ },
+ {
+  "id": 213,
+  "en": "Skitty",
+  "es": "Skitty",
+  "zh": "向尾喵"
+ },
+ {
+  "id": 214,
+  "en": "Togepi",
+  "es": "Togepi",
+  "zh": "波克比"
+ },
+ {
+  "id": 215,
+  "en": "Clefairy",
+  "es": "Clefairy",
+  "zh": "皮皮"
+ },
+ {
+  "id": 216,
+  "en": "Munchlax",
+  "es": "Munchlax",
+  "zh": "小卡比兽"
+ },
+ {
+  "id": 217,
+  "en": "Where does the Name Rater lives?",
+  "es": "¿Dónde vive el inspector de motes de Pokémon?",
+  "zh": "昵称鉴定师住在哪里？"
+ },
+ {
+  "id": 218,
+  "en": "Valde Town",
+  "es": "Pueblo Valde",
+  "zh": "瓦尔德镇"
+ },
+ {
+  "id": 219,
+  "en": "Talo Town",
+  "es": "Pueblo Talo",
+  "zh": "塔洛镇"
+ },
+ {
+  "id": 220,
+  "en": "Naos City",
+  "es": "Ciudad Naos",
+  "zh": "纳奥斯市"
+ },
+ {
+  "id": 221,
+  "en": "Sirius City",
+  "es": "Ciudad Sirio",
+  "zh": "天狼市"
+ },
+ {
+  "id": 222,
+  "en": "Which Pokémon type is the Fury Cutter move?",
+  "es": "¿De qué tipo es el ataque Cortefuria?",
+  "zh": "连斩是什么属性的招式？"
+ },
+ {
+  "id": 223,
+  "en": "Grass",
+  "es": "Planta",
+  "zh": "草"
+ },
+ {
+  "id": 224,
+  "en": "Bug",
+  "es": "Bicho",
+  "zh": "虫"
+ },
+ {
+  "id": 225,
+  "en": "Normal",
+  "es": "Normal",
+  "zh": "一般"
+ },
+ {
+  "id": 226,
+  "en": "Steel",
+  "es": "Acero",
+  "zh": "钢"
+ },
+ {
+  "id": 227,
+  "en": "Which team of Gym Leaders do not come from the same region?",
+  "es": "¿Qué pareja de líderes de gimnasio NO proviene de la misma región?",
+  "zh": "下面哪一组道馆馆主不是来自同一个地区？"
+ },
+ {
+  "id": 228,
+  "en": "Norman and Flannery",
+  "es": "Norman y Candela",
+  "zh": "千里和亚莎"
+ },
+ {
+  "id": 229,
+  "en": "Adalia and Willy",
+  "es": "Adalia y Willy",
+  "zh": "阿达莉娅和威利"
+ },
+ {
+  "id": 230,
+  "en": "Erika and Morty",
+  "es": "Erika y Morti",
+  "zh": "莉佳和松叶"
+ },
+ {
+  "id": 231,
+  "en": "Falkner and Pryce",
+  "es": "Pegaso y Fredo",
+  "zh": "阿速和柳伯"
+ },
+ {
+  "id": 232,
+  "en": "What is the effect of the Passion attack?",
+  "es": "¿Qué efecto tiene el ataque Pasión?",
+  "zh": "热情这个招式有什么效果？"
+ },
+ {
+  "id": 233,
+  "en": "Raises the user Pokémon's Attack",
+  "es": "Mejora el Ataque",
+  "zh": "提高使用者的攻击"
+ },
+ {
+  "id": 234,
+  "en": "Raises the user Pokémon's Special Attack",
+  "es": "Mejora el Ataque Especial",
+  "zh": "提高使用者的特攻"
+ },
+ {
+  "id": 235,
+  "en": "Heals the user",
+  "es": "Recupera PS",
+  "zh": "回复使用者的HP"
+ },
+ {
+  "id": 236,
+  "en": "Replenishes Power Points (PP) faster",
+  "es": "Recupera PP más rápidamente",
+  "zh": "更快地回复PP"
+ },
+ {
+  "id": 237,
+  "en": "How many Pokémon species exist in the Pokémon world?",
+  "es": "¿Cuántas especies de Pokémon existen en el Mundo Pokémon?",
+  "zh": "宝可梦的世界里一共有多少种宝可梦？"
+ },
+ {
+  "id": 238,
+  "en": "151",
+  "es": "17",
+  "zh": "151"
+ },
+ {
+  "id": 239,
+  "en": "546",
+  "es": "546",
+  "zh": "546"
+ },
+ {
+  "id": 240,
+  "en": "649",
+  "es": "649",
+  "zh": "649"
+ },
+ {
+  "id": 241,
+  "en": "More than a thousand",
+  "es": "Más de mil",
+  "zh": "一千多种"
+ },
+ {
+  "id": 242,
+  "en": "Which attack is super-effective against Charizard?",
+  "es": "¿Qué ataque es súper efectivo contra un Charizard?",
+  "zh": "哪个招式对喷火龙效果绝佳？"
+ },
+ {
+  "id": 243,
+  "en": "Hydro Pump",
+  "es": "Hidrobomba",
+  "zh": "水炮"
+ },
+ {
+  "id": 244,
+  "en": "Gunk Shot",
+  "es": "Lanza Mugre",
+  "zh": "垃圾射击"
+ },
+ {
+  "id": 245,
+  "en": "Earthquake",
+  "es": "Terremoto",
+  "zh": "地震"
+ },
+ {
+  "id": 246,
+  "en": "Rock Slide",
+  "es": "Avalancha",
+  "zh": "岩崩"
+ },
+ {
+  "id": 247,
+  "en": "Which object is given after defeating Antares City's gym leader?",
+  "es": "¿Qué objeto se entrega tras ganar al líder del gimnasio de Ciudad Antares?",
+  "zh": "打败心宿市的道馆馆主后，会得到哪个道具？"
+ },
+ {
+  "id": 248,
+  "en": "TM11 Rain Dance",
+  "es": "MT11 Danza Lluvia",
+  "zh": "招式学习器11 求雨"
+ },
+ {
+  "id": 249,
+  "en": "TM29 Psychic",
+  "es": "MT29 Psíquico",
+  "zh": "招式学习器29 精神强念"
+ },
+ {
+  "id": 250,
+  "en": "TM30 Shadow Ball",
+  "es": "MT30 Bola Sombra",
+  "zh": "招式学习器30 暗影球"
+ },
+ {
+  "id": 251,
+  "en": "TM37 Dark Pulse",
+  "es": "MT37 Pulso Umbrío",
+  "zh": "招式学习器37 恶之波动"
+ },
+ {
+  "id": 252,
+  "en": "Which attack is not very effective against Gyarados?",
+  "es": "¿Qué ataque es poco efectivo contra Gyarados?",
+  "zh": "哪个招式对暴鲤龙效果不好？"
+ },
+ {
+  "id": 253,
+  "en": "Rock Smash",
+  "es": "Golpe Roca",
+  "zh": "碎岩"
+ },
+ {
+  "id": 254,
+  "en": "Extreme Speed",
+  "es": "Vel. Extrema",
+  "zh": "神速"
+ },
+ {
+  "id": 255,
+  "en": "Leaf Storm",
+  "es": "Llueve Hojas",
+  "zh": "飞叶风暴"
+ },
+ {
+  "id": 256,
+  "en": "Thunder Punch",
+  "es": "Puño Trueno",
+  "zh": "雷电拳"
+ },
+ {
+  "id": 257,
+  "en": "Which stone is used to transform Pikachu into Pikablue?",
+  "es": "¿Qué piedra se utiliza para transformar un Pikachu en un Pikablue?",
+  "zh": "使用哪种石头可以让皮卡丘变成皮卡蓝？"
+ },
+ {
+  "id": 258,
+  "en": "Sun Stone",
+  "es": "Piedra Día",
+  "zh": "光之石"
+ },
+ {
+  "id": 259,
+  "en": "Thunder Stone",
+  "es": "Piedra Trueno",
+  "zh": "雷之石"
+ },
+ {
+  "id": 260,
+  "en": "Water Stone",
+  "es": "Piedra Agua",
+  "zh": "水之石"
+ },
+ {
+  "id": 261,
+  "en": "None of the above",
+  "es": "Ninguna de las anteriores",
+  "zh": "以上都不是"
+ },
+ {
+  "id": 262,
+  "en": "Which of this Pokémon couples are NOT considered natural enemies?",
+  "es": "¿Cuál de estas parejas de Pokémon NO se consideran enemigos naturales?",
+  "zh": "下列宝可梦组合中，哪一组不被视为天敌？"
+ },
+ {
+  "id": 263,
+  "en": "Pinsir and Heracross",
+  "es": "Pinsir y Heracross",
+  "zh": "凯罗斯和赫拉克罗斯"
+ },
+ {
+  "id": 264,
+  "en": "Lugia and Ho-Oh",
+  "es": "Lugia y Ho-Oh",
+  "zh": "洛奇亚和凤王"
+ },
+ {
+  "id": 265,
+  "en": "Betearow and Harfetch'd",
+  "es": "Betearow y Harfetch'd",
+  "zh": "烈雀和大葱鸭"
+ },
+ {
+  "id": 266,
+  "en": "Zangoose and Seviper",
+  "es": "Zangoose y Seviper",
+  "zh": "猫鼬斩和饭匙蛇"
+ },
+ {
+  "id": 267,
+  "en": "What are Parasect's types?",
+  "es": "¿Cuáles son los tipos de Parasect?",
+  "zh": "派拉斯特是什么属性？"
+ },
+ {
+  "id": 268,
+  "en": "Bug and Poison",
+  "es": "Bicho y Veneno",
+  "zh": "虫和毒"
+ },
+ {
+  "id": 269,
+  "en": "Grass and Poison",
+  "es": "Planta y Veneno",
+  "zh": "草和毒"
+ },
+ {
+  "id": 270,
+  "en": "Bug and Grass",
+  "es": "Bicho y Planta",
+  "zh": "虫和草"
+ },
+ {
+  "id": 271,
+  "en": "None of the above",
+  "es": "Ninguno de los anteriores es cierto",
+  "zh": "以上都不对"
+ },
+ {
+  "id": 272,
+  "en": "Pokémon names such as Ho-Oh, Eevee and Girafarig are all...",
+  "es": "Nombres de Pokémon como Ho-Oh, Eevee y Girafarig pertenecen al grupo de los...",
+  "zh": "凤王、伊布和麒麟奇的英文名都属于……"
+ },
+ {
+  "id": 273,
+  "en": "Apocryphal",
+  "es": "Apócrifos",
+  "zh": "杜撰词"
+ },
+ {
+  "id": 274,
+  "en": "Antonyms",
+  "es": "Antónimos",
+  "zh": "反义词"
+ },
+ {
+  "id": 275,
+  "en": "Acronyms",
+  "es": "Acrónimos",
+  "zh": "首字母缩略词"
+ },
+ {
+  "id": 276,
+  "en": "Palindromes",
+  "es": "Palíndromos",
+  "zh": "回文"
+ },
+ {
+  "id": 277,
+  "en": "In which region can you find the least Legendary Pokémon?",
+  "es": "¿En qué región se pueden encontrar menos Pokémon Legendarios?",
+  "zh": "在哪个地区能找到的传说宝可梦最少？"
+ },
+ {
+  "id": 278,
+  "en": "Kanto",
+  "es": "Kanto",
+  "zh": "关都"
+ },
+ {
+  "id": 279,
+  "en": "Johto",
+  "es": "Johto",
+  "zh": "城都"
+ },
+ {
+  "id": 280,
+  "en": "Hoenn",
+  "es": "Hoenn",
+  "zh": "丰缘"
+ },
+ {
+  "id": 281,
+  "en": "Sinnoh",
+  "es": "Sinnoh",
+  "zh": "神奥"
+ },
+ {
+  "id": 282,
+  "en": "What's the effect of Kelpsy Berry?",
+  "es": "¿Qué efecto tiene la Baya Algama?",
+  "zh": "藻根果有什么效果？"
+ },
+ {
+  "id": 283,
+  "en": "Recovers 60 HP but curses",
+  "es": "Recupera 60 PS pero provoca maldición",
+  "zh": "回复60 HP，但会受到诅咒"
+ },
+ {
+  "id": 284,
+  "en": "Recovers 40 HP but causes love",
+  "es": "Recupera 40 PS pero causa enamoramiento",
+  "zh": "回复40 HP，但会陷入着迷"
+ },
+ {
+  "id": 285,
+  "en": "Revives a fainted Pokémon",
+  "es": "Revive a un Pokémon",
+  "zh": "让昏厥的宝可梦复活"
+ },
+ {
+  "id": 286,
+  "en": "Can raise Defense in battle",
+  "es": "Puede aumentar la Defensa en combate",
+  "zh": "对战中可以提高防御"
+ },
+ {
+  "id": 287,
+  "en": "What happens to Magikarp when it reaches level 31?",
+  "es": "¿Qué sucede con Magikarp cuando sube al nivel 31?",
+  "zh": "鲤鱼王升到31级时会发生什么？"
+ },
+ {
+  "id": 288,
+  "en": "Evolves to Gyarados",
+  "es": "Evoluciona a Gyarados",
+  "zh": "进化成暴鲤龙"
+ },
+ {
+  "id": 289,
+  "en": "Learns Flail",
+  "es": "Aprende el ataque Azote",
+  "zh": "学会抓狂"
+ },
+ {
+  "id": 290,
+  "en": "A and B are correct",
+  "es": "A y B son correctas",
+  "zh": "A和B都对"
+ },
+ {
+  "id": 291,
+  "en": "A and B are incorrect",
+  "es": "A y B son incorrectas",
+  "zh": "A和B都不对"
+ },
+ {
+  "id": 292,
+  "en": "Which of these Trainer-Pokémon couples are INCORRECT?",
+  "es": "¿Cuál de estas parejas de entrenadores y Pokémon es INCORRECTA?",
+  "zh": "下面哪一组训练家与宝可梦的搭配是错误的？"
+ },
+ {
+  "id": 293,
+  "en": "Helia and Gengar",
+  "es": "Helia y Gengar",
+  "zh": "赫莉娅和耿鬼"
+ },
+ {
+  "id": 294,
+  "en": "Fer and Wobbuffet",
+  "es": "Fer y Wobbuffet",
+  "zh": "菲尔和果然翁"
+ },
+ {
+  "id": 295,
+  "en": "Mino and Sandshrew",
+  "es": "Mino y Sandshrew",
+  "zh": "米诺和穿山鼠"
+ },
+ {
+  "id": 296,
+  "en": "Bobby and Dewgong",
+  "es": "Bobby y Dewgong",
+  "zh": "鲍比和白海狮"
+ },
+ {
+  "id": 297,
+  "en": "In which region are there no Rock-type Pokémon gym?",
+  "es": "¿En qué región no hay Gimnasio Pokémon de tipo Roca?",
+  "zh": "哪个地区没有岩石属性的道馆？"
+ },
+ {
+  "id": 298,
+  "en": "Kanto",
+  "es": "Kanto",
+  "zh": "关都"
+ },
+ {
+  "id": 299,
+  "en": "Johto",
+  "es": "Johto",
+  "zh": "城都"
+ },
+ {
+  "id": 300,
+  "en": "Hoenn",
+  "es": "Hoenn",
+  "zh": "丰缘"
+ },
+ {
+  "id": 301,
+  "en": "Sinnoh",
+  "es": "Sinnoh",
+  "zh": "神奥"
+ },
+ {
+  "id": 302,
+  "en": "At what level does Teddiursa evolves?",
+  "es": "¿En qué nivel evoluciona Teddiursa?",
+  "zh": "熊宝宝在几级进化？"
+ },
+ {
+  "id": 303,
+  "en": "20",
+  "es": "20",
+  "zh": "20级"
+ },
+ {
+  "id": 304,
+  "en": "25",
+  "es": "25",
+  "zh": "25级"
+ },
+ {
+  "id": 305,
+  "en": "30",
+  "es": "30",
+  "zh": "30级"
+ },
+ {
+  "id": 306,
+  "en": "It doesn't evolve by leveling up",
+  "es": "No evoluciona por nivel",
+  "zh": "不能通过升级进化"
+ },
+ {
+  "id": 307,
+  "en": "Select the right answer related with Star region weather:",
+  "es": "Selecciona la respuesta correcta relacionada con el clima en la Región Star:",
+  "zh": "请选出与星辰地区天气相关的正确答案："
+ },
+ {
+  "id": 308,
+  "en": "Mars Island - Sunny Day",
+  "es": "Isla Marte - Día soleado",
+  "zh": "火星岛——大晴天"
+ },
+ {
+  "id": 309,
+  "en": "Regulus Town - Fog",
+  "es": "Pueblo Regulo - Niebla",
+  "zh": "轩辕镇——雾"
+ },
+ {
+  "id": 310,
+  "en": "Deneb City - Rain",
+  "es": "Ciudad Deneb - Lluvia",
+  "zh": "天鹅市——下雨"
+ },
+ {
+  "id": 311,
+  "en": "Rigel City - Sand Storm",
+  "es": "Ciudad Rigel - Tormenta arena",
+  "zh": "参宿市——沙暴"
+ },
+ {
+  "id": 312,
+  "en": "The Wood Hammer attack...",
+  "es": "El ataque Mazazo...",
+  "zh": "木槌这个招式……"
+ },
+ {
+  "id": 313,
+  "en": "Is a Rock-type attack",
+  "es": "Es de tipo roca",
+  "zh": "是岩石属性的招式"
+ },
+ {
+  "id": 314,
+  "en": "Is a physical attack",
+  "es": "Es un ataque físico",
+  "zh": "是物理招式"
+ },
+ {
+  "id": 315,
+  "en": "Has a base power of 100",
+  "es": "Tiene un poder base de 100",
+  "zh": "基础威力为100"
+ },
+ {
+  "id": 316,
+  "en": "There's more than one correct answer above",
+  "es": "En las respuestas anteriores hay más de una correcta",
+  "zh": "以上选项中有不止一个正确"
+ },
+ {
+  "id": 317,
+  "en": "An Honor Ball...",
+  "es": "Una Honor Ball...",
+  "zh": "纪念球……"
+ },
+ {
+  "id": 318,
+  "en": "Has a higher catch rate than a Poké Ball",
+  "es": "Tiene más ratio de captura que una Poké Ball",
+  "zh": "捕捉率比精灵球高"
+ },
+ {
+  "id": 319,
+  "en": "Has a lower catch rate than a Poké Ball",
+  "es": "Tiene menos ratio de captura que una Poké Ball",
+  "zh": "捕捉率比精灵球低"
+ },
+ {
+  "id": 320,
+  "en": "Has the same catch rate than a Poké Ball",
+  "es": "Tiene el mismo ratio de captura que una Poké Ball",
+  "zh": "捕捉率和精灵球相同"
+ },
+ {
+  "id": 321,
+  "en": "Has no catch rate",
+  "es": "No tiene ratio de captura",
+  "zh": "没有捕捉率"
+ },
+ {
+  "id": 322,
+  "en": "Slugma is a ... type",
+  "es": "Slugma es de tipo...",
+  "zh": "熔岩虫是……属性"
+ },
+ {
+  "id": 323,
+  "en": "Fire and Rock",
+  "es": "Fuego y Roca",
+  "zh": "火和岩石"
+ },
+ {
+  "id": 324,
+  "en": "Fire and Ground",
+  "es": "Fuego y Tierra",
+  "zh": "火和地面"
+ },
+ {
+  "id": 325,
+  "en": "Fire and Poison",
+  "es": "Fuego y Veneno",
+  "zh": "火和毒"
+ },
+ {
+  "id": 326,
+  "en": "Non of the above",
+  "es": "Ninguno de los anteriores",
+  "zh": "以上都不是"
+ },
+ {
+  "id": 327,
+  "en": "Which of these Pokémon cannot breed?",
+  "es": "¿Cuál de estos Pokémon NO puede tener crías?",
+  "zh": "下列宝可梦中，哪只不能生育后代？"
+ },
+ {
+  "id": 328,
+  "en": "Riolu",
+  "es": "Riolu",
+  "zh": "利欧路"
+ },
+ {
+  "id": 329,
+  "en": "Manaphy",
+  "es": "Manaphy",
+  "zh": "玛纳霏"
+ },
+ {
+  "id": 330,
+  "en": "Spiritomb",
+  "es": "Spiritomb",
+  "zh": "花岩怪"
+ },
+ {
+  "id": 331,
+  "en": "Girafarig",
+  "es": "Girafarig",
+  "zh": "麒麟奇"
+ },
+ {
+  "id": 332,
+  "en": "Vulpix can some ... type attacks by leveling up",
+  "es": "Vulpix puede aprender por nivel algún ataque de tipo...",
+  "zh": "六尾可以通过升级学会某些……属性的招式"
+ },
+ {
+  "id": 333,
+  "en": "Fighting",
+  "es": "Lucha",
+  "zh": "格斗"
+ },
+ {
+  "id": 334,
+  "en": "Ground",
+  "es": "Tierra",
+  "zh": "地面"
+ },
+ {
+  "id": 335,
+  "en": "Psychic",
+  "es": "Psíquico",
+  "zh": "超能力"
+ },
+ {
+  "id": 336,
+  "en": "All of the above are false",
+  "es": "Todos los anteriores son falsos",
+  "zh": "以上都不对"
+ },
+ {
+  "id": 337,
+  "en": "Sandslash is a ... Pokémon species.",
+  "es": "Sandslash es de la especie Pokémon...",
+  "zh": "穿山王是……宝可梦"
+ },
+ {
+  "id": 338,
+  "en": "Mole",
+  "es": "Topo",
+  "zh": "鼹鼠"
+ },
+ {
+  "id": 339,
+  "en": "Dog",
+  "es": "Perro",
+  "zh": "狗"
+ },
+ {
+  "id": 340,
+  "en": "Mouse",
+  "es": "Ratón",
+  "zh": "老鼠"
+ },
+ {
+  "id": 341,
+  "en": "Fox",
+  "es": "Zorro",
+  "zh": "狐狸"
+ },
+ {
+  "id": 342,
+  "en": "Who is Safari Zone's guard in Star region?",
+  "es": "¿Cuál es el nombre del guardia de la Zona Safari de la región Star?",
+  "zh": "星辰地区狩猎地带的守卫叫什么名字？"
+ },
+ {
+  "id": 343,
+  "en": "Chiro",
+  "es": "Chiro",
+  "zh": "奇罗"
+ },
+ {
+  "id": 344,
+  "en": "Skuiro",
+  "es": "Skuiro",
+  "zh": "斯奎罗"
+ },
+ {
+  "id": 345,
+  "en": "Cippo",
+  "es": "Cippo",
+  "zh": "奇波"
+ },
+ {
+  "id": 346,
+  "en": "Non of the above",
+  "es": "Ninguno de los anteriores",
+  "zh": "以上都不是"
+ },
+ {
+  "id": 347,
+  "en": "In which region are all starters' last evolution are single type Pokémon?",
+  "es": "¿En qué región la última evolución de todos los Starters tienen un único tipo?",
+  "zh": "在哪个地区，所有初始宝可梦的最终进化形态都是单属性？"
+ },
+ {
+  "id": 348,
+  "en": "Kanto",
+  "es": "Kanto",
+  "zh": "关都"
+ },
+ {
+  "id": 349,
+  "en": "Johto",
+  "es": "Johto",
+  "zh": "城都"
+ },
+ {
+  "id": 350,
+  "en": "Hoenn",
+  "es": "Hoenn",
+  "zh": "丰缘"
+ },
+ {
+  "id": 351,
+  "en": "Sinnoh",
+  "es": "Sinnoh",
+  "zh": "神奥"
+ },
+ {
+  "id": 352,
+  "en": "Which of these is NOT an attack that Leafeon learns by leveling up?",
+  "es": "¿Qué ataque NO puede aprender Leafeon por nivel?",
+  "zh": "下列招式中，哪个不是叶伊布通过升级学会的？"
+ },
+ {
+  "id": 353,
+  "en": "Razor Leaf",
+  "es": "Hoja Afilada",
+  "zh": "飞叶快刀"
+ },
+ {
+  "id": 354,
+  "en": "Teeter Dance",
+  "es": "Danza Caos",
+  "zh": "摇晃舞"
+ },
+ {
+  "id": 355,
+  "en": "Swords Dance",
+  "es": "Danza Espada",
+  "zh": "剑舞"
+ },
+ {
+  "id": 356,
+  "en": "Tackle",
+  "es": "Placaje",
+  "zh": "撞击"
+ },
+ {
+  "id": 357,
+  "en": "Which of the following Pokémon has the strongest Bite attack at level 100?",
+  "es": "¿Qué Pokémon tiene un ataque Triturar más poderoso en el nivel 100?",
+  "zh": "下列宝可梦中，哪只在100级时咬住的威力最大？"
+ },
+ {
+  "id": 358,
+  "en": "Arcanine",
+  "es": "Arcanine",
+  "zh": "风速狗"
+ },
+ {
+  "id": 359,
+  "en": "Raikou",
+  "es": "Raikou",
+  "zh": "雷公"
+ },
+ {
+  "id": 360,
+  "en": "Pupitar",
+  "es": "Pupitar",
+  "zh": "沙基拉斯"
+ },
+ {
+  "id": 361,
+  "en": "Granbull",
+  "es": "Granbull",
+  "zh": "布鲁皇"
+ },
+ {
+  "id": 362,
+  "en": "Against which of these Pokémon is Megahorn most effective?",
+  "es": "Teniendo en cuenta los tipos, el ataque Megacuerno es más efectivo contra:",
+  "zh": "考虑属性，超级角击对下列哪只宝可梦最有效？"
+ },
+ {
+  "id": 363,
+  "en": "Meditite",
+  "es": "Meditite",
+  "zh": "玛沙那"
+ },
+ {
+  "id": 364,
+  "en": "Breloom",
+  "es": "Breloom",
+  "zh": "斗笠菇"
+ },
+ {
+  "id": 365,
+  "en": "Cacturne",
+  "es": "Cacturne",
+  "zh": "梦歌仙人掌"
+ },
+ {
+  "id": 366,
+  "en": "Kadabra",
+  "es": "Kadabra",
+  "zh": "勇基拉"
+ },
+ {
+  "id": 367,
+  "en": "Which Pokémon learns Leer by leveling up?",
+  "es": "¿Qué Pokémon aprende Malicioso por nivel?",
+  "zh": "哪只宝可梦可以通过升级学会瞪眼？"
+ },
+ {
+  "id": 368,
+  "en": "Totodile",
+  "es": "Totodile",
+  "zh": "小锯鳄"
+ },
+ {
+  "id": 369,
+  "en": "Cyndaquil",
+  "es": "Cyndaquil",
+  "zh": "火球鼠"
+ },
+ {
+  "id": 370,
+  "en": "A and B are correct",
+  "es": "Las opciones A y B son correctas",
+  "zh": "A和B都对"
+ },
+ {
+  "id": 371,
+  "en": "A and B are incorrect",
+  "es": "Las opciones A y B son incorrectas",
+  "zh": "A和B都不对"
+ },
+ {
+  "id": 372,
+  "en": "Which Pokémon's fire goes out while it sleeps?",
+  "es": "¿A qué Pokémon se le apaga el fuego mientras duerme?",
+  "zh": "哪只宝可梦的火焰会在睡觉时熄灭？"
+ },
+ {
+  "id": 373,
+  "en": "Ponyta",
+  "es": "Ponyta",
+  "zh": "小火马"
+ },
+ {
+  "id": 374,
+  "en": "Chimchar",
+  "es": "Chimchar",
+  "zh": "小火焰猴"
+ },
+ {
+  "id": 375,
+  "en": "Charmeleon",
+  "es": "Charmeleon",
+  "zh": "火恐龙"
+ },
+ {
+  "id": 376,
+  "en": "Magmar",
+  "es": "Magmar",
+  "zh": "鸭嘴火兽"
+ },
+ {
+  "id": 377,
+  "en": "What's the name of the famous hiker living in Gaara's Desert?",
+  "es": "¿Cómo se llama el famoso montañero que habita en el Desierto del Gaara?",
+  "zh": "住在加拉沙漠的著名登山家叫什么名字？"
+ },
+ {
+  "id": 378,
+  "en": "Mohame",
+  "es": "Mohamé",
+  "zh": "穆罕默德"
+ },
+ {
+  "id": 379,
+  "en": "Hassan",
+  "es": "Hassán",
+  "zh": "哈桑"
+ },
+ {
+  "id": 380,
+  "en": "Malik",
+  "es": "Málik",
+  "zh": "马利克"
+ },
+ {
+  "id": 381,
+  "en": "Mustafa¡",
+  "es": "Mustafá",
+  "zh": "穆斯塔法"
+ },
+ {
+  "id": 382,
+  "en": "Select the CORRECT sentence about Psychic-type:",
+  "es": "Señala la afirmación correcta:",
+  "zh": "请选出关于超能力属性的正确说法："
+ },
+ {
+  "id": 383,
+  "en": "Only Dark and Ghost type attacks are effective",
+  "es": "Sólo Siniestro y Fantasma es efectivo contra Psíquico",
+  "zh": "只有恶属性和幽灵属性的招式对超能力属性有效"
+ },
+ {
+  "id": 384,
+  "en": "There are physical attacks",
+  "es": "Existen ataques físicos de tipo Psíquico",
+  "zh": "存在超能力属性的物理招式"
+ },
+ {
+  "id": 385,
+  "en": "Are not very effective against Gengar",
+  "es": "El tipo Psíquico no es efectivo contra Gengar",
+  "zh": "超能力属性对耿鬼效果不好"
+ },
+ {
+  "id": 386,
+  "en": "Can never harm Dark-type Pokémon",
+  "es": "El tipo Psíquico nunca puede dañar al tipo Siniestro",
+  "zh": "超能力属性永远无法伤害恶属性宝可梦"
+ },
+ {
+  "id": 387,
+  "en": "Water Spout attack:",
+  "es": "El ataque Salpicar...",
+  "zh": "喷水这个招式："
+ },
+ {
+  "id": 388,
+  "en": "Becomes stronger in harsh circumstances",
+  "es": "Se vuelve más poderoso en circunstancias adversas",
+  "zh": "在严酷的环境下会变得更强"
+ },
+ {
+  "id": 389,
+  "en": "Is exclusive to Kyogre",
+  "es": "Es un ataque exclusivo de Kyogre",
+  "zh": "是盖欧卡专属的招式"
+ },
+ {
+  "id": 390,
+  "en": "Has no effect on the enemy",
+  "es": "No tiene ningún efecto sobre el enemigo",
+  "zh": "对对手没有任何效果"
+ },
+ {
+  "id": 391,
+  "en": "Has an effect similar to the Eruption attack ",
+  "es": "Sus características son similares al ataque Estallido",
+  "zh": "特征与喷火相似"
+ },
+ {
+  "id": 392,
+  "en": "Select the CORRECT sentence:",
+  "es": "Señala la afirmación correcta:",
+  "zh": "请选出正确的说法："
+ },
+ {
+  "id": 393,
+  "en": "Metagross can't levitate",
+  "es": "Metagross no puede flotar en el aire",
+  "zh": "巨金怪无法浮在空中"
+ },
+ {
+  "id": 394,
+  "en": "Metagross has four brains",
+  "es": "Metagross tiene cuatro cerebros",
+  "zh": "巨金怪有四个大脑"
+ },
+ {
+  "id": 395,
+  "en": "Metagross is faster than Magikarp",
+  "es": "Metagross es más veloz que Magikarp",
+  "zh": "巨金怪比鲤鱼王快"
+ },
+ {
+  "id": 396,
+  "en": "All of the above are correct",
+  "es": "Todas son correctas",
+  "zh": "以上皆正确"
+ },
+ {
+  "id": 397,
+  "en": "Which Pokémon learns Shadow Punch by leveling up?",
+  "es": "¿Qué Pokémon aprende Puño Sombra por nivel?",
+  "zh": "哪只宝可梦可以通过升级学会暗影拳？"
+ },
+ {
+  "id": 398,
+  "en": "Haunter",
+  "es": "Haunter",
+  "zh": "鬼斯通"
+ },
+ {
+  "id": 399,
+  "en": "Duskull",
+  "es": "Duskull",
+  "zh": "夜巡灵"
+ },
+ {
+  "id": 400,
+  "en": "Darkrai",
+  "es": "Darkrai",
+  "zh": "达克莱伊"
+ },
+ {
+  "id": 401,
+  "en": "All of the above",
+  "es": "Todos los anteriores",
+  "zh": "以上皆是"
+ },
+ {
+  "id": 402,
+  "en": "Agility is a ... type attack.",
+  "es": "¿Qué tipo de ataque es Agilidad?",
+  "zh": "高速移动是什么属性的招式？"
+ },
+ {
+  "id": 403,
+  "en": "Flying",
+  "es": "Volador",
+  "zh": "飞行"
+ },
+ {
+  "id": 404,
+  "en": "Psychic",
+  "es": "Psíquico",
+  "zh": "超能力"
+ },
+ {
+  "id": 405,
+  "en": "Normal",
+  "es": "Normal",
+  "zh": "一般"
+ },
+ {
+  "id": 406,
+  "en": "Fighting",
+  "es": "Lucha",
+  "zh": "格斗"
+ },
+ {
+  "id": 407,
+  "en": "Select the fastest Pokémon:",
+  "es": "Selecciona el Pokémon más rápido:",
+  "zh": "请选出速度最快的宝可梦："
+ },
+ {
+  "id": 408,
+  "en": "Mewtwo",
+  "es": "Mewtwo",
+  "zh": "超梦"
+ },
+ {
+  "id": 409,
+  "en": "Electrode",
+  "es": "Electrode",
+  "zh": "顽皮雷弹"
+ },
+ {
+  "id": 410,
+  "en": "Ninjask",
+  "es": "Ninjask",
+  "zh": "铁面忍者"
+ },
+ {
+  "id": 411,
+  "en": "Deoxys (Normal Form)",
+  "es": "Deoxys (Forma Normal)",
+  "zh": "代欧奇希斯（普通形态）"
+ },
+ {
+  "id": 412,
+  "en": "Select the slowest Pokémon:",
+  "es": "Selecciona el Pokémon más lento:",
+  "zh": "请选出速度最慢的宝可梦："
+ },
+ {
+  "id": 413,
+  "en": "Bonsly",
+  "es": "Bonsly",
+  "zh": "盆才怪"
+ },
+ {
+  "id": 414,
+  "en": "Munchlax",
+  "es": "Munchlax",
+  "zh": "小卡比兽"
+ },
+ {
+  "id": 415,
+  "en": "Torkoal",
+  "es": "Torkoal",
+  "zh": "煤炭龟"
+ },
+ {
+  "id": 416,
+  "en": "Slowpoke",
+  "es": "Slowpoke",
+  "zh": "呆呆兽"
+ },
+ {
+  "id": 417,
+  "en": "Which attack can poison an enemy as a side effect?",
+  "es": "¿Qué ataque puede envenenar al enemigo como efecto secundario?",
+  "zh": "哪个招式可能附带使对手中毒的效果？"
+ },
+ {
+  "id": 418,
+  "en": "Twineedle",
+  "es": "Doble ataque",
+  "zh": "双针"
+ },
+ {
+  "id": 419,
+  "en": "Posion Jab",
+  "es": "Puya nociva",
+  "zh": "毒击"
+ },
+ {
+  "id": 420,
+  "en": "A and B are correct",
+  "es": "A y B son correctas",
+  "zh": "A和B都对"
+ },
+ {
+  "id": 421,
+  "en": "A and B are incorrect",
+  "es": "A y B son incorrectas",
+  "zh": "A和B都不对"
+ },
+ {
+  "id": 422,
+  "en": "Select the INCORRECT sentence:",
+  "es": "Señala la afirmación INCORRECTA:",
+  "zh": "请选出错误的说法："
+ },
+ {
+  "id": 423,
+  "en": "Lunatone is heavier than Solrock",
+  "es": "Lunatone es más pesado que Solrock",
+  "zh": "月石比太阳岩重"
+ },
+ {
+  "id": 424,
+  "en": "Lunatone and Solrock share habitat",
+  "es": "Lunatone y Solrock comparten hábitat",
+  "zh": "月石和太阳岩栖息在同一种地方"
+ },
+ {
+  "id": 425,
+  "en": "Lunatone and Solrock are of the same species",
+  "es": "Lunatone y Solrock son de la misma especie",
+  "zh": "月石和太阳岩是同一种分类"
+ },
+ {
+  "id": 426,
+  "en": "Lunatone and Solrock learn the same attacks",
+  "es": "Lunatone y Solrock aprenden los mismos ataques",
+  "zh": "月石和太阳岩学会的招式相同"
+ },
+ {
+  "id": 427,
+  "en": "Which of the following Pokémon is the hardest to catch?",
+  "es": "¿Qué Pokémon es más difícil de atrapar?",
+  "zh": "下列宝可梦中，哪只最难捕捉？"
+ },
+ {
+  "id": 428,
+  "en": "Chansey",
+  "es": "Chansey",
+  "zh": "吉利蛋"
+ },
+ {
+  "id": 429,
+  "en": "Snorlax",
+  "es": "Snorlax",
+  "zh": "卡比兽"
+ },
+ {
+  "id": 430,
+  "en": "Shaymin",
+  "es": "Shaymin",
+  "zh": "谢米"
+ },
+ {
+  "id": 431,
+  "en": "Palkia",
+  "es": "Palkia",
+  "zh": "帕路奇亚"
+ },
+ {
+  "id": 432,
+  "en": "All Pokémon belong to the Monster Egg group:",
+  "es": "Pertenecen al Grupo Huevo Monstruo:",
+  "zh": "下面哪一组宝可梦全都属于怪兽群？"
+ },
+ {
+  "id": 433,
+  "en": "Totodile, Charizard, Ivysaur, Kangaskhan, Steelix",
+  "es": "Totodile, Charizard, Ivysaur, Kangaskhan, Steelix",
+  "zh": "小锯鳄、喷火龙、妙蛙草、袋兽、大钢蛇"
+ },
+ {
+  "id": 434,
+  "en": "Loudred, Lickitung, Flaffy, Gabite, Rhydon",
+  "es": "Loudred, Lickitung, Flaffy, Gabite, Rhydon",
+  "zh": "吼爆弹、大舌头、茸茸羊、尖牙陆鲨、钻角犀兽"
+ },
+ {
+  "id": 435,
+  "en": "Aggron, Snover, Typhlosion, Marowak, Meganium",
+  "es": "Aggron, Snover, Typhlosion, Marowak, Meganium",
+  "zh": "波士可多拉、雪笠怪、火暴兽、嘎啦嘎啦、大竺葵"
+ },
+ {
+  "id": 436,
+  "en": "Dragonite, Tyranitar, Rampardos, Torterra, Snorlax",
+  "es": "Dragonite, Tyranitar, Rampardos, Torterra, Snorlax",
+  "zh": "快龙、班基拉斯、战槌龙、土台龟、卡比兽"
+ },
+ {
+  "id": 437,
+  "en": "Which Pokémon can't learn the Endeavor attack by leveling up?",
+  "es": "¿Qué Pokémon NO puede aprender Esfuerzo por nivel?",
+  "zh": "哪只宝可梦不能通过升级学会蛮干？"
+ },
+ {
+  "id": 438,
+  "en": "Marowak",
+  "es": "Marowak",
+  "zh": "嘎啦嘎啦"
+ },
+ {
+  "id": 439,
+  "en": "Swampert",
+  "es": "Swampert",
+  "zh": "巨沼怪"
+ },
+ {
+  "id": 440,
+  "en": "Dunsparce",
+  "es": "Dunsparce",
+  "zh": "土龙弟弟"
+ },
+ {
+  "id": 441,
+  "en": "Noctowl",
+  "es": "Noctowl",
+  "zh": "猫头夜鹰"
+ },
+ {
+  "id": 442,
+  "en": "Which of the following Pokémon gives the most Exp when defeated?",
+  "es": "¿Qué Pokémon da más experiencia al ser derrotado?",
+  "zh": "下列宝可梦中，哪只被打倒时给的经验值最多？"
+ },
+ {
+  "id": 443,
+  "en": "Wailord",
+  "es": "Wailord",
+  "zh": "吼鲸王"
+ },
+ {
+  "id": 444,
+  "en": "Blissey",
+  "es": "Blissey",
+  "zh": "幸福蛋"
+ },
+ {
+  "id": 445,
+  "en": "Lugia",
+  "es": "Lugia",
+  "zh": "洛奇亚"
+ },
+ {
+  "id": 446,
+  "en": "Salamance",
+  "es": "Salamance",
+  "zh": "暴飞龙"
+ },
+ {
+  "id": 447,
+  "en": "What attack doesn't Ludicolo learn by leveling up?",
+  "es": "¿Qué ataque NO aprende Ludicolo por nivel?",
+  "zh": "乐天河童不能通过升级学会哪个招式？"
+ },
+ {
+  "id": 448,
+  "en": "Energy Ball",
+  "es": "Energibola",
+  "zh": "能量球"
+ },
+ {
+  "id": 449,
+  "en": "Rain Dance",
+  "es": "Danza Lluvia",
+  "zh": "求雨"
+ },
+ {
+  "id": 450,
+  "en": "Natural Gift",
+  "es": "Don Natural",
+  "zh": "自然之恩"
+ },
+ {
+  "id": 451,
+  "en": "Fling",
+  "es": "Lanzamiento",
+  "zh": "投掷"
+ },
+ {
+  "id": 452,
+  "en": "What is Gastrodon's weight?",
+  "es": "¿Cuál es el peso de un Gastrodon?",
+  "zh": "海兔兽有多重？"
+ },
+ {
+  "id": 453,
+  "en": "65.9 lb",
+  "es": "29.9 Kg",
+  "zh": "29.9千克"
+ },
+ {
+  "id": 454,
+  "en": "88 lb",
+  "es": "39.9 Kg",
+  "zh": "39.9千克"
+ },
+ {
+  "id": 455,
+  "en": "101.2 lb",
+  "es": "45.9 Kg",
+  "zh": "45.9千克"
+ },
+ {
+  "id": 456,
+  "en": "110 lb",
+  "es": "49.9 Kg",
+  "zh": "49.9千克"
+ },
+ {
+  "id": 457,
+  "en": "Which of the following Pokémon needs the most exp to reach level 100?",
+  "es": "¿Qué Pokémon necesita más puntos de experiencia para alcanzar el nivel 100?",
+  "zh": "下列宝可梦中，哪只升到100级需要的经验值最多？"
+ },
+ {
+  "id": 458,
+  "en": "Illumise",
+  "es": "Illumise",
+  "zh": "甜甜萤"
+ },
+ {
+  "id": 459,
+  "en": "Mewtwo",
+  "es": "Mewtwo",
+  "zh": "超梦"
+ },
+ {
+  "id": 460,
+  "en": "Cloyster",
+  "es": "Cloyster",
+  "zh": "刺甲贝"
+ },
+ {
+  "id": 461,
+  "en": "Kadabra",
+  "es": "Kadabra",
+  "zh": "勇基拉"
+ },
+ {
+  "id": 462,
+  "en": "What is Armaldo's height?",
+  "es": "¿Cuál es la estatura de Armaldo?",
+  "zh": "太古盔甲有多高？"
+ },
+ {
+  "id": 463,
+  "en": "3' 11''",
+  "es": "1.2 m",
+  "zh": "1.2米"
+ },
+ {
+  "id": 464,
+  "en": "4' 03''",
+  "es": "1.3 m",
+  "zh": "1.3米"
+ },
+ {
+  "id": 465,
+  "en": "4' 07''",
+  "es": "1.4 m",
+  "zh": "1.4米"
+ },
+ {
+  "id": 466,
+  "en": "4' 11''",
+  "es": "1.5 m",
+  "zh": "1.5米"
+ },
+ {
+  "id": 467,
+  "en": "What is the effect of the Nasty Plot attack?",
+  "es": "¿Qué efecto tiene el uso de Maquinación?",
+  "zh": "诡计这个招式有什么效果？"
+ },
+ {
+  "id": 468,
+  "en": "Rises user's Special Attack",
+  "es": "Aumenta el Ataque Especial",
+  "zh": "提高使用者的特攻"
+ },
+ {
+  "id": 469,
+  "en": "Rises user's Attack",
+  "es": "Aumenta el Ataque",
+  "zh": "提高使用者的攻击"
+ },
+ {
+  "id": 470,
+  "en": "Lowers target's Special Defense",
+  "es": "Reduce al enemigo la Defensa Especial",
+  "zh": "降低对手的特防"
+ },
+ {
+  "id": 471,
+  "en": "Lowers target's Defense",
+  "es": "Reduce al enemigo la Defensa",
+  "zh": "降低对手的防御"
+ },
+ {
+  "id": 472,
+  "en": "What is Granbull's number in the Natural Pokédex?",
+  "es": "¿Qué número es Granbull en la numeración Natural?",
+  "zh": "布鲁皇在全国图鉴中的编号是多少？"
+ },
+ {
+  "id": 473,
+  "en": "208",
+  "es": "208",
+  "zh": "208"
+ },
+ {
+  "id": 474,
+  "en": "209",
+  "es": "209",
+  "zh": "209"
+ },
+ {
+  "id": 475,
+  "en": "210",
+  "es": "210",
+  "zh": "210"
+ },
+ {
+  "id": 476,
+  "en": "211",
+  "es": "211",
+  "zh": "211"
+ },
+ {
+  "id": 477,
+  "en": "It is said that Mesprit is...",
+  "es": "Se dice que el Pokémon Mesprit es...",
+  "zh": "据说艾姆利多是……"
+ },
+ {
+  "id": 478,
+  "en": "The Being of Emotion",
+  "es": "El ser de la emoción",
+  "zh": "感情之神"
+ },
+ {
+  "id": 479,
+  "en": "The Being of Knowledge",
+  "es": "El ser de la sabiduría",
+  "zh": "知识之神"
+ },
+ {
+  "id": 480,
+  "en": "The Being of Willpower",
+  "es": "El ser de la voluntad",
+  "zh": "意志之神"
+ },
+ {
+  "id": 481,
+  "en": "Non of the above is correct",
+  "es": "Ninguno de los anteriores es cierto",
+  "zh": "以上都不对"
+ },
+ {
+  "id": 482,
+  "en": "What is Luvdisc's specie?",
+  "es": "¿Cuál es la especie de Luvdisc?",
+  "zh": "爱心鱼的分类是什么？"
+ },
+ {
+  "id": 483,
+  "en": "Heart",
+  "es": "Corazón",
+  "zh": "心形"
+ },
+ {
+  "id": 484,
+  "en": "Love",
+  "es": "Amor",
+  "zh": "爱"
+ },
+ {
+  "id": 485,
+  "en": "Date",
+  "es": "Cita",
+  "zh": "约会"
+ },
+ {
+  "id": 486,
+  "en": "Cupid",
+  "es": "Cupido",
+  "zh": "丘比特"
+ },
+ {
+  "id": 487,
+  "en": "Which attack does Gripherial learns by leveling up?",
+  "es": "¿Qué ataque aprende por nivel Gripherial?",
+  "zh": "冰炎狮鹫可以通过升级学会哪个招式？"
+ },
+ {
+  "id": 488,
+  "en": "Fire Blast",
+  "es": "Llamarada",
+  "zh": "大字爆炎"
+ },
+ {
+  "id": 489,
+  "en": "Hail",
+  "es": "Granizo",
+  "zh": "冰雹"
+ },
+ {
+  "id": 490,
+  "en": "Hydro Pump",
+  "es": "Hidrobomba",
+  "zh": "水炮"
+ },
+ {
+  "id": 491,
+  "en": "There's no Pokémon with that name",
+  "es": "No existe ningún Pokémon con ese nombre",
+  "zh": "没有叫这个名字的宝可梦"
+ },
+ {
+  "id": 492,
+  "en": "What is the hardest to train of all of Eevee's evolutions?",
+  "es": "¿Cuál es el Pokémon más difícil de entrenar de todas las evoluciones de Eevee?",
+  "zh": "伊布的所有进化形态中，哪一只最难训练？"
+ },
+ {
+  "id": 493,
+  "en": "Eeveon",
+  "es": "Eeveon",
+  "zh": "进化伊布"
+ },
+ {
+  "id": 494,
+  "en": "Drakeon",
+  "es": "Drakeon",
+  "zh": "龙伊布"
+ },
+ {
+  "id": 495,
+  "en": "Rockeon",
+  "es": "Rockeon",
+  "zh": "岩伊布"
+ },
+ {
+  "id": 496,
+  "en": "Phanteon",
+  "es": "Phanteon",
+  "zh": "幽伊布"
+ },
+ {
+  "id": 497,
+  "en": "What attack does the MT 58 teaches?",
+  "es": "¿Qué ataque enseña la MT 58?",
+  "zh": "招式学习器58教的是什么招式？"
+ },
+ {
+  "id": 498,
+  "en": "Thunder Punch",
+  "es": "Puño Trueno",
+  "zh": "雷电拳"
+ },
+ {
+  "id": 499,
+  "en": "Fire Punch",
+  "es": "Puño Fuego",
+  "zh": "火焰拳"
+ },
+ {
+  "id": 500,
+  "en": "Ice Punch",
+  "es": "Puño Hielo",
+  "zh": "冰冻拳"
+ },
+ {
+  "id": 501,
+  "en": "Drain Punch",
+  "es": "Puño Drenaje",
+  "zh": "吸取拳"
+ },
+ {
+  "id": 502,
+  "en": "Lopunny can breed with...",
+  "es": "Lopunny puede criar con...",
+  "zh": "长耳兔可以和……生育后代"
+ },
+ {
+  "id": 503,
+  "en": "Luxray",
+  "es": "Luxray",
+  "zh": "伦琴猫"
+ },
+ {
+  "id": 504,
+  "en": "Buizel",
+  "es": "Buizel",
+  "zh": "泳圈鼬"
+ },
+ {
+  "id": 505,
+  "en": "Lucario",
+  "es": "Lucario",
+  "zh": "路卡利欧"
+ },
+ {
+  "id": 506,
+  "en": "All of the above",
+  "es": "Todos los anteriores",
+  "zh": "以上皆是"
+ },
+ {
+  "id": 507,
+  "en": "Which Pokémon doesn't keep any of its types after evolving?",
+  "es": "¿Qué Pokémon NO conserva ninguno de sus tipos al evolucionar?",
+  "zh": "哪只宝可梦进化后不会保留任何原来的属性？"
+ },
+ {
+  "id": 508,
+  "en": "Trapinch",
+  "es": "Trapinch",
+  "zh": "大颚蚁"
+ },
+ {
+  "id": 509,
+  "en": "Nidoran Male",
+  "es": "Nidoran Macho",
+  "zh": "尼多朗"
+ },
+ {
+  "id": 510,
+  "en": "Scyther",
+  "es": "Scyther",
+  "zh": "飞天螳螂"
+ },
+ {
+  "id": 511,
+  "en": "Larvitar",
+  "es": "Larvitar",
+  "zh": "幼基拉斯"
+ },
+ {
+  "id": 512,
+  "en": "Spinda belongs to which Egg group?",
+  "es": "Spinda pertenece a los grupos huevo de...",
+  "zh": "晃晃斑属于哪些蛋群？"
+ },
+ {
+  "id": 513,
+  "en": "Human-Like and Field",
+  "es": "Humanoide y Tierra",
+  "zh": "人型群和陆上群"
+ },
+ {
+  "id": 514,
+  "en": "Monster and Field",
+  "es": "Monstruo y Tierra",
+  "zh": "怪兽群和陆上群"
+ },
+ {
+  "id": 515,
+  "en": "Field only",
+  "es": "Sólo Tierra",
+  "zh": "只有陆上群"
+ },
+ {
+  "id": 516,
+  "en": "Non of the above",
+  "es": "Ninguno de los anteriores",
+  "zh": "以上都不是"
+ },
+ {
+  "id": 517,
+  "en": "For Tyrogue to evolve in Hitmonlee, it has to...",
+  "es": "Para que Tyrogue evolucione a Hitmonlee...",
+  "zh": "无畏小子要进化成飞腿郎，必须……"
+ },
+ {
+  "id": 518,
+  "en": "Have higher Defense than Attack",
+  "es": "La Defensa debe ser mayor que el Ataque",
+  "zh": "防御比攻击高"
+ },
+ {
+  "id": 519,
+  "en": "Have higher Attack than Defense",
+  "es": "La Defensa debe ser menor que el Ataque",
+  "zh": "攻击比防御高"
+ },
+ {
+  "id": 520,
+  "en": "Have equal Attack and Defense",
+  "es": "La Defensa debe ser igual que el Ataque",
+  "zh": "攻击和防御相等"
+ },
+ {
+  "id": 521,
+  "en": "Attack and Defense values doesn't matter ",
+  "es": "No influyen los stats",
+  "zh": "攻击和防御的数值没有影响"
+ },
+ {
+  "id": 522,
+  "en": "Select the list ordered from slower to faster:",
+  "es": "Elige la lista ordenada de más lentos a más veloces:",
+  "zh": "请选出按从慢到快排列的一组："
+ },
+ {
+  "id": 523,
+  "en": "Absol, Magikarp, Drapion, Fearow",
+  "es": "Absol, Magikarp, Drapion, Fearow",
+  "zh": "阿勃梭鲁、鲤鱼王、龙王蝎、大嘴雀"
+ },
+ {
+  "id": 524,
+  "en": "Magikarp, Drapion, Absol, Fearow",
+  "es": "Magikarp, Drapion, Absol, Fearow",
+  "zh": "鲤鱼王、龙王蝎、阿勃梭鲁、大嘴雀"
+ },
+ {
+  "id": 525,
+  "en": "Magikarp, Absol, Drapion, Fearow",
+  "es": "Magikarp, Absol, Drapion, Fearow",
+  "zh": "鲤鱼王、阿勃梭鲁、龙王蝎、大嘴雀"
+ },
+ {
+  "id": 526,
+  "en": "Magikarp, Fearow, Drapion, Absol",
+  "es": "Magikarp, Fearow, Drapion, Absol",
+  "zh": "鲤鱼王、大嘴雀、龙王蝎、阿勃梭鲁"
+ },
+ {
+  "id": 527,
+  "en": "Focus Blast attack against Stunky...",
+  "es": "El ataque Onda Certera usado contra Stunky...",
+  "zh": "对臭鼬噗使用真气弹……"
+ },
+ {
+  "id": 528,
+  "en": "Is very effective",
+  "es": "Es muy efectivo",
+  "zh": "效果绝佳"
+ },
+ {
+  "id": 529,
+  "en": "Is not very effective",
+  "es": "Es poco efectivo",
+  "zh": "效果不好"
+ },
+ {
+  "id": 530,
+  "en": "It doesn't affect Stunky",
+  "es": "No es nada efectivo",
+  "zh": "对臭鼬噗没有效果"
+ },
+ {
+  "id": 531,
+  "en": "Non of the above",
+  "es": "Ninguna de las anteriores",
+  "zh": "以上都不对"
+ },
+ {
+  "id": 532,
+  "en": "Which of the following Type triangles does not match the game 'Rock-Paper-Scissor'?",
+  "es": "¿Qué triángulo de tipos no se corresponde con el juego 'Piedra-Papel-Tijeras'?",
+  "zh": "下面哪一组属性三角关系与“石头剪刀布”游戏不相符？"
+ },
+ {
+  "id": 533,
+  "en": "Dark-Fighting-Psychic",
+  "es": "Siniestro-Lucha-Psíquico",
+  "zh": "恶—格斗—超能力"
+ },
+ {
+  "id": 534,
+  "en": "Fighting-Flying-Ice",
+  "es": "Lucha-Volador-Hielo",
+  "zh": "格斗—飞行—冰"
+ },
+ {
+  "id": 535,
+  "en": "Rock-Steel-Fighting",
+  "es": "Roca-Acero-Lucha",
+  "zh": "岩石—钢—格斗"
+ },
+ {
+  "id": 536,
+  "en": "Fire-Water-Grass",
+  "es": "Fuego-Agua-Planta",
+  "zh": "火—水—草"
+ },
+ {
+  "id": 537,
+  "en": "Whih of the following Pokémon is weak against Grass type?",
+  "es": "¿Qué Pokémon es más vulnerable al tipo Planta?",
+  "zh": "下列宝可梦中，哪只弱草属性？"
+ },
+ {
+  "id": 538,
+  "en": "Dewgong",
+  "es": "Dewgong",
+  "zh": "白海狮"
+ },
+ {
+  "id": 539,
+  "en": "Empoleon",
+  "es": "Empoleon",
+  "zh": "帝王拿波"
+ },
+ {
+  "id": 540,
+  "en": "Gyarados",
+  "es": "Gyarados",
+  "zh": "暴鲤龙"
+ },
+ {
+  "id": 541,
+  "en": "Tentacruel",
+  "es": "Tentacruel",
+  "zh": "毒刺水母"
+ },
+ {
+  "id": 542,
+  "en": "Which of the following Pokémon gets shorter after evolving?",
+  "es": "¿Qué Pokémon reduce su altura cuando evoluciona?",
+  "zh": "下列宝可梦中，哪只进化后会变矮？"
+ },
+ {
+  "id": 543,
+  "en": "Wurmple",
+  "es": "Wurmple",
+  "zh": "刺尾虫"
+ },
+ {
+  "id": 544,
+  "en": "Porygon2",
+  "es": "Porygon2",
+  "zh": "多边兽２型"
+ },
+ {
+  "id": 545,
+  "en": "Dragonair",
+  "es": "Dragonair",
+  "zh": "哈克龙"
+ },
+ {
+  "id": 546,
+  "en": "All of the above are correct",
+  "es": "Todas las respuestas anteriores son ciertas",
+  "zh": "以上皆正确"
+ },
+ {
+  "id": 547,
+  "en": "Which of the following Pokémon is the heaviest?",
+  "es": "¿Qué Pokémon es más pesado?",
+  "zh": "下列宝可梦中，哪只最重？"
+ },
+ {
+  "id": 548,
+  "en": "Wailord",
+  "es": "Wailord",
+  "zh": "吼鲸王"
+ },
+ {
+  "id": 549,
+  "en": "Snorlax",
+  "es": "Snorlax",
+  "zh": "卡比兽"
+ },
+ {
+  "id": 550,
+  "en": "Kyogre",
+  "es": "Kyogre",
+  "zh": "盖欧卡"
+ },
+ {
+  "id": 551,
+  "en": "Rhyperior",
+  "es": "Rhyperior",
+  "zh": "超甲狂犀"
+ },
+ {
+  "id": 552,
+  "en": "Of the following, which Pokémon can evolve at a lower level than the rest?",
+  "es": "De los Pokémon siguientes, ¿a cuál podemos evolucionar en un nivel inferior al resto?",
+  "zh": "下列宝可梦中，哪只可以在比其他几只更低的等级进化？"
+ },
+ {
+  "id": 553,
+  "en": "Slowpoke",
+  "es": "Slowpoke",
+  "zh": "呆呆兽"
+ },
+ {
+  "id": 554,
+  "en": "Kabuto",
+  "es": "Kabuto",
+  "zh": "化石盔"
+ },
+ {
+  "id": 555,
+  "en": "Grimer",
+  "es": "Grimer",
+  "zh": "臭泥"
+ },
+ {
+  "id": 556,
+  "en": "Quilava",
+  "es": "Quilava",
+  "zh": "火岩鼠"
+ },
+ {
+  "id": 557,
+  "en": "Which of the following attacks is the strongest?",
+  "es": "¿Qué ataque tiene mayor potencia?",
+  "zh": "下列招式中，哪个威力最大？"
+ },
+ {
+  "id": 558,
+  "en": "Psychic",
+  "es": "Psíquico",
+  "zh": "精神强念"
+ },
+ {
+  "id": 559,
+  "en": "Earth Power",
+  "es": "Tierra Viva",
+  "zh": "大地之力"
+ },
+ {
+  "id": 560,
+  "en": "Bug Buzz",
+  "es": "Zumbido",
+  "zh": "虫鸣"
+ },
+ {
+  "id": 561,
+  "en": "They have the same base power",
+  "es": "Todos tienen la misma potencia",
+  "zh": "它们的基础威力相同"
+ },
+ {
+  "id": 562,
+  "en": "Under normal conditions, which attack can't be learn by Rapidash by leveling up?",
+  "es": "Indica el ataque que no puede aprender Rapidash subiendo de nivel.",
+  "zh": "正常情况下，烈焰马不能通过升级学会哪个招式？"
+ },
+ {
+  "id": 563,
+  "en": "Flamethrower",
+  "es": "Lanzallamas",
+  "zh": "喷射火焰"
+ },
+ {
+  "id": 564,
+  "en": "Bounce",
+  "es": "Bote",
+  "zh": "弹跳"
+ },
+ {
+  "id": 565,
+  "en": "Fury Attack",
+  "es": "Ataque Furia",
+  "zh": "乱击"
+ },
+ {
+  "id": 566,
+  "en": "Flare Blitz",
+  "es": "Envite Ígneo",
+  "zh": "闪焰冲锋"
+ },
+ {
+  "id": 567,
+  "en": "Select the Pokémon that has Normal type as its second type",
+  "es": "Selecciona el Pokémon que tiene el tipo normal como tipo secundario.",
+  "zh": "请选出一般属性为副属性的宝可梦"
+ },
+ {
+  "id": 568,
+  "en": "Bibarel",
+  "es": "Bibarel",
+  "zh": "大尾狸"
+ },
+ {
+  "id": 569,
+  "en": "Girafarig",
+  "es": "Girafarig",
+  "zh": "麒麟奇"
+ },
+ {
+  "id": 570,
+  "en": "Dodrio",
+  "es": "Dodrio",
+  "zh": "嘟嘟利"
+ },
+ {
+  "id": 571,
+  "en": "None of the above",
+  "es": "Ninguno de los anteriores",
+  "zh": "以上都不是"
+ },
+ {
+  "id": 572,
+  "en": "Which of the following Pokémon has the weakest attack stat?",
+  "es": "¿Qué Pokémon dispone de menor nivel de ataque?",
+  "zh": "下列宝可梦中，哪只的攻击能力值最低？"
+ },
+ {
+  "id": 573,
+  "en": "Machamp",
+  "es": "Machamp",
+  "zh": "怪力"
+ },
+ {
+  "id": 574,
+  "en": "Flareon",
+  "es": "Flareon",
+  "zh": "火伊布"
+ },
+ {
+  "id": 575,
+  "en": "Gyarados",
+  "es": "Gyarados",
+  "zh": "暴鲤龙"
+ },
+ {
+  "id": 576,
+  "en": "All of the above have the same attack stat",
+  "es": "Todos los anteriores tienen el mismo nivel de ataque",
+  "zh": "以上的攻击能力值都相同"
+ },
+ {
+  "id": 577,
+  "en": "Which type only resists its own type?",
+  "es": "Selecciona el tipo de Pokémon que cumple: 'Sólo opone resistencia a su propio tipo'.",
+  "zh": "请选出符合“只抵抗自己属性”的属性："
+ },
+ {
+  "id": 578,
+  "en": "Bug",
+  "es": "Bicho",
+  "zh": "虫"
+ },
+ {
+  "id": 579,
+  "en": "Ice",
+  "es": "Hielo",
+  "zh": "冰"
+ },
+ {
+  "id": 580,
+  "en": "Dragon",
+  "es": "Dragón",
+  "zh": "龙"
+ },
+ {
+  "id": 581,
+  "en": "Ghost",
+  "es": "Fantasma",
+  "zh": "幽灵"
+ },
+ {
+  "id": 582,
+  "en": "Which Pokémon can we consider oviparous?",
+  "es": "¿Qué Pokémon podemos considerar Ovíparo?",
+  "zh": "哪只宝可梦可以视为卵生？"
+ },
+ {
+  "id": 583,
+  "en": "Pidgeotto",
+  "es": "Pidgeotto",
+  "zh": "比比鸟"
+ },
+ {
+  "id": 584,
+  "en": "Sunflora",
+  "es": "Sunflora",
+  "zh": "向日花怪"
+ },
+ {
+  "id": 585,
+  "en": "Arcanine",
+  "es": "Arcanine",
+  "zh": "风速狗"
+ },
+ {
+  "id": 586,
+  "en": "All of the above",
+  "es": "Todos los anteriores",
+  "zh": "以上皆是"
+ },
+ {
+  "id": 587,
+  "en": "How does Mantyke evolve?",
+  "es": "¿Cómo evoluciona Mantyke?",
+  "zh": "小球飞鱼如何进化？"
+ },
+ {
+  "id": 588,
+  "en": "Leveling up while equipped with certain object",
+  "es": "Subir de nivel con un objeto equipado",
+  "zh": "携带特定道具升级"
+ },
+ {
+  "id": 589,
+  "en": "Leveling up and learning a certain move",
+  "es": "Subir de nivel aprendiendo un ataque",
+  "zh": "学会特定招式后升级"
+ },
+ {
+  "id": 590,
+  "en": "Just by leveling up",
+  "es": "Subir de nivel únicamente",
+  "zh": "只要升级"
+ },
+ {
+  "id": 591,
+  "en": "None of the above",
+  "es": "Ninguno de los anteriores",
+  "zh": "以上都不是"
+ },
+ {
+  "id": 592,
+  "en": "When Poliwag evolves:",
+  "es": "Cuando Poliwag evoluciona...",
+  "zh": "蚊香蝌蚪进化时："
+ },
+ {
+  "id": 593,
+  "en": "The spiral in its stomach changes directions",
+  "es": "La espiral de su estómago cambia de sentido",
+  "zh": "肚子上的螺旋会改变方向"
+ },
+ {
+  "id": 594,
+  "en": "It keeps its mouth",
+  "es": "Conserva la boca",
+  "zh": "保留嘴巴"
+ },
+ {
+  "id": 595,
+  "en": "It keeps its tail",
+  "es": "Conserva la cola",
+  "zh": "保留尾巴"
+ },
+ {
+  "id": 596,
+  "en": "All of the above are incorrect",
+  "es": "Todas las afirmaciones anteriores son falsas",
+  "zh": "以上说法都不对"
+ },
+ {
+  "id": 597,
+  "en": "Which Pokémon is faster than its own evolution?",
+  "es": "¿Qué Pokémon es más rápido que su evolución?",
+  "zh": "哪只宝可梦比它自己的进化形态速度更快？"
+ },
+ {
+  "id": 598,
+  "en": "Electabuzz",
+  "es": "Electabuzz",
+  "zh": "电击兽"
+ },
+ {
+  "id": 599,
+  "en": "Magmar",
+  "es": "Magmar",
+  "zh": "鸭嘴火兽"
+ },
+ {
+  "id": 600,
+  "en": "A and B are correct",
+  "es": "A y B son correctos",
+  "zh": "A和B都对"
+ },
+ {
+  "id": 601,
+  "en": "A and B are incorrect",
+  "es": "A y B son incorrectos",
+  "zh": "A和B都不对"
+ },
+ {
+  "id": 602,
+  "en": "Which Pokémon can't learn Cut through a Hidden Machine(HM)?",
+  "es": "¿Qué Pokémon no puede aprender Corte usando una Máquina Oculta (MO)?",
+  "zh": "哪只宝可梦不能通过秘传学习器学会居合斩？"
+ },
+ {
+  "id": 603,
+  "en": "Diglett",
+  "es": "Diglett",
+  "zh": "地鼠"
+ },
+ {
+  "id": 604,
+  "en": "Zangoose",
+  "es": "Zangoose",
+  "zh": "猫鼬斩"
+ },
+ {
+  "id": 605,
+  "en": "Pinsir",
+  "es": "Pinsir",
+  "zh": "凯罗斯"
+ },
+ {
+  "id": 606,
+  "en": "They all can learn Cut",
+  "es": "Todos pueden aprender Corte",
+  "zh": "它们都能学会居合斩"
+ },
+ {
+  "id": 607,
+  "en": "Which is Larvitar's weight?",
+  "es": "¿Cuál es el peso de Larvitar?",
+  "zh": "幼基拉斯有多重？"
+ },
+ {
+  "id": 608,
+  "en": "101,4 lb",
+  "es": "46 kg",
+  "zh": "46千克"
+ },
+ {
+  "id": 609,
+  "en": "116,9 lb",
+  "es": "53 kg",
+  "zh": "53千克"
+ },
+ {
+  "id": 610,
+  "en": "141,1 lb",
+  "es": "64 kg",
+  "zh": "64千克"
+ },
+ {
+  "id": 611,
+  "en": "158,7 lb",
+  "es": "72 kg",
+  "zh": "72千克"
+ },
+ {
+  "id": 612,
+  "en": "Select the CORRECT sentence:",
+  "es": "Señala la correcta:",
+  "zh": "请选出正确的说法："
+ },
+ {
+  "id": 613,
+  "en": "Legendary Pokémon don't have gender.",
+  "es": "Los Pokémon Legendarios no pueden ser machos o hembras.",
+  "zh": "传说的宝可梦没有性别"
+ },
+ {
+  "id": 614,
+  "en": "Dialga is the easiest to catch Legendary Pokémon",
+  "es": "El Pokémon Legendario más fácil de capturar es Dialga",
+  "zh": "帝牙卢卡是最容易捕捉的传说宝可梦"
+ },
+ {
+  "id": 615,
+  "en": "Phione is a Legendary Pokémon",
+  "es": "Phione es Legendario",
+  "zh": "霏欧纳是传说的宝可梦"
+ },
+ {
+  "id": 616,
+  "en": "It's impossible to catch a Legendary Pokémon with a Poké Ball",
+  "es": "Es imposible atrapar a un Legendario con una Poké Ball",
+  "zh": "用精灵球不可能捕捉到传说的宝可梦"
+ },
+ {
+  "id": 617,
+  "en": "Which Pokémon is the strongest (higher sum value of its stats)?",
+  "es": "¿Qué Pokémon es más poderoso (mayor valor de suma de sus stats)?",
+  "zh": "哪只宝可梦最强（能力值总和最高）？"
+ },
+ {
+  "id": 618,
+  "en": "Ratatta",
+  "es": "Ratatta",
+  "zh": "小拉达"
+ },
+ {
+  "id": 619,
+  "en": "Sentret",
+  "es": "Sentret",
+  "zh": "尾立"
+ },
+ {
+  "id": 620,
+  "en": "Zigzagoon",
+  "es": "Zigzagoon",
+  "zh": "蛇纹熊"
+ },
+ {
+  "id": 621,
+  "en": "Bidoof",
+  "es": "Bidoof",
+  "zh": "大牙狸"
+ },
+ {
+  "id": 622,
+  "en": "How is it called the Island where we are right now?",
+  "es": "¿Cómo se llama la Isla donde estamos ahora mismo?",
+  "zh": "我们现在所在的这座岛叫什么名字？"
+ },
+ {
+  "id": 623,
+  "en": "Hydra",
+  "es": "Hydra",
+  "zh": "长蛇岛"
+ },
+ {
+  "id": 624,
+  "en": "Arrow",
+  "es": "Flecha",
+  "zh": "箭之岛"
+ },
+ {
+  "id": 625,
+  "en": "Ibiza",
+  "es": "Ibiza",
+  "zh": "伊维萨岛"
+ },
+ {
+  "id": 626,
+  "en": "Jungle",
+  "es": "Jungla",
+  "zh": "丛林岛"
+ },
+ {
+  "id": 627,
+  "en": "It doesn't have a name",
+  "es": "No tiene nombre",
+  "zh": "它没有名字"
+ },
+ {
+  "id": 628,
+  "en": "What is the origin of the Mewtwo we had on this lab?",
+  "es": "¿Cuál es el origen del Mewtwo que tuvimos en este laboratorio?",
+  "zh": "我们在这座研究所里的那只超梦是怎么来的？"
+ },
+ {
+  "id": 629,
+  "en": "Offspring of two Mew",
+  "es": "Hijo de dos Mew",
+  "zh": "两只梦幻的后代"
+ },
+ {
+  "id": 630,
+  "en": "Offspring of two Mewtwo",
+  "es": "Hijo de dos Mewtwo",
+  "zh": "两只超梦的后代"
+ },
+ {
+  "id": 631,
+  "en": "Offspring of a Mew and a Mewtwo",
+  "es": "Hijo de un Mew y un Mewtwo",
+  "zh": "一只梦幻和一只超梦的后代"
+ },
+ {
+  "id": 632,
+  "en": "Cloned in a lab",
+  "es": "Clonado en un laboratorio",
+  "zh": "在实验室里克隆出来的"
+ },
+ {
+  "id": 633,
+  "en": "Came from outer space",
+  "es": "Vino del espacio exterior",
+  "zh": "来自外太空"
+ },
+ {
+  "id": 634,
+  "en": "What power does Mew possess?",
+  "es": "¿Qué poder posee Mew?",
+  "zh": "梦幻拥有什么力量？"
+ },
+ {
+  "id": 635,
+  "en": "It can travel through time",
+  "es": "Puede viajar en el tiempo",
+  "zh": "可以穿越时间"
+ },
+ {
+  "id": 636,
+  "en": "It can grant wishes",
+  "es": "Puede conceder deseos",
+  "zh": "可以实现愿望"
+ },
+ {
+  "id": 637,
+  "en": "It can swap the souls of two living beings",
+  "es": "Puede intercambiar las almas",
+  "zh": "可以互换两个生命的灵魂"
+ },
+ {
+  "id": 638,
+  "en": "It can transform into any other Pokémon",
+  "es": "Puede usar transformación",
+  "zh": "可以变身成任何其他宝可梦"
+ },
+ {
+  "id": 639,
+  "en": "It has a magic pocket with items inside",
+  "es": "Tiene un bolsillo mágico con objetos dentro",
+  "zh": "有一个装着道具的魔法口袋"
+ },
+ {
+  "id": 640,
+  "en": "What did Mewtwo do to kill time?",
+  "es": "¿En qué se entretenía Mewtwo para pasar el rato?",
+  "zh": "超梦是靠什么打发时间的？"
+ },
+ {
+  "id": 641,
+  "en": "Juggle with Voltorb",
+  "es": "Hacía malabares con Voltorb",
+  "zh": "用霹雳电球玩杂耍"
+ },
+ {
+  "id": 642,
+  "en": "Solve sudokus puzzles ",
+  "es": "Resolvía sudokus",
+  "zh": "解数独"
+ },
+ {
+  "id": 643,
+  "en": "Play hide and seek",
+  "es": "Jugaba al escondite",
+  "zh": "玩捉迷藏"
+ },
+ {
+  "id": 644,
+  "en": "Battled against wild Pokémon",
+  "es": "Combatía contra Pokémon salvajes",
+  "zh": "和野生宝可梦对战"
+ },
+ {
+  "id": 645,
+  "en": "Studied architecture",
+  "es": "Estudiaba arquitectura",
+  "zh": "学习建筑学"
+ },
+ {
+  "id": 646,
+  "en": "What was the obsession of Mewtwo?",
+  "es": "¿Cuál era la obsesión de Mewtwo?",
+  "zh": "超梦执着于什么？"
+ },
+ {
+  "id": 647,
+  "en": "Be handsome",
+  "es": "Estar guapo",
+  "zh": "变帅"
+ },
+ {
+  "id": 648,
+  "en": "Battle Pokémon",
+  "es": "Combates Pokémon",
+  "zh": "宝可梦对战"
+ },
+ {
+  "id": 649,
+  "en": "Collect stamps",
+  "es": "Coleccionar sellos",
+  "zh": "集邮"
+ },
+ {
+  "id": 650,
+  "en": "Destroy things",
+  "es": "Destruir cosas",
+  "zh": "破坏东西"
+ },
+ {
+  "id": 651,
+  "en": "Find it's parents",
+  "es": "Encontrar a sus padres",
+  "zh": "寻找自己的父母"
+ },
+ {
+  "id": 652,
+  "en": "In regards to our Boss...",
+  "es": "Con respecto a nuestro Jefe...",
+  "zh": "关于我们的老板……"
+ },
+ {
+  "id": 653,
+  "en": "He was here every day",
+  "es": "Siempre estaba aquí",
+  "zh": "他每天都在这里"
+ },
+ {
+  "id": 654,
+  "en": "He wasn't very interested in Mewtwo",
+  "es": "No estaba interesado mucho en Mewtwo",
+  "zh": "他对超梦不怎么感兴趣"
+ },
+ {
+  "id": 655,
+  "en": "He wanted to free Mewtwo",
+  "es": "Quería dejar en libertad a Mewtwo",
+  "zh": "他想让超梦重获自由"
+ },
+ {
+  "id": 656,
+  "en": "He was Dr. Kaerf",
+  "es": "Era el Dr. Kaerf",
+  "zh": "他就是卡尔夫博士"
+ },
+ {
+  "id": 657,
+  "en": "He always had a Persian by his side",
+  "es": "Siempre iba con su Persian",
+  "zh": "他身边总带着一只猫老大"
+ },
+ {
+  "id": 658,
+  "en": "When did the incident of three years ago with Mewtwo happen?",
+  "es": "¿En qué fecha ocurrió el incidente con Mewtwo de hace tres años?",
+  "zh": "三年前超梦的那起事件发生在哪一天？"
+ },
+ {
+  "id": 659,
+  "en": "MARCH 10th",
+  "es": "10 de MARZO",
+  "zh": "3月10日"
+ },
+ {
+  "id": 660,
+  "en": "FEBRUARY 28th",
+  "es": "28 de FEBRERO",
+  "zh": "2月28日"
+ },
+ {
+  "id": 661,
+  "en": "FEBRUARY 14th",
+  "es": "14 de FEBRERO",
+  "zh": "2月14日"
+ },
+ {
+  "id": 662,
+  "en": "NOVEMBER 14th",
+  "es": "14 de NOVIEMBRE",
+  "zh": "11月14日"
+ },
+ {
+  "id": 663,
+  "en": "DECEMBER 25th",
+  "es": "25 de DICIEMBRE",
+  "zh": "12月25日"
+ },
+ {
+  "id": 664,
+  "en": "Why did Mewtwo want to leave the lab?",
+  "es": "¿Por qué Mewtwo quería irse del laboratorio?",
+  "zh": "超梦为什么想离开研究所？"
+ },
+ {
+  "id": 665,
+  "en": "It was very bored",
+  "es": "Se aburría mucho aquí",
+  "zh": "它在这里太无聊了"
+ },
+ {
+  "id": 666,
+  "en": "It wanted to conquer the world",
+  "es": "Quería conquistar el mundo",
+  "zh": "它想征服世界"
+ },
+ {
+  "id": 667,
+  "en": "It wanted to win the Pokémon League",
+  "es": "Quería ganar la Liga Pokémon",
+  "zh": "它想赢得宝可梦联盟"
+ },
+ {
+  "id": 668,
+  "en": "It wanted to find love",
+  "es": "Quería encontrar el amor",
+  "zh": "它想寻找爱情"
+ },
+ {
+  "id": 669,
+  "en": "It wanted to meet all Pokémon",
+  "es": "Quería conocer a todos los Pokémon ",
+  "zh": "它想认识所有的宝可梦"
+ }
+]
