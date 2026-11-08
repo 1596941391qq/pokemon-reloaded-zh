@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 """宝可梦重装上阵（Pokémon Reloaded）简体中文补丁 —— 一键打补丁。
 
-用法（Windows 命令行，或双击 安装中文补丁.bat）：
-    python patch.py "D:\\Games\\Proyecto Reloaded"
+用法：
+  - 打包好的 exe：把「重装上阵中文补丁.exe」放进游戏文件夹双击；或者双击后把游戏文件夹拖进窗口回车。
+  - 源码：python patch.py "D:\\Games\\Proyecto Reloaded"（或双击 安装中文补丁.bat）
 
 做的事：
   1. 第一次运行时把原版 exe、lan.txt、config.ini 备份到游戏目录下的「原版备份」文件夹；
@@ -31,15 +32,34 @@ def sha256(path):
     return h.hexdigest()
 
 
+FROZEN = getattr(sys, 'frozen', False)
+SELF = os.path.basename(sys.executable).lower() if FROZEN else ''
+
+
+def is_game_dir(d):
+    return os.path.isdir(os.path.join(d, 'data', 'text', 'en'))
+
+
+def game_exes(d):
+    """游戏文件夹里的 exe（不算补丁自己）。"""
+    return [f for f in os.listdir(d) if f.lower().endswith('.exe') and f.lower() != SELF and '补丁' not in f]
+
+
 def main():
-    if len(sys.argv) < 2:
-        game = input('把游戏文件夹拖进来（或输入路径），回车：').strip().strip('"')
-    else:
+    if len(sys.argv) >= 2:
         game = sys.argv[1]
+    else:
+        here = os.path.dirname(os.path.abspath(sys.executable if FROZEN else __file__))
+        found = next((d for d in (here, os.getcwd()) if is_game_dir(d)), None)
+        if found:
+            print('找到游戏文件夹:', found)
+            game = found
+        else:
+            game = input('把游戏文件夹拖进这个窗口（或输入路径），然后按回车：').strip().strip('"')
     game = os.path.abspath(game)
     if not os.path.isdir(os.path.join(game, 'data', 'text', 'en')):
         sys.exit(f'没找到 {game}\\data\\text\\en —— 请选择游戏本体所在的文件夹（里面有 .exe 和 data 文件夹）。')
-    exes = [f for f in os.listdir(game) if f.lower().endswith('.exe')]
+    exes = game_exes(game)
     if len(exes) != 1:
         sys.exit(f'游戏文件夹里应该只有一个 .exe，现在是: {exes}')
     exe = exes[0]
@@ -71,4 +91,14 @@ def main():
 
 
 if __name__ == '__main__':
-    main()
+    try:
+        main()
+    except SystemExit as e:
+        if e.code not in (None, 0):
+            print(e.code if isinstance(e.code, str) else '已取消。')
+    except Exception as e:  # 打包版要把错误留在窗口里给玩家看
+        import traceback
+        traceback.print_exc()
+        print('\n出错了，请把上面的内容截图发给作者。')
+    if FROZEN or len(sys.argv) < 2:
+        input('\n按回车键关闭窗口……')

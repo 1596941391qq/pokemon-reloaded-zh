@@ -9,7 +9,7 @@
 import glob, json, os, re, shutil, sys, time
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-ROOT = os.path.dirname(HERE)
+ROOT = getattr(sys, '_MEIPASS', None) or os.path.dirname(HERE)  # 打包成 exe 时数据在临时解包目录
 sys.path.insert(0, HERE)
 import rtext, zhfont, gm8_repack as gm  # noqa: E402
 
