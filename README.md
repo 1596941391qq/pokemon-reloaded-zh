@@ -43,11 +43,13 @@
 ## 安装方法（Windows）
 
 1. **下载游戏**：在作者博客下载 *The Last Beta 1.9.2.2 Full* 并解压，比如解压到 `D:\Games\Proyecto Reloaded`。
-2. **下载补丁**：本页右上角 **Code → Download ZIP**，解压到任意位置。
-3. **装 Python**（没装过的话）：<https://www.python.org/downloads/> 下载 Python 3，安装时勾选 **Add python.exe to PATH**。
-4. **打补丁**：双击补丁文件夹里的 **`安装中文补丁.bat`**，把游戏文件夹拖进窗口，按回车。大约 10 秒完成。
-   - 命令行也可以：`python patch.py "D:\Games\Proyecto Reloaded"`
-5. **开始游戏**：直接运行游戏 exe，默认就是简体中文。也可以在游戏的语言选项里切回英语或西语。
+2. **下载补丁**：到本仓库的 [Releases（发布页）](https://github.com/1596941391qq/pokemon-reloaded-zh/releases) 下载最新的 **`PokemonReloaded-zh-patch.exe`**。
+3. **打补丁**：把它放进游戏文件夹（和游戏的 exe 放在一起），双击运行，约 10 秒完成，看到「完成！」后按回车关闭。不用装 Python 或其他东西。
+   - 补丁没有数字签名，Windows 可能提示「Windows 已保护你的电脑」：点「更多信息」→「仍要运行」。
+   - 也可以不放进游戏文件夹：双击后把游戏文件夹拖进窗口，按回车。
+4. **开始游戏**：直接运行游戏 exe，默认就是简体中文。也可以在游戏的语言选项里切回英语或西语。
+
+会写 Python 的也可以用源码打补丁：本页右上角 **Code → Download ZIP**，然后 `python patch.py "D:\Games\Proyecto Reloaded"`（或双击 `安装中文补丁.bat`），需要 Python 3.8+，不用第三方库。
 
 补丁会把原版 exe、`lan.txt`、`config.ini` 备份到游戏目录下的 **`原版备份`** 文件夹。之后每次打补丁都以这份备份为底重新生成，所以译文更新后再运行一次即可，不会越改越乱。
 
