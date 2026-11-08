@@ -41,3 +41,25 @@ python3 -I tools/check_part.py work/parts/<你的文件>.json <源文件名，�
 - 设施/玩法：华丽大赛（Contest）、宝可梦全能竞技赛（Pokéathlon）、对战开拓区（Battle Frontier）、培育屋（Day Care）、宝可梦中心、友好商店（Poké Mart）、宝可梦联盟、道馆
 - 道具常用：超级环（Mega Ring）、超级手环（Mega Bracelet）、Ｚ纯晶、银色王冠/金色王冠、奈克洛索尔合体器/奈克洛露奈合体器
 - 人物：一律以 `translations/txt_character.json` 为准（已对照神奇宝贝百科核对过官方角色）。**注意：这个游戏的英文栏常常直接用西语名**（如 Lem=希特隆、Corelia=可尔妮、Dianta=卡露妮、Mento=一树），按英文和西语两栏都去人物表里找。官方角色举例：琴音（Lyra）、阿响（Ethan/Gold）、满充（Wally）、阿驯（Barry）、黑连（Cheren）、白露（Bianca）、山梨博士（Rowan）、布拉塔诺博士（Sycamore）、帅哥（Looker）。
+
+## 剧情里反复出现的自译名（已定，照用）
+
+| 原文（英 / 西） | 译名 |
+|---|---|
+| Team Rekiem | 安魂队（Rekiem Castle = 安魂城堡） |
+| Elite Squad / Escuadrón Élite | 精英小队 |
+| Vital Particle / Partícula Vital | 活力粒子 |
+| Star Frontier / Frente Star | 星之开拓区（各区：锦标赛开拓区、工厂开拓区……） |
+| Star Pokémon League / Liga Pokémon Star | 星辰宝可梦联盟 |
+| Scorpio Building / Rascacielos Scorpio | 天蝎大厦 |
+| Combat Faculty / Facultad de Combate | 对战学院 |
+| Rigel Saloon | 参宿酒馆 |
+| Star Region Bank | 星辰银行 |
+| Great Wise Elder / Gran Sabio Anciano | 大贤者 |
+| Day Care | 培育屋 |
+| Discount Coupon | 折价券 |
+| Distortion World | 毁坏的世界 |
+| Galar / Hisui / Kalos / Paldea | 伽勒尔 / 洗翠 / 卡洛斯 / 帕底亚 |
+| Professor Oak 全名 Samuel Oak | 大木雪成 |
+
+**地名特别注意**：其他地区（关都、城都、丰缘、神奥、合众、卡洛斯）的城镇名已经收进 `glossary/places.tsv`，一律查表。之前凭记忆写错过好几次（华蓝市/满金市/浅葱市、秋叶镇/茵郁市、琉璃市/绿岭市）。表里查不到的官方地名，宁可写成通用说法（如“城都的那座港口城市”），也不要凭记忆编。翻之前可以先在 `translations/txt_dialog.json` 里搜已有译文，沿用前面的译法。
