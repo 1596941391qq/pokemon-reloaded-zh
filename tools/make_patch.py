@@ -63,12 +63,20 @@ def zh_lines(game_text_dir, translations):
         name = os.path.basename(path)[:-4]
         en_lines = rtext.read_lines(path)
         tr = translations.get(name, {})
+        by_en = {}  # 游戏更新后行号可能错位：按英文原文找回译文（只用唯一的）
+        for r in tr.values():
+            if r.get('zh') and r.get('en'):
+                by_en.setdefault(r['en'], set()).add(r['zh'])
         lines, done = [], 0
         for i, enc in enumerate(en_lines, 1):
             row = tr.get(i)
             zh = row.get('zh', '') if row else ''
-            if zh and row.get('en') is not None and row['en'] != rtext.decode_line(enc):
-                zh = ''  # 原文变了（游戏更新），这条先回落英文
+            cur = rtext.decode_line(enc)
+            if row is None or (row.get('en') is not None and row['en'] != cur):
+                cand = by_en.get(cur, set())
+                zh = next(iter(cand)) if len(cand) == 1 else ''  # 原文变了且找不到，回落英文
+            elif not zh and cur in by_en and len(by_en[cur]) == 1:
+                zh = next(iter(by_en[cur]))  # 同一句原文在别处已经译过
             if zh:
                 if name in SPACED:
                     zh = space_cjk(zh)
