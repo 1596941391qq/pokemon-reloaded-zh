@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
 """校验译文：控制符（# @ $..$ (&Z)）数量和原文一致、GBK 可编码、第二字节不落在 ASCII 区。
-用法: python3 -I tools/check_part.py <part.json 或 translations/x.json> <源文件名>"""
+用法: python3 -I tools/check_part.py <part.json 或 translations/x.json> <源文件名> [--src 源文本目录，默认 work/src]"""
 import json, re, sys, os
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+SRC = sys.argv[sys.argv.index('--src') + 1] if '--src' in sys.argv else os.path.join(ROOT, 'work', 'src')
 part = json.load(open(sys.argv[1], encoding='utf-8'))
-src = {r['id']: r for r in json.load(open(os.path.join(ROOT, 'work', 'src', sys.argv[2] + '.json'), encoding='utf-8'))}
+src = {r['id']: r for r in json.load(open(os.path.join(SRC, sys.argv[2] + '.json'), encoding='utf-8'))}
 TOK = re.compile(r'\$[A-Za-z0-9_]+\$|\(&[A-Z]\)')
 errs = 0
 for r in part:

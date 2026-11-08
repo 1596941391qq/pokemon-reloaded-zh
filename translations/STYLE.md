@@ -61,5 +61,20 @@ python3 -I tools/check_part.py work/parts/<你的文件>.json <源文件名，�
 | Distortion World | 毁坏的世界 |
 | Galar / Hisui / Kalos / Paldea | 伽勒尔 / 洗翠 / 卡洛斯 / 帕底亚 |
 | Professor Oak 全名 Samuel Oak | 大木雪成 |
+| Frontier Symbol / Símbolo | 纹章（银纹章、金纹章） |
+| Battle Points / PB | 对战点数（BP） |
+| Battle Dome / Cúpula de Batalla | 对战巨蛋 |
+| Front Line Café / Cafetería Primera Línea | 前线咖啡馆 |
+| Aspirant / Aspirante，Sub Ace / Ace | 挑战者，副王牌 / 王牌 |
+| Mortal Particle / Partícula Mortal | 死亡粒子 |
+| Z-Ring / Pulsera Z，Mega Stone | Ｚ手环，超级石 |
+| Terra Sanctuary / Santuario Terra | 地球圣域 |
+| Great Stellar Island / Gran Isla Estelar | 星辰大岛 |
+| Achievement Building | 成就大楼 |
+| Pokémon University | 宝可梦大学 |
+| Name Rater / Move Reminder / Move Tutor | 姓名鉴定师 / 招式回忆师 / 招式教学师 |
+| Swords of Justice | 圣剑士（官方） |
+| Battle Potentials / Potenciales de Batalla | 战斗潜力者 |
+| € | 元（GBK 没有欧元符号，金额后写“元”） |
 
 **地名特别注意**：其他地区（关都、城都、丰缘、神奥、合众、卡洛斯）的城镇名已经收进 `glossary/places.tsv`，一律查表。之前凭记忆写错过好几次（华蓝市/满金市/浅葱市、秋叶镇/茵郁市、琉璃市/绿岭市）。表里查不到的官方地名，宁可写成通用说法（如“城都的那座港口城市”），也不要凭记忆编。翻之前可以先在 `translations/txt_dialog.json` 里搜已有译文，沿用前面的译法。
