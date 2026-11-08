@@ -39,7 +39,7 @@ python3 -I tools/check_part.py work/parts/<你的文件>.json <源文件名，�
 
 - 组织：火箭队、海洋队（Team Aqua，不是“水舰队”）、熔岩队、银河队、等离子队、闪焰队、骷髅队、以太基金会
 - 设施/玩法：华丽大赛（Contest）、宝可梦全能竞技赛（Pokéathlon）、对战开拓区（Battle Frontier）、培育屋（Day Care）、宝可梦中心、友好商店（Poké Mart）、宝可梦联盟、道馆
-- 道具常用：超级环（Mega Ring）、超级手环（Mega Bracelet）、Ｚ纯晶、银色王冠/金色王冠、奈克洛索尔合体器/奈克洛露奈合体器
+- 道具常用：超级环（Mega Ring）、超级手镯（Mega Bracelet）、Ｚ纯晶、银色王冠/金色王冠、奈克洛索尔合体器/奈克洛露奈合体器
 - 人物：一律以 `translations/txt_character.json` 为准（已对照神奇宝贝百科核对过官方角色）。**注意：这个游戏的英文栏常常直接用西语名**（如 Lem=希特隆、Corelia=可尔妮、Dianta=卡露妮、Mento=一树），按英文和西语两栏都去人物表里找。官方角色举例：琴音（Lyra）、阿响（Ethan/Gold）、满充（Wally）、阿驯（Barry）、黑连（Cheren）、白露（Bianca）、山梨博士（Rowan）、布拉塔诺博士（Sycamore）、帅哥（Looker）。
 
 ## 剧情里反复出现的自译名（已定，照用）
