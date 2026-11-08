@@ -738,6 +738,8 @@ def cmd_release(ver, push=True):
     info = load_info(ver)
     if info.get('status') != 'built':
         die('先跑 build')
+    if not git('config', 'user.email', check=False).stdout.strip():
+        die('这个仓库没配 git 身份（应为 chenmeng <1596941391@qq.com>），先 git config user.name / user.email')
     st = state()
     old = st['current']
     sha, exe = info['exe_sha256'], info['exe']
