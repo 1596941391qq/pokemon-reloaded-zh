@@ -38,6 +38,24 @@ FIXED_SUBS = [
      'dt="DT"; if(global.language="en")dt="TR"; if(global.language="zh")dt="招式记录";'.encode('gbk')),
 ]
 
+# 起名检查（NameValidator）：禁用字符改为只查汉字以外的部分；纯中文名不算「没有字母」
+NAME_FIXES = [
+    (b'var error, char;', b'var error, char, zh_s; zh_s=zh_name_strip(argument0);'),
+    (b'if(ex(9765,string_letters(argument0))=0)error=11;',
+     b'if(ex(9765,string_letters(zh_s))=0 && zh_s=argument0)error=11;'),
+]
+NAME_COUNT = re.compile(rb'string_count\(("[^"]*"|\'[^\']*\'),argument0\)')
+
+
+def fix_name_validator(src):
+    for a, b in NAME_FIXES:
+        assert src.count(a) == 1, a
+        src = src.replace(a, b)
+    src, n = NAME_COUNT.subn(lambda m: b'string_count(' + m.group(1) + b',zh_s)', src)
+    assert n >= 30, n
+    return src
+
+
 DBCS_RUN = re.compile(r'(?<=[⺀-鿿＀-￯　-〿—…“”‘’·])'
                       r'(?=[⺀-鿿＀-￯　-〿—…“”‘’·])')
 
@@ -120,6 +138,7 @@ def patch_exe(exe_bytes, chars):
     n_changed = 0
     fixed_hits = {k: 0 for k, _ in FIXED_SUBS}
     names = set()
+    fixed_name = False
     for i, blob in enumerate(scripts):
         sc = gm.parse_script(blob)
         if sc is None:
@@ -129,6 +148,9 @@ def patch_exe(exe_bytes, chars):
         new = src
         for pat, rep in CALL_SUBS:
             new = pat.sub(rep, new)
+        if name == b'NameValidator':
+            new = fix_name_validator(new)
+            fixed_name = True
         for a, b in FIXED_SUBS:
             if a in new:
                 fixed_hits[a] += new.count(a)
@@ -136,6 +158,7 @@ def patch_exe(exe_bytes, chars):
         if new != src:
             scripts[i] = gm.script_blob(name, new)
             n_changed += 1
+    assert fixed_name, '没找到 NameValidator'
     for a, n in fixed_hits.items():
         if n == 0:
             print('  ! 没找到要改的片段:', a.decode('latin-1'))
