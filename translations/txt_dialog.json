@@ -2608,13 +2608,13 @@
   "id": 435,
   "en": "I should go to the Great Wise Elder for some advice.",
   "es": "Debería ir a visitar al Gran Sabio Anciano para que me dé consejo.",
-  "zh": "我该去拜访大贤者长老，请他给我些建议。"
+  "zh": "我该去拜访大贤者，请他给我些建议。"
  },
  {
   "id": 436,
   "en": "The Great Wise Elder lives at the top of the Pokémon Tower.",
   "es": "El Gran Sabio Anciano habita en lo alto de la Torre Pokémon.",
-  "zh": "大贤者长老住在宝可梦塔的顶层。"
+  "zh": "大贤者住在宝可梦塔的顶层。"
  },
  {
   "id": 437,
@@ -2752,7 +2752,7 @@
   "id": 459,
   "en": "The Great Wise Elder used to come down every day. But today he didn't...",
   "es": "El Gran Sabio Anciano solía bajar todos los días. Pero hoy no ha bajado...",
-  "zh": "大贤者长老以前每天都会下来。可今天他没有下来……"
+  "zh": "大贤者以前每天都会下来。可今天他没有下来……"
  },
  {
   "id": 460,
@@ -2776,7 +2776,7 @@
   "id": 463,
   "en": "It looks like the Great Wise Elder is not alone.",
   "es": "Parece que el Gran Sabio Anciano no está solo.",
-  "zh": "看来大贤者长老不是一个人。"
+  "zh": "看来大贤者不是一个人。"
  },
  {
   "id": 464,
@@ -2872,13 +2872,13 @@
   "id": 479,
   "en": "They say some Pokémon can see the past, the present and the future.@Others say the Great Wise Elder has the same ability.@Team Rocket's Boss ordered us to talk to the Elder and see what he has to say... He told us you were coming.@But not so fast! I'll make sure you don't get in the way of Team Rocket ever again!",
   "es": "Dicen que algunos Pokémon pueden ver el pasado, presente y futuro.@Otros dicen que el Gran Sabio Anciano posee esa misma habilidad.@El Jefe del Team Rocket nos ha pedido que vengamos a hablar con él, a ver qué se cuenta... Y el Gran Sabio Anciano nos ha dicho que venías.@¡Pero no te creas tan importante! Voy a hacer que te arrepientas de molestar al Team Rocket.",
-  "zh": "据说有些宝可梦能看见过去、现在和未来。@也有人说大贤者长老也有同样的能力。@火箭队首领命令我们来找他谈谈，听听他有什么说法……结果大贤者长老告诉我们你会来。@不过别以为自己有多了不起！我要让你后悔来打扰火箭队！"
+  "zh": "据说有些宝可梦能看见过去、现在和未来。@也有人说大贤者也有同样的能力。@火箭队首领命令我们来找他谈谈，听听他有什么说法……结果大贤者告诉我们你会来。@不过别以为自己有多了不起！我要让你后悔来打扰火箭队！"
  },
  {
   "id": 480,
   "en": "How is this possible?!?@I can't believe it!@What an amazing battle!@But you're late...@Before you got here we acquired certain information from the Great Wise Elder!@See you later!@Bye Bye!",
   "es": "Cómo es posible que me hayas derrotado.@¡No me lo puedo creer!@¡Menuda forma de combatir más impresionante!@Pero que sepas que has llegado un poco tarde...@¡Antes de que vinieras, el Gran Sabio Anciano nos ha desvelado cierta información!@¡Tengo cosas que hacer!@¡Bye Bye!",
-  "zh": "你怎么可能打败我。@我不敢相信！@多么了不起的战斗方式！@不过你要知道，你来晚了一步……@在你来之前，大贤者长老已经向我们透露了某些情报！@我还有事要办！@拜拜！"
+  "zh": "你怎么可能打败我。@我不敢相信！@多么了不起的战斗方式！@不过你要知道，你来晚了一步……@在你来之前，大贤者已经向我们透露了某些情报！@我还有事要办！@拜拜！"
  },
  {
   "id": 481,
@@ -12358,7 +12358,7 @@
   "id": 2060,
   "en": "I assume you're $prota$! Janine, Fuchsia City's Gym Leader, sends you the next information...@'To earn the Soul Badge, find the three invisible trainers, then find me.' ",
   "es": "¡Supongo que tú eres $prota$! Sachiko, la líder del Gimnasio de Ciudad Fucsia, me ha encargado que te dé la siguiente información...@'Para ganar la Medalla Alma, primero encuentra a los tres entrenadores invisibles y después búscame.'",
-  "zh": "你应该就是$prota$吧！浅红市的道馆馆主阿杏托我把下面的信息转告你……@“想获得灵魂徽章，先找到三名隐形的训练家，然后来找我。”"
+  "zh": "你应该就是$prota$吧！浅红市的道馆馆主阿杏托我把下面的信息转告你……@“想获得粉红徽章，先找到三名隐形的训练家，然后来找我。”"
  },
  {
   "id": 2061,
@@ -22162,7 +22162,7 @@
   "id": 3694,
   "en": "You won the Psychic Badge!",
   "es": "¡Has ganado la Medalla Psíquica!",
-  "zh": "你赢得了超能力徽章！"
+  "zh": "你赢得了超能徽章！"
  },
  {
   "id": 3695,
@@ -22360,7 +22360,7 @@
   "id": 3727,
   "en": "You won the Marsh Badge!",
   "es": "¡Has ganado la Medalla Pantano!",
-  "zh": "你赢得了金黄徽章！"
+  "zh": "你赢得了金色徽章！"
  },
  {
   "id": 3728,
@@ -22630,7 +22630,7 @@
   "id": 3772,
   "en": "You won the Zephyr Badge!",
   "es": "¡Has ganado la Medalla Céfiro!",
-  "zh": "你赢得了疾风徽章！"
+  "zh": "你赢得了飞翼徽章！"
  },
  {
   "id": 3773,
@@ -22648,7 +22648,7 @@
   "id": 3775,
   "en": "You won the Hive Badge! ",
   "es": "¡Has ganado la Medalla Colmena!",
-  "zh": "你赢得了虫之徽章！"
+  "zh": "你赢得了昆虫徽章！"
  },
  {
   "id": 3776,
@@ -22678,7 +22678,7 @@
   "id": 3780,
   "en": "You won the Plain Badge!",
   "es": "¡Has ganado la Medalla Planicie!",
-  "zh": "你赢得了朴素徽章！"
+  "zh": "你赢得了常规徽章！"
  },
  {
   "id": 3781,
@@ -22696,7 +22696,7 @@
   "id": 3783,
   "en": "You won the Fog Badge!",
   "es": "¡Has ganado la Medalla Niebla!",
-  "zh": "你赢得了幽灵徽章！"
+  "zh": "你赢得了幻影徽章！"
  },
  {
   "id": 3784,
@@ -22720,7 +22720,7 @@
   "id": 3787,
   "en": "You won the Storm Badge!",
   "es": "¡Has ganado la Medalla Tormenta!",
-  "zh": "你赢得了风暴徽章！"
+  "zh": "你赢得了打击徽章！"
  },
  {
   "id": 3788,
@@ -22774,7 +22774,7 @@
   "id": 3796,
   "en": "You won the Glacier Badge!",
   "es": "¡Has ganado la Medalla Glaciar!",
-  "zh": "你赢得了冰川徽章！"
+  "zh": "你赢得了冰雪徽章！"
  },
  {
   "id": 3797,
@@ -22816,7 +22816,7 @@
   "id": 3803,
   "en": "You won the Knuckle Badge!",
   "es": "¡Has ganado la Medalla Puño!",
-  "zh": "你赢得了拳头徽章！"
+  "zh": "你赢得了拳击徽章！"
  },
  {
   "id": 3804,
@@ -22876,7 +22876,7 @@
   "id": 3813,
   "en": "You got the Stone Badge!",
   "es": "¡Has ganado la Medalla Piedra!",
-  "zh": "你得到了石头徽章！"
+  "zh": "你得到了岩石徽章！"
  },
  {
   "id": 3814,
@@ -22900,7 +22900,7 @@
   "id": 3817,
   "en": "You got the Dynamo Badge!",
   "es": "¡Has ganado la Medalla Dinamo!",
-  "zh": "你得到了发电徽章！"
+  "zh": "你得到了电力徽章！"
  },
  {
   "id": 3818,
@@ -22924,7 +22924,7 @@
   "id": 3821,
   "en": "You got the Heat Badge!",
   "es": "¡Has ganado la Medalla Calor!",
-  "zh": "你得到了热能徽章！"
+  "zh": "你得到了烈焰徽章！"
  },
  {
   "id": 3822,
@@ -22954,7 +22954,7 @@
   "id": 3826,
   "en": "You got the Feather Badge!",
   "es": "¡Has ganado la Medalla Pluma!",
-  "zh": "你得到了羽毛徽章！"
+  "zh": "你得到了白羽徽章！"
  },
  {
   "id": 3827,
@@ -23080,7 +23080,7 @@
   "id": 3847,
   "en": "You got the Mind Badge!",
   "es": "¡Has ganado la Medalla Mente!",
-  "zh": "你得到了精神徽章！"
+  "zh": "你得到了心灵徽章！"
  },
  {
   "id": 3848,
@@ -23200,7 +23200,7 @@
   "id": 3867,
   "en": "You got the Rain Badge!",
   "es": "¡Has ganado la Medalla Lluvia!",
-  "zh": "你得到了雨水徽章！"
+  "zh": "你得到了雨滴徽章！"
  },
  {
   "id": 3868,
@@ -23218,7 +23218,7 @@
   "id": 3870,
   "en": "You got the Balance Badge!",
   "es": "¡Has ganado la Medalla Equilibrio!",
-  "zh": "你得到了平衡徽章！"
+  "zh": "你得到了天秤徽章！"
  },
  {
   "id": 3871,
@@ -23662,7 +23662,7 @@
   "id": 3944,
   "en": "You got the Cobble Badge!",
   "es": "¡Has ganado la Medalla Adoquín!",
-  "zh": "你得到了卵石徽章！"
+  "zh": "你得到了铺石徽章！"
  },
  {
   "id": 3945,
@@ -23710,7 +23710,7 @@
   "id": 3952,
   "en": "You got the Fen Badge!",
   "es": "¡Has ganado la Medalla Ciénaga!",
-  "zh": "你得到了沼泽徽章！"
+  "zh": "你得到了湿地徽章！"
  },
  {
   "id": 3953,
@@ -23962,7 +23962,7 @@
   "id": 3994,
   "en": "You got the Icicle Badge!",
   "es": "¡Has ganado la Medalla Carámbano!",
-  "zh": "你得到了冰柱徽章！"
+  "zh": "你得到了冰河徽章！"
  },
  {
   "id": 3995,
@@ -24052,7 +24052,7 @@
   "id": 4009,
   "en": "Well!@A triple battle you'll have to win if you want the Trio Badge.",
   "es": "¡Bien!@Será un combate triple que tendrás que ganar para obtener la Medalla Trío.",
-  "zh": "好！@想要得到三重徽章，你必须赢下一场三对三的对战。"
+  "zh": "好！@想要得到三元徽章，你必须赢下一场三对三的对战。"
  },
  {
   "id": 4010,
@@ -24088,7 +24088,7 @@
   "id": 4015,
   "en": "You won the Trio Badge!",
   "es": "¡Has ganado la Medalla Trío!",
-  "zh": "你赢得了三重徽章！"
+  "zh": "你赢得了三元徽章！"
  },
  {
   "id": 4016,
@@ -24196,7 +24196,7 @@
   "id": 4033,
   "en": "You won the Basic Badge!",
   "es": "¡Has ganado la Medalla Base!",
-  "zh": "你赢得了基本徽章！"
+  "zh": "你赢得了基础徽章！"
  },
  {
   "id": 4034,
@@ -24220,7 +24220,7 @@
   "id": 4037,
   "en": "You won the Insect Badge!",
   "es": "¡Has ganado la Medalla Élitro!",
-  "zh": "你赢得了昆虫徽章！"
+  "zh": "你赢得了甲虫徽章！"
  },
  {
   "id": 4038,
@@ -24250,7 +24250,7 @@
   "id": 4042,
   "en": "You won the Bolt Badge!",
   "es": "¡Has ganado la Medalla Voltio!",
-  "zh": "你得到了电气徽章！"
+  "zh": "你得到了伏特徽章！"
  },
  {
   "id": 4043,
@@ -24280,7 +24280,7 @@
   "id": 4047,
   "en": "You won the Quake Badge!",
   "es": "¡Has ganado la Medalla Temblor!",
-  "zh": "你得到了地震徽章！"
+  "zh": "你得到了震动徽章！"
  },
  {
   "id": 4048,
@@ -24310,7 +24310,7 @@
   "id": 4052,
   "en": "You won the Jet Badge!",
   "es": "¡Has ganado la Medalla Jet!",
-  "zh": "你赢得了喷气徽章！"
+  "zh": "你赢得了喷射徽章！"
  },
  {
   "id": 4053,
@@ -24340,7 +24340,7 @@
   "id": 4057,
   "en": "You won the Wave Badge!",
   "es": "¡Has ganado la Medalla Ola!",
-  "zh": "你赢得了波浪徽章！"
+  "zh": "你赢得了海浪徽章！"
  },
  {
   "id": 4058,
@@ -24418,7 +24418,7 @@
   "id": 4070,
   "en": "You won the Toxic Badge!",
   "es": "¡Has ganado la Medalla Ponzoña!",
-  "zh": "你赢得了毒素徽章！"
+  "zh": "你赢得了毒烟徽章！"
  },
  {
   "id": 4071,
@@ -24526,7 +24526,7 @@
   "id": 4088,
   "en": "You won the Freeze Badge!",
   "es": "¡Has ganado la Medalla Candelizo!",
-  "zh": "你赢得了冰冻徽章！"
+  "zh": "你赢得了冰柱徽章！"
  },
  {
   "id": 4089,
@@ -32332,7 +32332,7 @@
   "id": 5389,
   "en": "As I can see you got the Mystery Badge from Sirius City!@You even have the Sequoia Badge. And the Fable... and the Psychic Badge...",
   "es": "¡Por lo que veo conseguiste la medalla Misterio de ciudad Sirio!@Incluso tienes la medalla Secuoya y la medalla Psíquica...",
-  "zh": "看来你拿到了天狼市的神秘徽章！@你甚至还有红杉徽章和超能力徽章……"
+  "zh": "看来你拿到了天狼市的神秘徽章！@你甚至还有红杉徽章和超能徽章……"
  },
  {
   "id": 5390,
@@ -33598,7 +33598,7 @@
   "id": 5600,
   "en": "The only Badge that separates you from the Hoenn League is the Balance Badge...",
   "es": "La única medalla que te separa de la Liga Hoenn es la Medalla Equilibrio...",
-  "zh": "如今挡在你和丰缘联盟之间的，只剩平衡徽章了……"
+  "zh": "如今挡在你和丰缘联盟之间的，只剩天秤徽章了……"
  },
  {
   "id": 5601,

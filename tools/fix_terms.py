@@ -10,16 +10,32 @@ RULES = [
     (r'€', '欧元', '元'), (None, '雷奇姆', '安魂'), (None, '水舰队', '海洋队'), (None, '天蝎大楼', '天蝎大厦'),
     (None, '活力微粒', '活力粒子'), (None, '开拓头脑', '王牌'), (None, '黄铁矿道馆', '黑金道馆'), (None, '黄铁矿市', '黑金市'), (None, '熔岩之浪', '熔岩浪潮'), (None, '大贤者长老', '大贤者'), (None, '优惠券', '折价券'), (None, '神秘剑士们', '圣剑士'), (None, '神秘剑士', '圣剑士'),
 ]
+# 徽章：按原文英文名对照神奇宝贝百科「徽章」页的官方简中名（2026-11-08 核对）
+BADGES = {
+    'Zephyr': ('飞翼', '疾风'), 'Hive': ('昆虫', '虫之'), 'Plain': ('常规', '朴素 一般 普通'), 'Fog': ('幻影', '幽灵'),
+    'Storm': ('打击', '风暴 冲击'), 'Glacier': ('冰雪', '冰川 冰柱 冰河'), 'Rising': ('升龙', '龙之 上升'),
+    'Stone': ('岩石', '石头 原石'), 'Knuckle': ('拳击', '拳头'), 'Dynamo': ('电力', '发电 紫电'), 'Heat': ('烈焰', '热能 热力 热量'),
+    'Balance': ('天秤', '平衡'), 'Feather': ('白羽', '羽毛'), 'Mind': ('心灵', '精神'), 'Rain': ('雨滴', '雨水'),
+    'Cobble': ('铺石', '卵石 圆石 碎岩'), 'Fen': ('湿地', '沼泽'), 'Icicle': ('冰河', '冰柱 冰碴'),
+    'Trio': ('三元', '三重'), 'Basic': ('基础', '基本'), 'Insect': ('甲虫', '昆虫'), 'Bolt': ('伏特', '电气 螺旋 电子'),
+    'Quake': ('震动', '地震'), 'Jet': ('喷射', '喷气'), 'Freeze': ('冰柱', '冰冻 冻结'), 'Legend': ('传说', '传奇'),
+    'Wave': ('海浪', '波浪'), 'Toxic': ('毒烟', '毒素'), 'Bug': ('虫虫', '虫'), 'Rumble': ('战斗', '喧闹'),
+    'Psychic': ('超能', '超能力 精神'), 'Snowbelle': ('冰山', '冰雪'), 'Soul': ('粉红', '灵魂'), 'Marsh': ('金色', '金黄 沼泽'),
+}
+for k, (good, bad) in BADGES.items():
+    for b in bad.split():
+        RULES.append((r'\b%s Badge' % k, b + '徽章', good + '徽章'))
 p = sys.argv[1]
 rows = json.load(open(p, encoding='utf-8'))
 n = 0
 for r in rows:
-    s = src.get(r['id'], {'en': '', 'es': ''})
+    s = r if 'en' in r else src.get(r['id'], {'en': '', 'es': ''})
     z = r['zh']
     for cond, a, b in RULES:
         if a in z and (cond is None or re.search(cond, s['en'] + ' ' + s['es'])):
-            z = z.replace(a, b)
+            pre = b[:len(b) - len(a)] if b.endswith(a) else ''  # 新名以旧名结尾（虫徽章→虫虫徽章）时别重复替换
+            z = re.sub((('(?<!%s)' % re.escape(pre)) if pre else '') + re.escape(a), b, z)
     if z != r['zh']:
         r['zh'] = z; n += 1
-json.dump(rows, open(p, 'w', encoding='utf-8'), ensure_ascii=False, indent=0)
+if n: json.dump(rows, open(p, 'w', encoding='utf-8'), ensure_ascii=False, indent=1 if rows and 'en' in rows[0] else 0)
 print(os.path.basename(p), '统一译名', n, '条')

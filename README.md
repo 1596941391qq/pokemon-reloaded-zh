@@ -66,6 +66,7 @@ GitHub 可以直接打开下面的表格，并用页面上的搜索框查找：
 - [`glossary/glossary.csv`](glossary/glossary.csv)：宝可梦、招式、特性、道具，列出中英西三语和来源（官方/规则/自译）
 - [`glossary/places.tsv`](glossary/places.tsv)：地名（星辰地区的城镇按星座和星宿译，比如 Spica = 角宿市、Sirius = 天狼市）
 - [`glossary/人物.csv`](glossary/人物.csv)：人物和训练家称号（官方角色已对照神奇宝贝百科核对过）
+- [`glossary/徽章.csv`](glossary/徽章.csv)：各地区道馆徽章、开拓区纹章（其他地区徽章已对照神奇宝贝百科核对过）
 - [`docs/对照.md`](docs/对照.md)：汉化前后对照示例
 
 ## 参与翻译
@@ -76,6 +77,32 @@ GitHub 可以直接打开下面的表格，并用页面上的搜索框查找：
 python tools/check_part.py translations/txt_dialog.json txt_dialog   # 检查控制符、编码
 python tools/term_check.py                                         # 检查官方译名是否一致
 ```
+
+## 更新流程（游戏出新版本时）
+
+Mac 上的 Claude 桌面版有个定时任务「宝可梦重装上阵 · 查新版本」，每天 10:17 跑一次 `check`（桌面版开着才跑，关着的话下次打开时补跑）。发现新版本后，它会在那次定时任务的对话里报出文件名、来源和大小，**hacking 同意后才下载**，然后按下面的步骤做完：
+
+```
+python3 -I tools/update.py check              # 1. 查作者博客：有新版本时退出码 10，列出文件名、来源（MEGA / gofile）、大小，不下载
+python3 -I tools/update.py fetch <版本>        # 2. hacking 同意后才跑：下载到 work/update/<版本>/download/（空目录），
+                                              #    只解出根目录的 exe、说明 txt 和 data/text，不运行任何 exe
+python3 -I tools/update.py diff <版本>         # 3. 导出新版文本，和旧版逐行对齐，写出 待翻行.md、todo/、prompts/
+                                              #    每个 prompts/batchN.md 派一个翻译子代理，译文交到 parts/
+python3 -I tools/update.py merge <版本>        # 4. 旧译文搬到新行号，合并新译文，跑 check_part 和 term_check
+python3 -I tools/update.py build <版本>        # 5. 用新版试打补丁（只读写文件），复查改过的 exe
+python3 -I tools/update.py release <版本>      # 6. 补 patch.py 的 KNOWN，改 README 版本号，刷新进度表，提交并推送
+python3 -I tools/update.py status             # 随时看进行到哪一步
+```
+
+- **怎么对比**：每个文件按英文原文逐行对齐（`difflib`），所以插行、删行造成的整体错位也能对上。每行分成五种：原文没变（沿用译文）、改动（原地改句子，或和旧行相似度 ≥ 0.6）、只改了西语、新增、和旧版别处某行一字不差（直接沿用那行的译文）。
+- **只派新增和改动的行**。改动的行会带上旧原文和旧译文，译者在旧译文基础上改，用词保持一致。还没开始翻的文件（比如考试题）只列在清单里，不派单。没翻到的行显示英文，不影响游玩。
+- **旧版还能用**：译文按新版行号保存，KNOWN 里保留旧版的 SHA-256。旧版打补丁时按英文原文找回译文，只有改过的句子会显示英文。`build` 会报出旧版能显示多少条中文。
+- **把关的地方**：
+  - `fetch` 之前必须经过 hacking 同意。
+  - 第一次 `merge` 时，如果 `translations/` 有没提交的改动，或者 `work/parts/` 里有按旧行号写、还没合并的译文，就停下，免得冲掉别的会话正在翻的内容。旧译文会先存一份快照，重跑 `merge` 不会越合越乱。
+  - `build` 发现新版 exe 里补丁要改的代码变了，就停下等人看。
+- **其他情况**：自动下载失败时，可以手动下载，再用 `fetch <版本> --from 压缩包` 接着走。决定不跟某个版本时，用 `decline <版本>`，之后不再提醒。
+- **回归测试**：`python3 -I tools/fake_version.py game <输出目录>` 会用现有版本造一个假的 1.9.2.3，包含插行、删行、改句、只改西语、新增道具、未开翻文件的改动，再附一份假的博客订阅。之后在仓库的临时克隆里按上面的步骤走一遍即可（`check --feed <输出目录>/feed.json`、`fetch 1.9.2.3 --from <压缩包>`，最后 `release --no-push`）。`work/update/` 不进仓库。
 
 ## 原理（给想改代码的人）
 

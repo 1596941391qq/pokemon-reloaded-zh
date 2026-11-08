@@ -51,7 +51,7 @@
   "id": 9,
   "en": "Psychic Badge",
   "es": "Medalla Psíquica",
-  "zh": "超能力徽章"
+  "zh": "超能徽章"
  },
  {
   "id": 10,
@@ -111,25 +111,25 @@
   "id": 19,
   "en": "Hive Badge",
   "es": "Medalla Colmena",
-  "zh": "虫之徽章"
+  "zh": "昆虫徽章"
  },
  {
   "id": 20,
   "en": "Plain Badge",
   "es": "Medalla Planicie",
-  "zh": "一般徽章"
+  "zh": "常规徽章"
  },
  {
   "id": 21,
   "en": "Fog Badge",
   "es": "Medalla Niebla",
-  "zh": "幽灵徽章"
+  "zh": "幻影徽章"
  },
  {
   "id": 22,
   "en": "Storm Badge",
   "es": "Medalla Tormenta",
-  "zh": "风暴徽章"
+  "zh": "打击徽章"
  },
  {
   "id": 23,
@@ -141,49 +141,49 @@
   "id": 24,
   "en": "Glacier Badge",
   "es": "Medalla Glacial",
-  "zh": "冰柱徽章"
+  "zh": "冰雪徽章"
  },
  {
   "id": 25,
   "en": "Rising Badge",
   "es": "Medalla Dragón",
-  "zh": "龙之徽章"
+  "zh": "升龙徽章"
  },
  {
   "id": 26,
   "en": "Stone Badge",
   "es": "Medalla Piedra",
-  "zh": "石头徽章"
+  "zh": "岩石徽章"
  },
  {
   "id": 27,
   "en": "Knuckle Badge",
   "es": "Medalla Puño",
-  "zh": "拳头徽章"
+  "zh": "拳击徽章"
  },
  {
   "id": 28,
   "en": "Dynamo Badge",
   "es": "Medalla Dinamo",
-  "zh": "发电徽章"
+  "zh": "电力徽章"
  },
  {
   "id": 29,
   "en": "Heat Badge",
   "es": "Medalla Calor",
-  "zh": "热力徽章"
+  "zh": "烈焰徽章"
  },
  {
   "id": 30,
   "en": "Balance Badge",
   "es": "Medalla Equilibrio",
-  "zh": "平衡徽章"
+  "zh": "天秤徽章"
  },
  {
   "id": 31,
   "en": "Feather Badge",
   "es": "Medalla Pluma",
-  "zh": "羽毛徽章"
+  "zh": "白羽徽章"
  },
  {
   "id": 32,
@@ -213,13 +213,13 @@
   "id": 36,
   "en": "Cobble Badge",
   "es": "Medalla Adoquín",
-  "zh": "圆石徽章"
+  "zh": "铺石徽章"
  },
  {
   "id": 37,
   "en": "Fen Badge",
   "es": "Medalla Ciénaga",
-  "zh": "沼泽徽章"
+  "zh": "湿地徽章"
  },
  {
   "id": 38,
@@ -237,7 +237,7 @@
   "id": 40,
   "en": "Icicle Badge",
   "es": "Medalla Carámbano",
-  "zh": "冰碴徽章"
+  "zh": "冰河徽章"
  },
  {
   "id": 41,
@@ -249,31 +249,31 @@
   "id": 42,
   "en": "Trio Badge",
   "es": "Medalla Trío",
-  "zh": "三重徽章"
+  "zh": "三元徽章"
  },
  {
   "id": 43,
   "en": "Basic Badge",
   "es": "Medalla Base",
-  "zh": "基本徽章"
+  "zh": "基础徽章"
  },
  {
   "id": 44,
   "en": "Insect Badge",
   "es": "Medalla Élitro",
-  "zh": "昆虫徽章"
+  "zh": "甲虫徽章"
  },
  {
   "id": 45,
   "en": "Bolt Badge",
   "es": "Medalla Voltio",
-  "zh": "螺旋徽章"
+  "zh": "伏特徽章"
  },
  {
   "id": 46,
   "en": "Quake Badge",
   "es": "Medalla Temblor",
-  "zh": "地震徽章"
+  "zh": "震动徽章"
  },
  {
   "id": 47,
@@ -285,13 +285,13 @@
   "id": 48,
   "en": "Freeze Badge",
   "es": "Medalla Candelizo",
-  "zh": "冻结徽章"
+  "zh": "冰柱徽章"
  },
  {
   "id": 49,
   "en": "Legend Badge",
   "es": "Medalla Leyenda",
-  "zh": "传奇徽章"
+  "zh": "传说徽章"
  },
  {
   "id": 50,
@@ -567,13 +567,13 @@
   "id": 95,
   "en": "Wave Badge",
   "es": "Medalla Ola",
-  "zh": "波浪徽章"
+  "zh": "海浪徽章"
  },
  {
   "id": 96,
   "en": "Toxic Badge",
   "es": "Medalla Ponzoña",
-  "zh": "毒素徽章"
+  "zh": "毒烟徽章"
  },
  {
   "id": 97,
@@ -615,7 +615,7 @@
   "id": 103,
   "en": "Bug Badge",
   "es": "Medalla Insecto",
-  "zh": "虫徽章"
+  "zh": "虫虫徽章"
  },
  {
   "id": 104,
@@ -627,7 +627,7 @@
   "id": 105,
   "en": "Rumble Badge",
   "es": "Medalla Lid",
-  "zh": "喧闹徽章"
+  "zh": "战斗徽章"
  },
  {
   "id": 106,
@@ -651,13 +651,13 @@
   "id": 109,
   "en": "Psychic Badge",
   "es": "Medalla Psique",
-  "zh": "精神徽章"
+  "zh": "超能徽章"
  },
  {
   "id": 110,
   "en": "Snowbelle Badge",
   "es": "Medalla Fractal",
-  "zh": "冰雪徽章"
+  "zh": "冰山徽章"
  },
  {
   "id": 111,

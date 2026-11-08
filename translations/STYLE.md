@@ -77,4 +77,6 @@ python3 -I tools/check_part.py work/parts/<你的文件>.json <源文件名，�
 | Battle Potentials / Potenciales de Batalla | 战斗潜力者 |
 | € | 元（GBK 没有欧元符号，金额后写“元”） |
 
+**徽章**：其他地区的徽章名已对照神奇宝贝百科核对，见 `glossary/徽章.csv`（如 Knuckle Badge=拳击徽章、Balance Badge=天秤徽章、Feather Badge=白羽徽章），一律查表。
+
 **地名特别注意**：其他地区（关都、城都、丰缘、神奥、合众、卡洛斯）的城镇名已经收进 `glossary/places.tsv`，一律查表。之前凭记忆写错过好几次（华蓝市/满金市/浅葱市、秋叶镇/茵郁市、琉璃市/绿岭市）。表里查不到的官方地名，宁可写成通用说法（如“城都的那座港口城市”），也不要凭记忆编。翻之前可以先在 `translations/txt_dialog.json` 里搜已有译文，沿用前面的译法。

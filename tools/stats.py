@@ -47,3 +47,15 @@ with open(os.path.join(ROOT, 'glossary', '人物.csv'), 'w', encoding='utf-8-sig
     for r in ch:
         if r['en'].strip():
             w.writerow([r['id'], r['en'], r['es'], r['zh'], '官方（52poke 核对）' if '官方' in (r.get('note') or '') else '自译/官方类型'])
+# 徽章表：其他地区的徽章按神奇宝贝百科「徽章」页核对过；星辰地区的徽章是原创，自译（和官方徽章同名的沿用官方译名）
+md = json.load(open(os.path.join(ROOT, 'translations', 'txt_medals.json'), encoding='utf-8'))
+STAR = {1, 2, 3, 4, 5, 6, 7, 8, 9}
+SAME = {2: '与伽勒尔岩石徽章同名', 5: '与卡洛斯冰山徽章同名', 9: '与卡洛斯超能徽章同名'}
+with open(os.path.join(ROOT, 'glossary', '徽章.csv'), 'w', encoding='utf-8-sig', newline='') as f:
+    w = csv.writer(f)
+    w.writerow(['游戏内编号', '英文', '西语', '简体中文', '来源'])
+    for r in md:
+        if re.search(r'Badge|Symbol|Petal', r['en']) and 'Region' not in r['en'] and 'Frontier' not in r['en']:
+            src = ('官方（' + SAME[r['id']] + '）') if r['id'] in SAME else '自译（星辰地区原创）' if r['id'] in STAR else \
+                  '自译（星之开拓区纹章）' if 'Symbol' in r['en'] else '自译（阿罗拉花瓣）' if 'Petal' in r['en'] else '官方（52poke 徽章页核对）'
+            w.writerow([r['id'], r['en'], r['es'], r['zh'], src])
