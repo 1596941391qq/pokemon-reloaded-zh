@@ -1,0 +1,6716 @@
+[
+ {
+  "id": 1,
+  "en": "Visit Faculty",
+  "es": "Visita Facultad",
+  "zh": "访问学院"
+ },
+ {
+  "id": 2,
+  "en": "Rock Badge",
+  "es": "Medalla Pedrusco",
+  "zh": "岩石徽章"
+ },
+ {
+  "id": 3,
+  "en": "Rock Smash",
+  "es": "Golpe Roca",
+  "zh": "碎岩"
+ },
+ {
+  "id": 4,
+  "en": "Cut",
+  "es": "Corte",
+  "zh": "居合斩"
+ },
+ {
+  "id": 5,
+  "en": "Talo Town Rain",
+  "es": "Lluvia Pueblo Talo",
+  "zh": "塔洛镇的雨"
+ },
+ {
+  "id": 6,
+  "en": "Naos Day Care",
+  "es": "Guardería Naos",
+  "zh": "纳奥斯寄放屋"
+ },
+ {
+  "id": 7,
+  "en": "Naughty Kitten",
+  "es": "Gatito travieso",
+  "zh": "淘气的小猫"
+ },
+ {
+  "id": 8,
+  "en": "Visit Combat Faculty (Located on route 3) and talk to Teron.",
+  "es": "Visitar la Facultad de combate (situada en la Ruta 3) y hablar con Teron.",
+  "zh": "前往对战学院（位于3号道路），和特隆谈谈。"
+ },
+ {
+  "id": 9,
+  "en": "Get Rock Badge in Spica City.",
+  "es": "Obtener Medalla Pedrusco en Ciudad Spica.",
+  "zh": "在角宿市获得岩石徽章。"
+ },
+ {
+  "id": 10,
+  "en": "Unlock Rock Smash move outside of battle.",
+  "es": "Desbloquear habilidad Golpe Roca fuera del combate.",
+  "zh": "解锁在对战之外使用碎岩的能力。"
+ },
+ {
+  "id": 11,
+  "en": "Unlock Cut move outside of battle.",
+  "es": "Desbloquear habilidad Corte fuera del combate.",
+  "zh": "解锁在对战之外使用居合斩的能力。"
+ },
+ {
+  "id": 12,
+  "en": "Investigate drought in Talo Town.",
+  "es": "Investigar sequía en Pueblo Talo.",
+  "zh": "调查塔洛镇的干旱。"
+ },
+ {
+  "id": 13,
+  "en": "Visit Naos City's Day Care.",
+  "es": "Visitar Guardería en Ciudad Naos.",
+  "zh": "前往纳奥斯市的宝可梦寄放屋。"
+ },
+ {
+  "id": 14,
+  "en": "Help Lass Laury with her Skitty.",
+  "es": "Ayudar a Chica Laurita con su Skitty.",
+  "zh": "帮迷你裙劳莉解决向尾喵的麻烦。"
+ },
+ {
+  "id": 15,
+  "en": "Frontier's inauguration",
+  "es": "Inauguración Frente",
+  "zh": "开拓区的开幕式"
+ },
+ {
+  "id": 16,
+  "en": "Explore Frontier",
+  "es": "Explorar Frente",
+  "zh": "探索开拓区"
+ },
+ {
+  "id": 17,
+  "en": "Attend the Star Frontier inauguration.",
+  "es": "Asistir a la inauguración del Frente Star.",
+  "zh": "出席星之开拓区的开幕式。"
+ },
+ {
+  "id": 18,
+  "en": "Explore Star Frontier complex.",
+  "es": "Explorar todo el complejo del Frente Star.",
+  "zh": "探索星之开拓区的整个园区。"
+ },
+ {
+  "id": 19,
+  "en": "Visit Combat Faculty",
+  "es": "Visitar Facultad de combate",
+  "zh": "访问对战学院"
+ },
+ {
+  "id": 20,
+  "en": "Talk to Teron",
+  "es": "Hablar con Teron",
+  "zh": "和特隆谈谈"
+ },
+ {
+  "id": 21,
+  "en": "Defeat leader $par1$",
+  "es": "Vencer a Líder $par1$",
+  "zh": "打倒馆主$par1$"
+ },
+ {
+  "id": 22,
+  "en": "Find HM6 Rock Smash",
+  "es": "Encontrar MO6 Golpe Roca",
+  "zh": "找到秘传学习器06 碎岩"
+ },
+ {
+  "id": 23,
+  "en": "Get Rock Badge",
+  "es": "Obtener Medalla Pedrusco",
+  "zh": "获得岩石徽章"
+ },
+ {
+  "id": 24,
+  "en": "Find HM1 Cut",
+  "es": "Encontrar MO1 Corte",
+  "zh": "找到秘传学习器01 居合斩"
+ },
+ {
+  "id": 25,
+  "en": "Get Downpour Badge",
+  "es": "Obtener Medalla Aguacero",
+  "zh": "获得骤雨徽章"
+ },
+ {
+  "id": 26,
+  "en": "Find HM5 Flash",
+  "es": "Encontrar MO5 Destello",
+  "zh": "找到秘传学习器05 闪光"
+ },
+ {
+  "id": 27,
+  "en": "Visit Talo Well",
+  "es": "Visitar Pozo Talo",
+  "zh": "前往塔洛古井"
+ },
+ {
+  "id": 28,
+  "en": "Defeat Team Aqua members",
+  "es": "Vencer miembros Team Aqua",
+  "zh": "打倒海洋队成员"
+ },
+ {
+  "id": 29,
+  "en": "Visit Day Care",
+  "es": "Visitar Guardería",
+  "zh": "前往宝可梦寄放屋"
+ },
+ {
+  "id": 30,
+  "en": "Defeat Team Rocket",
+  "es": "Vencer al Team Rocket",
+  "zh": "打倒火箭队"
+ },
+ {
+  "id": 31,
+  "en": "Capture a dog Pokémon",
+  "es": "Capturar un perro Pokémon",
+  "zh": "捕获一只狗型宝可梦"
+ },
+ {
+  "id": 32,
+  "en": "Bring out the Pokémon to scare Skitty",
+  "es": "Sacar Pokémon para asustarlo",
+  "zh": "放出宝可梦去吓唬向尾喵"
+ },
+ {
+  "id": 33,
+  "en": "Reach Battle Frontier",
+  "es": "Llegar al Frente de Batalla",
+  "zh": "前往对战开拓区"
+ },
+ {
+  "id": 34,
+  "en": "Visit Dome of Events",
+  "es": "Visitar Cúpula de Eventos",
+  "zh": "前往活动巨蛋"
+ },
+ {
+  "id": 35,
+  "en": "Be present for the inauguration",
+  "es": "Presenciar la inauguración",
+  "zh": "出席开幕式"
+ },
+ {
+  "id": 36,
+  "en": "Visit North Frontier",
+  "es": "Visitar Frente Norte",
+  "zh": "前往北部开拓区"
+ },
+ {
+  "id": 37,
+  "en": "Visit West Frontier",
+  "es": "Visitar Frente Oeste",
+  "zh": "前往西部开拓区"
+ },
+ {
+  "id": 38,
+  "en": "Teron gave us an item and told us to come back when we have 8 badges.",
+  "es": "Teron nos ha dado un objeto y ha dicho que volvamos cuando ganemos las 8 medallas.",
+  "zh": "特隆给了我们一件道具，并说集齐8枚徽章后再回来找他。"
+ },
+ {
+  "id": 39,
+  "en": "Objectives completed!",
+  "es": "¡Objetivos cumplidos!",
+  "zh": "目标全部完成！"
+ },
+ {
+  "id": 40,
+  "en": "Retained Slowpokes by Team Aqua in Talo Well have been released.",
+  "es": "Se han liberado a los Slowpoke retenidos por el Team Aqua en el Pozo Talo.",
+  "zh": "被海洋队扣押在塔洛古井的呆呆兽已被放走。"
+ },
+ {
+  "id": 41,
+  "en": "Elderly kidnapped in the Day Care have been rescued.",
+  "es": "Se ha rescatado a los ancianos secuestrados en la guardería.",
+  "zh": "被绑架到寄放屋的老人们已获救。"
+ },
+ {
+  "id": 42,
+  "en": "Skitty got scared and came back to its trainer.",
+  "es": "Skitty se ha asustado y a vuelto con su entrenadora.",
+  "zh": "向尾喵受到惊吓，回到了它的训练家身边。"
+ },
+ {
+  "id": 43,
+  "en": "New mission added!#$par1$",
+  "es": "¡Nueva misión añadida!#$par1$",
+  "zh": "新任务已添加！#$par1$"
+ },
+ {
+  "id": 44,
+  "en": "Mission completed!#$par1$",
+  "es": "¡Misión completada!#$par1$",
+  "zh": "任务完成！#$par1$"
+ },
+ {
+  "id": 45,
+  "en": "Mission failed!#$par1$",
+  "es": "¡Misión fallida!#$par1$",
+  "zh": "任务失败！#$par1$"
+ },
+ {
+  "id": 46,
+  "en": "New Objective in $par1$!#$par2$",
+  "es": "¡Nuevo objetivo en $par1$!#$par2$",
+  "zh": "$par1$新增目标！#$par2$"
+ },
+ {
+  "id": 47,
+  "en": "$par1$!#$par2$ Objective completed!",
+  "es": "¡Objetivo completado de $par1$!#$par2$",
+  "zh": "$par1$的目标已完成！#$par2$"
+ },
+ {
+  "id": 48,
+  "en": "$par1$!#$par2$ Objective failed!",
+  "es": "¡Objetivo fallido de $par1$!#$par2$",
+  "zh": "$par1$的目标失败了！#$par2$"
+ },
+ {
+  "id": 49,
+  "en": "Its not possible to add new custom missions, you have to delete other missions to make space.",
+  "es": "No es posible añadir nuevas misiones personalizadas, debes borrar otras para hacer hueco.",
+  "zh": "无法再添加自定义任务，请先删除其他任务腾出空位。"
+ },
+ {
+  "id": 50,
+  "en": "Do you want to create a new custom mission?",
+  "es": "¿Deseas crear una nueva misión personalizada?",
+  "zh": "要创建新的自定义任务吗？"
+ },
+ {
+  "id": 51,
+  "en": "Enter a title for the mission.",
+  "es": "Introduce un título de misión.",
+  "zh": "请输入任务标题。"
+ },
+ {
+  "id": 52,
+  "en": "Enter a description for the mission.",
+  "es": "Introduce una descripción de misión.",
+  "zh": "请输入任务说明。"
+ },
+ {
+  "id": 53,
+  "en": "Enter an objective for the mission.",
+  "es": "Introduce un objetivo de misión.",
+  "zh": "请输入任务目标。"
+ },
+ {
+  "id": 54,
+  "en": "Downpour Badge",
+  "es": "Medalla Aguacero",
+  "zh": "骤雨徽章"
+ },
+ {
+  "id": 55,
+  "en": "You can't delete general missions.",
+  "es": "No puedes eliminar misiones generales.",
+  "zh": "不能删除一般任务。"
+ },
+ {
+  "id": 56,
+  "en": "You can't delete challenge's missions.",
+  "es": "No puedes eliminar misiones de retos.",
+  "zh": "不能删除挑战任务。"
+ },
+ {
+  "id": 57,
+  "en": "You can't delete special missions.",
+  "es": "No puedes eliminar misiones especiales.",
+  "zh": "不能删除特殊任务。"
+ },
+ {
+  "id": 58,
+  "en": "You can't delete Elite Squad's missions.",
+  "es": "No puedes eliminar misiones del Escuadrón Élite.",
+  "zh": "不能删除精英小队任务。"
+ },
+ {
+  "id": 59,
+  "en": "Do you want to permanently delete the mission $par1$?",
+  "es": "¿Deseas eliminar de manera permanente la misión $par1$?",
+  "zh": "要永久删除任务$par1$吗？"
+ },
+ {
+  "id": 60,
+  "en": "You can't edit general missions.",
+  "es": "No puedes editar misiones generales.",
+  "zh": "不能编辑一般任务。"
+ },
+ {
+  "id": 61,
+  "en": "You can't edit challenge's missions.",
+  "es": "No puedes editar misiones de retos.",
+  "zh": "不能编辑挑战任务。"
+ },
+ {
+  "id": 62,
+  "en": "You can't edit special missions.",
+  "es": "No puedes editar misiones especiales.",
+  "zh": "不能编辑特殊任务。"
+ },
+ {
+  "id": 63,
+  "en": "You can't edit Elite Squad's missions.",
+  "es": "No puedes editar misiones del Escuadrón Élite.",
+  "zh": "不能编辑精英小队任务。"
+ },
+ {
+  "id": 64,
+  "en": "Do you want to enter a new objective to mission $par1$?",
+  "es": "¿Deseas insertar un nuevo objetivo a la misión $par1$?",
+  "zh": "要为任务$par1$添加新目标吗？"
+ },
+ {
+  "id": 65,
+  "en": "Is the new objective optional?",
+  "es": "¿El nuevo objetivo es opcional?",
+  "zh": "新目标是可选的吗？"
+ },
+ {
+  "id": 66,
+  "en": "Do you want to enter a new restriction to mission $par1$?",
+  "es": "¿Deseas insertar una nueva restricción a la misión $par1$?",
+  "zh": "要为任务$par1$添加新限制吗？"
+ },
+ {
+  "id": 67,
+  "en": "It is not possible to add new objectives neither new restrictions to the selected mission.#If you need to add more you have to delete others to make space.",
+  "es": "No es posible añadir más objetivos ni restricciones a la misión seleccionada.#Si necesitas añadir más debes borrar otros para hacer hueco.",
+  "zh": "无法再为所选任务添加目标或限制。#如果需要添加更多，请先删除其他内容腾出空位。"
+ },
+ {
+  "id": 68,
+  "en": "Enter a mission restriction.",
+  "es": "Introduce una restricción de misión.",
+  "zh": "请输入任务限制。"
+ },
+ {
+  "id": 69,
+  "en": "You can't delete objectives neither restrictions of general missions.",
+  "es": "No puedes eliminar objetivos ni restricciones de misiones generales.",
+  "zh": "不能删除一般任务的目标和限制。"
+ },
+ {
+  "id": 70,
+  "en": "You can't delete objectives neither restrictions of challenge's missions.",
+  "es": "No puedes eliminar objetivos ni restricciones de misiones de retos.",
+  "zh": "不能删除挑战任务的目标和限制。"
+ },
+ {
+  "id": 71,
+  "en": "You can't delete objectives neither restrictions of special missions.",
+  "es": "No puedes eliminar objetivos ni restricciones de misiones especiales.",
+  "zh": "不能删除特殊任务的目标和限制。"
+ },
+ {
+  "id": 72,
+  "en": "You can't delete objectives neither restrictions of Elite Squad's missions.",
+  "es": "No puedes eliminar objetivos ni restricciones de misiones del Escuadrón Élite.",
+  "zh": "不能删除精英小队任务的目标和限制。"
+ },
+ {
+  "id": 73,
+  "en": "Do you want to permanently delete the objective $par1$?",
+  "es": "¿Deseas eliminar de manera permanente el objetivo $par1$?",
+  "zh": "要永久删除目标$par1$吗？"
+ },
+ {
+  "id": 74,
+  "en": "Do you want to permanently delete the restriction $par1$?",
+  "es": "¿Deseas eliminar de manera permanente la restricción $par1$?",
+  "zh": "要永久删除限制$par1$吗？"
+ },
+ {
+  "id": 75,
+  "en": "Do you want to edit details of the mission $par1$?",
+  "es": "¿Deseas editar los detalles de la misión $par1$?",
+  "zh": "要编辑任务$par1$的详情吗？"
+ },
+ {
+  "id": 76,
+  "en": "Do you want to edit resolution of the mission $par1$?",
+  "es": "¿Deseas editar la resolución de la misión $par1$?",
+  "zh": "要编辑任务$par1$的结果说明吗？"
+ },
+ {
+  "id": 77,
+  "en": "Do you want to edit the objective $par1$?",
+  "es": "¿Deseas editar el objetivo $par1$?",
+  "zh": "要编辑目标$par1$吗？"
+ },
+ {
+  "id": 78,
+  "en": "Do you want to edit the restriction $par1$?",
+  "es": "¿Deseas editar la restricción $par1$?",
+  "zh": "要编辑限制$par1$吗？"
+ },
+ {
+  "id": 79,
+  "en": "Enter the resolution of the mission.",
+  "es": "Introduce la resolución de la misión.",
+  "zh": "请输入任务的结果说明。"
+ },
+ {
+  "id": 80,
+  "en": "Get Downpour Badge in Naos City.",
+  "es": "Obtener Medalla Aguacero en Ciudad Naos.",
+  "zh": "在纳奥斯市获得骤雨徽章。"
+ },
+ {
+  "id": 81,
+  "en": "Do you want to change the status of the mission $par1$?#Current status: $par2$.",
+  "es": "¿Deseas cambiar el estado de la misión $par1$?#Estado actual: $par2$.",
+  "zh": "要更改任务$par1$的状态吗？#当前状态：$par2$。"
+ },
+ {
+  "id": 82,
+  "en": "In progress",
+  "es": "En curso",
+  "zh": "进行中"
+ },
+ {
+  "id": 83,
+  "en": "Completed",
+  "es": "Completada",
+  "zh": "已完成"
+ },
+ {
+  "id": 84,
+  "en": "Paused",
+  "es": "Pausada",
+  "zh": "已暂停"
+ },
+ {
+  "id": 85,
+  "en": "Failed",
+  "es": "Fallida",
+  "zh": "已失败"
+ },
+ {
+  "id": 86,
+  "en": "Status for the mission $par1$:",
+  "es": "Estado para la misión $par1$:",
+  "zh": "任务$par1$的状态："
+ },
+ {
+  "id": 87,
+  "en": "Do you want to change the status of the objective $par1$?#Current status: $par2$.",
+  "es": "¿Deseas cambiar el estado del objetivo $par1$?#Estado actual: $par2$.",
+  "zh": "要更改目标$par1$的状态吗？#当前状态：$par2$。"
+ },
+ {
+  "id": 88,
+  "en": "Pending",
+  "es": "Pendiente",
+  "zh": "待办"
+ },
+ {
+  "id": 89,
+  "en": "Completed",
+  "es": "Completado",
+  "zh": "已完成"
+ },
+ {
+  "id": 90,
+  "en": "Paused",
+  "es": "Pausado",
+  "zh": "已暂停"
+ },
+ {
+  "id": 91,
+  "en": "Failed",
+  "es": "Fallido",
+  "zh": "已失败"
+ },
+ {
+  "id": 92,
+  "en": "Status for the objective $par1$:",
+  "es": "Estado para el objetivo $par1$:",
+  "zh": "目标$par1$的状态："
+ },
+ {
+  "id": 93,
+  "en": "Enter the resolution of the mission.",
+  "es": "Introduce la resolución de la misión.",
+  "zh": "请输入任务的结果说明。"
+ },
+ {
+  "id": 94,
+  "en": "Notebook obtained!#Press $par1$ to look it.",
+  "es": "¡Cuaderno obtenido!#Pulsa $par1$ para verlo.",
+  "zh": "已获得笔记本！#按$par1$键查看。"
+ },
+ {
+  "id": 95,
+  "en": "Ghost invasion",
+  "es": "Invasión Fantasma",
+  "zh": "幽灵入侵"
+ },
+ {
+  "id": 96,
+  "en": "Canis Cemetery invasion",
+  "es": "Invasión Cementerio Can",
+  "zh": "大犬墓园入侵"
+ },
+ {
+  "id": 97,
+  "en": "Mystery Badge",
+  "es": "Medalla Misterio",
+  "zh": "神秘徽章"
+ },
+ {
+  "id": 98,
+  "en": "Flash",
+  "es": "Destello",
+  "zh": "闪光"
+ },
+ {
+  "id": 99,
+  "en": "Sirius Hotel",
+  "es": "Hotel Sirio",
+  "zh": "天狼酒店"
+ },
+ {
+  "id": 100,
+  "en": "Packages search",
+  "es": "Búsqueda de paquetes",
+  "zh": "寻找包裹"
+ },
+ {
+  "id": 101,
+  "en": "Iceberg Badge",
+  "es": "Medalla Iceberg",
+  "zh": "冰山徽章"
+ },
+ {
+  "id": 102,
+  "en": "Fly",
+  "es": "Vuelo",
+  "zh": "飞翔"
+ },
+ {
+  "id": 103,
+  "en": "Get Bike",
+  "es": "Obtener Bicicleta",
+  "zh": "获得自行车"
+ },
+ {
+  "id": 104,
+  "en": "Secret Base",
+  "es": "Base Secreta",
+  "zh": "秘密基地"
+ },
+ {
+  "id": 105,
+  "en": "Sequoia Badge",
+  "es": "Medalla Secuoya",
+  "zh": "红杉徽章"
+ },
+ {
+  "id": 106,
+  "en": "Pokémon Blockage",
+  "es": "Obstrucción Pokémon",
+  "zh": "宝可梦挡路"
+ },
+ {
+  "id": 107,
+  "en": "Strength",
+  "es": "Fuerza",
+  "zh": "怪力"
+ },
+ {
+  "id": 108,
+  "en": "Flame Badge",
+  "es": "Medalla Llama",
+  "zh": "火焰徽章"
+ },
+ {
+  "id": 109,
+  "en": "Surf",
+  "es": "Surf",
+  "zh": "冲浪"
+ },
+ {
+  "id": 110,
+  "en": "Islands Exploration",
+  "es": "Exploración Islas",
+  "zh": "探索群岛"
+ },
+ {
+  "id": 111,
+  "en": "Fable Badge",
+  "es": "Medalla Fábula",
+  "zh": "寓言徽章"
+ },
+ {
+  "id": 112,
+  "en": "Initial Re-population",
+  "es": "Repoblación Inicial",
+  "zh": "首次放养"
+ },
+ {
+  "id": 113,
+  "en": "Dive",
+  "es": "Buceo",
+  "zh": "潜水"
+ },
+ {
+  "id": 114,
+  "en": "Star Bank",
+  "es": "Banco Star",
+  "zh": "星辰银行"
+ },
+ {
+  "id": 115,
+  "en": "Psychic Badge",
+  "es": "Medalla Psíquica",
+  "zh": "超能力徽章"
+ },
+ {
+  "id": 116,
+  "en": "Star League",
+  "es": "Liga Pokémon Star",
+  "zh": "星辰宝可梦联盟"
+ },
+ {
+  "id": 117,
+  "en": "Kanto Badges",
+  "es": "Medallas de Kanto",
+  "zh": "关都徽章"
+ },
+ {
+  "id": 118,
+  "en": "Johto Badges",
+  "es": "Medallas de Johto",
+  "zh": "城都徽章"
+ },
+ {
+  "id": 119,
+  "en": "Hoenn Badges",
+  "es": "Medallas de Hoenn",
+  "zh": "丰缘徽章"
+ },
+ {
+  "id": 120,
+  "en": "Sinnoh Badges",
+  "es": "Medallas de Sinnoh",
+  "zh": "神奥徽章"
+ },
+ {
+  "id": 121,
+  "en": "Siluam Forest Challenge",
+  "es": "Reto Bosque Siluam",
+  "zh": "西卢安森林挑战"
+ },
+ {
+  "id": 122,
+  "en": "Paleo Cave Re-population",
+  "es": "Repoblación Cueva Paleo",
+  "zh": "古生洞窟放养"
+ },
+ {
+  "id": 123,
+  "en": "Sick Pokémon",
+  "es": "Pokémon enfermos",
+  "zh": "生病的宝可梦"
+ },
+ {
+  "id": 124,
+  "en": "Lost Old Man",
+  "es": "Anciano perdido",
+  "zh": "走失的老爷爷"
+ },
+ {
+  "id": 125,
+  "en": "GS Ball Theft",
+  "es": "Robo GS Ball",
+  "zh": "GS球失窃"
+ },
+ {
+  "id": 126,
+  "en": "Weather Institute",
+  "es": "Instituto Meteorológico",
+  "zh": "气象研究所"
+ },
+ {
+  "id": 127,
+  "en": "Explore Pole City",
+  "es": "Explorar Ciudad Polar",
+  "zh": "探索北辰市"
+ },
+ {
+  "id": 128,
+  "en": "Power Plant's Guardian",
+  "es": "Guardián de la central",
+  "zh": "发电厂的守护者"
+ },
+ {
+  "id": 129,
+  "en": "Antares Library",
+  "es": "Biblioteca Antares",
+  "zh": "心宿图书馆"
+ },
+ {
+  "id": 130,
+  "en": "Technology Center",
+  "es": "Centro Tecnológico",
+  "zh": "科技中心"
+ },
+ {
+  "id": 131,
+  "en": "Lake Guardians Rescue",
+  "es": "Rescate del trío del lago",
+  "zh": "营救湖泊三神"
+ },
+ {
+  "id": 132,
+  "en": "Fer's House",
+  "es": "Casa de Fer",
+  "zh": "菲尔的家"
+ },
+ {
+  "id": 133,
+  "en": "Trip to the Jungle",
+  "es": "Viaje a La Jungla",
+  "zh": "丛林之旅"
+ },
+ {
+  "id": 134,
+  "en": "Lost Buizel",
+  "es": "Buizel perdido",
+  "zh": "走失的泳圈鼬"
+ },
+ {
+  "id": 135,
+  "en": "Mewtwo's Origin",
+  "es": "Origen de Mewtwo",
+  "zh": "超梦的起源"
+ },
+ {
+  "id": 136,
+  "en": "Vital Particle",
+  "es": "Partícula Vital",
+  "zh": "活力粒子"
+ },
+ {
+  "id": 137,
+  "en": "There is a sleeping Snorlax blocking the way on Route 9.",
+  "es": "Hay un Snorlax durmiendo que bloquea el paso en la Ruta 9.",
+  "zh": "有一只睡着的卡比兽挡在9号道路上。"
+ },
+ {
+  "id": 138,
+  "en": "Get Mystery Badge at Sirius City.",
+  "es": "Obtener Medalla Misterio en Ciudad Sirio.",
+  "zh": "在天狼市获得神秘徽章。"
+ },
+ {
+  "id": 139,
+  "en": "Unlock Flash move ability outside battle.",
+  "es": "Desbloquear habilidad Destello fuera del combate.",
+  "zh": "解锁在对战之外使用闪光的能力。"
+ },
+ {
+  "id": 140,
+  "en": "Helia recommended you spend the night at Sirius City Hotel.",
+  "es": "Helia te ha recomendado pasar la noche en el Hotel de Ciudad Sirio.",
+  "zh": "赫莉娅建议你在天狼市的酒店住一晚。"
+ },
+ {
+  "id": 141,
+  "en": "You need to find the 5 hidden packages in order to enter the Deneb Gym.",
+  "es": "Para poder entrar al Gimnasio Deneb debes encontrar 5 paquetes ocultos.",
+  "zh": "想进入天鹅市道馆，必须先找到5个隐藏的包裹。"
+ },
+ {
+  "id": 142,
+  "en": "Get Iceberg Badge at Deneb City.",
+  "es": "Obtener Medalla Iceberg en Ciudad Deneb.",
+  "zh": "在天鹅市获得冰山徽章。"
+ },
+ {
+  "id": 143,
+  "en": "Unlock Fly move ability outside battle.",
+  "es": "Desbloquear habilidad Vuelo fuera del combate.",
+  "zh": "解锁在对战之外使用飞翔的能力。"
+ },
+ {
+  "id": 144,
+  "en": "Get a bike to get through the Bike Road.",
+  "es": "Conseguir una bicicleta para poder cruzar el Carril Bicis.",
+  "zh": "想穿过自行车道，需要先弄到一辆自行车。"
+ },
+ {
+  "id": 145,
+  "en": "Teach Secret Power to a Pokémon and create a Secret Base.",
+  "es": "Enseñar el ataque Daño Secreto a un Pokémon y crear una Base Secreta.",
+  "zh": "让宝可梦学会秘密之力，并建造一个秘密基地。"
+ },
+ {
+  "id": 146,
+  "en": "Get Sequoia Badge at Vega City.",
+  "es": "Obtener Medalla Secuoya en Ciudad Vega.",
+  "zh": "在织女市获得红杉徽章。"
+ },
+ {
+  "id": 147,
+  "en": "Some Pokémon are blocking the way on determined places.",
+  "es": "Algunos Pokémon están obstruyendo el paso en determinados puntos.",
+  "zh": "有些宝可梦挡在特定的地点，堵住了去路。"
+ },
+ {
+  "id": 148,
+  "en": "Unlock Strength move ability outside battle.",
+  "es": "Desbloquear habilidad Fuerza fuera del combate.",
+  "zh": "解锁在对战之外使用怪力的能力。"
+ },
+ {
+  "id": 149,
+  "en": "Get Flame Badge at Rigel City.",
+  "es": "Obtener Medalla Llama en Ciudad Rigel.",
+  "zh": "在参宿市获得火焰徽章。"
+ },
+ {
+  "id": 150,
+  "en": "Unlock Surf move ability outside battle.",
+  "es": "Desbloquear habilidad Surf fuera del combate.",
+  "zh": "解锁在对战之外使用冲浪的能力。"
+ },
+ {
+  "id": 151,
+  "en": "You need to find the lost weapons on the Islands in order to enter the Pole Gym.",
+  "es": "Para poder entrar al Gimnasio Polar debes encontrar armas perdidas en las Islas.",
+  "zh": "想进入北辰市道馆，必须先在群岛上找到失落的武器。"
+ },
+ {
+  "id": 152,
+  "en": "Get Fable Badge at Pole City.",
+  "es": "Obtener Medalla Fábula en Ciudad Polar.",
+  "zh": "在北辰市获得寓言徽章。"
+ },
+ {
+  "id": 153,
+  "en": "Professor Birch will repopulate a zone with wild $par1$.",
+  "es": "El Profesor Abedul va a repoblar una zona con $par1$ salvajes.",
+  "zh": "小田卷博士将在某个区域放养野生的$par1$。"
+ },
+ {
+  "id": 154,
+  "en": "Unlock Dive move ability outside battle.",
+  "es": "Desbloquear habilidad Buceo fuera del combate.",
+  "zh": "解锁在对战之外使用潜水的能力。"
+ },
+ {
+  "id": 155,
+  "en": "Visit Star Bank (placed in Antares City) and create a bank account.",
+  "es": "Visitar el Banco Star (situado en Ciudad Antares) y crear una cuenta.",
+  "zh": "前往星辰银行（位于心宿市）开设一个账户。"
+ },
+ {
+  "id": 156,
+  "en": "Get Psychic Badge at Antares City.",
+  "es": "Obtener Medalla Psíquica en Ciudad Antares.",
+  "zh": "在心宿市获得超能力徽章。"
+ },
+ {
+  "id": 157,
+  "en": "Get to Sun Island and win the Star Pokémon League.",
+  "es": "Llegar a Isla Sol y ganar la Liga Pokémon Star.",
+  "zh": "前往太阳岛，赢得星辰宝可梦联盟。"
+ },
+ {
+  "id": 158,
+  "en": "Find all Kanto leaders and beat them to earn their Badges.",
+  "es": "Encontrar a los líderes de Kanto y vencerlos para ganar las medallas.",
+  "zh": "找到关都的所有馆主并打倒他们，赢得徽章。"
+ },
+ {
+  "id": 159,
+  "en": "Find all Johto leaders and beat them to earn their Badges.",
+  "es": "Encontrar a los líderes de Johto y vencerlos para ganar las medallas.",
+  "zh": "找到城都的所有馆主并打倒他们，赢得徽章。"
+ },
+ {
+  "id": 160,
+  "en": "Find all Hoenn leaders and beat them to earn their Badges.",
+  "es": "Encontrar a los líderes de Hoenn y vencerlos para ganar las medallas.",
+  "zh": "找到丰缘的所有馆主并打倒他们，赢得徽章。"
+ },
+ {
+  "id": 161,
+  "en": "Find all Sinnoh leaders and beat them to earn their Badges.",
+  "es": "Encontrar a los líderes de Sinnoh y vencerlos para ganar las medallas.",
+  "zh": "找到神奥的所有馆主并打倒他们，赢得徽章。"
+ },
+ {
+  "id": 162,
+  "en": "Try to participate in an event for trainers in a building in Siluam Forest.",
+  "es": "Intentar participar en un evento para entrenadores en un edificio en el Bosque Siluam.",
+  "zh": "尝试参加西卢安森林某栋建筑里举办的训练家活动。"
+ },
+ {
+  "id": 163,
+  "en": "Roco will repopulate Paleo Cave with extinct Pokémon revived from fossils.",
+  "es": "Roco va a repoblar la Cueva Paleo con Pokémon extintos revividos a partir de fósiles.",
+  "zh": "瓢太将把用化石复活的已灭绝宝可梦放养到古生洞窟。"
+ },
+ {
+  "id": 164,
+  "en": "Investigate a horde of ghosts who invaded Sirius City.",
+  "es": "Investigar una horda de fantasmas que ha invadido Ciudad Sirio.",
+  "zh": "调查入侵天狼市的一大群幽灵。"
+ },
+ {
+  "id": 165,
+  "en": "Team Magma invaded Canis Cemetery and are plotting something.",
+  "es": "El Team Magma ha invadido el Cementerio Can y está tramando algo.",
+  "zh": "熔岩队入侵了大犬墓园，似乎在策划什么。"
+ },
+ {
+  "id": 166,
+  "en": "Some Pokémon got sick on Route 12 and are blocking the way.",
+  "es": "Unos Pokémon se han puesto enfermos en la Ruta 12 y están bloqueando el camino.",
+  "zh": "12号道路上有些宝可梦生病了，挡住了去路。"
+ },
+ {
+  "id": 167,
+  "en": "An Old Man has disappeared leaving no traces near the Safari Zone.",
+  "es": "Un anciano ha desaparecido sin dejar rastro cerca de la Zona Safari.",
+  "zh": "一位老爷爷在狩猎地带附近失踪了，没有留下任何痕迹。"
+ },
+ {
+  "id": 168,
+  "en": "Some thieves have stolen a precious  object of Vega City's Gym Leader.",
+  "es": "Unos maleantes han robado un objeto preciado de la líder de gimnasio de Ciudad Vega.",
+  "zh": "几个小偷偷走了织女市馆主的一件珍贵物品。"
+ },
+ {
+  "id": 169,
+  "en": "Investigate what is going on in the Weather Institute.",
+  "es": "Investigar qué está ocurriendo en el Instituto meteorológico.",
+  "zh": "调查气象研究所里发生了什么。"
+ },
+ {
+  "id": 170,
+  "en": "People say Pole City hides lots of secrets, we are interested on exploring it.",
+  "es": "Dicen que Ciudad Polar esconde muchos secretos, nos interesa explorarla.",
+  "zh": "据说北辰市藏着许多秘密，我们有兴趣去探索一番。"
+ },
+ {
+  "id": 171,
+  "en": "Power Plant's Guardian has been kidnapped by Team Rocket.",
+  "es": "El guardián de la Central Eléctrica ha sido secuestrado por el Team Rocket.",
+  "zh": "发电厂的守护者被火箭队绑架了。"
+ },
+ {
+  "id": 172,
+  "en": "Pokémon Professors meet in the Antares City Library.",
+  "es": "Los profesores Pokémon se reúnen en la Biblioteca de Ciudad Antares.",
+  "zh": "宝可梦博士们在心宿市图书馆集合。"
+ },
+ {
+  "id": 173,
+  "en": "Visit the technology Center at Antares City.",
+  "es": "Visitar el Centro tecnológico de Ciudad Antares.",
+  "zh": "前往心宿市的科技中心。"
+ },
+ {
+  "id": 174,
+  "en": "Azelf, Mesprit and Uxie have been kidnapped by Team Galaxy.",
+  "es": "Azelf, Mesprit y Uxie han sido secuestrados por el Equipo Galaxia.",
+  "zh": "亚克诺姆、艾姆利多和由克希被银河队绑架了。"
+ },
+ {
+  "id": 175,
+  "en": "Visit Fer. Lives in Antares City, Scorpio Building, seventh floor, door C.",
+  "es": "Visitar a Fer. Vive en Ciudad Antares, Edificio Scorpio, piso séptimo, puerta C.",
+  "zh": "去拜访菲尔。他住在心宿市天蝎大厦七楼C室。"
+ },
+ {
+  "id": 176,
+  "en": "Take a Ship at Light Harbor heading to the Jungle.",
+  "es": "Coger un Barco en Puerto Luz que se dirige a La Jungla.",
+  "zh": "在光明港乘坐开往丛林的船。"
+ },
+ {
+  "id": 177,
+  "en": "The Captain lost sight of his Buizel and you are going to help him finding it.",
+  "es": "El capitán a perdido de vista a su Buizel y vas a ayudarle a encontrarlo.",
+  "zh": "船长的泳圈鼬走丢了，你要帮他找回来。"
+ },
+ {
+  "id": 178,
+  "en": "Investigate in the Jungle for information about Mewtwo's origin.",
+  "es": "Hay que investigar en La Jungla información sobre el origen de Mewtwo.",
+  "zh": "在丛林调查超梦起源的相关信息。"
+ },
+ {
+  "id": 179,
+  "en": "Look out for the Vital Particle placed in the Vital Park in case Mewtwo appears.",
+  "es": "Vigilar la Partícula Vital ubicada en el Parque Vital por si Mewtwo aparece.",
+  "zh": "留意放在活力公园的活力粒子，以防超梦出现。"
+ },
+ {
+  "id": 180,
+  "en": "The Poké flute obtained in the Pokémon Tower woke Snorlax up.",
+  "es": "La Flauta Pokémon obtenida en la Torre Pokémon ha despertado a Snorlax.",
+  "zh": "在宝可梦塔获得的宝可梦之笛吵醒了卡比兽。"
+ },
+ {
+  "id": 181,
+  "en": "A Darkrai kidnapped you and left you in Agatha's house on Route 10.",
+  "es": "Un Darkrai te ha secuestrado y te ha dejado en la casa de Agatha en la Ruta 10.",
+  "zh": "一只达克莱伊把你绑架了，并把你丢在10号道路上菊子的家里。"
+ },
+ {
+  "id": 182,
+  "en": "A friend of leader Rosama gave you his bike for helping him with a little problem.",
+  "es": "Un amigo de la líder Rosama nos deja su bicicleta por ayudarlo con un problemita.",
+  "zh": "我们帮馆主罗萨玛的朋友解决了一个小问题，他把自行车送给了我们。"
+ },
+ {
+  "id": 183,
+  "en": "Got a watering can to water Berries and way-blocking Pokémon.",
+  "es": "Conseguida una regadera para regar Bayas y Pokémon que obstaculizan el paso.",
+  "zh": "得到了杰尼龟喷壶，可以给树果和挡路的宝可梦浇水。"
+ },
+ {
+  "id": 184,
+  "en": "Now is possible to find wild $par1$ on Star Region.",
+  "es": "Ahora es posible encontrar $par1$ salvajes en la Región Star.",
+  "zh": "现在可以在星辰地区遇到野生的$par1$了。"
+ },
+ {
+  "id": 185,
+  "en": "It was actually a Team Rocket trap to steal your Pokémon.",
+  "es": "En realidad era una trampa del Team Rocket para robarte tus Pokémon.",
+  "zh": "其实这是火箭队为了抢走你的宝可梦而设下的陷阱。"
+ },
+ {
+  "id": 186,
+  "en": "Now is possible to find wild extinct Pokémon in Paleo Cave. ",
+  "es": "Ahora es posible encontrar Pokémon extintos salvajes en la Cueva Paleo.",
+  "zh": "现在可以在古生洞窟遇到野生的已灭绝宝可梦了。"
+ },
+ {
+  "id": 187,
+  "en": "Ghost Pokémon returned to Canis Cemetery.",
+  "es": "Los Pokémon fantasma han vuelto al Cementerio Can.",
+  "zh": "幽灵宝可梦回到了大犬墓园。"
+ },
+ {
+  "id": 188,
+  "en": "Team Magma was defeated with the collaboration of Leader Helia.",
+  "es": "Has derrotado al Team Magma en colaboración con la líder Helia.",
+  "zh": "你和馆主赫莉娅联手打倒了熔岩队。"
+ },
+ {
+  "id": 189,
+  "en": "You gave Tina the medicinal herbs and all Pokémon are healthy now.",
+  "es": "Has dado a Tina las hierbas medicinales y todos los Pokémon están curados.",
+  "zh": "你把药草交给了蒂娜，所有宝可梦都恢复健康了。"
+ },
+ {
+  "id": 190,
+  "en": "You have rescued the Old Man and defeated the bad ones, but they took Azelf, Mesprit and Uxie.",
+  "es": "Has rescatado al anciano y vencido a los malos, pero se han llevado a Azelf, Mesprit y Uxie.",
+  "zh": "你救出了老爷爷并打倒了坏人，但他们带走了亚克诺姆、艾姆利多和由克希。"
+ },
+ {
+  "id": 191,
+  "en": "You defeated the Bikers in the Bikes Road and recovered the GS Ball.",
+  "es": "Has derrotado a los Motoristas del Carril Bicis y has recuperado la GS Ball.",
+  "zh": "你打倒了自行车道的飞车党，夺回了GS球。"
+ },
+ {
+  "id": 192,
+  "en": "You defeated Team Aqua and weather device has been destroyed.",
+  "es": "Has derrotado al Team Aqua y el dispositivo climático ha sido destruido.",
+  "zh": "你打倒了海洋队，天气装置已被破坏。"
+ },
+ {
+  "id": 193,
+  "en": "Team Rocket are bringing something in between in the Sewers of Pole City.",
+  "es": "El Team Rocket tiene algo entre manos en las Cloacas de Ciudad Polar.",
+  "zh": "火箭队在北辰下水道里似乎在搞什么名堂。"
+ },
+ {
+  "id": 194,
+  "en": "Zapdos was set free from Team Rocket's hands.",
+  "es": "Zapdos ha sido liberado de manos del Team Rocket.",
+  "zh": "闪电鸟已从火箭队手中获救。"
+ },
+ {
+  "id": 195,
+  "en": "The Professors asked you and your rival for help in the investigation of Team Galaxy.",
+  "es": "Los profesores te han pedido ayuda a ti y a tu rival para investigar al Equipo Galaxia.",
+  "zh": "博士们请你和你的劲敌协助调查银河队。"
+ },
+ {
+  "id": 196,
+  "en": "Team Galaxy impostor captured who was trying to steal a Master Ball.",
+  "es": "Capturado impostor del Equipo Galaxia que trataba de robar una Master Ball.",
+  "zh": "抓住了企图偷走大师球的银河队冒牌货。"
+ },
+ {
+  "id": 197,
+  "en": "With the help of your rival, you set Uxie, Mesprit and Azelf free from Team Galaxy hands.",
+  "es": "Has liberado con ayuda de tu rival a Uxie, Mesprit y Azelf de manos del Equipo Galaxia.",
+  "zh": "在劲敌的帮助下，你把由克希、艾姆利多和亚克诺姆从银河队手中救了出来。"
+ },
+ {
+  "id": 198,
+  "en": "Fer gave you a Jungle Pass and starts your adventure with the Elite Squad.",
+  "es": "Fer te ha entregado un Pase Jungla y da comienzo tu aventura con el Escuadrón Élite.",
+  "zh": "菲尔交给了你一张丛林通行证，你与精英小队的冒险就此开始。"
+ },
+ {
+  "id": 199,
+  "en": "Buizel was hidden in the basement of the Ship. You have met Misty!",
+  "es": "Buizel estaba escondido en el piso de abajo del Barco. ¡Has conocido a Misty!",
+  "zh": "泳圈鼬藏在船的下层。你结识了小霞！"
+ },
+ {
+  "id": 200,
+  "en": "You have found some interest information in Arrow Island. Mission accomplished!",
+  "es": "Has averiguado información interesante en Isla Flecha. ¡Misión cumplida!",
+  "zh": "你在箭之岛查到了一些有趣的信息。任务达成！"
+ },
+ {
+  "id": 201,
+  "en": "Team Rocket has stolen the Vital particle and have gone to chased Mewthree.",
+  "es": "El Team Rocket ha robado la partícula Vital y ha ido tras Mewthree.",
+  "zh": "火箭队偷走了活力粒子，去追超梦三了。"
+ },
+ {
+  "id": 202,
+  "en": "Great Wise Old Man",
+  "es": "Gran Sabio Anciano",
+  "zh": "大贤者"
+ },
+ {
+  "id": 203,
+  "en": "Investigate in the Pokémon Tower what happens with the Great Wise Elder.",
+  "es": "Investigar en la Torre Pokémon qué ocurre con el Gran Sabio Anciano.",
+  "zh": "前往宝可梦塔，调查大贤者发生了什么事。"
+ },
+ {
+  "id": 204,
+  "en": "You have rescued the Great Wise Elder who was being held by Team Rocket.",
+  "es": "Has rescatado al Gran Sabio Anciano que estaba retenido por el Team Rocket.",
+  "zh": "你救出了被火箭队扣押的大贤者。"
+ },
+ {
+  "id": 205,
+  "en": "Defeat the Commander Shelly",
+  "es": "Vencer a Comandante Silvina",
+  "zh": "打倒干部阿泉"
+ },
+ {
+  "id": 206,
+  "en": "Talk to the Elderly",
+  "es": "Hablar con Ancianos",
+  "zh": "和老人们交谈"
+ },
+ {
+  "id": 207,
+  "en": "Get the Pkmn Flute",
+  "es": "Obtener Flauta Pkmn",
+  "zh": "获得宝可梦之笛"
+ },
+ {
+  "id": 208,
+  "en": "Wake up Snorlax",
+  "es": "Despertar a Snorlax",
+  "zh": "叫醒卡比兽"
+ },
+ {
+  "id": 209,
+  "en": "Catch Snorlax",
+  "es": "Capturar a Snorlax",
+  "zh": "捕获卡比兽"
+ },
+ {
+  "id": 210,
+  "en": "Defeat the Leader Helia",
+  "es": "Vencer a Líder Helia",
+  "zh": "打倒馆主赫莉娅"
+ },
+ {
+  "id": 211,
+  "en": "Get Mystery Badge",
+  "es": "Obtener Medalla Misterio",
+  "zh": "获得神秘徽章"
+ },
+ {
+  "id": 212,
+  "en": "Spend a night at the hotel",
+  "es": "Pasar una noche en el hotel",
+  "zh": "在酒店住一晚"
+ },
+ {
+  "id": 213,
+  "en": "Find Packages ($par1$/5)",
+  "es": "Encontrar paquetes ($par1$/5)",
+  "zh": "寻找包裹（$par1$/5）"
+ },
+ {
+  "id": 214,
+  "en": "Deliver packages",
+  "es": "Entregar paquetes",
+  "zh": "交付包裹"
+ },
+ {
+  "id": 215,
+  "en": "Enter the Deneb Gym",
+  "es": "Entrar al Gimnasio Deneb",
+  "zh": "进入天鹅市道馆"
+ },
+ {
+  "id": 216,
+  "en": "Find HM2 FlY",
+  "es": "Encontrar MO2 Vuelo",
+  "zh": "找到秘传学习器02 飞翔"
+ },
+ {
+  "id": 217,
+  "en": "Get Iceberg Badge",
+  "es": "Obtener Medalla Iceberg",
+  "zh": "获得冰山徽章"
+ },
+ {
+  "id": 218,
+  "en": "Get a bike",
+  "es": "Conseguir una bicicleta",
+  "zh": "弄到一辆自行车"
+ },
+ {
+  "id": 219,
+  "en": "Get through the Cycling Road",
+  "es": "Cruzar el Carril de Bicis",
+  "zh": "穿过自行车道"
+ },
+ {
+  "id": 220,
+  "en": "Visit Secret Shop",
+  "es": "Visitar Tienda Secreta",
+  "zh": "前往秘密商店"
+ },
+ {
+  "id": 221,
+  "en": "Get TM45 Secret Power",
+  "es": "Obtener MT45 Daño Secreto",
+  "zh": "获得招式学习器45 秘密之力"
+ },
+ {
+  "id": 222,
+  "en": "Build a secret base",
+  "es": "Construir una base secreta",
+  "zh": "建造秘密基地"
+ },
+ {
+  "id": 223,
+  "en": "Get Redwood Tree Badge",
+  "es": "Obtener Medalla Secuoya",
+  "zh": "获得红杉徽章"
+ },
+ {
+  "id": 224,
+  "en": "Get SquirtBottle",
+  "es": "Obtener Regadera",
+  "zh": "获得杰尼龟喷壶"
+ },
+ {
+  "id": 225,
+  "en": "Sudowoodo on Route 18",
+  "es": "Sudowoodo en Ruta 18",
+  "zh": "18号道路的树才怪"
+ },
+ {
+  "id": 226,
+  "en": "Bonsly in Vega City",
+  "es": "Bonsly en Ciudad Vega",
+  "zh": "织女市的盆才怪"
+ },
+ {
+  "id": 227,
+  "en": "Find HM4 Strength",
+  "es": "Encontrar MO4 Fuerza",
+  "zh": "找到秘传学习器04 怪力"
+ },
+ {
+  "id": 228,
+  "en": "Visit the Abandoned House",
+  "es": "Visitar Casa Abandonada",
+  "zh": "前往废弃的房子"
+ },
+ {
+  "id": 229,
+  "en": "Find HM3 Surf",
+  "es": "Encontrar MO3 Surf",
+  "zh": "找到秘传学习器03 冲浪"
+ },
+ {
+  "id": 230,
+  "en": "Get Flame Badge",
+  "es": "Obtener Medalla Llama",
+  "zh": "获得火焰徽章"
+ },
+ {
+  "id": 231,
+  "en": "Find weapons ($par1$/3)",
+  "es": "Encontrar armas ($par1$/3)",
+  "zh": "寻找武器（$par1$/3）"
+ },
+ {
+  "id": 232,
+  "en": "Enter the Pole Gym",
+  "es": "Entrar al Gimnasio Polar",
+  "zh": "进入北辰市道馆"
+ },
+ {
+  "id": 233,
+  "en": "Deliver a $par1$ to the professor",
+  "es": "Entregar al profesor un $par1$",
+  "zh": "把$par1$交给博士"
+ },
+ {
+  "id": 234,
+  "en": "Find HM7 Dive",
+  "es": "Encontrar MO7 Buceo",
+  "zh": "找到秘传学习器07 潜水"
+ },
+ {
+  "id": 235,
+  "en": "Get Fable badge",
+  "es": "Obtener Medalla Fábula",
+  "zh": "获得寓言徽章"
+ },
+ {
+  "id": 236,
+  "en": "Visit Star Region Bank",
+  "es": "Visitar Banco Star",
+  "zh": "前往星辰银行"
+ },
+ {
+  "id": 237,
+  "en": "Create an account at the Bank",
+  "es": "Crear una cuenta en el Banco",
+  "zh": "在银行开设账户"
+ },
+ {
+  "id": 238,
+  "en": "Find Sun Island",
+  "es": "Encontrar Isla Sol",
+  "zh": "找到太阳岛"
+ },
+ {
+  "id": 239,
+  "en": "Get through Victory Road",
+  "es": "Cruzar Calle Victoria",
+  "zh": "穿过冠军之路"
+ },
+ {
+  "id": 240,
+  "en": "Enter the Pokémon League",
+  "es": "Entrar a la Liga Pokémon",
+  "zh": "进入宝可梦联盟"
+ },
+ {
+  "id": 241,
+  "en": "Defeat $par1$",
+  "es": "Vencer a $par1$",
+  "zh": "打倒$par1$"
+ },
+ {
+  "id": 242,
+  "en": "Find Mewthree",
+  "es": "Encontrar a Mewthree",
+  "zh": "找到超梦三"
+ },
+ {
+  "id": 243,
+  "en": "Locate Team Rocket",
+  "es": "Localizar al Team Rocket",
+  "zh": "找出火箭队的下落"
+ },
+ {
+  "id": 244,
+  "en": "Protect Mewtwo",
+  "es": "Proteger a Mewtwo",
+  "zh": "保护超梦"
+ },
+ {
+  "id": 245,
+  "en": "Defeat the Champion",
+  "es": "Vencer al Campeón",
+  "zh": "打倒冠军"
+ },
+ {
+  "id": 246,
+  "en": "Win Kanto League",
+  "es": "Ganar Liga Kanto",
+  "zh": "赢得关都联盟"
+ },
+ {
+  "id": 247,
+  "en": "Join the Challenge",
+  "es": "Participar en el Reto",
+  "zh": "参加挑战"
+ },
+ {
+  "id": 248,
+  "en": "Carry a single Pokémon",
+  "es": "Llevar un solo Pokémon",
+  "zh": "只带一只宝可梦"
+ },
+ {
+  "id": 249,
+  "en": "Must be level 5 or lower",
+  "es": "Debe ser del nivel 5 o inferior",
+  "zh": "等级必须在5级以下"
+ },
+ {
+  "id": 250,
+  "en": "Find fossils ($par1$/19)",
+  "es": "Encontrar fósiles ($par1$/19)",
+  "zh": "寻找化石（$par1$/19）"
+ },
+ {
+  "id": 251,
+  "en": "Revive Extinct Pokémon ($par1$/15)",
+  "es": "Revivir Pokémon Extinto ($par1$/15)",
+  "zh": "复活已灭绝的宝可梦（$par1$/15）"
+ },
+ {
+  "id": 252,
+  "en": "Deliver Pokémon to Roco ($par1$/15)",
+  "es": "Entregar Pokémon a Roco ($par1$/15)",
+  "zh": "把宝可梦交给瓢太（$par1$/15）"
+ },
+ {
+  "id": 253,
+  "en": "Go to the top floor",
+  "es": "Subir al último piso",
+  "zh": "前往顶层"
+ },
+ {
+  "id": 254,
+  "en": "Beat Team Rocket members",
+  "es": "Vencer miembros Team Rocket",
+  "zh": "打倒火箭队成员"
+ },
+ {
+  "id": 255,
+  "en": "Beat Lady Boss",
+  "es": "Vencer a Lady Boss",
+  "zh": "打倒女首领"
+ },
+ {
+  "id": 256,
+  "en": "Talk to the Mayor",
+  "es": "Hablar con Alcalde",
+  "zh": "和市长交谈"
+ },
+ {
+  "id": 257,
+  "en": "Find Helia",
+  "es": "Encontrar a Helia",
+  "zh": "找到赫莉娅"
+ },
+ {
+  "id": 258,
+  "en": "Check the access to the Cemetery",
+  "es": "Revisar acceso al Cementerio",
+  "zh": "检查通往墓园的入口"
+ },
+ {
+  "id": 259,
+  "en": "Investigate the problem",
+  "es": "Investigar el problema",
+  "zh": "调查问题"
+ },
+ {
+  "id": 260,
+  "en": "Go to Canis Cemetery",
+  "es": "Ir al Cementerio Can",
+  "zh": "前往大犬墓园"
+ },
+ {
+  "id": 261,
+  "en": "Defeat Team Magma members",
+  "es": "Vencer miembros Team Magma",
+  "zh": "打倒熔岩队成员"
+ },
+ {
+  "id": 262,
+  "en": "Defeat Commander Tabitha",
+  "es": "Vencer a Comandante Tatiano",
+  "zh": "打倒干部火村"
+ },
+ {
+  "id": 263,
+  "en": "Get Special Herb",
+  "es": "Obtener Hierba Especial",
+  "zh": "获得特制药草"
+ },
+ {
+  "id": 264,
+  "en": "Use Special Herb",
+  "es": "Utilizar Hierba Especial",
+  "zh": "使用特制药草"
+ },
+ {
+  "id": 265,
+  "en": "Visit Wayward Cave",
+  "es": "Visitar Cueva Extravío",
+  "zh": "前往迷途洞窟"
+ },
+ {
+  "id": 266,
+  "en": "Visit Wayward Zone",
+  "es": "Visitar Zona Extravío",
+  "zh": "前往迷途地带"
+ },
+ {
+  "id": 267,
+  "en": "DefeatTeam Galactic",
+  "es": "Vencer Equipo Galaxia",
+  "zh": "打倒银河队"
+ },
+ {
+  "id": 268,
+  "en": "Defeat Commander Mars",
+  "es": "Vencer a Comandante Venus",
+  "zh": "打倒干部伙星"
+ },
+ {
+  "id": 269,
+  "en": "Rescue Old Man",
+  "es": "Rescatar Anciano",
+  "zh": "营救老爷爷"
+ },
+ {
+  "id": 270,
+  "en": "Investigate case",
+  "es": "Investigar caso",
+  "zh": "调查案件"
+ },
+ {
+  "id": 271,
+  "en": "Go to Cycling Road",
+  "es": "Entrar al Carril Bicis",
+  "zh": "进入自行车道"
+ },
+ {
+  "id": 272,
+  "en": "Defeat the Bikers ($par1$/9)",
+  "es": "Vencer a los Motoristas ($par1$/9)",
+  "zh": "打倒飞车党（$par1$/9）"
+ },
+ {
+  "id": 273,
+  "en": "Recover GS Ball",
+  "es": "Recuperar GS Ball",
+  "zh": "夺回GS球"
+ },
+ {
+  "id": 274,
+  "en": "Deliver GS Ball to Kiko",
+  "es": "Entregar GS Ball a Kiko",
+  "zh": "把GS球交给基科"
+ },
+ {
+  "id": 275,
+  "en": "Visit Weather Institute",
+  "es": "Visitar Inst. Meteorológico",
+  "zh": "前往气象研究所"
+ },
+ {
+  "id": 276,
+  "en": "Defeat Archie",
+  "es": "Vencer a Aquiles",
+  "zh": "打倒水梧桐"
+ },
+ {
+  "id": 277,
+  "en": "Visit Pole Game Corner",
+  "es": "Visitar Casino",
+  "zh": "前往北辰游戏城"
+ },
+ {
+  "id": 278,
+  "en": "Pole Game Corner opening",
+  "es": "Apertura de puerta en Casino",
+  "zh": "开启游戏城的门"
+ },
+ {
+  "id": 279,
+  "en": "Visit Pole Sewer",
+  "es": "Visitar Cloaca Polar",
+  "zh": "前往北辰下水道"
+ },
+ {
+  "id": 280,
+  "en": "Visit Pole Sewer S2",
+  "es": "Visitar Cloaca Polar S2",
+  "zh": "前往北辰下水道地下2层"
+ },
+ {
+  "id": 281,
+  "en": "Release the Guardian",
+  "es": "Liberar al Guardián",
+  "zh": "解救守护者"
+ },
+ {
+  "id": 282,
+  "en": "Go to Antares City",
+  "es": "Llegar a Ciudad Antares",
+  "zh": "前往心宿市"
+ },
+ {
+  "id": 283,
+  "en": "Visit the Library",
+  "es": "Visitar Biblioteca",
+  "zh": "前往图书馆"
+ },
+ {
+  "id": 284,
+  "en": "Attend to the meeting",
+  "es": "Asistir a la reunión",
+  "zh": "出席会议"
+ },
+ {
+  "id": 285,
+  "en": "Visit the Technological Center",
+  "es": "Visitar Centro tecnológico",
+  "zh": "前往科技中心"
+ },
+ {
+  "id": 286,
+  "en": "Access to the Technological Center",
+  "es": "Acceder al Centro tecnológico",
+  "zh": "进入科技中心"
+ },
+ {
+  "id": 287,
+  "en": "Find the Impostor",
+  "es": "Encontrar al Impostor",
+  "zh": "找出冒牌货"
+ },
+ {
+  "id": 288,
+  "en": "Defeat the Impostor Recruit",
+  "es": "Vencer recluta impostor",
+  "zh": "打倒冒牌手下"
+ },
+ {
+  "id": 289,
+  "en": "Find the Galactic Hideout",
+  "es": "Encontrar Guarida Galaxia",
+  "zh": "找到银河队基地"
+ },
+ {
+  "id": 290,
+  "en": "Defeat the Team Galactic",
+  "es": "Vencer Equipo Galaxia",
+  "zh": "打倒银河队"
+ },
+ {
+  "id": 291,
+  "en": "Defeat Commander Saturn",
+  "es": "Vencer a Comandante Saturno",
+  "zh": "打倒干部镇星"
+ },
+ {
+  "id": 292,
+  "en": "Go Back to Antares City",
+  "es": "Volver a Ciudad Antares",
+  "zh": "返回心宿市"
+ },
+ {
+  "id": 293,
+  "en": "Find Fer's house",
+  "es": "Encontrar Casa de Fer",
+  "zh": "找到菲尔的家"
+ },
+ {
+  "id": 294,
+  "en": "Talk to Fer",
+  "es": "Hablar con Fer",
+  "zh": "和菲尔交谈"
+ },
+ {
+  "id": 295,
+  "en": "Board the Jungle ship",
+  "es": "Subir al Barco Jungla",
+  "zh": "登上开往丛林的船"
+ },
+ {
+  "id": 296,
+  "en": "Arrive to Jungle Port",
+  "es": "Llegar a Puerto Jungla",
+  "zh": "抵达丛林港"
+ },
+ {
+  "id": 297,
+  "en": "Visit boat downstairs",
+  "es": "Visitar piso inferior Barco",
+  "zh": "前往船的下层"
+ },
+ {
+  "id": 298,
+  "en": "Find Buizel",
+  "es": "Encontrar a Buizel",
+  "zh": "找到泳圈鼬"
+ },
+ {
+  "id": 299,
+  "en": "Make Buizel go back",
+  "es": "Hacer volver a Buizel",
+  "zh": "让泳圈鼬回来"
+ },
+ {
+  "id": 300,
+  "en": "Go to Wezen Town",
+  "es": "Ir a Pueblo Wezen",
+  "zh": "前往韦森镇"
+ },
+ {
+  "id": 301,
+  "en": "Go to Jungle Lab",
+  "es": "Ir a Laboratorio Jungla",
+  "zh": "前往丛林研究所"
+ },
+ {
+  "id": 302,
+  "en": "Find out for some information",
+  "es": "Averiguar Información",
+  "zh": "打探消息"
+ },
+ {
+  "id": 303,
+  "en": "Go to Vital Park",
+  "es": "Ir al Parque Vital",
+  "zh": "前往活力公园"
+ },
+ {
+  "id": 304,
+  "en": "Find Mewtwo",
+  "es": "Encontrar a Mewtwo",
+  "zh": "找到超梦"
+ },
+ {
+  "id": 305,
+  "en": "Inform the Mayor about everything",
+  "es": "Informar de todo al Alcalde",
+  "zh": "把一切告诉镇长"
+ },
+ {
+  "id": 306,
+  "en": "Release the Legendary Beasts",
+  "es": "Liberar Perros Legendarios",
+  "zh": "解放三圣兽"
+ },
+ {
+  "id": 307,
+  "en": "Travel around Pole Sewer B2",
+  "es": "Recorrer Cloaca Polar S2",
+  "zh": "走遍北辰下水道地下2层"
+ },
+ {
+  "id": 308,
+  "en": "New optional obj. in $par1$!#$par2$",
+  "es": "¡Nuevo obj. opcional en $par1$!#$par2$",
+  "zh": "$par1$新增可选目标！#$par2$"
+ },
+ {
+  "id": 309,
+  "en": "Completed optional obj. of $par1$!#$par2$",
+  "es": "¡Obj. opcional completado de $par1$!#$par2$",
+  "zh": "$par1$的可选目标已完成！#$par2$"
+ },
+ {
+  "id": 310,
+  "en": "Failed optional obj. of $par1$!#$par2$",
+  "es": "¡Obj. opcional fallido de $par1$!#$par2$",
+  "zh": "$par1$的可选目标失败了！#$par2$"
+ },
+ {
+  "id": 311,
+  "en": "New restriction in $par1$!#$par2$",
+  "es": "¡Nueva restricción en $par1$!#$par2$",
+  "zh": "$par1$新增限制！#$par2$"
+ },
+ {
+  "id": 312,
+  "en": "Violated restriction of $par1$!#$par2$",
+  "es": "¡Restricción violada de $par1$!#$par2$",
+  "zh": "$par1$的限制被违反了！#$par2$"
+ },
+ {
+  "id": 313,
+  "en": "Destroy clime device",
+  "es": "Destruir dispositivo climático",
+  "zh": "破坏天气装置"
+ },
+ {
+  "id": 314,
+  "en": "Release the Slowpoke",
+  "es": "Liberar a los Slowpoke",
+  "zh": "放走呆呆兽"
+ },
+ {
+  "id": 315,
+  "en": "Talk with the Great Wise Old Man",
+  "es": "Hablar con Gran Sabio Anciano",
+  "zh": "和大贤者交谈"
+ },
+ {
+  "id": 316,
+  "en": "Sleepy Pokémon",
+  "es": "Pokémon dormilón",
+  "zh": "嗜睡的宝可梦"
+ },
+ {
+  "id": 317,
+  "en": "Investigate the solution",
+  "es": "Investigar solución",
+  "zh": "调查解决办法"
+ },
+ {
+  "id": 318,
+  "en": "Go to Power Plant",
+  "es": "Ir a la Central Eléctrica",
+  "zh": "前往发电厂"
+ },
+ {
+  "id": 319,
+  "en": "Go to Hot Cave",
+  "es": "Ir a la Cueva Caliente",
+  "zh": "前往灼热洞窟"
+ },
+ {
+  "id": 320,
+  "en": "Go to Hurricane Cave",
+  "es": "Ir a la Cueva Vendaval",
+  "zh": "前往飓风洞窟"
+ },
+ {
+  "id": 321,
+  "en": "You have met Brock in Safari Zone and he gave you the HM04 Strength.",
+  "es": "Has conocido a Brock en la Zona Safari y te ha entregado la MO4 Fuerza.",
+  "zh": "你在狩猎地带遇到了小刚，他把秘传学习器04 怪力交给了你。"
+ },
+ {
+  "id": 322,
+  "en": "The Mayor of Sirius City has given you the HM05 Flash.",
+  "es": "El Alcalde de Ciudad Sirio te ha entregado la MO5 Destello.",
+  "zh": "天狼市的市长把秘传学习器05 闪光交给了你。"
+ },
+ {
+  "id": 323,
+  "en": "A Farfetch'd trainer in Talo Town has given you the HM01 Cut.",
+  "es": "Un entrenador de Farfetch'd de Pueblo Talo te ha entregado la MO1 Corte.",
+  "zh": "塔洛镇的一位大葱鸭训练家把秘传学习器01 居合斩交给了你。"
+ },
+ {
+  "id": 324,
+  "en": "You found HM06 Rock Smash in Route 4.",
+  "es": "Has encontrado la MO6 Golpe Roca en la Ruta 4.",
+  "zh": "你在4号道路找到了秘传学习器06 碎岩。"
+ },
+ {
+  "id": 325,
+  "en": "After playing a game against Ramonchu he has given you HM07 Dive.",
+  "es": "Tras jugar a un juego con Ramonchu te ha entregado la MO7 Buceo.",
+  "zh": "和拉蒙丘玩了一局游戏后，他把秘传学习器07 潜水交给了你。"
+ },
+ {
+  "id": 326,
+  "en": "You found HM02 Fly in the Frost Cave.",
+  "es": "Has encontrado la MO2 Vuelo en la Cueva Helada.",
+  "zh": "你在霜冻洞窟找到了秘传学习器02 飞翔。"
+ },
+ {
+  "id": 327,
+  "en": "You found HM03 Surf in the Pole Sewer.",
+  "es": "Has encontrado la MO3 Surf en la Cloaca Polar.",
+  "zh": "你在北辰下水道找到了秘传学习器03 冲浪。"
+ },
+ {
+  "id": 328,
+  "en": "Obj. updated in $par1$!#$par2$",
+  "es": "¡Obj. actualizado en $par1$!#$par2$",
+  "zh": "$par1$的目标有更新！#$par2$"
+ },
+ {
+  "id": 329,
+  "en": "Restriction updated!#$par1$",
+  "es": "¡Restricción actualizada!#$par1$",
+  "zh": "限制已更新！#$par1$"
+ },
+ {
+  "id": 330,
+  "en": "There are many interesting islands for exploring on the Star Region.",
+  "es": "Hay varias islas interesantes por explorar en la Región Star.",
+  "zh": "星辰地区有许多值得探索的有趣岛屿。"
+ },
+ {
+  "id": 331,
+  "en": "Bring a prehistoric Pokémon",
+  "es": "Traer Pokémon prehistórico",
+  "zh": "带来一只史前宝可梦"
+ },
+ {
+  "id": 332,
+  "en": "Bring a $par1$",
+  "es": "Traer un $par1$",
+  "zh": "带来一只$par1$"
+ },
+ {
+  "id": 333,
+  "en": "Release the Lake Trio",
+  "es": "Liberar trío del lago",
+  "zh": "解放湖泊三神"
+ },
+ {
+  "id": 334,
+  "en": "Defeat the Champion",
+  "es": "Vencer a la Campeona",
+  "zh": "打倒冠军"
+ },
+ {
+  "id": 335,
+  "en": "Rescue Mewthree",
+  "es": "Rescatar a Mewthree",
+  "zh": "营救超梦三"
+ },
+ {
+  "id": 336,
+  "en": "Obtain $par1$",
+  "es": "Obtener $par1$",
+  "zh": "获得$par1$"
+ },
+ {
+  "id": 337,
+  "en": "Talk with the Captain",
+  "es": "Hablar con Capitán",
+  "zh": "和船长交谈"
+ },
+ {
+  "id": 338,
+  "en": "Rebel Chimera",
+  "es": "Quimera Rebelde",
+  "zh": "叛逆的奇美拉"
+ },
+ {
+  "id": 339,
+  "en": "Rocket Guard",
+  "es": "Guarida Rocket",
+  "zh": "火箭队基地"
+ },
+ {
+  "id": 340,
+  "en": "Gordon Collector",
+  "es": "Coleccionista Gordon",
+  "zh": "收藏家戈登"
+ },
+ {
+  "id": 341,
+  "en": "Kanto Pokémon League",
+  "es": "Liga Pokémon Kanto",
+  "zh": "关都宝可梦联盟"
+ },
+ {
+  "id": 342,
+  "en": "Show Pokémon to Gordon (Regulus Town) in exchange of objects.",
+  "es": "Enseñar Pokémon a Gordon (Pueblo Regulo) a cambio de objetos.",
+  "zh": "向戈登（位于轩辕镇）出示宝可梦，换取道具。"
+ },
+ {
+  "id": 343,
+  "en": "Visit Sun Island and win the Kanto Pokémon League.",
+  "es": "Visitar Isla Sol y ganar la Liga Pokémon de Kanto.",
+  "zh": "前往太阳岛，赢得关都宝可梦联盟。"
+ },
+ {
+  "id": 344,
+  "en": "Team Rocket is dangerous, it is after the capture of Mewtwo and Mewthree.",
+  "es": "El Team Rocket es peligroso, va tras la captura de Mewtwo y Mewthree.",
+  "zh": "火箭队很危险，他们想要捕获超梦和超梦三。"
+ },
+ {
+  "id": 345,
+  "en": "You have to get into Rocket Hideout for catching Giovanni.",
+  "es": "Debes adentrarte en la Guarida Rocket para atrapar a Giovanni.",
+  "zh": "你必须潜入火箭队基地，抓住坂木。"
+ },
+ {
+  "id": 346,
+  "en": "You have received lots of very interesting objects!",
+  "es": "¡Has recibido multitud de objetos bastante interesantes!",
+  "zh": "你收到了许多非常有趣的道具！"
+ },
+ {
+  "id": 347,
+  "en": "Team Rocket has caught Mewthree and it continues with its threats.",
+  "es": "El Team Rocket ha capturado a Mewthree y sigue con sus amenazas.",
+  "zh": "火箭队捕获了超梦三，并继续进行威胁。"
+ },
+ {
+  "id": 348,
+  "en": "Mewthree has been released and Giovanni was captured by the Elite Squad.",
+  "es": "Mewthree ha sido liberado y Giovanni capturado por el Escuadrón Élite.",
+  "zh": "超梦三已被解放，坂木被精英小队抓获。"
+ },
+ {
+  "id": 349,
+  "en": "Catch a $par1$",
+  "es": "Capturar a $par1$",
+  "zh": "捕获一只$par1$"
+ },
+ {
+  "id": 350,
+  "en": "Show $par1$ to Gordon",
+  "es": "Mostrar $par1$ a Gordon",
+  "zh": "把$par1$给戈登看"
+ },
+ {
+  "id": 351,
+  "en": "In the first position",
+  "es": "En la primera posición",
+  "zh": "放在第一位"
+ },
+ {
+  "id": 352,
+  "en": "Catch Pokémon (14/14)",
+  "es": "Capturar Pokémon (14/14)",
+  "zh": "捕获宝可梦（14/14）"
+ },
+ {
+  "id": 353,
+  "en": "Show Pokémon (14/14)",
+  "es": "Mostrar Pokémon (14/14)",
+  "zh": "出示宝可梦（14/14）"
+ },
+ {
+  "id": 354,
+  "en": "Bring the requested Pokémon",
+  "es": "Traer Pokémon solicitado",
+  "zh": "带来指定的宝可梦"
+ },
+ {
+  "id": 355,
+  "en": "Enter the Kanto Pokémon League",
+  "es": "Entrar a la Liga Kanto",
+  "zh": "进入关都联盟"
+ },
+ {
+  "id": 356,
+  "en": "Defeat Lady Boss",
+  "es": "Derrotar a Lady Boss",
+  "zh": "打倒女首领"
+ },
+ {
+  "id": 357,
+  "en": "Team Rocket costume",
+  "es": "Disfraz del Team Rocket",
+  "zh": "火箭队的伪装"
+ },
+ {
+  "id": 358,
+  "en": "Enter the Rocket Hideout",
+  "es": "Entrar en Guarida Rocket",
+  "zh": "进入火箭队基地"
+ },
+ {
+  "id": 359,
+  "en": "Escape from the Jungle",
+  "es": "Escapar de la jaula",
+  "zh": "逃出笼子"
+ },
+ {
+  "id": 360,
+  "en": "Locate Giovanni",
+  "es": "Localizar a Giovanni",
+  "zh": "找出坂木的下落"
+ },
+ {
+  "id": 361,
+  "en": "Defeat Team Rocket",
+  "es": "Derrotar Team Rocket",
+  "zh": "打倒火箭队"
+ },
+ {
+  "id": 362,
+  "en": "Defeat Giovanni",
+  "es": "Derrotar a Giovanni",
+  "zh": "打倒坂木"
+ },
+ {
+  "id": 363,
+  "en": "Giovanni can't escape!",
+  "es": "¡Giovanni no puede huir!",
+  "zh": "坂木逃不掉了！"
+ },
+ {
+  "id": 364,
+  "en": "Go to Route 13",
+  "es": "Ir a la Ruta 13",
+  "zh": "前往13号道路"
+ },
+ {
+  "id": 365,
+  "en": "Solar Pass",
+  "es": "Ticket Solar",
+  "zh": "太阳通行证"
+ },
+ {
+  "id": 366,
+  "en": "Johto Pokémon League",
+  "es": "Liga Pokémon Johto",
+  "zh": "城都宝可梦联盟"
+ },
+ {
+  "id": 367,
+  "en": "Magikarp Fishing",
+  "es": "Pesca de Magikarp",
+  "zh": "钓鲤鱼王"
+ },
+ {
+  "id": 368,
+  "en": "Whiscash Fishing",
+  "es": "Pesca de Whiscash",
+  "zh": "钓鲶鱼王"
+ },
+ {
+  "id": 369,
+  "en": "Hoenn Pokémon League",
+  "es": "Liga Pokémon Hoenn",
+  "zh": "丰缘宝可梦联盟"
+ },
+ {
+  "id": 370,
+  "en": "Volt Lab",
+  "es": "Laboratorio Voltio",
+  "zh": "伏特研究所"
+ },
+ {
+  "id": 371,
+  "en": "Sinnoh Pokémon League",
+  "es": "Liga Pokémon Sinnoh",
+  "zh": "神奥宝可梦联盟"
+ },
+ {
+  "id": 372,
+  "en": "Treto's Challenge",
+  "es": "Reto de Treto",
+  "zh": "斯科特的挑战"
+ },
+ {
+  "id": 373,
+  "en": "Mystic Battles",
+  "es": "Combates Místicos",
+  "zh": "神秘对战"
+ },
+ {
+  "id": 374,
+  "en": "Sinnoh Battles",
+  "es": "Combates Sinnoh",
+  "zh": "神奥对战"
+ },
+ {
+  "id": 375,
+  "en": "Juniper Professor",
+  "es": "Profesora Encina",
+  "zh": "真菰博士"
+ },
+ {
+  "id": 376,
+  "en": "Unova Badges",
+  "es": "Medallas de Teselia",
+  "zh": "合众徽章"
+ },
+ {
+  "id": 377,
+  "en": "Unova Pokémon League",
+  "es": "Liga Pokémon Teselia",
+  "zh": "合众宝可梦联盟"
+ },
+ {
+  "id": 378,
+  "en": "Hostile Little Birds",
+  "es": "Pajaritos Hostiles",
+  "zh": "充满敌意的小鸟"
+ },
+ {
+  "id": 379,
+  "en": "Saloon Incident",
+  "es": "Incidente Saloon",
+  "zh": "酒馆事件"
+ },
+ {
+  "id": 380,
+  "en": "Poisonous Bees",
+  "es": "Abejas Venenosas",
+  "zh": "有毒的蜜蜂"
+ },
+ {
+  "id": 381,
+  "en": "New Specie",
+  "es": "Nueva Especie",
+  "zh": "新物种"
+ },
+ {
+  "id": 382,
+  "en": "Rainbow Pokémon",
+  "es": "Pokémon Arco Iris",
+  "zh": "彩虹宝可梦"
+ },
+ {
+  "id": 383,
+  "en": "Power Sphere",
+  "es": "Esfera de poder",
+  "zh": "力量宝珠"
+ },
+ {
+  "id": 384,
+  "en": "Venus Scents",
+  "es": "Perfumes Venus",
+  "zh": "金星香水"
+ },
+ {
+  "id": 385,
+  "en": "Dark Pokémon",
+  "es": "Pokémon Oscuridad",
+  "zh": "黑暗宝可梦"
+ },
+ {
+  "id": 386,
+  "en": "Pike Cave Pokémon",
+  "es": "Pokémon Cueva Chuzo",
+  "zh": "尖峰洞窟的宝可梦"
+ },
+ {
+  "id": 387,
+  "en": "Team Rekiem",
+  "es": "Team Rekiem",
+  "zh": "安魂队"
+ },
+ {
+  "id": 388,
+  "en": "Dive Pokémon",
+  "es": "Pokémon Buceo",
+  "zh": "潜水宝可梦"
+ },
+ {
+  "id": 389,
+  "en": "Back to the Future",
+  "es": "Regreso Al Futuro",
+  "zh": "回到未来"
+ },
+ {
+  "id": 390,
+  "en": "Magma Cave",
+  "es": "Isla Magmática",
+  "zh": "熔岩岛"
+ },
+ {
+  "id": 391,
+  "en": "Aqua Hideout",
+  "es": "Guarida Aqua",
+  "zh": "海洋队基地"
+ },
+ {
+  "id": 392,
+  "en": "Apocalyptic drought",
+  "es": "Sequía apocalíptica",
+  "zh": "末日般的干旱"
+ },
+ {
+  "id": 393,
+  "en": "Global flood",
+  "es": "Inundación global",
+  "zh": "全球大洪水"
+ },
+ {
+  "id": 394,
+  "en": "Continent Pokémon",
+  "es": "Pokémon Continente",
+  "zh": "大陆宝可梦"
+ },
+ {
+  "id": 395,
+  "en": "Sea Basin Pokémon",
+  "es": "Pokémon Cuenca Mar",
+  "zh": "海底宝可梦"
+ },
+ {
+  "id": 396,
+  "en": "Sky Pokémon",
+  "es": "Pokémon Cielo",
+  "zh": "天空宝可梦"
+ },
+ {
+  "id": 397,
+  "en": "Fleeting Wish",
+  "es": "Deseo Fugaz",
+  "zh": "转瞬心愿"
+ },
+ {
+  "id": 398,
+  "en": "Neptune Galaxy",
+  "es": "Galaxia Neptuno",
+  "zh": "海王岛的银河队"
+ },
+ {
+  "id": 399,
+  "en": "Halley Island",
+  "es": "Isla Halley",
+  "zh": "哈雷岛"
+ },
+ {
+  "id": 400,
+  "en": "Renegade Pluto",
+  "es": "Plutón Renegado",
+  "zh": "反叛的冥王星"
+ },
+ {
+  "id": 401,
+  "en": "Reverse World",
+  "es": "Mundo Inverso",
+  "zh": "反转世界"
+ },
+ {
+  "id": 402,
+  "en": "Heart Swap",
+  "es": "Cambia Almas",
+  "zh": "灵魂互换"
+ },
+ {
+  "id": 403,
+  "en": "Alpha Pokemon",
+  "es": "Pokémon Alfa",
+  "zh": "阿尔法宝可梦"
+ },
+ {
+  "id": 404,
+  "en": "Gripherial Case",
+  "es": "Caso Gripherial",
+  "zh": "冰炎狮鹫事件"
+ },
+ {
+  "id": 405,
+  "en": "Paleozoic Pokemon",
+  "es": "Pokémon Paleozoico",
+  "zh": "古生代宝可梦"
+ },
+ {
+  "id": 406,
+  "en": "Truthful blank",
+  "es": "Blanco Veraz",
+  "zh": "真实之白"
+ },
+ {
+  "id": 407,
+  "en": "Pure",
+  "es": "Puro",
+  "zh": "纯粹"
+ },
+ {
+  "id": 408,
+  "en": "The Monster",
+  "es": "El Monstruo",
+  "zh": "怪物"
+ },
+ {
+  "id": 409,
+  "en": "Frontier Pokemon",
+  "es": "Pokémon Frontera",
+  "zh": "开拓区宝可梦"
+ },
+ {
+  "id": 410,
+  "en": "Mystic Swordsmen",
+  "es": "Espadachines místicos",
+  "zh": "神秘剑士"
+ },
+ {
+  "id": 411,
+  "en": "Pokemon Race",
+  "es": "Pokémon Race",
+  "zh": "宝可梦赛跑"
+ },
+ {
+  "id": 412,
+  "en": "Pokemon Flygol",
+  "es": "Pokémon Flygol",
+  "zh": "宝可梦FlyGol"
+ },
+ {
+  "id": 413,
+  "en": "Bug Contest",
+  "es": "Concurso de Bichos",
+  "zh": "捕虫大赛"
+ },
+ {
+  "id": 414,
+  "en": "Mars Dojo",
+  "es": "Dojo Marte",
+  "zh": "火星道场"
+ },
+ {
+  "id": 415,
+  "en": "Jupiter College",
+  "es": "Universidad Júpiter",
+  "zh": "木星大学"
+ },
+ {
+  "id": 416,
+  "en": "Frontier Palace",
+  "es": "Palacio del Frente",
+  "zh": "宫殿开拓区"
+ },
+ {
+  "id": 417,
+  "en": "Frontier Tournament",
+  "es": "Torneo del Frente",
+  "zh": "锦标赛开拓区"
+ },
+ {
+  "id": 418,
+  "en": "Frontier Factory",
+  "es": "Fábrica del Frente",
+  "zh": "工厂开拓区"
+ },
+ {
+  "id": 419,
+  "en": "Frontier Survival",
+  "es": "Supervivencia del Frente",
+  "zh": "生存开拓区"
+ },
+ {
+  "id": 420,
+  "en": "The Frontier Zone",
+  "es": "La Zona del Frente",
+  "zh": "区域开拓区"
+ },
+ {
+  "id": 421,
+  "en": "Frontier Tower",
+  "es": "Torre del Frente",
+  "zh": "塔楼开拓区"
+ },
+ {
+  "id": 422,
+  "en": "Frontier Hell",
+  "es": "Infierno del Frente",
+  "zh": "地狱开拓区"
+ },
+ {
+  "id": 423,
+  "en": "First Line Cafeteria",
+  "es": "Cafetería Primera Línea",
+  "zh": "前线咖啡馆"
+ },
+ {
+  "id": 424,
+  "en": "Get a Solar Ticket in Mercury Island to travel by Boat.",
+  "es": "Conseguir un Ticket Solar en Isla Mercurio para poder viajar en Barco.",
+  "zh": "在水星岛获得太阳通行证，以便乘船出行。"
+ },
+ {
+  "id": 425,
+  "en": "Visit Sun Island and win Johto's Pokemon League.",
+  "es": "Visitar Isla Sol y ganar la Liga Pokémon de Johto.",
+  "zh": "前往太阳岛，赢得城都宝可梦联盟。"
+ },
+ {
+  "id": 426,
+  "en": "You must fish a lot of Magikarp and show them to the fisher of Jupiter Island.",
+  "es": "Debes pescar muchos Magikarp y mostrárselos al pescador de Isla Júpiter.",
+  "zh": "你必须钓上许多鲤鱼王，并拿给木星岛的渔夫看。"
+ },
+ {
+  "id": 427,
+  "en": "You must fish a lot of Whiscash and show them to the fisher of Jupiter Island.",
+  "es": "Debes pescar muchos Whiscash y mostrárselos al pescador de Isla Júpiter.",
+  "zh": "你必须钓上许多鲶鱼王，并拿给木星岛的渔夫看。"
+ },
+ {
+  "id": 428,
+  "en": "Visit Sun island and win Hoenn's Pokemon League.",
+  "es": "Visitar Isla Sol y ganar la Liga Pokémon de Hoenn.",
+  "zh": "前往太阳岛，赢得丰缘宝可梦联盟。"
+ },
+ {
+  "id": 429,
+  "en": "Explore the Volt laboratory in Saturn Island and defeat Volkner.",
+  "es": "Explorar el laboratorio Voltio en Isla Saturno y vencer a Lectro.",
+  "zh": "探索土星岛的伏特研究所，打倒电次。"
+ },
+ {
+  "id": 430,
+  "en": "Visit Sun Island and win Sinnoh's Pokemon League.",
+  "es": "Visitar Isla Sol y ganar la Liga Pokémon de Sinnoh.",
+  "zh": "前往太阳岛，赢得神奥宝可梦联盟。"
+ },
+ {
+  "id": 431,
+  "en": "Treto has challenged us to win all Leagues two times.",
+  "es": "Treto nos ha retado a ganar dos veces todas las ligas Pokémon.",
+  "zh": "斯科特向我们发起挑战，要我们把所有联盟都赢两遍。"
+ },
+ {
+  "id": 432,
+  "en": "Defeat several strong trainers in the Mystic Woods.",
+  "es": "Vencer a varios entrenadores fuertes que están en el Bosque Místico.",
+  "zh": "打倒神秘森林里的几位强大训练家。"
+ },
+ {
+  "id": 433,
+  "en": "Defeat several strong trainers that came from Sinnoh.",
+  "es": "Vencer a varios entrenadores fuertes que han venido desde Sinnoh.",
+  "zh": "打倒从神奥来的几位强大训练家。"
+ },
+ {
+  "id": 434,
+  "en": "Professor Juniper comes from Teselia to the Combat Faculty (Route 3).",
+  "es": "La Profesora Encina viene desde Teselia a la Facultad de Combate (Ruta 3).",
+  "zh": "真菰博士从合众来到了对战学院（3号道路）。"
+ },
+ {
+  "id": 435,
+  "en": "Find the Teselia leaders and defeat them to win the Badges.",
+  "es": "Encontrar a los líderes de Teselia y vencerlos para ganar las medallas.",
+  "zh": "找到合众的馆主并打倒他们，赢得徽章。"
+ },
+ {
+  "id": 436,
+  "en": "Visit Sun Island and win Teselia's Pokemon League.",
+  "es": "Visitar Isla Sol y ganar la Liga Pokémon de Teselia.",
+  "zh": "前往太阳岛，赢得合众宝可梦联盟。"
+ },
+ {
+  "id": 437,
+  "en": "A scientist called Xavi has sprayed us with a very strange substance.",
+  "es": "Un científico llamado Javi nos ha rociado con una sustancia muy extraña.",
+  "zh": "一位名叫哈维的科学家向我们喷了一种非常奇怪的物质。"
+ },
+ {
+  "id": 438,
+  "en": "Xavi got into trouble in Rigel Saloon with a Pyromaniac of the city.",
+  "es": "Javi se ha metido en líos en el Saloon Rigel con un Pirómano de la ciudad.",
+  "zh": "哈维在参宿酒馆和城里的一个纵火狂起了冲突。"
+ },
+ {
+  "id": 439,
+  "en": "A blissful Xavi has sprayed us again with a very strange substance.",
+  "es": "El dichoso Javi nos ha rociado de nuevo con una sustancia muy extraña.",
+  "zh": "那个烦人的哈维又向我们喷了一种非常奇怪的物质。"
+ },
+ {
+  "id": 440,
+  "en": "Investigate a very rare Pokemon who is swarming in The Jungle.",
+  "es": "Investigar a un Pokémon muy extraño que anda pululando por La Jungla.",
+  "zh": "调查一只在丛林里四处游荡的非常奇怪的宝可梦。"
+ },
+ {
+  "id": 441,
+  "en": "Ho-oh has been seen in Uranus Island, near the Iris Tower.",
+  "es": "Ho-Oh ha sido visto por Isla Urano, cerca de la Torre Iris.",
+  "zh": "有人在天王岛的鸢尾塔附近看到了凤王。"
+ },
+ {
+  "id": 442,
+  "en": "Noelia has found out that the Team Aqua has founded a dangerous Sphere.",
+  "es": "Noelia ha averiguado que el Team Magma ha encontrado una peligrosa Esfera.",
+  "zh": "诺埃莉娅查到熔岩队找到了一颗危险的宝珠。"
+ },
+ {
+  "id": 443,
+  "en": "It seems that Tina is plotting something in the Venus Perfumes Factory.",
+  "es": "Parece ser que Tina trama algo en la Fábrica de Perfumes Venus.",
+  "zh": "蒂娜似乎在金星香水工厂策划着什么。"
+ },
+ {
+  "id": 444,
+  "en": "Darkrai is interested in you, it has already kidnapped you several times.",
+  "es": "Darkrai está interesado en ti, ya te ha secuestrado varias veces.",
+  "zh": "达克莱伊对你很感兴趣，已经绑架了你好几次。"
+ },
+ {
+  "id": 445,
+  "en": "Lorelei has challenged you to find a rare Pokemon in the Chuzo Cave.",
+  "es": "Lorelei te ha retado a encontrar a un Pokémon raro en la Cueva Chuzo.",
+  "zh": "科拿向你发起挑战，要你在尖峰洞窟找到一只稀有的宝可梦。"
+ },
+ {
+  "id": 446,
+  "en": "The dangerous Team Rekiem is plotting something in The Jungle.",
+  "es": "El peligroso Team Rekiem está tramando algo en La Jungla.",
+  "zh": "危险的安魂队正在丛林里策划着什么。"
+ },
+ {
+  "id": 447,
+  "en": "Lugia has been seen on the Route 40, near to the Swirl Cave.",
+  "es": "Lugia ha sido visto por la Ruta 40, cerca de la Cueva Remolino.",
+  "zh": "有人在40号道路上漩涡洞窟附近看到了洛奇亚。"
+ },
+ {
+  "id": 448,
+  "en": "Rosama is investigating a mysterious Pokémon in Spica Woods.",
+  "es": "Rosama está investigando un Pokémon misterioso en Bosque Spica.",
+  "zh": "罗萨玛正在角宿森林调查一只神秘的宝可梦。"
+ },
+ {
+  "id": 449,
+  "en": "Seismic movements from Magma Island have been detected.",
+  "es": "Se han detectado unos movimientos sísmicos provenientes de Isla Magmática.",
+  "zh": "监测到熔岩岛传来了地震活动。"
+ },
+ {
+  "id": 450,
+  "en": "Localize the Team Aqua Den on some place near to the Route 24.",
+  "es": "Localizar la Guarida del Team Aqua en algún lugar cerca de la Ruta 24.",
+  "zh": "找出海洋队在24号道路附近某处的基地。"
+ },
+ {
+  "id": 451,
+  "en": "The sun has begun to shine for all the Star Region and its surroundings.",
+  "es": "Ha empezado a brillar el sol por toda la Región Star y sus alrededores.",
+  "zh": "整个星辰地区及周边开始阳光普照。"
+ },
+ {
+  "id": 452,
+  "en": "Team Aqua has kidnapped Kyogre and plans to flood the Pokemon world.",
+  "es": "El Team Aqua ha secuestrado a Kyogre y planea inundar el mundo Pokémon.",
+  "zh": "海洋队绑架了盖欧卡，计划淹没宝可梦的世界。"
+ },
+ {
+  "id": 453,
+  "en": "It is possible that Groudon appears near the Magma Cave.",
+  "es": "Es posible que Groudon aparezca próximo a la Cueva Magmática.",
+  "zh": "固拉多可能会出现在熔岩洞窟附近。"
+ },
+ {
+  "id": 454,
+  "en": "It is possible that Kyogre appears near the Oceanic Cave.",
+  "es": "Es posible que Kyogre aparezca próximo a la Cueva Oceánica.",
+  "zh": "盖欧卡可能会出现在海洋洞窟附近。"
+ },
+ {
+  "id": 455,
+  "en": "It is possible that Rayquaza appears near the Celestial Sanctuary.",
+  "es": "Es posible que Rayquaza aparezca próximo al Santuario Celeste.",
+  "zh": "烈空坐可能会出现在华蓝圣域附近。"
+ },
+ {
+  "id": 456,
+  "en": "Team Rocket is planning something in the Fleeting Forest.",
+  "es": "El Team Rocket está tramando algo en el Bosque Fugaz.",
+  "zh": "火箭队在转瞬森林策划着什么。"
+ },
+ {
+  "id": 457,
+  "en": "Team Galaxy is keeping an eye on Neptuno Island.",
+  "es": "El Equipo Galaxia está vigilando en Isla Neptuno.",
+  "zh": "银河队正在海王岛上监视着。"
+ },
+ {
+  "id": 458,
+  "en": "Team Galaxy is preparing something in Halley Island.",
+  "es": "El Equipo Galaxia está preparando algo en Isla Halley.",
+  "zh": "银河队正在哈雷岛上准备着什么。"
+ },
+ {
+  "id": 459,
+  "en": "Helio is going to make his next move in Pluto Island.",
+  "es": "Helio va a llevar a cabo su siguiente movimiento en Isla Plutón.",
+  "zh": "赤日将在冥王岛采取下一步行动。"
+ },
+ {
+  "id": 460,
+  "en": "There could be a door to Reverse World in Pluto Island.",
+  "es": "Podría haber una puerta al Mundo Inverso en Isla Plutón.",
+  "zh": "冥王岛上可能有一扇通往反转世界的门。"
+ },
+ {
+  "id": 461,
+  "en": "Team Rocket has kidnapped you and Manaphy has transferred you to another body.",
+  "es": "El Team Rocket te ha secuestrado y Manaphy te ha traspasado a otro cuerpo.",
+  "zh": "火箭队绑架了你，玛纳霏把你转移到了另一个身体里。"
+ },
+ {
+  "id": 462,
+  "en": "Team Rekiem is plotting something in the Holy Hill, near to Acturus Town.",
+  "es": "El Team Rekiem está tramando algo en la Colina Sagrada, cerca de Pueblo Arcturus.",
+  "zh": "安魂队正在大角镇附近的圣山丘上策划着什么。"
+ },
+ {
+  "id": 463,
+  "en": "Secret investigation over some events in the Frontier years ago.",
+  "es": "Investigación secreta sobre unos sucesos ocurridos en el Frente hace años.",
+  "zh": "对几年前开拓区发生的一些事件的秘密调查。"
+ },
+ {
+  "id": 464,
+  "en": "Genesect is loose on the Rear Cave.",
+  "es": "Genesect anda suelto en la Cueva Retaguardia.",
+  "zh": "盖诺赛克特在后卫洞窟里到处乱跑。"
+ },
+ {
+  "id": 465,
+  "en": "Sun shines with a lot of strength in the surroundings of Naos City and Route 8.",
+  "es": "Brilla el sol con mucha fuerza en las proximidades de Ciudad Naos y la Ruta 8.",
+  "zh": "纳奥斯市和8号道路一带阳光格外强烈。"
+ },
+ {
+  "id": 466,
+  "en": "Torrential rain close to the Volcanic Zone.",
+  "es": "Llueve torrencialmente en las proximidades de la Zona Volcánica.",
+  "zh": "火山地带附近下起了倾盆大雨。"
+ },
+ {
+  "id": 467,
+  "en": "Kyurem is attacking with his army in Pole City!",
+  "es": "¡Kyurem está atacando junto a su ejército Ciudad Polar!",
+  "zh": "酋雷姆正带着它的大军攻打北辰市！"
+ },
+ {
+  "id": 468,
+  "en": "It has started to snow suspiciously in the desert.",
+  "es": "Ha comenzado a nevar de forma sospechosa en el desierto.",
+  "zh": "沙漠里开始出现可疑的降雪。"
+ },
+ {
+  "id": 469,
+  "en": "The Mystic Swordsmen are in the Star Region!",
+  "es": "¡Los Espadachines Místicos están en la Región Star!",
+  "zh": "神秘剑士们来到了星辰地区！"
+ },
+ {
+  "id": 470,
+  "en": "Pokemon race event celebrated in Vega City.",
+  "es": "Evento de carreras de Pokémon celebrado en Ciudad Vega.",
+  "zh": "在织女市举办的宝可梦赛跑活动。"
+ },
+ {
+  "id": 471,
+  "en": "Flying type Pokemon sport celebrated in Uranus Island.",
+  "es": "Deporte de Pokémon de tipo Volador celebrado en Isla Urano.",
+  "zh": "在天王岛举办的飞行属性宝可梦运动会。"
+ },
+ {
+  "id": 472,
+  "en": "Catching Bug type Pokemon Contest celebrated in Mercury island.",
+  "es": "Concurso de atrapar Pokémon de tipo Bicho celebrado en Isla Mercurio.",
+  "zh": "在水星岛举办的捕捉虫属性宝可梦的大赛。"
+ },
+ {
+  "id": 473,
+  "en": "Fight type Pokemon Contest celebrated in Mars Island.",
+  "es": "Competición para Pokémon de tipo Lucha celebrado en Isla Marte.",
+  "zh": "在火星岛举办的格斗属性宝可梦比赛。"
+ },
+ {
+  "id": 474,
+  "en": "Exams for Pokemon trainers done on Jupiter Island.",
+  "es": "Exámenes para entrenadores Pokémon que se realizan en Isla Júpiter.",
+  "zh": "在木星岛举行的宝可梦训练家考试。"
+ },
+ {
+  "id": 475,
+  "en": "Pokémon fight alone without the cues of their aspiring trainer.",
+  "es": "Los Pokémon luchan solos sin las indicaciones del entrenador aspirante.",
+  "zh": "宝可梦没有见习训练家的指示，独自战斗。"
+ },
+ {
+  "id": 476,
+  "en": "Elimination tournaments where powerful trainers participate.",
+  "es": "Torneos por eliminatorias donde participan poderosos entrenadores conocidos.",
+  "zh": "强大的知名训练家参加的淘汰赛。"
+ },
+ {
+  "id": 477,
+  "en": "The applicants don't use their own Pokemon, they are distributed by raffle.",
+  "es": "Los aspirantes no usan sus propios Pokémon, son repartidos por sorteo.",
+  "zh": "参赛者不使用自己的宝可梦，而是通过抽签分配。"
+ },
+ {
+  "id": 478,
+  "en": "The applicants travel by dangerous mazes full of traps and trainers.",
+  "es": "Los aspirantes recorren peligrosos laberintos llenos de trampas y entrenadores.",
+  "zh": "参赛者要穿过布满陷阱和训练家的危险迷宫。"
+ },
+ {
+  "id": 479,
+  "en": "The applicants must adapt and confront dangerous and different zones.",
+  "es": "Los aspirantes deben adaptarse y enfrentarse a peligrosas y diferentes zonas.",
+  "zh": "参赛者必须适应并面对各种危险而不同的区域。"
+ },
+ {
+  "id": 480,
+  "en": "Multitude of events for which you have to train different types of Pokémon.",
+  "es": "Multitud de eventos para los que hay que entrenar diferentes tipos de Pokémon.",
+  "zh": "要为许多不同的项目训练不同属性的宝可梦。"
+ },
+ {
+  "id": 481,
+  "en": "Last challenge of the Battle Frontier in which the abilities are put to test.",
+  "es": "Último reto del Frente de Batalla donde se ponen a prueba las habilidades.",
+  "zh": "对战开拓区的最后一项挑战，将考验你的各项能力。"
+ },
+ {
+  "id": 482,
+  "en": "In this Cafè you can fight the Gym leaders again.",
+  "es": "En esta Cafetería puedes volver a luchar contra los líderes de Gimnasio.",
+  "zh": "在这家咖啡馆里，你可以再次挑战道馆馆主。"
+ },
+ {
+  "id": 483,
+  "en": "Obtain Solar Ticket",
+  "es": "Obtener Ticket Solar",
+  "zh": "获得太阳通行证"
+ },
+ {
+  "id": 484,
+  "en": "Seal on Venus Island",
+  "es": "Sellar en Isla Venus",
+  "zh": "在金星岛盖章"
+ },
+ {
+  "id": 485,
+  "en": "Seal on Terra Island",
+  "es": "Sellar en Isla Terra",
+  "zh": "在地球岛盖章"
+ },
+ {
+  "id": 486,
+  "en": "Seal on Mars Island",
+  "es": "Sellar en Isla Marte",
+  "zh": "在火星岛盖章"
+ },
+ {
+  "id": 487,
+  "en": "Seal on Jupiter Island",
+  "es": "Sellar en Isla Júpiter",
+  "zh": "在木星岛盖章"
+ },
+ {
+  "id": 488,
+  "en": "Seal on Saturn Island",
+  "es": "Sellar en Isla Saturno",
+  "zh": "在土星岛盖章"
+ },
+ {
+  "id": 489,
+  "en": "Seal on Uranus Island",
+  "es": "Sellar en Isla Urano",
+  "zh": "在天王岛盖章"
+ },
+ {
+  "id": 490,
+  "en": "Seal on Neptune Island",
+  "es": "Sellar en Isla Neptuno",
+  "zh": "在海王岛盖章"
+ },
+ {
+  "id": 491,
+  "en": "Seal on Mercury Island",
+  "es": "Sellar en Isla Mercurio",
+  "zh": "在水星岛盖章"
+ },
+ {
+  "id": 492,
+  "en": "Enter Johto League",
+  "es": "Entrar a la Liga Johto",
+  "zh": "进入城都联盟"
+ },
+ {
+  "id": 493,
+  "en": "Unbeatable Magikarp",
+  "es": "Magikarp insuperable",
+  "zh": "无敌的鲤鱼王"
+ },
+ {
+  "id": 494,
+  "en": "Bring Magikarp",
+  "es": "Traer Magikarp",
+  "zh": "带来鲤鱼王"
+ },
+ {
+  "id": 495,
+  "en": "Unbeatable Whiscash",
+  "es": "Whiscash insuperable",
+  "zh": "无敌的鲶鱼王"
+ },
+ {
+  "id": 496,
+  "en": "Bring Whiscash",
+  "es": "Traer Whiscash",
+  "zh": "带来鲶鱼王"
+ },
+ {
+  "id": 497,
+  "en": "Enter Hoenn League",
+  "es": "Entrar a la Liga Hoenn",
+  "zh": "进入丰缘联盟"
+ },
+ {
+  "id": 498,
+  "en": "Enter Sinnoh League",
+  "es": "Entrar a la Liga Sinnoh",
+  "zh": "进入神奥联盟"
+ },
+ {
+  "id": 499,
+  "en": "Enter to Volt Lab",
+  "es": "Entrar a Lab. Voltio",
+  "zh": "进入伏特研究所"
+ },
+ {
+  "id": 500,
+  "en": "Defeat Volkner",
+  "es": "Vencer a Lectro",
+  "zh": "打倒电次"
+ },
+ {
+  "id": 501,
+  "en": "Win 2 times: Star League",
+  "es": "Ganar 2 veces Liga Star",
+  "zh": "赢两次：星辰联盟"
+ },
+ {
+  "id": 502,
+  "en": "Win 2 times: Kanto League",
+  "es": "Ganar 2 veces Liga Kanto",
+  "zh": "赢两次：关都联盟"
+ },
+ {
+  "id": 503,
+  "en": "Win 2 times: Johto League",
+  "es": "Ganar 2 veces Liga Johto",
+  "zh": "赢两次：城都联盟"
+ },
+ {
+  "id": 504,
+  "en": "Win 2 times: Hoenn League",
+  "es": "Ganar 2 veces Liga Hoenn",
+  "zh": "赢两次：丰缘联盟"
+ },
+ {
+  "id": 505,
+  "en": "Win 2 times: Sinnoh League",
+  "es": "Ganar 2 veces Liga Sinnoh",
+  "zh": "赢两次：神奥联盟"
+ },
+ {
+  "id": 506,
+  "en": "Enter the Mystic Forest",
+  "es": "Entrar al Bosque Místico",
+  "zh": "进入神秘森林"
+ },
+ {
+  "id": 507,
+  "en": "Defeat trainers ($par1$/7)",
+  "es": "Vencer entrenadores ($par1$/7)",
+  "zh": "打倒训练家（$par1$/7）"
+ },
+ {
+  "id": 508,
+  "en": "Battle Frontier Applicant",
+  "es": "Aspirante Frente de Batalla",
+  "zh": "对战开拓区报名者"
+ },
+ {
+  "id": 509,
+  "en": "Talk with Prof. Juniper",
+  "es": "Hablar con Profesora Encina",
+  "zh": "和真菰博士交谈"
+ },
+ {
+  "id": 510,
+  "en": "Enter Unova League",
+  "es": "Entrar a la Liga Teselia",
+  "zh": "进入合众联盟"
+ },
+ {
+  "id": 511,
+  "en": "Find Mewtwo",
+  "es": "Encontrar a Mewtwo",
+  "zh": "找到超梦"
+ },
+ {
+  "id": 512,
+  "en": "Fight Mewtwo",
+  "es": "Luchar contra Mewtwo",
+  "zh": "与超梦战斗"
+ },
+ {
+  "id": 513,
+  "en": "Catch Mewtwo",
+  "es": "Capturar a Mewtwo",
+  "zh": "捕获超梦"
+ },
+ {
+  "id": 514,
+  "en": "Meet Xavi",
+  "es": "Encuentro con Javi",
+  "zh": "遇见哈维"
+ },
+ {
+  "id": 515,
+  "en": "Flee from the Spearows",
+  "es": "Huir de los Spearow",
+  "zh": "逃离烈雀"
+ },
+ {
+  "id": 516,
+  "en": "Meet Lorelei",
+  "es": "Encuentro con Lorelei",
+  "zh": "遇见科拿"
+ },
+ {
+  "id": 517,
+  "en": "Clean the substance",
+  "es": "Limpiar sustancia",
+  "zh": "清理那种物质"
+ },
+ {
+  "id": 518,
+  "en": "Access to Rigel Saloon",
+  "es": "Acceder a Saloon Rigel",
+  "zh": "前往参宿酒馆"
+ },
+ {
+  "id": 519,
+  "en": "Defeat Johnny",
+  "es": "Vencer a Johnny",
+  "zh": "打倒约翰尼"
+ },
+ {
+  "id": 520,
+  "en": "Solve dispute",
+  "es": "Resolver disputa",
+  "zh": "解决纠纷"
+ },
+ {
+  "id": 521,
+  "en": "Xavi's experiment",
+  "es": "Experimento de Javi",
+  "zh": "哈维的实验"
+ },
+ {
+  "id": 522,
+  "en": "Flee from the Beedrills",
+  "es": "Huir de los Beedrill",
+  "zh": "逃离大针蜂"
+ },
+ {
+  "id": 523,
+  "en": "Clean the substance",
+  "es": "Limpiar sustancia",
+  "zh": "清理那种物质"
+ },
+ {
+  "id": 524,
+  "en": "Access to Basement 5",
+  "es": "Acceso a Sótano 5",
+  "zh": "前往地下5层"
+ },
+ {
+  "id": 525,
+  "en": "Find Deoxys",
+  "es": "Encontrar a Deoxys",
+  "zh": "找到代欧奇希斯"
+ },
+ {
+  "id": 526,
+  "en": "Catch Deoxys",
+  "es": "Capturar a Deoxys",
+  "zh": "捕获代欧奇希斯"
+ },
+ {
+  "id": 527,
+  "en": "Investigate Siluam Forest",
+  "es": "Investigar Bosque Siluam",
+  "zh": "调查西卢安森林"
+ },
+ {
+  "id": 528,
+  "en": "First contact",
+  "es": "Primer contacto",
+  "zh": "第一次接触"
+ },
+ {
+  "id": 529,
+  "en": "Identify Pokemon",
+  "es": "Identificar Pokémon",
+  "zh": "辨认宝可梦"
+ },
+ {
+  "id": 530,
+  "en": "Access to Mystic Forest",
+  "es": "Acceder a Bosque Místico",
+  "zh": "进入神秘森林"
+ },
+ {
+  "id": 531,
+  "en": "Fight Mew",
+  "es": "Luchar contra Mew",
+  "zh": "与梦幻战斗"
+ },
+ {
+  "id": 532,
+  "en": "Catch Mew",
+  "es": "Capturar a Mew",
+  "zh": "捕获梦幻"
+ },
+ {
+  "id": 533,
+  "en": "Investigate about Ho-Oh",
+  "es": "Investigar sobre Ho-Oh",
+  "zh": "调查凤王"
+ },
+ {
+  "id": 534,
+  "en": "Omega Ruins Puzzles ($par1$/4)",
+  "es": "Puzles Ruinas Omega ($par1$/4)",
+  "zh": "欧米伽遗迹的谜题（$par1$/4）"
+ },
+ {
+  "id": 535,
+  "en": "Unowns caught ($par1$/$par2$)",
+  "es": "Unown Atrapados ($par1$/$par2$)",
+  "zh": "已捕获的未知图腾（$par1$/$par2$）"
+ },
+ {
+  "id": 536,
+  "en": "Access to Iris Tower",
+  "es": "Acceder a la Torre Iris",
+  "zh": "进入鸢尾塔"
+ },
+ {
+  "id": 537,
+  "en": "Ho-Oh Invocation",
+  "es": "Invocación Ho-Oh",
+  "zh": "召唤凤王"
+ },
+ {
+  "id": 538,
+  "en": "Fight Ho-Oh",
+  "es": "Luchar contra Ho-Oh",
+  "zh": "与凤王战斗"
+ },
+ {
+  "id": 539,
+  "en": "Catch Ho-Oh",
+  "es": "Capturar a Ho-Oh",
+  "zh": "捕获凤王"
+ },
+ {
+  "id": 540,
+  "en": "Meet with Noelia",
+  "es": "Encuentro con Noelia",
+  "zh": "遇见诺埃莉娅"
+ },
+ {
+  "id": 541,
+  "en": "Defeat Team Aqua",
+  "es": "Derrotar Team Aqua",
+  "zh": "打倒海洋队"
+ },
+ {
+  "id": 542,
+  "en": "Access to Route 36",
+  "es": "Acceder a la Ruta 36",
+  "zh": "前往36号道路"
+ },
+ {
+  "id": 543,
+  "en": "Investigate case",
+  "es": "Investigar caso",
+  "zh": "调查案件"
+ },
+ {
+  "id": 544,
+  "en": "Defeat Team Magma",
+  "es": "Derrotar Team Magma",
+  "zh": "打倒熔岩队"
+ },
+ {
+  "id": 545,
+  "en": "Defeat Commander Tabitha",
+  "es": "Derrotar Comandante Tatiano",
+  "zh": "打倒干部火村"
+ },
+ {
+  "id": 546,
+  "en": "Defeat Maxie",
+  "es": "Derrotar Magno",
+  "zh": "打倒赤焰松"
+ },
+ {
+  "id": 547,
+  "en": "Access to Perfume Factory",
+  "es": "Acceder a Fábrica Perfumes",
+  "zh": "前往香水工厂"
+ },
+ {
+  "id": 548,
+  "en": "Talk to Tina",
+  "es": "Hablar con Tina",
+  "zh": "和蒂娜交谈"
+ },
+ {
+  "id": 549,
+  "en": "Flee from Psicovenom",
+  "es": "Huida de Psicovenom",
+  "zh": "逃离念毒兽"
+ },
+ {
+  "id": 550,
+  "en": "Fight Psicovenom",
+  "es": "Luchar contra Psicovenom",
+  "zh": "与念毒兽战斗"
+ },
+ {
+  "id": 551,
+  "en": "Catch Psicovenom",
+  "es": "Capturar a Psicovenom",
+  "zh": "捕获念毒兽"
+ },
+ {
+  "id": 552,
+  "en": "Darkrai abduction",
+  "es": "Secuestro Darkrai",
+  "zh": "被达克莱伊绑架"
+ },
+ {
+  "id": 553,
+  "en": "Second Darkrai abduction",
+  "es": "Segundo secuestro Darkrai",
+  "zh": "第二次被达克莱伊绑架"
+ },
+ {
+  "id": 554,
+  "en": "Talk to Helia",
+  "es": "Hablar con Helia",
+  "zh": "和赫莉娅交谈"
+ },
+ {
+  "id": 555,
+  "en": "Noelia VS Helia",
+  "es": "Noelia Vs Helia",
+  "zh": "诺埃莉娅对赫莉娅"
+ },
+ {
+  "id": 556,
+  "en": "Visit Gym 3",
+  "es": "Visitar Gimnasio 3",
+  "zh": "前往3号道馆"
+ },
+ {
+  "id": 557,
+  "en": "Talk to Noelia",
+  "es": "Hablar con Noelia",
+  "zh": "和诺埃莉娅交谈"
+ },
+ {
+  "id": 558,
+  "en": "Confrontation with Helia",
+  "es": "Enfrentamiento con Helia",
+  "zh": "与赫莉娅对峙"
+ },
+ {
+  "id": 559,
+  "en": "Find Darkrai",
+  "es": "Encontrar a Darkrai",
+  "zh": "找到达克莱伊"
+ },
+ {
+  "id": 560,
+  "en": "Fight Darkrai",
+  "es": "Luchar contra Darkrai",
+  "zh": "与达克莱伊战斗"
+ },
+ {
+  "id": 561,
+  "en": "Catch Darkrai",
+  "es": "Capturar a Darkrai",
+  "zh": "捕获达克莱伊"
+ },
+ {
+  "id": 562,
+  "en": "Access to Pike Cave",
+  "es": "Acceder Cueva Chuzo",
+  "zh": "进入尖峰洞窟"
+ },
+ {
+  "id": 563,
+  "en": "Meet Lorelei",
+  "es": "Encuentro con Lorelei",
+  "zh": "遇见科拿"
+ },
+ {
+  "id": 564,
+  "en": "Investigate case",
+  "es": "Investigar caso",
+  "zh": "调查案件"
+ },
+ {
+  "id": 565,
+  "en": "Fight Crystal Onix",
+  "es": "Luchar contra Onix de Cristal",
+  "zh": "与水晶大岩蛇战斗"
+ },
+ {
+  "id": 566,
+  "en": "Catch Crystal Onix",
+  "es": "Capturar Onix de Cristal",
+  "zh": "捕获水晶大岩蛇"
+ },
+ {
+  "id": 567,
+  "en": "Access to Route 32",
+  "es": "Acceder a la Ruta 32",
+  "zh": "前往32号道路"
+ },
+ {
+  "id": 568,
+  "en": "Find Clair",
+  "es": "Encontrar a Débora",
+  "zh": "找到小椿"
+ },
+ {
+  "id": 569,
+  "en": "Visit Arcturus Town",
+  "es": "Visitar Pueblo Arcturus",
+  "zh": "前往大角镇"
+ },
+ {
+  "id": 570,
+  "en": "Talk to Claire",
+  "es": "Hablar con Débora",
+  "zh": "和小椿交谈"
+ },
+ {
+  "id": 571,
+  "en": "Conquer Rekiem Castle",
+  "es": "Conquistar Castillo Rekiem",
+  "zh": "攻占安魂城堡"
+ },
+ {
+  "id": 572,
+  "en": "Defeat Team Rekiem",
+  "es": "Derrotar Team Rekiem",
+  "zh": "打倒安魂队"
+ },
+ {
+  "id": 573,
+  "en": "Defeat Kustem",
+  "es": "Derrotar a Kustem",
+  "zh": "打倒库斯特姆"
+ },
+ {
+  "id": 574,
+  "en": "The vigilantes cannot see you",
+  "es": "Los vigilantes no pueden verte",
+  "zh": "守卫看不到你"
+ },
+ {
+  "id": 575,
+  "en": "Investigate about Lugia",
+  "es": "Investigar sobre Lugia",
+  "zh": "调查洛奇亚"
+ },
+ {
+  "id": 576,
+  "en": "Whirlpools eliminated ($par1$/$par2$)",
+  "es": "Torbellinos Eliminados ($par1$/$par2$)",
+  "zh": "已清除的漩涡（$par1$/$par2$）"
+ },
+ {
+  "id": 577,
+  "en": "Access to Silver Waterfall",
+  "es": "Acceder a Cascada Plateada",
+  "zh": "进入银色瀑布"
+ },
+ {
+  "id": 578,
+  "en": "Lugia invocation",
+  "es": "Invocación Lugia",
+  "zh": "召唤洛奇亚"
+ },
+ {
+  "id": 579,
+  "en": "Fight Lugia",
+  "es": "Luchar contra Lugia",
+  "zh": "与洛奇亚战斗"
+ },
+ {
+  "id": 580,
+  "en": "Catch Lugia",
+  "es": "Capturar a Lugia",
+  "zh": "捕获洛奇亚"
+ },
+ {
+  "id": 581,
+  "en": "Talk to Rosama",
+  "es": "Hablar con Rosama",
+  "zh": "和罗萨玛交谈"
+ },
+ {
+  "id": 582,
+  "en": "Find Celebi",
+  "es": "Encontrar a Celebi",
+  "zh": "找到时拉比"
+ },
+ {
+  "id": 583,
+  "en": "Investigate in the past",
+  "es": "Investigar en el pasado",
+  "zh": "调查过去"
+ },
+ {
+  "id": 584,
+  "en": "Defeat Team Rekiem",
+  "es": "Derrotar Team Rekiem",
+  "zh": "打倒安魂队"
+ },
+ {
+  "id": 585,
+  "en": "Go back to the future",
+  "es": "Regresar al futuro",
+  "zh": "回到未来"
+ },
+ {
+  "id": 586,
+  "en": "Avoid temporal paradoxes",
+  "es": "Evitar paradojas temporales",
+  "zh": "避免时间悖论"
+ },
+ {
+  "id": 587,
+  "en": "Forbidden to catch Pokemon",
+  "es": "Prohibido capturar Pokémon",
+  "zh": "禁止捕捉宝可梦"
+ },
+ {
+  "id": 588,
+  "en": "Find GS Ball",
+  "es": "Encontrar GS Ball",
+  "zh": "找到GS球"
+ },
+ {
+  "id": 589,
+  "en": "Fight Celebi",
+  "es": "Luchar contra Celebi",
+  "zh": "与时拉比战斗"
+ },
+ {
+  "id": 590,
+  "en": "Catch Celebi",
+  "es": "Capturar a Celebi",
+  "zh": "捕获时拉比"
+ },
+ {
+  "id": 591,
+  "en": "Go to Magma Island",
+  "es": "Ir a Isla Magmática",
+  "zh": "前往熔岩岛"
+ },
+ {
+  "id": 592,
+  "en": "Access to Magma Cave",
+  "es": "Acceder a Cueva Magmática",
+  "zh": "进入熔岩洞窟"
+ },
+ {
+  "id": 593,
+  "en": "Defeat Team Magma",
+  "es": "Derrotar Team Magma",
+  "zh": "打倒熔岩队"
+ },
+ {
+  "id": 594,
+  "en": "Defeat Commander Tabitha",
+  "es": "Derrotar Comandante Tatiano",
+  "zh": "打倒干部火村"
+ },
+ {
+  "id": 595,
+  "en": "Investigate Team Magma",
+  "es": "Investigar Team Magma",
+  "zh": "调查熔岩队"
+ },
+ {
+  "id": 596,
+  "en": "Find Aqua Base",
+  "es": "Encontrar Guarida Aqua",
+  "zh": "找到海洋队基地"
+ },
+ {
+  "id": 597,
+  "en": "Access to Aqua Base",
+  "es": "Acceder a Guarida Aqua",
+  "zh": "进入海洋队基地"
+ },
+ {
+  "id": 598,
+  "en": "Defeat Team Aqua",
+  "es": "Derrotar Team Aqua",
+  "zh": "打倒海洋队"
+ },
+ {
+  "id": 599,
+  "en": "Defeat Commander Shelly",
+  "es": "Derrotar Comandante Silvina",
+  "zh": "打倒干部阿泉"
+ },
+ {
+  "id": 600,
+  "en": "Investigate Team Aqua",
+  "es": "Investigar Team Aqua",
+  "zh": "调查海洋队"
+ },
+ {
+  "id": 601,
+  "en": "Access to Burning Cave",
+  "es": "Acceder a la Cueva Ardiente",
+  "zh": "进入燃烧洞窟"
+ },
+ {
+  "id": 602,
+  "en": "Access to Magma Base",
+  "es": "Acceder a la Guarida Magma",
+  "zh": "进入熔岩队基地"
+ },
+ {
+  "id": 603,
+  "en": "Investigate Maxie plans",
+  "es": "Investigar planes de Magno",
+  "zh": "调查赤焰松的计划"
+ },
+ {
+  "id": 604,
+  "en": "Rescue Groudon",
+  "es": "Rescatar a Groudon",
+  "zh": "营救固拉多"
+ },
+ {
+  "id": 605,
+  "en": "Stop Maxie",
+  "es": "Detener a Magno",
+  "zh": "阻止赤焰松"
+ },
+ {
+  "id": 606,
+  "en": "Investigate Hydra river",
+  "es": "Revisar río Hidra",
+  "zh": "查看长蛇河"
+ },
+ {
+  "id": 607,
+  "en": "Meet Juan",
+  "es": "Encuentro con Galano",
+  "zh": "遇见亚当"
+ },
+ {
+  "id": 608,
+  "en": "Visit Oceanic Island",
+  "es": "Visitar Isla Oceánica",
+  "zh": "前往海洋岛"
+ },
+ {
+  "id": 609,
+  "en": "Access to Oceanic Cave",
+  "es": "Acceder a Cueva Oceánica",
+  "zh": "进入海洋洞窟"
+ },
+ {
+  "id": 610,
+  "en": "Destroy Climate Devices",
+  "es": "Destruir Dispositivos Clima",
+  "zh": "破坏天气装置"
+ },
+ {
+  "id": 611,
+  "en": "Investigate Archie plans",
+  "es": "Investigar planes de Aquiles",
+  "zh": "调查水梧桐的计划"
+ },
+ {
+  "id": 612,
+  "en": "Rescue Kyogre",
+  "es": "Rescatar a Kyogre",
+  "zh": "营救盖欧卡"
+ },
+ {
+  "id": 613,
+  "en": "Stop Archie",
+  "es": "Detener a Aquiles",
+  "zh": "阻止水梧桐"
+ },
+ {
+  "id": 614,
+  "en": "Access to Magma Cave",
+  "es": "Acceder a Cueva Magmática",
+  "zh": "进入熔岩洞窟"
+ },
+ {
+  "id": 615,
+  "en": "Defeat Commander Tabitha",
+  "es": "Derrotar a Comandante Tatiano",
+  "zh": "打倒干部火村"
+ },
+ {
+  "id": 616,
+  "en": "Find Groudon",
+  "es": "Encontrar a Groudon",
+  "zh": "找到固拉多"
+ },
+ {
+  "id": 617,
+  "en": "Fight against Groudon",
+  "es": "Luchar contra Groudon",
+  "zh": "与固拉多战斗"
+ },
+ {
+  "id": 618,
+  "en": "Catch Groudon",
+  "es": "Capturar a Groudon",
+  "zh": "捕获固拉多"
+ },
+ {
+  "id": 619,
+  "en": "Carry Blue Orb",
+  "es": "Llevar Esfera Azul",
+  "zh": "携带靛蓝色宝珠"
+ },
+ {
+  "id": 620,
+  "en": "Do not exceed Level 50",
+  "es": "No superar Nivel 50",
+  "zh": "不能超过50级"
+ },
+ {
+  "id": 621,
+  "en": "Access to Oceanic Cave",
+  "es": "Acceder a Cueva Oceánica",
+  "zh": "进入海洋洞窟"
+ },
+ {
+  "id": 622,
+  "en": "Defeat Commander Shelly",
+  "es": "Derrotar a Comandante Silvina",
+  "zh": "打倒干部阿泉"
+ },
+ {
+  "id": 623,
+  "en": "Find Kyogre",
+  "es": "Encontrar a Kyogre",
+  "zh": "找到盖欧卡"
+ },
+ {
+  "id": 624,
+  "en": "Fight Kyogre",
+  "es": "Luchar contra Kyogre",
+  "zh": "与盖欧卡战斗"
+ },
+ {
+  "id": 625,
+  "en": "Catch Kyogre",
+  "es": "Capturar a Kyogre",
+  "zh": "捕获盖欧卡"
+ },
+ {
+  "id": 626,
+  "en": "Carry Red Orb",
+  "es": "Llevar Esfera Roja",
+  "zh": "携带朱红色宝珠"
+ },
+ {
+  "id": 627,
+  "en": "Do not exceed Level 50",
+  "es": "No superar Nivel 50",
+  "zh": "不能超过50级"
+ },
+ {
+  "id": 628,
+  "en": "Access to Cerulean Sanctuary",
+  "es": "Acceder a Santuario Celeste",
+  "zh": "进入华蓝圣域"
+ },
+ {
+  "id": 629,
+  "en": "Find Rayquaza",
+  "es": "Encontrar a Rayquaza",
+  "zh": "找到烈空坐"
+ },
+ {
+  "id": 630,
+  "en": "Fight Rayquaza",
+  "es": "Luchar contra Rayquaza",
+  "zh": "与烈空坐战斗"
+ },
+ {
+  "id": 631,
+  "en": "Catch Rayquaza",
+  "es": "Capturar a Rayquaza",
+  "zh": "捕获烈空坐"
+ },
+ {
+  "id": 632,
+  "en": "Carry Jade Orb",
+  "es": "Llevar Esfera Verde",
+  "zh": "携带草绿色宝珠"
+ },
+ {
+  "id": 633,
+  "en": "Do not exceed Level 50",
+  "es": "No superar Nivel 50",
+  "zh": "不能超过50级"
+ },
+ {
+  "id": 634,
+  "en": "Bring down sea power",
+  "es": "Doblegar poder del mar",
+  "zh": "压制海之力量"
+ },
+ {
+  "id": 635,
+  "en": "Bring down earth power",
+  "es": "Doblegar poder de la tierra",
+  "zh": "压制大地之力量"
+ },
+ {
+  "id": 636,
+  "en": "Investigate Fugacious Forest",
+  "es": "Investigar Bosque Fugaz",
+  "zh": "调查转瞬森林"
+ },
+ {
+  "id": 637,
+  "en": "Defeat Team Rocket",
+  "es": "Derrotar Team Rocket",
+  "zh": "打倒火箭队"
+ },
+ {
+  "id": 638,
+  "en": "Defeat Lady Boss",
+  "es": "Derrotar Lady Boss",
+  "zh": "打倒女首领"
+ },
+ {
+  "id": 639,
+  "en": "Go to Pole Sewer",
+  "es": "Ir a Cloaca Polar",
+  "zh": "前往北辰下水道"
+ },
+ {
+  "id": 640,
+  "en": "Recover Vital Particle",
+  "es": "Recuperar Partícula Vital",
+  "zh": "夺回活力粒子"
+ },
+ {
+  "id": 641,
+  "en": "Find Jirachi",
+  "es": "Encontrar a Jirachi",
+  "zh": "找到基拉祈"
+ },
+ {
+  "id": 642,
+  "en": "Fight Jirachi",
+  "es": "Luchar contra Jirachi",
+  "zh": "与基拉祈战斗"
+ },
+ {
+  "id": 643,
+  "en": "Catch Jirachi",
+  "es": "Capturar a Jirachi",
+  "zh": "捕获基拉祈"
+ },
+ {
+  "id": 644,
+  "en": "Defeat Team Galactic",
+  "es": "Derrotar Equipo Galaxia",
+  "zh": "打倒银河队"
+ },
+ {
+  "id": 645,
+  "en": "Defeat Commander Jupiter",
+  "es": "Derrotar Comandante Ceres",
+  "zh": "打倒干部岁星"
+ },
+ {
+  "id": 646,
+  "en": "Visit Multimedia Star",
+  "es": "Visitar Multimedia Star",
+  "zh": "前往星辰多媒体"
+ },
+ {
+  "id": 647,
+  "en": "Explore Multimedia Star",
+  "es": "Explorar Multimedia Star",
+  "zh": "探索星辰多媒体"
+ },
+ {
+  "id": 648,
+  "en": "Go to Saturn Island",
+  "es": "Ir a Isla Saturno",
+  "zh": "前往土星岛"
+ },
+ {
+  "id": 649,
+  "en": "Talk with Captain Oliver",
+  "es": "Hablar con Capitán Oliver",
+  "zh": "和奥利弗船长交谈"
+ },
+ {
+  "id": 650,
+  "en": "Obtain Mystery Pass",
+  "es": "Obtener Pase Misterio",
+  "zh": "获得神秘通行证"
+ },
+ {
+  "id": 651,
+  "en": "Go to Halley Island",
+  "es": "Ir a Isla Halley",
+  "zh": "前往哈雷岛"
+ },
+ {
+  "id": 652,
+  "en": "Investigate Cyrus Plans",
+  "es": "Investigar planes de Helio",
+  "zh": "调查赤日的计划"
+ },
+ {
+  "id": 653,
+  "en": "Defeat Team Galactic",
+  "es": "Derrotar Equipo Galaxia",
+  "zh": "打倒银河队"
+ },
+ {
+  "id": 654,
+  "en": "Find Adamant Orb",
+  "es": "Encontrar Diamansfera",
+  "zh": "找到金刚宝珠"
+ },
+ {
+  "id": 655,
+  "en": "Find Lustrous Orb",
+  "es": "Encontrar Lustresfera",
+  "zh": "找到白玉宝珠"
+ },
+ {
+  "id": 656,
+  "en": "Catch Dialga",
+  "es": "Capturar a Dialga",
+  "zh": "捕获帝牙卢卡"
+ },
+ {
+  "id": 657,
+  "en": "Catch Palkia",
+  "es": "Capturar a Palkia",
+  "zh": "捕获帕路奇亚"
+ },
+ {
+  "id": 658,
+  "en": "Go to Pluto Island",
+  "es": "Ir a Isla Plutón",
+  "zh": "前往冥王岛"
+ },
+ {
+  "id": 659,
+  "en": "Talk with Volkner",
+  "es": "Hablar con Lectro",
+  "zh": "和电次交谈"
+ },
+ {
+  "id": 660,
+  "en": "Defeat Team Galactic",
+  "es": "Derrotar Equipo Galaxia",
+  "zh": "打倒银河队"
+ },
+ {
+  "id": 661,
+  "en": "Stop Cyrus",
+  "es": "Detener a Helio",
+  "zh": "阻止赤日"
+ },
+ {
+  "id": 662,
+  "en": "Stop Giratina",
+  "es": "Detener a Giratina",
+  "zh": "阻止骑拉帝纳"
+ },
+ {
+  "id": 663,
+  "en": "Obtain Griseous Orb",
+  "es": "Obtener Griseosfera",
+  "zh": "获得白金宝珠"
+ },
+ {
+  "id": 664,
+  "en": "Go to Pluto Island",
+  "es": "Ir a Isla Plutón",
+  "zh": "前往冥王岛"
+ },
+ {
+  "id": 665,
+  "en": "Access to Distortion World",
+  "es": "Acceder a Mundo Distorsión",
+  "zh": "进入毁坏的世界"
+ },
+ {
+  "id": 666,
+  "en": "Investigate Distortion World",
+  "es": "Investigar Mundo Distorsión",
+  "zh": "调查毁坏的世界"
+ },
+ {
+  "id": 667,
+  "en": "Find Cyrus",
+  "es": "Encontrar a Helio",
+  "zh": "找到赤日"
+ },
+ {
+  "id": 668,
+  "en": "Defeat Cyrus",
+  "es": "Vencer a Helio",
+  "zh": "打倒赤日"
+ },
+ {
+  "id": 669,
+  "en": "Find Giratina",
+  "es": "Encontrar a Giratina",
+  "zh": "找到骑拉帝纳"
+ },
+ {
+  "id": 670,
+  "en": "Fight Giratina",
+  "es": "Luchar contra Giratina",
+  "zh": "与骑拉帝纳战斗"
+ },
+ {
+  "id": 671,
+  "en": "Catch Giratina",
+  "es": "Capturar a Giratina",
+  "zh": "捕获骑拉帝纳"
+ },
+ {
+  "id": 672,
+  "en": "Rocket Kidnapping",
+  "es": "Secuestro Rocket",
+  "zh": "火箭队的绑架事件"
+ },
+ {
+  "id": 673,
+  "en": "Defeat Team Rocket",
+  "es": "Derrotar Team Rocket",
+  "zh": "打倒火箭队"
+ },
+ {
+  "id": 674,
+  "en": "Win against Fer",
+  "es": "Vencer a Fer",
+  "zh": "打倒菲尔"
+ },
+ {
+  "id": 675,
+  "en": "Defeat Jessie",
+  "es": "Derrotar a Jessie",
+  "zh": "打倒武藏"
+ },
+ {
+  "id": 676,
+  "en": "Defeat James",
+  "es": "Derrotar a James",
+  "zh": "打倒小次郎"
+ },
+ {
+  "id": 677,
+  "en": "Defeat Meowth",
+  "es": "Derrotar a Meowth",
+  "zh": "打倒喵喵"
+ },
+ {
+  "id": 678,
+  "en": "Recover your body",
+  "es": "Recuperar tu cuerpo",
+  "zh": "夺回你的身体"
+ },
+ {
+  "id": 679,
+  "en": "Find Manaphy",
+  "es": "Encontrar a Manaphy",
+  "zh": "找到玛纳霏"
+ },
+ {
+  "id": 680,
+  "en": "Fight Manaphy",
+  "es": "Luchar contra Manaphy",
+  "zh": "与玛纳霏战斗"
+ },
+ {
+  "id": 681,
+  "en": "Catch Manaphy",
+  "es": "Capturar a Manaphy",
+  "zh": "捕获玛纳霏"
+ },
+ {
+  "id": 682,
+  "en": "Access to Holy Hill",
+  "es": "Acceder a Colina Sagrada",
+  "zh": "前往圣山丘"
+ },
+ {
+  "id": 683,
+  "en": "Investigate Rekiem plans",
+  "es": "Investigar planes Rekiem",
+  "zh": "调查安魂队的计划"
+ },
+ {
+  "id": 684,
+  "en": "Defeat Team Rekiem",
+  "es": "Derrotar Team Rekiem",
+  "zh": "打倒安魂队"
+ },
+ {
+  "id": 685,
+  "en": "Stop Kustem",
+  "es": "Detener a Kustem",
+  "zh": "阻止库斯特姆"
+ },
+ {
+  "id": 686,
+  "en": "Defeat Rex",
+  "es": "Derrotar a Rex",
+  "zh": "打倒雷克斯"
+ },
+ {
+  "id": 687,
+  "en": "Place Tables",
+  "es": "Colocar Tablas",
+  "zh": "摆放石板"
+ },
+ {
+  "id": 688,
+  "en": "Obtain Azure Flute",
+  "es": "Obtener Flauta Azur",
+  "zh": "获得天界之笛"
+ },
+ {
+  "id": 689,
+  "en": "Summon Arceus",
+  "es": "Invocar a Arceus",
+  "zh": "召唤阿尔宙斯"
+ },
+ {
+  "id": 690,
+  "en": "Fight Arceus",
+  "es": "Luchar contra Arceus",
+  "zh": "与阿尔宙斯战斗"
+ },
+ {
+  "id": 691,
+  "en": "Catch Arceus",
+  "es": "Capturar a Arceus",
+  "zh": "捕获阿尔宙斯"
+ },
+ {
+  "id": 692,
+  "en": "Great Wise Old Man",
+  "es": "Gran Sabio Anciano",
+  "zh": "大贤者"
+ },
+ {
+  "id": 693,
+  "en": "Talk with Palace Aces ",
+  "es": "Hablar con Ases Palacio",
+  "zh": "和宫殿王牌交谈"
+ },
+ {
+  "id": 694,
+  "en": "Talk with Tournament Aces ",
+  "es": "Hablar con Ases Torneo",
+  "zh": "和锦标赛王牌交谈"
+ },
+ {
+  "id": 695,
+  "en": "Talk with Factory Aces ",
+  "es": "Hablar con Ases Fábrica",
+  "zh": "和工厂王牌交谈"
+ },
+ {
+  "id": 696,
+  "en": "Talk with Survival Aces",
+  "es": "Hablar con Ases Supervivencia",
+  "zh": "和生存王牌交谈"
+ },
+ {
+  "id": 697,
+  "en": "Talk with Zone Aces",
+  "es": "Hablar con Ases Zona",
+  "zh": "和区域王牌交谈"
+ },
+ {
+  "id": 698,
+  "en": "Talk with Tower Aces",
+  "es": "Hablar con Ases Torre",
+  "zh": "和塔楼王牌交谈"
+ },
+ {
+  "id": 699,
+  "en": "Talk with Hell Aces",
+  "es": "Hablar con Ases Infierno",
+  "zh": "和地狱王牌交谈"
+ },
+ {
+  "id": 700,
+  "en": "Investigate Case",
+  "es": "Investigar Caso",
+  "zh": "调查案件"
+ },
+ {
+  "id": 701,
+  "en": "Confidential Information",
+  "es": "Información confidencial",
+  "zh": "机密信息"
+ },
+ {
+  "id": 702,
+  "en": "Enter the Retaguard Cave",
+  "es": "Acceder a la Cueva Retaguardia",
+  "zh": "进入后卫洞窟"
+ },
+ {
+  "id": 703,
+  "en": "Find Genesect",
+  "es": "Encontrar a Genesect",
+  "zh": "找到盖诺赛克特"
+ },
+ {
+  "id": 704,
+  "en": "Fight against Genesect",
+  "es": "Luchar contra Genesect",
+  "zh": "与盖诺赛克特战斗"
+ },
+ {
+  "id": 705,
+  "en": "Capture Genesect",
+  "es": "Capturar a Genesect",
+  "zh": "捕获盖诺赛克特"
+ },
+ {
+  "id": 706,
+  "en": "Go to the Route 8",
+  "es": "Ir a la Ruta 8",
+  "zh": "前往8号道路"
+ },
+ {
+  "id": 707,
+  "en": "Talk to Willy",
+  "es": "Hablar con Willy",
+  "zh": "和威利交谈"
+ },
+ {
+  "id": 708,
+  "en": "Encounter with Reshiram",
+  "es": "Encuentro con Reshiram",
+  "zh": "遇见莱希拉姆"
+ },
+ {
+  "id": 709,
+  "en": "Defeat Mirto",
+  "es": "Vencer a Mirto",
+  "zh": "打倒阿戴克"
+ },
+ {
+  "id": 710,
+  "en": "Fight Reshiram",
+  "es": "Luchar con Reshiram",
+  "zh": "与莱希拉姆战斗"
+ },
+ {
+  "id": 711,
+  "en": "Capture Reshiram",
+  "es": "Capturar a Reshiram",
+  "zh": "捕获莱希拉姆"
+ },
+ {
+  "id": 712,
+  "en": "Go to the Volcanic Zone",
+  "es": "Ir a la Zona Volcánica",
+  "zh": "前往火山地带"
+ },
+ {
+  "id": 713,
+  "en": "Talk with Adalia",
+  "es": "Hablar con Adalia",
+  "zh": "和阿达莉娅交谈"
+ },
+ {
+  "id": 714,
+  "en": "Encounter with Zekrom",
+  "es": "Encuentro con Zekrom",
+  "zh": "遇见捷克罗姆"
+ },
+ {
+  "id": 715,
+  "en": "Defeat Rizzo",
+  "es": "Vencer a Rizzo",
+  "zh": "打倒共平"
+ },
+ {
+  "id": 716,
+  "en": "Defeat Nanci",
+  "es": "Vencer a Nanci",
+  "zh": "打倒鸣依"
+ },
+ {
+  "id": 717,
+  "en": "Fight Zekrom",
+  "es": "Luchar con Zekrom",
+  "zh": "与捷克罗姆战斗"
+ },
+ {
+  "id": 718,
+  "en": "Capture Zekom",
+  "es": "Capturar a Zekrom",
+  "zh": "捕获捷克罗姆"
+ },
+ {
+  "id": 719,
+  "en": "Go to Pole City",
+  "es": "Ir a Ciudad Polar",
+  "zh": "前往北辰市"
+ },
+ {
+  "id": 720,
+  "en": "Talk with Fer",
+  "es": "Hablar con Fer",
+  "zh": "和菲尔交谈"
+ },
+ {
+  "id": 721,
+  "en": "Defeat Kyurem Army",
+  "es": "Derrotar Ejército Kyurem",
+  "zh": "打倒酋雷姆的大军"
+ },
+ {
+  "id": 722,
+  "en": "Go to the Roof Terrace (Mall)",
+  "es": "Ir a Azotea Centro Comercial",
+  "zh": "前往商场天台"
+ },
+ {
+  "id": 723,
+  "en": "Go to Route 12",
+  "es": "Ir a Ruta 12",
+  "zh": "前往12号道路"
+ },
+ {
+  "id": 724,
+  "en": "Find Kyurem",
+  "es": "Encontrar a Kyurem",
+  "zh": "找到酋雷姆"
+ },
+ {
+  "id": 725,
+  "en": "Research Kyurem’s project",
+  "es": "Investigar planes de Kyurem",
+  "zh": "调查酋雷姆的计划"
+ },
+ {
+  "id": 726,
+  "en": "Go to the desert",
+  "es": "Ir al desierto",
+  "zh": "前往沙漠"
+ },
+ {
+  "id": 727,
+  "en": "Find Kyurem",
+  "es": "Encontrar a Kyurem",
+  "zh": "找到酋雷姆"
+ },
+ {
+  "id": 728,
+  "en": "Defeat N Trainer",
+  "es": "Vencer a Entrenador N",
+  "zh": "打倒训练家N"
+ },
+ {
+  "id": 729,
+  "en": "Fight Kyurem",
+  "es": "Luchar con Kyurem",
+  "zh": "与酋雷姆战斗"
+ },
+ {
+  "id": 730,
+  "en": "Capture Kyurem",
+  "es": "Capturar a Kyurem",
+  "zh": "捕获酋雷姆"
+ },
+ {
+  "id": 731,
+  "en": "Find Virizion",
+  "es": "Encontrar a Virizion",
+  "zh": "找到毕力吉翁"
+ },
+ {
+  "id": 732,
+  "en": "Capture Virizion",
+  "es": "Capturar a Virizion",
+  "zh": "捕获毕力吉翁"
+ },
+ {
+  "id": 733,
+  "en": "Find Terrakion",
+  "es": "Encontrar a Terrakion",
+  "zh": "找到代拉基翁"
+ },
+ {
+  "id": 734,
+  "en": "Capture Terrakion",
+  "es": "Capturar a Terrakion",
+  "zh": "捕获代拉基翁"
+ },
+ {
+  "id": 735,
+  "en": "Find Cobalion",
+  "es": "Encontrar a Cobalion",
+  "zh": "找到勾帕路翁"
+ },
+ {
+  "id": 736,
+  "en": "Capture Cobalion",
+  "es": "Capturar a Cobalion",
+  "zh": "捕获勾帕路翁"
+ },
+ {
+  "id": 737,
+  "en": "Find Keldeo",
+  "es": "Encontrar a Keldeo",
+  "zh": "找到凯路迪欧"
+ },
+ {
+  "id": 738,
+  "en": "Capture Keldeo",
+  "es": "Capturar a Keldeo",
+  "zh": "捕获凯路迪欧"
+ },
+ {
+  "id": 739,
+  "en": "Enter the Pokémon Race",
+  "es": "Acceder a Pokémon Race",
+  "zh": "进入宝可梦赛跑"
+ },
+ {
+  "id": 740,
+  "en": "Participate in the race",
+  "es": "Participar en carrera",
+  "zh": "参加比赛"
+ },
+ {
+  "id": 741,
+  "en": "Win on Amateur",
+  "es": "Ganar en Amateur",
+  "zh": "在业余组获胜"
+ },
+ {
+  "id": 742,
+  "en": "Win on Professional",
+  "es": "Ganar en Profesional",
+  "zh": "在职业组获胜"
+ },
+ {
+  "id": 743,
+  "en": "Win on Expert",
+  "es": "Ganar en Experto",
+  "zh": "在专家组获胜"
+ },
+ {
+  "id": 744,
+  "en": "Carry only one single Pokémon",
+  "es": "Llevar un solo Pokémon",
+  "zh": "只带一只宝可梦"
+ },
+ {
+  "id": 745,
+  "en": "Use a fast Pokémon",
+  "es": "Usar Pokémon veloz",
+  "zh": "使用速度快的宝可梦"
+ },
+ {
+  "id": 746,
+  "en": "Enter the Pokémon Flygol",
+  "es": "Acceder a Pokémon Flygol",
+  "zh": "进入宝可梦FlyGol"
+ },
+ {
+  "id": 747,
+  "en": "Participate in a event",
+  "es": "Participar en evento",
+  "zh": "参加活动"
+ },
+ {
+  "id": 748,
+  "en": "Win the event",
+  "es": "Ganar evento",
+  "zh": "赢得活动"
+ },
+ {
+  "id": 749,
+  "en": "Win 5 events",
+  "es": "Ganar 5 eventos",
+  "zh": "赢得5场活动"
+ },
+ {
+  "id": 750,
+  "en": "Carry only one sigle Pokémon",
+  "es": "Llevar un solo Pokémon",
+  "zh": "只带一只宝可梦"
+ },
+ {
+  "id": 751,
+  "en": "Use a flying Pokémon",
+  "es": "Usar Pokémon volador",
+  "zh": "使用飞行属性的宝可梦"
+ },
+ {
+  "id": 752,
+  "en": "Enter the Caloris Park",
+  "es": "Acceder a Parque Caloris",
+  "zh": "进入卡洛里斯公园"
+ },
+ {
+  "id": 753,
+  "en": "Participate in a contest",
+  "es": "Participar en concurso",
+  "zh": "参加大赛"
+ },
+ {
+  "id": 754,
+  "en": "Win the contest",
+  "es": "Ganar concurso",
+  "zh": "赢得大赛"
+ },
+ {
+  "id": 755,
+  "en": "Carry only one single Pokémon",
+  "es": "Llevar un solo Pokémon",
+  "zh": "只带一只宝可梦"
+ },
+ {
+  "id": 756,
+  "en": "Not be disqualified",
+  "es": "No ser descalificado",
+  "zh": "不被取消资格"
+ },
+ {
+  "id": 757,
+  "en": "Enter the Mars Dojo",
+  "es": "Acceder a Dojo Marte",
+  "zh": "进入火星道场"
+ },
+ {
+  "id": 758,
+  "en": "Participate in a event",
+  "es": "Participar en evento",
+  "zh": "参加活动"
+ },
+ {
+  "id": 759,
+  "en": "Win the event",
+  "es": "Ganar Evento",
+  "zh": "赢得活动"
+ },
+ {
+  "id": 760,
+  "en": "Win using Hitmonlee",
+  "es": "Ganar con Hitmonlee",
+  "zh": "使用飞腿郎获胜"
+ },
+ {
+  "id": 761,
+  "en": "Win using Hitmonchan",
+  "es": "Ganar con Hitmonchan",
+  "zh": "使用快拳郎获胜"
+ },
+ {
+  "id": 762,
+  "en": "Win using Hitmontop",
+  "es": "Ganar con Hitmontop",
+  "zh": "使用战舞郎获胜"
+ },
+ {
+  "id": 763,
+  "en": "Carry only one single Pokémon",
+  "es": "Llevar un solo Pokémon",
+  "zh": "只带一只宝可梦"
+ },
+ {
+  "id": 764,
+  "en": "Not fall weakened",
+  "es": "No caer debilitado",
+  "zh": "不能陷入濒死"
+ },
+ {
+  "id": 765,
+  "en": "Enter the University",
+  "es": "Acceder a Universidad",
+  "zh": "进入大学"
+ },
+ {
+  "id": 766,
+  "en": "Do the access exam",
+  "es": "Realizar examen de acceso",
+  "zh": "参加入学考试"
+ },
+ {
+  "id": 767,
+  "en": "Pass the access exam",
+  "es": "Aprobar examen de acceso",
+  "zh": "通过入学考试"
+ },
+ {
+  "id": 768,
+  "en": "Pass grade D exam",
+  "es": "Aprobar examen grado D",
+  "zh": "通过D级考试"
+ },
+ {
+  "id": 769,
+  "en": "Pass grade C exam",
+  "es": "Aprobar examen grado C",
+  "zh": "通过C级考试"
+ },
+ {
+  "id": 770,
+  "en": "Pass grade B exam",
+  "es": "Aprobar examen grado B",
+  "zh": "通过B级考试"
+ },
+ {
+  "id": 771,
+  "en": "Pass grade A exam",
+  "es": "Aprobar examen grado A",
+  "zh": "通过A级考试"
+ },
+ {
+  "id": 772,
+  "en": "Pass grade S exam",
+  "es": "Aprobar examen grado S",
+  "zh": "通过S级考试"
+ },
+ {
+  "id": 773,
+  "en": "Cheating not allowed",
+  "es": "No vale copiar",
+  "zh": "不许作弊"
+ },
+ {
+  "id": 774,
+  "en": "Enter the Palace",
+  "es": "Acceder al Palacio",
+  "zh": "进入宫殿"
+ },
+ {
+  "id": 775,
+  "en": "Participate in Event",
+  "es": "Participar en Evento",
+  "zh": "参加活动"
+ },
+ {
+  "id": 776,
+  "en": "Win an Event",
+  "es": "Ganar un Evento",
+  "zh": "赢得一场活动"
+ },
+ {
+  "id": 777,
+  "en": "Win Palace 50",
+  "es": "Ganar Palacio 50",
+  "zh": "赢得宫殿50"
+ },
+ {
+  "id": 778,
+  "en": "Win Open Palace",
+  "es": "Ganar Palacio Libre",
+  "zh": "赢得自由宫殿"
+ },
+ {
+  "id": 779,
+  "en": "Win Palace 100",
+  "es": "Ganar Palacio 100",
+  "zh": "赢得宫殿100"
+ },
+ {
+  "id": 780,
+  "en": "Silver Symbol",
+  "es": "Símbolo de Plata",
+  "zh": "银色纹章"
+ },
+ {
+  "id": 781,
+  "en": "Gold Symbol",
+  "es": "Símbolo de Oro",
+  "zh": "金色纹章"
+ },
+ {
+  "id": 782,
+  "en": "Enter the Palacial Door",
+  "es": "Acceso Puerta Palacial",
+  "zh": "进入宫殿之门"
+ },
+ {
+  "id": 783,
+  "en": "Platinum Symbol",
+  "es": "Símbolo de Platino",
+  "zh": "白金纹章"
+ },
+ {
+  "id": 784,
+  "en": "Enter the Tournament",
+  "es": "Acceder al Torneo",
+  "zh": "进入锦标赛"
+ },
+ {
+  "id": 785,
+  "en": "Win Super Tournament",
+  "es": "Ganar Súper Torneo",
+  "zh": "赢得超级锦标赛"
+ },
+ {
+  "id": 786,
+  "en": "Win Mega Tournament",
+  "es": "Ganar Mega Torneo",
+  "zh": "赢得巨型锦标赛"
+ },
+ {
+  "id": 787,
+  "en": "Win Ultra Tournament",
+  "es": "Ganar Ultra Torneo",
+  "zh": "赢得究极锦标赛"
+ },
+ {
+  "id": 788,
+  "en": "Enter the Pentagonal Door",
+  "es": "Acceso Puerta Pentagonal",
+  "zh": "进入五边形之门"
+ },
+ {
+  "id": 789,
+  "en": "Enter the Factory",
+  "es": "Acceder a la Fábrica",
+  "zh": "进入工厂"
+ },
+ {
+  "id": 790,
+  "en": "Win on Electron Factory",
+  "es": "Ganar en Fábrica Electrón",
+  "zh": "在电子工厂获胜"
+ },
+ {
+  "id": 791,
+  "en": "Win on Neutron Factory",
+  "es": "Ganar en Fábrica Neutrón",
+  "zh": "在中子工厂获胜"
+ },
+ {
+  "id": 792,
+  "en": "Win on Proton Factory",
+  "es": "Ganar en Fábrica Protón",
+  "zh": "在质子工厂获胜"
+ },
+ {
+  "id": 793,
+  "en": "Enter the Experimental Door",
+  "es": "Acceso Puerta Experimental ",
+  "zh": "进入实验之门"
+ },
+ {
+  "id": 794,
+  "en": "Enter Survival",
+  "es": "Acceder a Supervivencia",
+  "zh": "进入生存区"
+ },
+ {
+  "id": 795,
+  "en": "Despair Survival",
+  "es": "Supervivencia Desesperada",
+  "zh": "绝望生存"
+ },
+ {
+  "id": 796,
+  "en": "Fear Survival",
+  "es": "Supervivencia del Miedo",
+  "zh": "恐惧生存"
+ },
+ {
+  "id": 797,
+  "en": "Anguish Survival ",
+  "es": "Supervivencia Angustiosa",
+  "zh": "痛苦生存"
+ },
+ {
+  "id": 798,
+  "en": "Enter the Abysmal Door",
+  "es": "Acceso Puerta Abismal",
+  "zh": "进入深渊之门"
+ },
+ {
+  "id": 799,
+  "en": "Enter the Zone",
+  "es": "Acceder a La Zona",
+  "zh": "进入区域"
+ },
+ {
+  "id": 800,
+  "en": "Win Zone 3",
+  "es": "Ganar Zona Tres",
+  "zh": "赢得区域3"
+ },
+ {
+  "id": 801,
+  "en": "Win Zone 6",
+  "es": "Ganar Zona Seis",
+  "zh": "赢得区域6"
+ },
+ {
+  "id": 802,
+  "en": "Matrix Door Access",
+  "es": "Acceso Puerta Matricial",
+  "zh": "进入矩阵之门"
+ },
+ {
+  "id": 803,
+  "en": "Access to the Tower",
+  "es": "Acceder a la Torre",
+  "zh": "进入塔楼"
+ },
+ {
+  "id": 804,
+  "en": "Win Events ($par1$/$par2$)",
+  "es": "Ganar Torre Estrato",
+  "zh": "赢得平流层塔"
+ },
+ {
+  "id": 805,
+  "en": "Heavenly Door Access",
+  "es": "Acceso Puerta Celestial",
+  "zh": "进入天堂之门"
+ },
+ {
+  "id": 806,
+  "en": "Access to Hell",
+  "es": "Acceder al Infierno",
+  "zh": "进入地狱"
+ },
+ {
+  "id": 807,
+  "en": "Win Events ($par1$/$par2$)",
+  "es": "Ganar Eventos ($par1$/$par2$)",
+  "zh": "赢得活动（$par1$/$par2$）"
+ },
+ {
+  "id": 808,
+  "en": "Access to Hell Door",
+  "es": "Acceso Puerta Infernal",
+  "zh": "进入地狱之门"
+ },
+ {
+  "id": 809,
+  "en": "Visit East Frontier",
+  "es": "Visitar Frente Este",
+  "zh": "前往东部开拓区"
+ },
+ {
+  "id": 810,
+  "en": "Visit Front Line Cafè",
+  "es": "Visitar Cafetería Primera Línea",
+  "zh": "前往前线咖啡馆"
+ },
+ {
+  "id": 811,
+  "en": "Access Rearguard Cave",
+  "es": "Acceder Cueva Retaguaria",
+  "zh": "进入后卫洞窟"
+ },
+ {
+  "id": 812,
+  "en": "Visit Hall of Records",
+  "es": "Visitar Salón de Récords",
+  "zh": "前往记录大厅"
+ },
+ {
+  "id": 813,
+  "en": "Visit Grass Master",
+  "es": "Visitar Maestro Planta",
+  "zh": "拜访草系大师"
+ },
+ {
+  "id": 814,
+  "en": "Visit Fire Master",
+  "es": "Visitar Maestro Fuego",
+  "zh": "拜访火系大师"
+ },
+ {
+  "id": 815,
+  "en": "Visit Water Master",
+  "es": "Visitar Maestro Agua",
+  "zh": "拜访水系大师"
+ },
+ {
+  "id": 816,
+  "en": "Now Teselia League is also celebrated on Sun Island.",
+  "es": "Ahora también se celebra la Liga de Teselia en Isla Sol.",
+  "zh": "现在合众联盟也在太阳岛举办了。"
+ },
+ {
+  "id": 817,
+  "en": "Lorelei and her Lapras have helped you with the Spearow and cleaned you up.",
+  "es": "Lorelei y su Lapras te han ayudado con los Spearow y a limpiarte.",
+  "zh": "科拿和她的拉普拉斯帮你对付了烈雀，还帮你清洗了身体。"
+ },
+ {
+  "id": 818,
+  "en": "You have calmed the pyromaniac and now Xavi is doubly grateful.",
+  "es": "Has calmado al pirómano y ahora Javi está doblemente agradecido.",
+  "zh": "你安抚了纵火狂，哈维现在对你加倍感激。"
+ },
+ {
+  "id": 819,
+  "en": "Xavi got us into another mess, but thanks to that we have met Deoxys.",
+  "es": "Javi nos metió en otro lío pero gracias a eso hemos conocido a Deoxys.",
+  "zh": "哈维又把我们卷进了另一场麻烦，不过多亏如此，我们结识了代欧奇希斯。"
+ },
+ {
+  "id": 820,
+  "en": "The mysterious Pokémon is Mew, able to transform into any Pokémon.",
+  "es": "El Pokémon misterioso es Mew, capaz de transformarse en cualquier Pokémon.",
+  "zh": "那只神秘的宝可梦是梦幻，它能变身成任何宝可梦。"
+ },
+ {
+  "id": 821,
+  "en": "The invocation of Ho-Oh has been a success!",
+  "es": "¡La invocación de Ho-Oh ha sido un éxito!",
+  "zh": "凤王的召唤成功了！"
+ },
+ {
+  "id": 822,
+  "en": "Team Magma and Team Aqua have very dangerous artifacts!",
+  "es": "¡El Team Magma y el Team Aqua poseen artefactos muy peligrosos!",
+  "zh": "熔岩队和海洋队拥有非常危险的装置！"
+ },
+ {
+  "id": 823,
+  "en": "A new Pokémon, Psicovenom, was released by Tina on Venus Island.",
+  "es": "Un nuevo Pokémon, Psicovenom, fue liberado por Tina en Isla Venus.",
+  "zh": "蒂娜在金星岛放出了一只新的宝可梦——念毒兽。"
+ },
+ {
+  "id": 824,
+  "en": "You have finally been able to face Darkrai face-to-face!",
+  "es": "¡Por fin has podido enfrentarte a Darkrai cara a cara!",
+  "zh": "你终于能和达克莱伊正面对决了！"
+ },
+ {
+  "id": 825,
+  "en": "A Crystal Onyx inhabited the Pike Cave!",
+  "es": "¡Un Onix de Cristal habitaba la Cueva Chuzo!",
+  "zh": "尖峰洞窟里栖息着一只水晶大岩蛇！"
+ },
+ {
+  "id": 826,
+  "en": "Most of Team Rekiem members have been captured.",
+  "es": "La mayoría de los miembros del Team Rekiem han sido capturados.",
+  "zh": "安魂队的大部分成员已被抓获。"
+ },
+ {
+  "id": 827,
+  "en": "The invocation of Lugia has been a success!",
+  "es": "¡La invocación de Lugia ha sido un éxito!",
+  "zh": "洛奇亚的召唤成功了！"
+ },
+ {
+  "id": 828,
+  "en": "Together with Rosama you have saved the continuous space-time.",
+  "es": "Junto a Rosama habéis salvado el continuo espacio-tiempo.",
+  "zh": "你和罗萨玛一起拯救了时空的连续性。"
+ },
+ {
+  "id": 829,
+  "en": "Team Magma has kidnapped the Legendary Pokémon Groudon.",
+  "es": "El Team Magma ha secuestrado al Pokémon Legendario Groudon.",
+  "zh": "熔岩队绑架了传说中的宝可梦固拉多。"
+ },
+ {
+  "id": 830,
+  "en": "Team Aqua has kidnapped the Legendary Pokémon Kyogre.",
+  "es": "El Team Aqua ha secuestrado al Pokémon Legendario Kyogre.",
+  "zh": "海洋队绑架了传说中的宝可梦盖欧卡。"
+ },
+ {
+  "id": 831,
+  "en": "The Elite Squad has stopped the evil plans of Maxie.",
+  "es": "El Escuadrón Élite ha detenido los malvados planes de Magno.",
+  "zh": "精英小队阻止了赤焰松的邪恶计划。"
+ },
+ {
+  "id": 832,
+  "en": "The Elite Squad has stopped the evil plans of Archie.",
+  "es": "El Escuadrón Élite ha detenido los malvados planes de Aquiles.",
+  "zh": "精英小队阻止了水梧桐的邪恶计划。"
+ },
+ {
+  "id": 833,
+  "en": "You have been able to face the Legendary Pokémon Groudon.",
+  "es": "Has podido enfrentarte al Pokémon Legendario Groudon.",
+  "zh": "你成功与传说中的宝可梦固拉多交了手。"
+ },
+ {
+  "id": 834,
+  "en": "You have been able to face the Legendary Pokémon Kyogre.",
+  "es": "Has podido enfrentarte al Pokémon Legendario Kyogre.",
+  "zh": "你成功与传说中的宝可梦盖欧卡交了手。"
+ },
+ {
+  "id": 835,
+  "en": "You have been able to face the Legendary Pokémon Rayquaza.",
+  "es": "Has podido enfrentarte al Pokémon Legendario Rayquaza.",
+  "zh": "你成功与传说中的宝可梦烈空坐交了手。"
+ },
+ {
+  "id": 836,
+  "en": "You have recovered the Vital Particle and met Jirachi.",
+  "es": "Has recuperado la Partícula Vital y conocido a Jirachi.",
+  "zh": "你夺回了活力粒子，还结识了基拉祈。"
+ },
+ {
+  "id": 837,
+  "en": "The bases have been set to fight Team Galactic.",
+  "es": "Se han sentado las bases para luchar contra el Equipo Galaxia.",
+  "zh": "已为对抗银河队奠定了基础。"
+ },
+ {
+  "id": 838,
+  "en": "Cyrus's dangerous plans have failed.",
+  "es": "Los peligrosos planes de Helio han fracasado.",
+  "zh": "赤日的危险计划失败了。"
+ },
+ {
+  "id": 839,
+  "en": "Cyrus has fled to the Distortion World, Team Galactic is already history.",
+  "es": "Helio ha huido al Mundo Inverso, el Equipo Galaxia ya es historia.",
+  "zh": "赤日逃进了毁坏的世界，银河队已成为历史。"
+ },
+ {
+  "id": 840,
+  "en": "You have traveled to another dimension and faced Cyrus and Giratina.",
+  "es": "Has viajado a otra dimensión y enfrentado a Helio y a Giratina.",
+  "zh": "你前往了另一个维度，与赤日和骑拉帝纳交了手。"
+ },
+ {
+  "id": 841,
+  "en": "Jessie, James and Meowth have finally been arrested!",
+  "es": "¡Jessie, James y Meowth han sido detenidos por fin!",
+  "zh": "武藏、小次郎和喵喵终于被逮捕了！"
+ },
+ {
+  "id": 842,
+  "en": "Team Rekiem has been captured and you have faced Arceus.",
+  "es": "El Team Rekiem ha sido capturado y te has enfrentado a Arceus.",
+  "zh": "安魂队已被抓获，你与阿尔宙斯交了手。"
+ },
+ {
+  "id": 843,
+  "en": "A long story, but it seems that everything has been solved!",
+  "es": "Una historia muy larga, ¡pero parece que todo se ha resuelto!",
+  "zh": "说来话长，不过看来一切都解决了！"
+ },
+ {
+  "id": 844,
+  "en": "You have come into contact and you have dealt with Genesect.",
+  "es": "Has entrado en contacto y te has enfrentado con Genesect.",
+  "zh": "你与盖诺赛克特有了接触，并和它交了手。"
+ },
+ {
+  "id": 845,
+  "en": "Reshiram has arrived in the Star Region warning of something.",
+  "es": "Reshiram ha llegado a la Región Star avisando de algo.",
+  "zh": "莱希拉姆来到了星辰地区，似乎在警告着什么。"
+ },
+ {
+  "id": 846,
+  "en": "Zekrom has arrived in the Star Region warning of something.",
+  "es": "Zekrom ha llegado a la Región Star avisando de algo.",
+  "zh": "捷克罗姆来到了星辰地区，似乎在警告着什么。"
+ },
+ {
+  "id": 847,
+  "en": "Kyurem has calmed down and it seems that everything has been solved.",
+  "es": "Kyurem se ha calmado y parece que todo se ha solucionado.",
+  "zh": "酋雷姆平静下来了，看来一切都解决了。"
+ },
+ {
+  "id": 848,
+  "en": "You've fought with Trainer N and against Kyurem.",
+  "es": "Has luchado con el entrenador N y contra Kyurem.",
+  "zh": "你和训练家N交过手，也与酋雷姆战斗过。"
+ },
+ {
+  "id": 849,
+  "en": "You've found all the mystical swordsmen!",
+  "es": "¡Has encontrado a todos los espadachines místicos!",
+  "zh": "你找到了所有的神秘剑士！"
+ },
+ {
+  "id": 850,
+  "en": "Bring Rainbow Wing ",
+  "es": "Llevar Ala Arcoíris",
+  "zh": "带来虹色之羽"
+ },
+ {
+  "id": 851,
+  "en": "Bring Silver Wing",
+  "es": "Llevar Ala Plateada",
+  "zh": "带来银色之羽"
+ },
+ {
+  "id": 852,
+  "en": "There is a fight in the Rigel Saloon!",
+  "es": "¡Está teniendo lugar una pelea en el Saloon Rigel!",
+  "zh": "参宿酒馆里正在打架！"
+ },
+ {
+  "id": 853,
+  "en": "Spica Mystery",
+  "es": "Misterio Spica",
+  "zh": "角宿之谜"
+ },
+ {
+  "id": 854,
+  "en": "Defeat Pegaso",
+  "es": "Ganar a Pegaso",
+  "zh": "打败阿速"
+ },
+ {
+  "id": 855,
+  "en": "Defeat Alana",
+  "es": "Ganar a Alana",
+  "zh": "打败娜琪"
+ },
+ {
+  "id": 856,
+  "en": "Defeat Gerania",
+  "es": "Ganar a Gerania",
+  "zh": "打败风露"
+ },
+ {
+  "id": 857,
+  "en": "Starters Search",
+  "es": "Búsqueda de Iniciales",
+  "zh": "寻找初始宝可梦"
+ },
+ {
+  "id": 858,
+  "en": "Z-Crystals",
+  "es": "Cristales Z",
+  "zh": "Z纯晶"
+ },
+ {
+  "id": 859,
+  "en": "Special Z-Crystals",
+  "es": "Cristales Z Especiales",
+  "zh": "特殊Z纯晶"
+ },
+ {
+  "id": 860,
+  "en": "Find and catch the different Pokémon Starters.",
+  "es": "Encontrar y capturar a los diferentes Pokémon iniciales.",
+  "zh": "找到并捕获各种初始宝可梦。"
+ },
+ {
+  "id": 861,
+  "en": "Obtain the Alola Elemental Crystals.",
+  "es": "Obtener los Cristales Z elementales de Alola.",
+  "zh": "获得阿罗拉的各属性Z纯晶。"
+ },
+ {
+  "id": 862,
+  "en": "Obtain the special Alola Z-Crystals.",
+  "es": "Obtener los Cristales Z especiales de Alola.",
+  "zh": "获得阿罗拉的特殊Z纯晶。"
+ },
+ {
+  "id": 863,
+  "en": "Talk to Henrry",
+  "es": "Hablar con Henrry",
+  "zh": "和亨利交谈"
+ },
+ {
+  "id": 864,
+  "en": "Starters Catch ($par1$/33)",
+  "es": "Captura de iniciales ($par1$/33)",
+  "zh": "捕获初始宝可梦（$par1$/33）"
+ },
+ {
+  "id": 865,
+  "en": "Get Z-Ring",
+  "es": "Obtener Pulsera Z",
+  "zh": "获得Z手环"
+ },
+ {
+  "id": 866,
+  "en": "Get Z-Crystals ($par1$/18)",
+  "es": "Obtener Cristales Z ($par1$/18)",
+  "zh": "获得Z纯晶（$par1$/18）"
+ },
+ {
+  "id": 867,
+  "en": "Meet Samson Oak",
+  "es": "Conocer a Gabriel Oak",
+  "zh": "结识成也·大木"
+ },
+ {
+  "id": 868,
+  "en": "Get Z-Crystals ($par1$/17)",
+  "es": "Obtener Cristales Z ($par1$/17)",
+  "zh": "获得Z纯晶（$par1$/17）"
+ },
+ {
+  "id": 869,
+  "en": "You have found and catched all Pokémon Starters.",
+  "es": "Has encontrado y capturado a todos los iniciales.",
+  "zh": "你已找到并捕获了所有初始宝可梦。"
+ },
+ {
+  "id": 870,
+  "en": "You have obtained all elemental Z-crystals.",
+  "es": "Has conseguido todos los cristales Z elementales.",
+  "zh": "你已获得所有属性Z纯晶。"
+ },
+ {
+  "id": 871,
+  "en": "You have obtained all special Z-crystals.",
+  "es": "Has conseguido todos los cristales Z especiales.",
+  "zh": "你已获得所有特殊Z纯晶。"
+ },
+ {
+  "id": 872,
+  "en": "Get reward",
+  "es": "Obtener recompensa",
+  "zh": "领取奖励"
+ },
+ {
+  "id": 873,
+  "en": "Polar Plasma",
+  "es": "Plasma Polar",
+  "zh": "北辰的等离子队"
+ },
+ {
+  "id": 874,
+  "en": "Investigate what Team Plasma is up to in Polar City.",
+  "es": "Investigar que trama el Team Plasma en Ciudad Polar.",
+  "zh": "调查等离子队在北辰市图谋着什么。"
+ },
+ {
+  "id": 875,
+  "en": "Investigate Team Plasma",
+  "es": "Investigar Team Plasma",
+  "zh": "调查等离子队"
+ },
+ {
+  "id": 876,
+  "en": "Defeat Ghechis",
+  "es": "Derrotar a Ghechis",
+  "zh": "打倒魁奇思"
+ },
+ {
+  "id": 877,
+  "en": "Ghechis has met with Giovanni in Polar City and they have fled together.",
+  "es": "Ghechis se ha reunido con Giovanni en Ciudad Polar y han huido juntos.",
+  "zh": "魁奇思在北辰市与坂木会面，两人一同逃走了。"
+ },
+ {
+  "id": 878,
+  "en": "Flare Gaara",
+  "es": "Flare Gaara",
+  "zh": "加拉的闪焰队"
+ },
+ {
+  "id": 879,
+  "en": "Investigate what Team Flare is up to in the Gaara Tunnel.",
+  "es": "Investigar que trama el Team Flare en el Túnel Gaara.",
+  "zh": "调查闪焰队在加拉隧道图谋着什么。"
+ },
+ {
+  "id": 880,
+  "en": "Investigate Team Flare",
+  "es": "Investigar al Team Flare",
+  "zh": "调查闪焰队"
+ },
+ {
+  "id": 881,
+  "en": "Find Green Wire",
+  "es": "Encontrar Cable Verde",
+  "zh": "找到绿色电缆"
+ },
+ {
+  "id": 882,
+  "en": "Defeat Bryony",
+  "es": "Derrotar a Begonia",
+  "zh": "打倒芭菈"
+ },
+ {
+  "id": 883,
+  "en": "Find Blue Wire",
+  "es": "Encontrar Cable Azul",
+  "zh": "找到蓝色电缆"
+ },
+ {
+  "id": 884,
+  "en": "Defeat Mable",
+  "es": "Derrotar a Melia",
+  "zh": "打倒茉蜜姬"
+ },
+ {
+  "id": 885,
+  "en": "Find Violet Wire",
+  "es": "Encontrar Cable Violeta",
+  "zh": "找到紫色电缆"
+ },
+ {
+  "id": 886,
+  "en": "Defeat Celosia",
+  "es": "Derrotar a Caléndula",
+  "zh": "打倒克蕾儿"
+ },
+ {
+  "id": 887,
+  "en": "Find Yellow Wire",
+  "es": "Encontrar Cable Amarillo",
+  "zh": "找到黄色电缆"
+ },
+ {
+  "id": 888,
+  "en": "Defeat Aliana",
+  "es": "Derrotar a Amapola",
+  "zh": "打倒阿可碧"
+ },
+ {
+  "id": 889,
+  "en": "Find Red Wire",
+  "es": "Encontrar Cable Rojo",
+  "zh": "找到红色电缆"
+ },
+ {
+  "id": 890,
+  "en": "Defeat Xerosic",
+  "es": "Derrotar a Xero",
+  "zh": "打倒库瑟洛斯奇"
+ },
+ {
+  "id": 891,
+  "en": "Rescue Zygarde",
+  "es": "Rescatar a Zygarde",
+  "zh": "营救基格尔德"
+ },
+ {
+  "id": 892,
+  "en": "You have defeated Team Flare and freed Zygarde with the help of Clemont.",
+  "es": "Has derrotado al Team Flare y liberado a Zygarde con ayuda de Lem.",
+  "zh": "你打倒了闪焰队，并在希特隆的帮助下解救了基格尔德。"
+ },
+ {
+  "id": 893,
+  "en": "Order Pokémon",
+  "es": "Pokémon Equilibrio",
+  "zh": "秩序宝可梦"
+ },
+ {
+  "id": 894,
+  "en": "Find hidden Zygarde cells and cores.",
+  "es": "Encontrar células y núcleos de Zygarde escondidos.",
+  "zh": "找到隐藏的基格尔德细胞和核心。"
+ },
+ {
+  "id": 895,
+  "en": "You have successfully rounded up and captured all forms of Zygarde.",
+  "es": "Has logrado reunir y capturar a todas las formas de Zygarde.",
+  "zh": "你成功集齐并捕获了基格尔德的所有形态。"
+ },
+ {
+  "id": 896,
+  "en": "Get Ark of Zygarde",
+  "es": "Obtener Arca de Zygarde",
+  "zh": "获得基格尔德方舟"
+ },
+ {
+  "id": 897,
+  "en": "Find cells ($par1$/166)",
+  "es": "Encontrar células ($par1$/166)",
+  "zh": "寻找细胞（$par1$/166）"
+ },
+ {
+  "id": 898,
+  "en": "Cell Form",
+  "es": "Forma Célula",
+  "zh": "细胞形态"
+ },
+ {
+  "id": 899,
+  "en": "Core Form",
+  "es": "Forma Núcleo",
+  "zh": "核心形态"
+ },
+ {
+  "id": 900,
+  "en": "Form 10%",
+  "es": "Forma 10%",
+  "zh": "10%形态"
+ },
+ {
+  "id": 901,
+  "en": "Form 50%",
+  "es": "Forma 50%",
+  "zh": "50%形态"
+ },
+ {
+  "id": 902,
+  "en": "Full Form",
+  "es": "Forma Completa",
+  "zh": "完全体形态"
+ },
+ {
+  "id": 903,
+  "en": "Objectives",
+  "es": "Objetivos",
+  "zh": "目标"
+ },
+ {
+  "id": 904,
+  "en": "Place Scepters ($par1$/$par2$)",
+  "es": "Colocar cetros ($par1$/$par2$)",
+  "zh": "放置权杖（$par1$/$par2$）"
+ },
+ {
+  "id": 905,
+  "en": "Delete $par3$ ($par1$/$par2$)",
+  "es": "Eliminar $par3$ ($par1$/$par2$)",
+  "zh": "清除$par3$（$par1$/$par2$）"
+ },
+ {
+  "id": 906,
+  "en": "Extinguish $par3$ ($par1$/$par2$)",
+  "es": "Extinguir $par3$ ($par1$/$par2$)",
+  "zh": "熄灭$par3$（$par1$/$par2$）"
+ },
+ {
+  "id": 907,
+  "en": "Defeat enemies ($par1$/$par2$)",
+  "es": "Derrotar enemigos ($par1$/$par2$)",
+  "zh": "打倒敌人（$par1$/$par2$）"
+ },
+ {
+  "id": 908,
+  "en": "Destroy $par3$ ($par1$/$par2$)",
+  "es": "Destruir $par3$ ($par1$/$par2$)",
+  "zh": "破坏$par3$（$par1$/$par2$）"
+ },
+ {
+  "id": 909,
+  "en": "shrubbery",
+  "es": "arbustos",
+  "zh": "灌木丛"
+ },
+ {
+  "id": 910,
+  "en": "fires",
+  "es": "incendios",
+  "zh": "火焰"
+ },
+ {
+  "id": 911,
+  "en": "little plants",
+  "es": "plantitas",
+  "zh": "小植物"
+ },
+ {
+  "id": 912,
+  "en": "Little trees",
+  "es": "arbolitos",
+  "zh": "小树"
+ },
+ {
+  "id": 913,
+  "en": "satellite dishes",
+  "es": "antenas parabólicas",
+  "zh": "卫星天线"
+ },
+ {
+  "id": 914,
+  "en": "drums",
+  "es": "bidones",
+  "zh": "油桶"
+ },
+ {
+  "id": 915,
+  "en": "statues",
+  "es": "estatuas",
+  "zh": "雕像"
+ },
+ {
+  "id": 916,
+  "en": "mini cactus",
+  "es": "mini-cáctus",
+  "zh": "迷你仙人掌"
+ },
+ {
+  "id": 917,
+  "en": "machines",
+  "es": "máquinas",
+  "zh": "机器"
+ },
+ {
+  "id": 918,
+  "en": "poisonous plants",
+  "es": "plantas venenosas",
+  "zh": "毒草"
+ },
+ {
+  "id": 919,
+  "en": "Spider webs",
+  "es": "telarañas",
+  "zh": "蜘蛛网"
+ },
+ {
+  "id": 920,
+  "en": "snowmen",
+  "es": "muñecos de nieve",
+  "zh": "雪人"
+ },
+ {
+  "id": 921,
+  "en": "armor",
+  "es": "armaduras",
+  "zh": "盔甲"
+ },
+ {
+  "id": 922,
+  "en": "traffic cones",
+  "es": "conos de tráfico",
+  "zh": "交通锥"
+ },
+ {
+  "id": 923,
+  "en": "clouds",
+  "es": "nubes",
+  "zh": "云"
+ },
+ {
+  "id": 924,
+  "en": "spooky trees",
+  "es": "árboles tenebrosos",
+  "zh": "阴森的树"
+ },
+ {
+  "id": 925,
+  "en": "dragon skulls",
+  "es": "cráneos de dragón",
+  "zh": "龙头骨"
+ },
+ {
+  "id": 926,
+  "en": "trunks",
+  "es": "troncos",
+  "zh": "树干"
+ },
+ {
+  "id": 927,
+  "en": "straw houses",
+  "es": "casas de paja",
+  "zh": "草屋"
+ },
+ {
+  "id": 928,
+  "en": "platforms",
+  "es": "plataformas",
+  "zh": "平台"
+ },
+ {
+  "id": 929,
+  "en": "sources",
+  "es": "fuentes",
+  "zh": "喷泉"
+ },
+ {
+  "id": 930,
+  "en": "platforms",
+  "es": "plataformas",
+  "zh": "平台"
+ },
+ {
+  "id": 931,
+  "en": "platforms",
+  "es": "plataformas",
+  "zh": "平台"
+ },
+ {
+  "id": 932,
+  "en": "excavators",
+  "es": "excavadoras",
+  "zh": "挖掘机"
+ },
+ {
+  "id": 933,
+  "en": "oriental buildings",
+  "es": "edificios orientales",
+  "zh": "东方建筑"
+ },
+ {
+  "id": 934,
+  "en": "mounds",
+  "es": "montículos",
+  "zh": "土丘"
+ },
+ {
+  "id": 935,
+  "en": "platforms",
+  "es": "plataformas",
+  "zh": "平台"
+ },
+ {
+  "id": 936,
+  "en": "platforms",
+  "es": "plataformas",
+  "zh": "平台"
+ },
+ {
+  "id": 937,
+  "en": "platforms",
+  "es": "plataformas",
+  "zh": "平台"
+ },
+ {
+  "id": 938,
+  "en": "platforms",
+  "es": "plataformas",
+  "zh": "平台"
+ },
+ {
+  "id": 939,
+  "en": "mounds",
+  "es": "montículos",
+  "zh": "土丘"
+ },
+ {
+  "id": 940,
+  "en": "cranes",
+  "es": "grúas",
+  "zh": "起重机"
+ },
+ {
+  "id": 941,
+  "en": "nest trees",
+  "es": "árboles nido",
+  "zh": "鸟巢树"
+ },
+ {
+  "id": 942,
+  "en": "graves",
+  "es": "tumbas",
+  "zh": "坟墓"
+ },
+ {
+  "id": 943,
+  "en": "mounds",
+  "es": "montículos",
+  "zh": "土丘"
+ },
+ {
+  "id": 944,
+  "en": "platforms",
+  "es": "plataformas",
+  "zh": "平台"
+ },
+ {
+  "id": 945,
+  "en": "Final Objectives",
+  "es": "Objetivos Finales",
+  "zh": "最终目标"
+ },
+ {
+  "id": 946,
+  "en": "find red hatch",
+  "es": "Encontrar trampilla roja",
+  "zh": "找到红色活板门"
+ },
+ {
+  "id": 947,
+  "en": "Find yellow hatch",
+  "es": "Encontrar trampilla amarilla",
+  "zh": "找到黄色活板门"
+ },
+ {
+  "id": 948,
+  "en": "flee the zone",
+  "es": "Huir de la Zona",
+  "zh": "逃离区域"
+ },
+ {
+  "id": 949,
+  "en": "Defeat Final Enemy",
+  "es": "Derrotar enemigo final",
+  "zh": "打倒最终敌人"
+ },
+ {
+  "id": 950,
+  "en": "Defeat final enemies",
+  "es": "Derrotar enemigos finales",
+  "zh": "打倒最终敌人们"
+ },
+ {
+  "id": 951,
+  "en": "Win Zone One",
+  "es": "Ganar Zona Uno",
+  "zh": "赢得区域一"
+ },
+ {
+  "id": 952,
+  "en": "Win Tower Meso",
+  "es": "Ganar Torre Meso",
+  "zh": "赢得中间层塔"
+ },
+ {
+  "id": 953,
+  "en": "Win Exo Tower",
+  "es": "Ganar Torre Exo",
+  "zh": "赢得外逸层塔"
+ },
+ {
+  "id": 954,
+  "en": "kalos medals",
+  "es": "Medallas de Kalos",
+  "zh": "卡洛斯徽章"
+ },
+ {
+  "id": 955,
+  "en": "Alolan Medals",
+  "es": "Medallas de Alola",
+  "zh": "阿罗拉徽章"
+ },
+ {
+  "id": 956,
+  "en": "kalos league",
+  "es": "Liga de Kalos",
+  "zh": "卡洛斯联盟"
+ },
+ {
+  "id": 957,
+  "en": "alola league",
+  "es": "Liga de Alola",
+  "zh": "阿罗拉联盟"
+ },
+ {
+  "id": 958,
+  "en": "Find the Kalos leaders and beat them to win the medals.",
+  "es": "Encontrar a los líderes de Kalos y vencerlos para ganar las medallas.",
+  "zh": "找到卡洛斯的馆主并打倒他们，赢得徽章。"
+ },
+ {
+  "id": 959,
+  "en": "Find the leaders of Alola and beat them to win the medals.",
+  "es": "Encontrar a los líderes de Alola y vencerlos para ganar las medallas.",
+  "zh": "找到阿罗拉的馆主并打倒他们，赢得徽章。"
+ },
+ {
+  "id": 960,
+  "en": "Visit Sol Island and win the Kalos Pokémon League.",
+  "es": "Visitar Isla Sol y ganar la Liga Pokémon de Kalos.",
+  "zh": "前往太阳岛，赢得卡洛斯宝可梦联盟。"
+ },
+ {
+  "id": 961,
+  "en": "Visit Sun Island and win the Alola Pokémon League.",
+  "es": "Visitar Isla Sol y ganar la Liga Pokémon de Alola.",
+  "zh": "前往太阳岛，赢得阿罗拉宝可梦联盟。"
+ },
+ {
+  "id": 962,
+  "en": "Enter the Kalos League",
+  "es": "Entrar a la Liga Kalos",
+  "zh": "进入卡洛斯联盟"
+ },
+ {
+  "id": 963,
+  "en": "Enter the Alola League",
+  "es": "Entrar a la Liga Alola",
+  "zh": "进入阿罗拉联盟"
+ },
+ {
+  "id": 964,
+  "en": "Wild Llanos",
+  "es": "Salvajes Llanos",
+  "zh": "利亚诺斯岛的野生宝可梦"
+ },
+ {
+  "id": 965,
+  "en": "Wild Nebula",
+  "es": "Salvajes Nebulosa",
+  "zh": "星云岛的野生宝可梦"
+ },
+ {
+  "id": 966,
+  "en": "Wild Supernova",
+  "es": "Salvajes Supernova",
+  "zh": "超新星岛的野生宝可梦"
+ },
+ {
+  "id": 967,
+  "en": "Wild Spirit",
+  "es": "Salvajes Espíritu",
+  "zh": "灵魂岛的野生宝可梦"
+ },
+ {
+  "id": 968,
+  "en": "Star Earrings",
+  "es": "Pendientes Star",
+  "zh": "星之耳环"
+ },
+ {
+  "id": 969,
+  "en": "Ancient Vessels",
+  "es": "Vasijas Ancestrales",
+  "zh": "古代容器"
+ },
+ {
+  "id": 970,
+  "en": "Secret Scrolls",
+  "es": "Pergaminos Secretos",
+  "zh": "秘传卷轴"
+ },
+ {
+  "id": 971,
+  "en": "Cursed Rings",
+  "es": "Anillos Malditos",
+  "zh": "诅咒戒指"
+ },
+ {
+  "id": 972,
+  "en": "Help Prof. Birch with the study of the locations of the wild Pokémon in Llanos Island.",
+  "es": "Ayudar al Prof. Abedul con el estudio de las ubicaciones de los Pokémon salvajes en Isla Llanos.",
+  "zh": "协助小田卷博士研究利亚诺斯岛上野生宝可梦的分布。"
+ },
+ {
+  "id": 973,
+  "en": "Help Prof. Birch with the study of the locations of the wild Pokémon in Nebula Island.",
+  "es": "Ayudar al Prof. Abedul con el estudio de las ubicaciones de los Pokémon salvajes en Isla Nebulosa.",
+  "zh": "协助小田卷博士研究星云岛上野生宝可梦的分布。"
+ },
+ {
+  "id": 974,
+  "en": "Help Prof. Birch with the study of the locations of the wild Pokémon in Supernova Island.",
+  "es": "Ayudar al Prof. Abedul con el estudio de las ubicaciones de los Pokémon salvajes en Isla Supernova.",
+  "zh": "协助小田卷博士研究超新星岛上野生宝可梦的分布。"
+ },
+ {
+  "id": 975,
+  "en": "Help Prof. Birch with the study of the locations of the wild Pokémon in Spirit Island.",
+  "es": "Ayudar al Prof. Abedul con el estudio de las ubicaciones de los Pokémon salvajes en Isla Espíritu.",
+  "zh": "协助小田卷博士研究灵魂岛上野生宝可梦的分布。"
+ },
+ {
+  "id": 976,
+  "en": "Challenge posed by Llanos to find some hidden earrings.",
+  "es": "Reto planteado por Llanos para encontrar unos pendientes ocultos.",
+  "zh": "亚诺斯发出的挑战：找到一些藏起来的耳环。"
+ },
+ {
+  "id": 977,
+  "en": "Challenge posed by Nebulo to find some hidden vessels.",
+  "es": "Reto planteado por Nébulo para encontrar unas vasijas ocultas.",
+  "zh": "内布罗发出的挑战：找到一些藏起来的容器。"
+ },
+ {
+  "id": 978,
+  "en": "Challenge posed by Nova to find some hidden scrolls.",
+  "es": "Reto planteado por Nova para encontrar unos pergaminos ocultos.",
+  "zh": "诺娃发出的挑战：找到一些藏起来的卷轴。"
+ },
+ {
+  "id": 979,
+  "en": "Challenge posed by Hole to find some hidden rings.",
+  "es": "Reto planteado por Hole para encontrar unos anillos ocultos.",
+  "zh": "霍尔发出的挑战：找到一些藏起来的戒指。"
+ },
+ {
+  "id": 980,
+  "en": "Simisage, Simisear and Simipour ($par1$/3)",
+  "es": "Simisage, Simisear y Simipour ($par1$/3)",
+  "zh": "花椰猿、爆香猿和冷水猿（$par1$/3）"
+ },
+ {
+  "id": 981,
+  "en": "Nidoking and Nidoqueen ($par1$/2)",
+  "es": "Nidoking y Nidoqueen ($par1$/2)",
+  "zh": "尼多王和尼多后（$par1$/2）"
+ },
+ {
+  "id": 982,
+  "en": "Escavalier and Accelgor ($par1$/2)",
+  "es": "Escavalier y Accelgor ($par1$/2)",
+  "zh": "骑士蜗牛和敏捷虫（$par1$/2）"
+ },
+ {
+  "id": 983,
+  "en": "Barraskewda",
+  "es": "Barraskewda",
+  "zh": "戽斗尖梭"
+ },
+ {
+  "id": 984,
+  "en": "Staraptor",
+  "es": "Staraptor",
+  "zh": "姆克鹰"
+ },
+ {
+  "id": 985,
+  "en": "Scyther, Pinsir and Heracross ($par1$/3)",
+  "es": "Scyther, Pinsir y Heracross ($par1$/3)",
+  "zh": "飞天螳螂、凯罗斯和赫拉克罗斯（$par1$/3）"
+ },
+ {
+  "id": 986,
+  "en": "Kabuto",
+  "es": "Kabuto",
+  "zh": "化石盔"
+ },
+ {
+  "id": 987,
+  "en": "Bulbasaur",
+  "es": "Bulbasaur",
+  "zh": "妙蛙种子"
+ },
+ {
+  "id": 988,
+  "en": "Squirtle",
+  "es": "Squirtle",
+  "zh": "杰尼龟"
+ },
+ {
+  "id": 989,
+  "en": "Larvitar",
+  "es": "Larvitar",
+  "zh": "幼基拉斯"
+ },
+ {
+  "id": 990,
+  "en": "Feebas and Hisuian Qwilfish ($par1$/2)",
+  "es": "Feebas y Qwilfish de Hisui  ($par1$/2)",
+  "zh": "丑丑鱼和洗翠的千针鱼（$par1$/2）"
+ },
+ {
+  "id": 991,
+  "en": "Walrein",
+  "es": "Walrein",
+  "zh": "帝牙海狮"
+ },
+ {
+  "id": 992,
+  "en": "Gorebyss and Huntail ($par1$/2)",
+  "es": "Gorebyss y Huntail ($par1$/2)",
+  "zh": "樱花鱼和猎斑鱼（$par1$/2）"
+ },
+ {
+  "id": 993,
+  "en": "Alolan and Kantian Muk ($par1$/2)",
+  "es": "Muk de Alola y de Kanto ($par1$/2)",
+  "zh": "阿罗拉和关都的臭臭泥（$par1$/2）"
+ },
+ {
+  "id": 994,
+  "en": "Drakeon",
+  "es": "Drakeon",
+  "zh": "龙伊布"
+ },
+ {
+  "id": 995,
+  "en": "Tyrunt, Bagon and Dratector  ($par1$/3)",
+  "es": "Tyrunt, Bagon y Dratector  ($par1$/3)",
+  "zh": "宝宝暴龙、宝贝龙和龙守卫（$par1$/3）"
+ },
+ {
+  "id": 996,
+  "en": "Klefki",
+  "es": "Klefki",
+  "zh": "钥圈儿"
+ },
+ {
+  "id": 997,
+  "en": "Leavanny and Scolipede ($par1$/2)",
+  "es": "Leavanny y Scolipede ($par1$/2)",
+  "zh": "保姆虫和蜈蚣王（$par1$/2）"
+ },
+ {
+  "id": 998,
+  "en": "Vivillon and Ribombee ($par1$/2)",
+  "es": "Vivillon y Ribombee ($par1$/2)",
+  "zh": "彩粉蝶和蝶结萌虻（$par1$/2）"
+ },
+ {
+  "id": 999,
+  "en": "Alakazam and Gardevoir ($par1$/2)",
+  "es": "Alakazam y Gardevoir ($par1$/2)",
+  "zh": "胡地和沙奈朵（$par1$/2）"
+ },
+ {
+  "id": 1000,
+  "en": "Sharpedo",
+  "es": "Sharpedo",
+  "zh": "巨牙鲨"
+ },
+ {
+  "id": 1001,
+  "en": "Leafeon",
+  "es": "Leafeon",
+  "zh": "叶伊布"
+ },
+ {
+  "id": 1002,
+  "en": "Alolan and Kantian Raichu ($par1$/2)",
+  "es": "Raichu de Alola y de Kanto ($par1$/2)",
+  "zh": "阿罗拉和关都的雷丘（$par1$/2）"
+ },
+ {
+  "id": 1003,
+  "en": "Girafarig",
+  "es": "Girafarig",
+  "zh": "麒麟奇"
+ },
+ {
+  "id": 1004,
+  "en": "Stonjourner",
+  "es": "Stonjourner",
+  "zh": "巨石丁"
+ },
+ {
+  "id": 1005,
+  "en": "Starmie",
+  "es": "Starmie",
+  "zh": "宝石海星"
+ },
+ {
+  "id": 1006,
+  "en": "Hisuian Zoroark and Ursaluna ($par1$/2)",
+  "es": "Zoroark de Hisui y Ursaluna ($par1$/2)",
+  "zh": "洗翠的索罗亚克和月月熊（$par1$/2）"
+ },
+ {
+  "id": 1007,
+  "en": "Toucannon",
+  "es": "Toucannon",
+  "zh": "铳嘴大鸟"
+ },
+ {
+  "id": 1008,
+  "en": "Alolan and Kantian Marowak ($par1$/2)",
+  "es": "Marowak de Alola y de Kanto ($par1$/2)",
+  "zh": "阿罗拉和关都的嘎啦嘎啦（$par1$/2）"
+ },
+ {
+  "id": 1009,
+  "en": "Tauros, Miltank and Bouffalant ($par1$/3)",
+  "es": "Tauros, Miltank y Bouffalant ($par1$/3)",
+  "zh": "肯泰罗、大奶罐和爆炸头水牛（$par1$/3）"
+ },
+ {
+  "id": 1010,
+  "en": "Lucario",
+  "es": "Lucario",
+  "zh": "路卡利欧"
+ },
+ {
+  "id": 1011,
+  "en": "Duneon",
+  "es": "Duneon",
+  "zh": "沙伊布"
+ },
+ {
+  "id": 1012,
+  "en": "Hatterene",
+  "es": "Hatterene",
+  "zh": "布莉姆温"
+ },
+ {
+  "id": 1013,
+  "en": "Betearow, Harfetch'd and Chartfortt ($par1$/3)",
+  "es": "Betearow, Harfetch'd y Chartfortt ($par1$/3)",
+  "zh": "暗嘴雀、天葱鸭和和弦鸟（$par1$/3）"
+ },
+ {
+  "id": 1014,
+  "en": "Charmander",
+  "es": "Charmander",
+  "zh": "小火龙"
+ },
+ {
+  "id": 1015,
+  "en": "Volcarona and Dark Tyranitar ($par1$/2)",
+  "es": "Volcarona y Dark Tyranitar ($par1$/2)",
+  "zh": "火神蛾和暗黑班基拉斯（$par1$/2）"
+ },
+ {
+  "id": 1016,
+  "en": "Find Earrings ($par1$/$par2$)",
+  "es": "Encontrar Pendientes ($par1$/$par2$)",
+  "zh": "寻找耳环（$par1$/$par2$）"
+ },
+ {
+  "id": 1017,
+  "en": "Defeat Llanos",
+  "es": "Derrotar a Llanos",
+  "zh": "打倒亚诺斯"
+ },
+ {
+  "id": 1018,
+  "en": "Find Vessels ($par1$/$par2$)",
+  "es": "Encontrar Vasijas ($par1$/$par2$)",
+  "zh": "寻找容器（$par1$/$par2$）"
+ },
+ {
+  "id": 1019,
+  "en": "Defeat Nebulo",
+  "es": "Derrotar a Nébulo",
+  "zh": "打倒内布罗"
+ },
+ {
+  "id": 1020,
+  "en": "Find Scrolls ($par1$/$par2$)",
+  "es": "Encontrar Pergaminos ($par1$/$par2$)",
+  "zh": "寻找卷轴（$par1$/$par2$）"
+ },
+ {
+  "id": 1021,
+  "en": "Defeat Supernova",
+  "es": "Derrotar a Supernova",
+  "zh": "打倒诺娃"
+ },
+ {
+  "id": 1022,
+  "en": "Find Rings ($par1$/$par2$)",
+  "es": "Encontrar Anillos ($par1$/$par2$)",
+  "zh": "寻找戒指（$par1$/$par2$）"
+ },
+ {
+  "id": 1023,
+  "en": "Defeat Hole",
+  "es": "Derrotar a Hole",
+  "zh": "打倒霍尔"
+ },
+ {
+  "id": 1024,
+  "en": "The Pokédex now includes Llanos Island locations.",
+  "es": "Ahora la Pokédex incluye las ubicaciones de Isla Llanos.",
+  "zh": "现在宝可梦图鉴里收录了利亚诺斯岛的出没地点。"
+ },
+ {
+  "id": 1025,
+  "en": "The Pokédex now includes Nebula Island locations.",
+  "es": "Ahora la Pokédex incluye las ubicaciones de Isla Nebulosa.",
+  "zh": "现在宝可梦图鉴里收录了星云岛的出没地点。"
+ },
+ {
+  "id": 1026,
+  "en": "The Pokédex now includes Supernova Island locations.",
+  "es": "Ahora la Pokédex incluye las ubicaciones de Isla Supernova.",
+  "zh": "现在宝可梦图鉴里收录了超新星岛的出没地点。"
+ },
+ {
+  "id": 1027,
+  "en": "The Pokédex now includes Spirit Island locations.",
+  "es": "Ahora la Pokédex incluye las ubicaciones de Isla Espíritu.",
+  "zh": "现在宝可梦图鉴里收录了灵魂岛的出没地点。"
+ },
+ {
+  "id": 1028,
+  "en": "Llanos has revealed secrets about the Island.",
+  "es": "Llanos ha desvelado secretos sobre la Isla.",
+  "zh": "亚诺斯透露了关于这座岛的秘密。"
+ },
+ {
+  "id": 1029,
+  "en": "Nebulo has revealed secrets about the Island.",
+  "es": "Nébulo ha desvelado secretos sobre la Isla.",
+  "zh": "内布罗透露了关于这座岛的秘密。"
+ },
+ {
+  "id": 1030,
+  "en": "Supernova has revealed secrets about the Island.",
+  "es": "Supernova ha desvelado secretos sobre la Isla.",
+  "zh": "诺娃透露了关于这座岛的秘密。"
+ },
+ {
+  "id": 1031,
+  "en": "Hole has revealed secrets about the Island.",
+  "es": "Hole ha desvelado secretos sobre la Isla.",
+  "zh": "霍尔透露了关于这座岛的秘密。"
+ },
+ {
+  "id": 1032,
+  "en": "Magnetar Meeting",
+  "es": "Reunión Magnétar",
+  "zh": "磁星会面"
+ },
+ {
+  "id": 1033,
+  "en": "Skull Earthquake",
+  "es": "Seísmo Skull",
+  "zh": "骷髅队地震"
+ },
+ {
+  "id": 1034,
+  "en": "Andromeda Invasion",
+  "es": "Invasión Andrómeda",
+  "zh": "仙女入侵"
+ },
+ {
+  "id": 1035,
+  "en": "Nova wants to reveal something to us in the Magnetar Field.",
+  "es": "Nova nos quiere desvelar algo en Campo Magnétar.",
+  "zh": "诺娃想在磁星原野向我们揭示一些事情。"
+ },
+ {
+  "id": 1036,
+  "en": "Professor Kukui believes that Team Skull is up to something in Quake Swamp.",
+  "es": "El profesor Kukui cree que el Team Skull trama algo en el Pantano Seísmo.",
+  "zh": "库库伊博士认为骷髅队在地震沼泽图谋着什么。"
+ },
+ {
+  "id": 1037,
+  "en": "Astrid's visions lead us to the Andromeda Ruins.",
+  "es": "Las visiones de Ástrid nos llevan a las Ruinas Andrómeda.",
+  "zh": "葛吉花的幻象把我们引向了仙女遗迹。"
+ },
+ {
+  "id": 1038,
+  "en": "Find Nova at Lake Quasar",
+  "es": "Encontrar a Nova en el Lago Quasar",
+  "zh": "在类星体湖找到诺娃"
+ },
+ {
+  "id": 1039,
+  "en": "Meet Morpheus",
+  "es": "Encuentro con Morfeo",
+  "zh": "遇见莫菲斯"
+ },
+ {
+  "id": 1040,
+  "en": "Meet at Field Magnetar",
+  "es": "Reunión en Campo Magnétar",
+  "zh": "在磁星原野会合"
+ },
+ {
+  "id": 1041,
+  "en": "Capture a Xurkitree",
+  "es": "Capturar un Xurkitree",
+  "zh": "捕获一只电束木"
+ },
+ {
+  "id": 1042,
+  "en": "Enter Quake Swamp",
+  "es": "Acceso al Pantano Seísmo",
+  "zh": "进入地震沼泽"
+ },
+ {
+  "id": 1043,
+  "en": "Talk to Kukui",
+  "es": "Hablar con Kukui",
+  "zh": "和库库伊交谈"
+ },
+ {
+  "id": 1044,
+  "en": "Defeat Team Skull ($par1$/4)",
+  "es": "Derrotar al Team Skull ($par1$/4)",
+  "zh": "打倒骷髅队（$par1$/4）"
+ },
+ {
+  "id": 1045,
+  "en": "Defeat the Ultra Beasts ($par1$/6)",
+  "es": "Vence a los Ultraentes ($par1$/6)",
+  "zh": "打倒究极异兽（$par1$/6）"
+ },
+ {
+  "id": 1046,
+  "en": "Defeat the final Ultra Beast",
+  "es": "Vence al Ultraente final",
+  "zh": "打倒最后的究极异兽"
+ },
+ {
+  "id": 1047,
+  "en": "Capture a Poipole",
+  "es": "Capturar un Poipole",
+  "zh": "捕获一只毒贝比"
+ },
+ {
+  "id": 1048,
+  "en": "Enter Andromeda Route",
+  "es": "Acceso a Ruta Andrómeda",
+  "zh": "进入仙女道路"
+ },
+ {
+  "id": 1049,
+  "en": "Enter Andromeda Ruins",
+  "es": "Acceso a Ruinas Andrómeda",
+  "zh": "进入仙女遗迹"
+ },
+ {
+  "id": 1050,
+  "en": "Talk to Astrid",
+  "es": "Hablar con Astrid",
+  "zh": "和葛吉花交谈"
+ },
+ {
+  "id": 1051,
+  "en": "Activate defense devices ($par1$/16)",
+  "es": "Activar dispositivos de defensa ($par1$/16)",
+  "zh": "启动防御装置（$par1$/16）"
+ },
+ {
+  "id": 1052,
+  "en": "Defeat the Ultra Beasts ($par1$/6)",
+  "es": "Vence a los Ultraentes ($par1$/6)",
+  "zh": "打倒究极异兽（$par1$/6）"
+ },
+ {
+  "id": 1053,
+  "en": "Capture a Celesteela",
+  "es": "Capturar un Celesteela",
+  "zh": "捕获一只铁火辉夜"
+ },
+ {
+  "id": 1054,
+  "en": "Nova has revealed secrets about the Comet Islands.",
+  "es": "Nova nos ha desvelado secretos sobre las Islas Cometa.",
+  "zh": "诺娃向我们透露了关于彗星群岛的秘密。"
+ },
+ {
+  "id": 1055,
+  "en": "The Quake Swamp conflict has been resolved.",
+  "es": "El conflicto del Pantano Seísmo se ha resuelto.",
+  "zh": "地震沼泽的冲突已经解决。"
+ },
+ {
+  "id": 1056,
+  "en": "The invasion of the Andromeda Ruins has ended.",
+  "es": "La invasión de las Ruinas Andrómeda ha concluido.",
+  "zh": "仙女遗迹的入侵已经结束。"
+ },
+ {
+  "id": 1057,
+  "en": "Flare Llanos",
+  "es": "Flare Llanos",
+  "zh": "利亚诺斯的闪焰队"
+ },
+ {
+  "id": 1058,
+  "en": "Team Flare has become dangerous on Llanos Island.",
+  "es": "El Team Flare se ha vuelto peligroso en Isla Llanos.",
+  "zh": "闪焰队在利亚诺斯岛变得危险起来。"
+ },
+ {
+  "id": 1059,
+  "en": "Enter Llanos Valley",
+  "es": "Acceder al Valle Llanos",
+  "zh": "进入利亚诺斯山谷"
+ },
+ {
+  "id": 1060,
+  "en": "Talk to Llanos",
+  "es": "Hablar con Llanos",
+  "zh": "和亚诺斯交谈"
+ },
+ {
+  "id": 1061,
+  "en": "Rescue Xerneas",
+  "es": "Rescatar a Xerneas",
+  "zh": "营救哲尔尼亚斯"
+ },
+ {
+  "id": 1062,
+  "en": "Defeat Team Flare Recruits",
+  "es": "Derrotar reclutas del Team Flare",
+  "zh": "打倒闪焰队手下"
+ },
+ {
+  "id": 1063,
+  "en": "Defeat Lysson",
+  "es": "Detener a Lysson",
+  "zh": "阻止弗拉达利"
+ },
+ {
+  "id": 1064,
+  "en": "Find Xerneas",
+  "es": "Encontrar a Xerneas",
+  "zh": "找到哲尔尼亚斯"
+ },
+ {
+  "id": 1065,
+  "en": "Capture Xerneas",
+  "es": "Capturar a Xerneas",
+  "zh": "捕获哲尔尼亚斯"
+ },
+ {
+  "id": 1066,
+  "en": "Find Yveltal",
+  "es": "Encontrar a Yveltal",
+  "zh": "找到伊裴尔塔尔"
+ },
+ {
+  "id": 1067,
+  "en": "Capture Yveltal",
+  "es": "Capturar a Yveltal",
+  "zh": "捕获伊裴尔塔尔"
+ },
+ {
+  "id": 1068,
+  "en": "Team Flare has been defeated.",
+  "es": "El Team Flare ha sido derrotado.",
+  "zh": "闪焰队已被击败。"
+ },
+ {
+  "id": 1069,
+  "en": "Lunar Crown",
+  "es": "Corona Lunar",
+  "zh": "月之冠"
+ },
+ {
+  "id": 1070,
+  "en": "Team Skull is trying to catch Lunala.",
+  "es": "El Team Skull está intentando atrapar a Lunala.",
+  "zh": "骷髅队正试图捕获露奈雅拉。"
+ },
+ {
+  "id": 1071,
+  "en": "Team Skull has been defeated.",
+  "es": "El Team Skull ha sido derrotado.",
+  "zh": "骷髅队已被击败。"
+ },
+ {
+  "id": 1072,
+  "en": "Enter Elemental Cave",
+  "es": "Acceder a Cueva Elemental",
+  "zh": "进入元素洞窟"
+ },
+ {
+  "id": 1073,
+  "en": "Find Lunala",
+  "es": "Encontrar a Lunala",
+  "zh": "找到露奈雅拉"
+ },
+ {
+  "id": 1074,
+  "en": "Defeat Guzman",
+  "es": "Detener a Guzmán",
+  "zh": "阻止古兹马"
+ },
+ {
+  "id": 1075,
+  "en": "Capture Lunala",
+  "es": "Capturar a Lunala",
+  "zh": "捕获露奈雅拉"
+ },
+ {
+  "id": 1076,
+  "en": "Defeat leaders ($par1$/$par2$)",
+  "es": "Vencer a líderes ($par1$/$par2$)",
+  "zh": "打倒馆主（$par1$/$par2$）"
+ },
+ {
+  "id": 1077,
+  "en": "Extra Earrings ($par1$/$par2$)",
+  "es": "Pendientes extra ($par1$/$par2$)",
+  "zh": "额外的耳环（$par1$/$par2$）"
+ },
+ {
+  "id": 1078,
+  "en": "Extra Vessels ($par1$/$par2$)",
+  "es": "Vasijas extra ($par1$/$par2$)",
+  "zh": "额外的容器（$par1$/$par2$）"
+ },
+ {
+  "id": 1079,
+  "en": "Extra Scrolls ($par1$/$par2$)",
+  "es": "Pergaminos extra ($par1$/$par2$)",
+  "zh": "额外的卷轴（$par1$/$par2$）"
+ },
+ {
+  "id": 1080,
+  "en": "Extra Rings ($par1$/$par2$)",
+  "es": "Anillos extra ($par1$/$par2$)",
+  "zh": "额外的戒指（$par1$/$par2$）"
+ },
+ {
+  "id": 1081,
+  "en": "Scrutiny",
+  "es": "Escrutinio",
+  "zh": "审查"
+ },
+ {
+  "id": 1082,
+  "en": "Encuentros espirituales",
+  "es": "Encuentros espirituales",
+  "zh": "灵魂的邂逅"
+ },
+ {
+  "id": 1083,
+  "en": "Access Passimian Temple",
+  "es": "Acceder al Templo Passimian",
+  "zh": "进入投掷猴神殿"
+ },
+ {
+  "id": 1084,
+  "en": "Access Wailord Temple",
+  "es": "Acceder al Templo Wailord",
+  "zh": "进入吼鲸王神殿"
+ },
+ {
+  "id": 1085,
+  "en": "Access Sigilyph Temple",
+  "es": "Acceder al Templo Sigilyph",
+  "zh": "进入象征鸟神殿"
+ },
+ {
+  "id": 1086,
+  "en": "Access Ariados Temple",
+  "es": "Acceder al Templo Ariados",
+  "zh": "进入阿利多斯神殿"
+ },
+ {
+  "id": 1087,
+  "en": "Aether Research",
+  "es": "Investigación Aether",
+  "zh": "以太研究"
+ },
+ {
+  "id": 1088,
+  "en": "Gravitational Attraction",
+  "es": "Atracción Gravitacional",
+  "zh": "引力的吸引"
+ },
+ {
+  "id": 1089,
+  "en": "The Aether Foundation must be kept under close surveillance.",
+  "es": "Hay que vigilar de cerca la Fundación Aether.",
+  "zh": "必须密切监视以太基金会。"
+ },
+ {
+  "id": 1090,
+  "en": "Investigate anomalies in the Withered Forest.",
+  "es": "Investigar unas anomalías en el Bosque Marchito.",
+  "zh": "调查枯萎森林里的一些异常现象。"
+ },
+ {
+  "id": 1091,
+  "en": "The Aether Foundation is under control.",
+  "es": "La Fundación Aether está bajo control.",
+  "zh": "以太基金会已在掌控之中。"
+ },
+ {
+  "id": 1092,
+  "en": "The Withered Forest has returned to normal.",
+  "es": "El Bosque Marchito ha vuelto a la normalidad.",
+  "zh": "枯萎森林已恢复正常。"
+ },
+ {
+  "id": 1093,
+  "en": "Solar Crown",
+  "es": "Corona Solar",
+  "zh": "太阳之冠"
+ },
+ {
+  "id": 1094,
+  "en": "Confirm if Solgaleo is safe.",
+  "es": "Confirmar si Solgaleo está a salvo.",
+  "zh": "确认索尔迦雷欧是否安全。"
+ },
+ {
+  "id": 1095,
+  "en": "Solgaleo is now safe.",
+  "es": "Solgaleo está a salvo ahora.",
+  "zh": "索尔迦雷欧现在安全了。"
+ },
+ {
+  "id": 1096,
+  "en": "Find Fer in Aether Paradise",
+  "es": "Buscar a Fer en el Paraíso Aether",
+  "zh": "在以太乐园找到菲尔"
+ },
+ {
+  "id": 1097,
+  "en": "Meet Samina",
+  "es": "Reunión con Samina",
+  "zh": "会见露莎米奈"
+ },
+ {
+  "id": 1098,
+  "en": "Visit Aether Lab",
+  "es": "Visitar Laboratorio Aether",
+  "zh": "前往以太研究所"
+ },
+ {
+  "id": 1099,
+  "en": "Capture Blacephalon",
+  "es": "Capturar a Blacephalon",
+  "zh": "捕获砰头小丑"
+ },
+ {
+  "id": 1100,
+  "en": "Defeat Lylia",
+  "es": "Vencer a Lylia",
+  "zh": "打倒莉莉艾"
+ },
+ {
+  "id": 1101,
+  "en": "Stop Fabio",
+  "es": "Detener a Fabio",
+  "zh": "阻止扎奥博"
+ },
+ {
+  "id": 1102,
+  "en": "Visit the Withered Forest",
+  "es": "Visitar Bosque Marchito",
+  "zh": "前往枯萎森林"
+ },
+ {
+  "id": 1103,
+  "en": "Talk to Hole",
+  "es": "Hablar con Hole",
+  "zh": "和霍尔交谈"
+ },
+ {
+  "id": 1104,
+  "en": "Defeat 4 Guzzlord",
+  "es": "Explorar Bosque Marchito",
+  "zh": "探索枯萎森林"
+ },
+ {
+  "id": 1105,
+  "en": "Close interdimensional portals",
+  "es": "Derrotar Guzzlord ($par1$/6)",
+  "zh": "打倒恶食大王（$par1$/6）"
+ },
+ {
+  "id": 1106,
+  "en": "Find Gladio",
+  "es": "Encontrar a Gladio",
+  "zh": "找到格拉吉欧"
+ },
+ {
+  "id": 1107,
+  "en": "Find Samina",
+  "es": "Encontrar a Samina",
+  "zh": "找到露莎米奈"
+ },
+ {
+  "id": 1108,
+  "en": "Defeat Gladio",
+  "es": "Vencer a Gladio",
+  "zh": "打倒格拉吉欧"
+ },
+ {
+  "id": 1109,
+  "en": "Defeat Samina",
+  "es": "Vencer a Samina",
+  "zh": "打倒露莎米奈"
+ },
+ {
+  "id": 1110,
+  "en": "Find Solgaleo",
+  "es": "Encontrar a Solgaleo",
+  "zh": "找到索尔迦雷欧"
+ },
+ {
+  "id": 1111,
+  "en": "Capture Solgaleo",
+  "es": "Capturar a Solgaleo",
+  "zh": "捕获索尔迦雷欧"
+ },
+ {
+  "id": 1112,
+  "en": "Capture Guzzlord",
+  "es": "Capturar a Guzzlord",
+  "zh": "捕获恶食大王"
+ },
+ {
+  "id": 1113,
+  "en": "Prism Pokémon",
+  "es": "Pokémon Prisma",
+  "zh": "棱镜宝可梦"
+ },
+ {
+  "id": 1114,
+  "en": "Find out what Necrozma is up to.",
+  "es": "Averiguar que es lo que Necrozma está tramando.",
+  "zh": "查明奈克洛兹玛在图谋什么。"
+ },
+ {
+  "id": 1115,
+  "en": "Visit Soul Island",
+  "es": "Visitar Isla Alma",
+  "zh": "前往魂之岛"
+ },
+ {
+  "id": 1116,
+  "en": "Find Necrozma",
+  "es": "Encontrar a Necrozma",
+  "zh": "找到奈克洛兹玛"
+ },
+ {
+  "id": 1117,
+  "en": "Defeat Necrozma",
+  "es": "Vencer a Necrozma",
+  "zh": "打倒奈克洛兹玛"
+ },
+ {
+  "id": 1118,
+  "en": "Capture Necrozma",
+  "es": "Capturar a Necrozma",
+  "zh": "捕获奈克洛兹玛"
+ },
+ {
+  "id": 1119,
+  "en": "Necrozma has been defeated.",
+  "es": "Necrozma ha sido derrotado.",
+  "zh": "奈克洛兹玛已被击败。"
+ }
+]
