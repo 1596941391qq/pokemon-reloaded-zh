@@ -60,8 +60,18 @@ DBCS_RUN = re.compile(r'(?<=[⺀-鿿＀-￯　-〿—…“”‘’·])'
                       r'(?=[⺀-鿿＀-￯　-〿—…“”‘’·])')
 
 
+# 断行禁则：标点不放行首（前面不插空格），开引号/开括号不留行尾（后面不插空格）
+NO_BREAK_BEFORE = set('，。！？、；：）」』”’》〉】…—～·')
+NO_BREAK_AFTER = set('（「『“‘《〈【')
+
+
 def space_cjk(s):
-    return DBCS_RUN.sub(' ', s)
+    out = []
+    for i, ch in enumerate(s):
+        if i and DBCS_RUN.match(s, i) and ch not in NO_BREAK_BEFORE and s[i - 1] not in NO_BREAK_AFTER:
+            out.append(' ')
+        out.append(ch)
+    return ''.join(out)
 
 
 def load_translations():

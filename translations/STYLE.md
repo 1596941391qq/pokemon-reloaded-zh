@@ -42,6 +42,8 @@ python3 -I tools/check_part.py work/parts/<你的文件>.json <源文件名，�
 - 道具常用：超级环（Mega Ring）、超级手镯（Mega Bracelet）、Ｚ纯晶、银色王冠/金色王冠、奈克洛索尔合体器/奈克洛露奈合体器
 - 人物：一律以 `translations/txt_character.json` 为准（已对照神奇宝贝百科核对过官方角色）。**注意：这个游戏的英文栏常常直接用西语名**（如 Lem=希特隆、Corelia=可尔妮、Dianta=卡露妮、Mento=一树），按英文和西语两栏都去人物表里找。官方角色举例：琴音（Lyra）、阿响（Ethan/Gold）、满充（Wally）、阿驯（Barry）、黑连（Cheren）、白露（Bianca）、山梨博士（Rowan）、布拉塔诺博士（Sycamore）、帅哥（Looker）。
 
+- 其他地区补充（52poke 核对）：映雪市（Snowbelle City）、精炼之塔（Tower of Mastery）、究极之洞（Ultra Wormhole）、辉克拉尼天文台（Hokulani Observatory）、莫恩（Mohn）、成也·大木（Samson Oak）、惩戒之壶（Prison Bottle）
+
 ## 剧情里反复出现的自译名（已定，照用）
 
 | 原文（英 / 西） | 译名 |
