@@ -111,6 +111,22 @@ def charset_from_texts(texts):
     return sorted(s, key=lambda c: c.encode('gbk'))
 
 
+def gb2312_text(bdf: BDF):
+    """GB2312 全部双字节字符里字体有字形的（6763 个汉字和全角符号）。
+    玩家起名、给宝可梦起昵称会打出译文里没有的字，图集要备齐。
+    只取两个字节都 >=0xA1 的区，不会和西文重音字母后面跟 ASCII 的组合撞码。"""
+    out = []
+    for hi in range(0xA1, 0xF8):
+        for lo in range(0xA1, 0xFF):
+            try:
+                ch = bytes([hi, lo]).decode('gbk')  # 按游戏实际用的 GBK 解，比如 A1AA 是 —（U+2014）
+            except UnicodeDecodeError:
+                continue
+            if ord(ch) in bdf.glyphs:
+                out.append(ch)
+    return ''.join(out)
+
+
 def risky_chars(chars):
     """第二字节落在 ASCII 区的字（可能撞上 @ \\ 等控制符），需要人工确认。"""
     out = []

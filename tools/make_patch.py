@@ -123,7 +123,43 @@ def zh_lines(game_text_dir, translations):
     return out, texts, stats
 
 
-def patch_exe(exe_bytes, chars):
+class PatchError(Exception):
+    """给玩家看的出错说明（不打印堆栈）。"""
+
+
+def load_fonts():
+    b12 = zhfont.BDF(os.path.join(ROOT, 'fonts', 'fusion-pixel-12px-proportional-zh_hans.bdf'))
+    b10 = zhfont.BDF(os.path.join(ROOT, 'fonts', 'fusion-pixel-10px-proportional-zh_hans.bdf'))
+    return b12, b10
+
+
+def write_exe(path, data):
+    """先写临时文件再替换，写完读回来核对。失败时原 exe 不动。"""
+    name = os.path.basename(path)
+    tmp = path + '.zh-new'
+    try:
+        with open(tmp, 'wb') as f:
+            f.write(data)
+        os.replace(tmp, path)
+    except OSError as e:
+        try:
+            os.remove(tmp)
+        except OSError:
+            pass
+        raise PatchError(
+            f'没能改写游戏程序 {name}（{e.strerror or e}）。\n'
+            '常见原因：游戏还开着，或者被杀毒软件（360、火绒、Windows 安全中心等）拦了。\n'
+            '请关掉游戏，在杀毒软件里允许本补丁（或把游戏文件夹加入信任），再运行一次补丁。\n'
+            '这次没有改动游戏，游戏还是原样。')
+    with open(path, 'rb') as f:
+        ok = f.read() == data
+    if not ok:
+        raise PatchError(
+            f'游戏程序 {name} 写进去以后又被改掉了，多半是杀毒软件拦截。\n'
+            '请在杀毒软件里允许本补丁（或把游戏文件夹加入信任），再运行一次补丁。')
+
+
+def patch_exe(exe_bytes, chars, fonts):
     t = time.time()
     g = gm.GM80(exe_bytes)
     print(f'  解密 {len(g.data)} 字节 ({time.time() - t:.1f}s)')
@@ -131,8 +167,7 @@ def patch_exe(exe_bytes, chars):
     d = g.data
 
     # 图集
-    b12 = zhfont.BDF(os.path.join(ROOT, 'fonts', 'fusion-pixel-12px-proportional-zh_hans.bdf'))
-    b10 = zhfont.BDF(os.path.join(ROOT, 'fonts', 'fusion-pixel-10px-proportional-zh_hans.bdf'))
+    b12, b10 = fonts
     cols = 64
     w12, h12, px12, miss12 = zhfont.build_atlas(b12, chars, 12, 16, cols)
     w10, h10, px10, miss10 = zhfont.build_atlas(b10, chars, 10, 14, cols, fallback=(b12, 12, 16))
@@ -212,11 +247,17 @@ def build(game_dir, out_dir, exe_path=None):
     for k, (a, b) in sorted(stats.items()):
         if a:
             print(f'  {k}: {a}/{b}')
-    extra = [LANG_LINE, '招式记录', '，。！？…—“”‘’：；（）·、《》～']
+    fonts = load_fonts()
+    extra = [LANG_LINE, '招式记录', '，。！？…—“”‘’：；（）·、《》～', zhfont.gb2312_text(fonts[0])]
     chars = zhfont.charset_from_texts(texts + extra)
     risky = zhfont.risky_chars(chars)
     if risky:
         print('  ! 第二字节在 ASCII 区的字（需确认）:', ''.join(risky))
+    # 先改好 exe 再动文本：exe 写不进去（游戏开着、杀毒拦截）时什么都不改，
+    # 免得落到「语言已经切成中文、exe 还是原版」——那样满屏汉字都显示不出来
+    out = patch_exe(open(exe_path, 'rb').read(), chars, fonts)
+    os.makedirs(out_dir, exist_ok=True)
+    write_exe(os.path.join(out_dir, exe_name), out)
     # 写文本
     zh_dir = os.path.join(out_dir, 'data', 'text', 'zh')
     os.makedirs(zh_dir, exist_ok=True)
@@ -237,10 +278,6 @@ def build(game_dir, out_dir, exe_path=None):
         f.write(b'\r\n'.join(lan))
     with open(os.path.join(out_dir, 'data', 'text', 'config.ini'), 'wb') as f:
         f.write((' %d' % (len(lan) - 1)).encode())  # 默认选中文
-    # 改 exe
-    out = patch_exe(open(exe_path, 'rb').read(), chars)
-    with open(os.path.join(out_dir, exe_name), 'wb') as f:
-        f.write(out)
     print('输出:', out_dir)
 
 

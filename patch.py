@@ -40,9 +40,25 @@ def is_game_dir(d):
     return os.path.isdir(os.path.join(d, 'data', 'text', 'en'))
 
 
+def is_patcher(name):
+    n = name.lower()
+    return n == SELF or '补丁' in name or 'zh-patch' in n
+
+
 def game_exes(d):
-    """游戏文件夹里的 exe（不算补丁自己）。"""
-    return [f for f in os.listdir(d) if f.lower().endswith('.exe') and f.lower() != SELF and '补丁' not in f]
+    """游戏文件夹里的 exe（不算补丁自己，也不算重复下载的补丁，比如「…-zh-patch (1).exe」）。"""
+    return [f for f in os.listdir(d) if f.lower().endswith('.exe') and not is_patcher(f)]
+
+
+def check_writable(path):
+    """游戏开着时 exe 被锁住写不了，先查出来，别打到一半才失败。"""
+    try:
+        with open(path, 'r+b'):
+            pass
+    except OSError as e:
+        sys.exit(f'改不了游戏程序 {os.path.basename(path)}（{e.strerror or e}）。\n'
+                 '请先关掉游戏；如果游戏已经关了，多半是杀毒软件（360、火绒等）拦了，'
+                 '请允许本补丁或把游戏文件夹加入信任，再运行一次。')
 
 
 def main():
@@ -63,6 +79,7 @@ def main():
     if len(exes) != 1:
         sys.exit(f'游戏文件夹里应该只有一个 .exe，现在是: {exes}')
     exe = exes[0]
+    check_writable(os.path.join(game, exe))
     bdir = os.path.join(game, BACKUP)
     os.makedirs(bdir, exist_ok=True)
     src_exe = os.path.join(bdir, exe)
@@ -87,7 +104,7 @@ def main():
     if os.path.exists(lan_bak):
         shutil.copy2(lan_bak, os.path.join(game, 'data', 'text', 'lan.txt'))
     make_patch.build(game, game, exe_path=src_exe)
-    print('\n完成！直接运行游戏即可，默认就是简体中文；也可以在游戏的语言选项里切换。')
+    print('\n完成！已确认游戏程序换成了中文版。直接运行游戏即可，默认就是简体中文；也可以在游戏的语言选项里切换。')
 
 
 if __name__ == '__main__':
@@ -96,6 +113,8 @@ if __name__ == '__main__':
     except SystemExit as e:
         if e.code not in (None, 0):
             print(e.code if isinstance(e.code, str) else '已取消。')
+    except make_patch.PatchError as e:
+        print('\n' + str(e))
     except Exception as e:  # 打包版要把错误留在窗口里给玩家看
         import traceback
         traceback.print_exc()
