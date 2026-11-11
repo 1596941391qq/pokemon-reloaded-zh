@@ -96,7 +96,11 @@ def zh_lines(game_text_dir, translations):
             if r.get('zh') and r.get('en'):
                 by_en.setdefault(r['en'], set()).add(r['zh'])
         lines, done = [], 0
+        keep = KEEP_ORIGINAL.get(name, set())
         for i, enc in enumerate(en_lines, 1):
+            if i in keep:
+                lines.append(enc)
+                continue
             row = tr.get(i)
             zh = row.get('zh', '') if row else ''
             cur = rtext.decode_line(enc)
@@ -121,6 +125,39 @@ def zh_lines(game_text_dir, translations):
         out[name] = lines
         stats[name] = (done, len(en_lines))
     return out, texts, stats
+
+
+# 游戏的反篡改自检（都在原版脚本里）：
+#   1. sumando：每进一个房间，随机抽 5093 起的一段 150 个脚本（共 36 段，覆盖到 10493），
+#      只要有脚本源码里换行超过 1 个（Jmp 除外），就把 1~99 号存档全写成空行（存档损坏）。
+#   2. CheckEventosCalls / ExpGana：script_exists(1271*8)，即 10168 号脚本存在（原版最后一个是 10167）就给存档打标记。
+# 所以新增脚本放进 5093 以下的空位（原版 0~5092 全空），并压成一行；脚本总数不变。
+ZH_SLOT_BASE = 4000
+TAMPER_NL_EXEMPT = {8163}  # Jmp，源码就是一个换行
+# txt_cartel 445~451 是反作弊特征串（游戏拿它们去搜脚本源码），不是给玩家看的，保持原文
+KEEP_ORIGINAL = {'txt_cartel': set(range(445, 452))}
+
+
+def one_line(src):
+    """GML 去掉 // 注释、压成一行（不能有换行，见上面的自检 1）。"""
+    out = []
+    for line in src.splitlines():
+        if '//' in line:
+            assert line.count('"', 0, line.index('//')) % 2 == 0, line  # 注释不在字符串里
+            line = line[:line.index('//')]
+        line = line.strip()
+        if line:
+            out.append(line)
+    return ' '.join(out)
+
+
+def check_anti_tamper(scripts, n_slots):
+    assert len(scripts) == n_slots, '脚本总数变了（会触发 10168 号脚本检查）'
+    for i, b in enumerate(scripts):
+        sc = gm.parse_script(b)
+        nl = sc[1].count(b'\n') if sc else 0
+        if nl > 1 and i not in TAMPER_NL_EXEMPT:
+            raise AssertionError(f'脚本 {i} {sc[0]!r} 有 {nl} 个换行，会触发存档清空自检')
 
 
 class PatchError(Exception):
@@ -214,12 +251,16 @@ def patch_exe(exe_bytes, chars, fonts):
         nm = os.path.basename(path)[:-4]
         src = open(path, encoding='utf-8').read()
         src = src.replace('{{COLS12}}', str(cols)).replace('{{COLS10}}', str(cols))
-        added.append((nm.encode(), src.encode('gbk')))
+        added.append((nm.encode(), one_line(src).encode('gbk')))
     added.append((b'zh_chars', b'return "' + charlist + b'";'))
-    for nm, src in added:
+    n_slots = len(scripts)
+    for k, (nm, src) in enumerate(added):
         assert nm not in names, nm
-        scripts.append(gm.script_blob(nm, src))
-    print(f'  改了 {n_changed} 个脚本，新增 {len(added)} 个脚本、2 张图集')
+        slot = ZH_SLOT_BASE + k
+        assert gm.parse_script(scripts[slot]) is None, f'脚本空位 {slot} 被占了'
+        scripts[slot] = gm.script_blob(nm, src)
+    check_anti_tamper(scripts, n_slots)
+    print(f'  改了 {n_changed} 个脚本，新增 {len(added)} 个脚本（放在空位 {ZH_SLOT_BASE} 起）、2 张图集')
 
     # 拼回去：backgrounds 在 scripts 前面，按偏移从后往前替换
     bs, be = secs['backgrounds']
