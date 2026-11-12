@@ -83,6 +83,22 @@ def load_translations():
     return files
 
 
+PAR_RE = re.compile(r'\$par\d\$')
+
+
+def check_placeholders(translations):
+    """译文的 $parN$ 必须和西语原文一致。游戏按西语排行号，英文版有几段自己错了位
+    （比如 txt_dialog 10842/10843 英文对调了），照英文翻就会整句放错地方。"""
+    bad = []
+    for name, rows in translations.items():
+        for i, r in rows.items():
+            zh, es = r.get('zh'), r.get('es')
+            if zh and es is not None and set(PAR_RE.findall(zh)) != set(PAR_RE.findall(es)):
+                bad.append(f'{name}:{i}')
+    if bad:
+        raise AssertionError('译文和西语原文的 $parN$ 对不上（多半是错行）: ' + ', '.join(bad))
+
+
 def zh_lines(game_text_dir, translations):
     """返回 {文件名: [密文行]} 和所有中文文本（用于收集字符）。"""
     out, texts = {}, []
@@ -282,6 +298,7 @@ def build(game_dir, out_dir, exe_path=None):
     exe_name = os.path.basename(exe_path)
     text_dir = os.path.join(game_dir, 'data', 'text')
     translations = load_translations()
+    check_placeholders(translations)
     lines, texts, stats = zh_lines(text_dir, translations)
     tot_done = sum(a for a, b in stats.values()); tot = sum(b for a, b in stats.values())
     print(f'文本: 已译 {tot_done}/{tot} 条')

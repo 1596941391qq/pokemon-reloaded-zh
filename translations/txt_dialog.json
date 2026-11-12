@@ -65050,13 +65050,13 @@
   "id": 10842,
   "en": "You do not have $par1$!",
   "es": "¿Deseas comprar $par1$ fichas por $par2$ €?#Dinero actual#$par3$ €",
-  "zh": "你没有$par1$了！"
+  "zh": "要用$par2$元购买$par1$枚代币吗？#你现在有#$par3$元。"
  },
  {
   "id": 10843,
   "en": "Do you want to buy $par1$ coins for $par2$ €?#You have#$par3$ €.",
   "es": "¡No te queda $par1$!",
-  "zh": "要用$par2$元购买$par1$枚代币吗？#你现在有#$par3$元。"
+  "zh": "你没有$par1$了！"
  },
  {
   "id": 10844,
