@@ -36,7 +36,21 @@ FIXED_SUBS = [
     # 招式记录前缀
     (b'dt="DT"; if(global.language="en")dt="TR";',
      'dt="DT"; if(global.language="en")dt="TR"; if(global.language="zh")dt="招式记录";'.encode('gbk')),
+    # 对话框卡住、正文空白（11-12 粉丝报）：原版切行时「除了最后一个字都放得下」就带个空格递归调自己，
+    # 可这时 hideCartelD 已经占上，递归一进来就退出，对话框状态没人清，空框一直挂着、后面的对话全被跳过。
+    # 原版每行上限 40 字节碰不到这条路，放宽到 120 以后约 3% 的句子会碰到。
+    # 改成：只有剩下的字整段放得进一行时才递归（这时前两行已经显示过、状态已清），其余照常按空格切。
+    (b'if(string_length(aux)=string_length(argument0)-1){ ex(6937,string_copy(argument0,0,ctam)+" ",argument1,argument2); exit; }',
+     b'if(string_length(aux)>=string_length(argument0)-1 && zh_string_width(argument0)<=ANCHO){ ex(6937,argument0,argument1,argument2); exit; }'),
+    (b'if(string_length(aux)=string_length(argument0)-1){ ex(6949,string_copy(argument0,0,ctam)+" "); exit; }',
+     b'if(string_length(aux)>=string_length(argument0)-1 && zh_string_width(argument0)<=ANCHO){ ex(6949,argument0); exit; }'),
+    # 旧存档读出来是英文（11-12 粉丝报）：存档里存着当时的语言，读档会把语言改回去。读出来丢掉，沿用当前语言
+    #（标题画面的语言，存在 config.ini 里）。
+    (b'global.language=ex(8463,2); ex(5604);', b'ex(8463,2); ex(5604);'),
+    (b'global.language=ex(9343); ex(5604);', b'ex(9343); ex(5604);'),
 ]
+# 这几处必须恰好改到一次，改不到就停止打包
+FIXED_STRICT = {FIXED_SUBS[k][0] for k in range(-4, 0)}
 
 # 起名检查（NameValidator）：禁用字符改为只查汉字以外的部分；纯中文名不算「没有字母」
 NAME_FIXES = [
@@ -258,7 +272,9 @@ def patch_exe(exe_bytes, chars, fonts):
             n_changed += 1
     assert fixed_name, '没找到 NameValidator'
     for a, n in fixed_hits.items():
-        if n == 0:
+        if a in FIXED_STRICT:
+            assert n == 1, f'要改的片段命中 {n} 次（应为 1）: {a[:60]!r}'
+        elif n == 0:
             print('  ! 没找到要改的片段:', a.decode('latin-1'))
     charlist = ''.join(chars).encode('gbk')
     gml_dir = os.path.join(ROOT, 'patch', 'gml')
