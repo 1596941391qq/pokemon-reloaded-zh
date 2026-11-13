@@ -5,7 +5,7 @@
 - **对应游戏版本：The Last Beta 1.9.2.2**（`Proyecto Reloaded The Last Beta 1.9.2.2 Full.exe`，SHA-256 `772d5d45…bf07630`）
 - **译名标准：宝可梦官方简体中文**。宝可梦、招式、特性、道具、图鉴、人物都以官方译名为准（数据来自 [PokeAPI](https://pokeapi.co/) 和 [神奇宝贝百科](https://wiki.52poke.com/)，详见下文「译名从哪来」）；游戏原创的宝可梦、地名、人物按官方风格自译，并在术语表里标注「自译」。
 - 能直接用官方原文的地方都用了官方原文，比如招式说明、特性说明、图鉴分类、图鉴说明。图鉴说明会先找出作者原文拼用了哪几版官方图鉴，再拼接对应版本的官方中文。
-- 本仓库**不含游戏本体和任何原作素材**。游戏请到作者官方博客下载：<https://pokemon-reloaded.blogspot.com/>
+- 本仓库**不含游戏本体和任何原作素材**。游戏请到作者官方博客下载：<https://pokemon-reloaded.blogspot.com/>；国内打不开博客的话，可以用夸克网盘下作者原包：<https://pan.quark.cn/s/cd3cc696bf93>
 
 ## 当前进度
 
@@ -42,7 +42,7 @@
 
 ## 安装方法（Windows）
 
-1. **下载游戏**：在作者博客下载 *The Last Beta 1.9.2.2 Full* 并解压，比如解压到 `D:\Games\Proyecto Reloaded`。
+1. **下载游戏**：在作者博客下载 *The Last Beta 1.9.2.2 Full* 并解压，比如解压到 `D:\Games\Proyecto Reloaded`。国内打不开作者博客的话，用[夸克网盘](https://pan.quark.cn/s/cd3cc696bf93)下（作者原包，没改过）。
 2. **下载补丁**：下载最新的 **`PokemonReloaded-zh-patch.exe`**，三个地方内容一样，任选一个：
    - [GitHub 发布页（Releases）](https://github.com/1596941391qq/pokemon-reloaded-zh/releases)
    - [夸克网盘](https://pan.quark.cn/s/1608d8f5e7a3)（国内高速下载，打开最新版本的文件夹）
