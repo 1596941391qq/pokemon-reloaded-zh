@@ -49,9 +49,13 @@ FIXED_SUBS = [
     # 跳过标题画面，语言停在默认的西语（zh-20261113 就是这样，11-13 粉丝报读档变西语）。
     (b'global.language=ex(8463,2); ex(5604);', b'global.language=zh_cfg_lang(ex(8463,2)); ex(5604);'),
     (b'global.language=ex(9343); ex(5604);', b'global.language=zh_cfg_lang(ex(9343)); ex(5604);'),
+    # 游戏里的选项菜单切语言原版不写 config.ini（只有标题画面会写），读档又改成认 config.ini，
+    # 所以游戏里切语言时也写一次，不然切完按 F6 读档会被改回标题画面的语言。
+    (b'global.language=LAN_FOL[IDIOMA_ACTUAL];', b'global.language=LAN_FOL[IDIOMA_ACTUAL]; zh_cfg_save(IDIOMA_ACTUAL);'),
 ]
-# 这几处必须恰好改到一次，改不到就停止打包
-FIXED_STRICT = {FIXED_SUBS[k][0] for k in range(-4, 0)}
+# 这几处必须改到恰好这么多次，对不上就停止打包
+FIXED_STRICT = {FIXED_SUBS[k][0]: 1 for k in range(-5, -1)}
+FIXED_STRICT[FIXED_SUBS[-1][0]] = 3
 
 # 起名检查（NameValidator）：禁用字符改为只查汉字以外的部分；纯中文名不算「没有字母」
 NAME_FIXES = [
@@ -274,7 +278,7 @@ def patch_exe(exe_bytes, chars, fonts):
     assert fixed_name, '没找到 NameValidator'
     for a, n in fixed_hits.items():
         if a in FIXED_STRICT:
-            assert n == 1, f'要改的片段命中 {n} 次（应为 1）: {a[:60]!r}'
+            assert n == FIXED_STRICT[a], f'要改的片段命中 {n} 次（应为 {FIXED_STRICT[a]}）: {a[:60]!r}'
         elif n == 0:
             print('  ! 没找到要改的片段:', a.decode('latin-1'))
     charlist = ''.join(chars).encode('gbk')
