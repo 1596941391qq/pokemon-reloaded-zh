@@ -44,10 +44,11 @@ FIXED_SUBS = [
      b'if(string_length(aux)>=string_length(argument0)-1 && zh_string_width(argument0)<=ANCHO){ ex(6937,argument0,argument1,argument2); exit; }'),
     (b'if(string_length(aux)=string_length(argument0)-1){ ex(6949,string_copy(argument0,0,ctam)+" "); exit; }',
      b'if(string_length(aux)>=string_length(argument0)-1 && zh_string_width(argument0)<=ANCHO){ ex(6949,argument0); exit; }'),
-    # 旧存档读出来是英文（11-12 粉丝报）：存档里存着当时的语言，读档会把语言改回去。读出来丢掉，沿用当前语言
-    #（标题画面的语言，存在 config.ini 里）。
-    (b'global.language=ex(8463,2); ex(5604);', b'ex(8463,2); ex(5604);'),
-    (b'global.language=ex(9343); ex(5604);', b'ex(9343); ex(5604);'),
+    # 旧存档读出来是英文（11-12 粉丝报）：存档里存着当时的语言，读档会把语言改回去。
+    # 改成用标题画面选的语言（config.ini）。不能只是把存档里的丢掉：游戏里按 F6 / 菜单读档会重启游戏、
+    # 跳过标题画面，语言停在默认的西语（zh-20261113 就是这样，11-13 粉丝报读档变西语）。
+    (b'global.language=ex(8463,2); ex(5604);', b'global.language=zh_cfg_lang(ex(8463,2)); ex(5604);'),
+    (b'global.language=ex(9343); ex(5604);', b'global.language=zh_cfg_lang(ex(9343)); ex(5604);'),
 ]
 # 这几处必须恰好改到一次，改不到就停止打包
 FIXED_STRICT = {FIXED_SUBS[k][0] for k in range(-4, 0)}
