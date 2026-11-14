@@ -52,10 +52,17 @@ FIXED_SUBS = [
     # 游戏里的选项菜单切语言原版不写 config.ini（只有标题画面会写），读档又改成认 config.ini，
     # 所以游戏里切语言时也写一次，不然切完按 F6 读档会被改回标题画面的语言。
     (b'global.language=LAN_FOL[IDIOMA_ACTUAL];', b'global.language=LAN_FOL[IDIOMA_ACTUAL]; zh_cfg_save(IDIOMA_ACTUAL);'),
+    # 老存档打一场对战后文字全变成树叶（11-13 粉丝报）：存档里存着对战背景图的编号（游戏运行时加的图，
+    # 编号接在自带图后面）。补丁在自带图后面加了两张汉字图，用原版存的档里那个编号正好是汉字图，
+    # 打对战时游戏把它换成战斗背景，字就全变成树叶草地。编号是汉字图时当作没有，重新加一张。
+    (b'if(global.FONDO_BATTLE!=(-1) && !background_exists(global.FONDO_BATTLE))global.FONDO_BATTLE=(-1);',
+     b'if(global.FONDO_BATTLE=zh_atlas12 || global.FONDO_BATTLE=zh_atlas10)global.FONDO_BATTLE=(-1); '
+     b'if(global.FONDO_BATTLE!=(-1) && !background_exists(global.FONDO_BATTLE))global.FONDO_BATTLE=(-1);'),
 ]
 # 这几处必须改到恰好这么多次，对不上就停止打包
-FIXED_STRICT = {FIXED_SUBS[k][0]: 1 for k in range(-5, -1)}
-FIXED_STRICT[FIXED_SUBS[-1][0]] = 3
+FIXED_STRICT = {FIXED_SUBS[k][0]: 1 for k in range(-6, -2)}
+FIXED_STRICT[FIXED_SUBS[-2][0]] = 3
+FIXED_STRICT[FIXED_SUBS[-1][0]] = 1
 
 # 起名检查（NameValidator）：禁用字符改为只查汉字以外的部分；纯中文名不算「没有字母」
 NAME_FIXES = [
