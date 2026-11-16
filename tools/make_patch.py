@@ -82,6 +82,35 @@ def fix_name_validator(src):
     return src
 
 
+# 按「说话」键喊口令（EventoProtaTalk）：原版是 string_pos(ex(9863,行号),string_lower(txt))!=false，
+# 拿玩家打的字去找 txt_dialog 里那一行。中文那行汉字之间插了断行空格，玩家打的字永远对不上
+# （召唤雷吉家族、对战前说「不使用道具」、叫泳圈鼬「橙橙果」都失效，11-15 粉丝问）。
+# 换成 zh_said(txt,口令,英文口令)：去掉空格再比，英文口令也认（见 patch/gml/zh_said.gml）。
+SPOKEN_EN = {2425: 'without objects', 14390: 'with objects', 2427: ' oran',
+             2428: 'ice impossible to melt', 2429: 'rock that rebuilds itself',
+             2430: 'harder existing metal', 2431: 'hardest existing metal', 2432: 'king of the giants',
+             6136: 'endless electric power', 6141: 'endless electric power',
+             6151: 'ancient dragon head', 6152: 'ancient dragon head'}
+SPOKEN_RE = re.compile(rb'string_pos\(ex\(9863,(\d+)\),string_lower\(txt\)\)!=false')
+
+
+def fix_spoken(src):
+    def rep(m):
+        return b'zh_said(txt,ex(9863,' + m.group(1) + b'),"' + SPOKEN_EN[int(m.group(1))].encode() + b'")'
+    src, n = SPOKEN_RE.subn(rep, src)
+    assert n == 14, f'EventoProtaTalk 口令比对应有 14 处，找到 {n} 处'
+    return src
+
+
+def check_spoken(translations):
+    """口令表的英文要和英文文本一致；中文口令不能互相包含（「不使用道具」含「使用道具」时说完会马上被切回去）。"""
+    rows = translations['txt_dialog']
+    for i, en in SPOKEN_EN.items():
+        assert rows[i]['en'].lower() == en, (i, rows[i]['en'], en)
+    a, b = rows[2425]['zh'], rows[14390]['zh']
+    assert a not in b and b not in a, ('道具口令互相包含', a, b)
+
+
 DBCS_RUN = re.compile(r'(?<=[⺀-鿿＀-￯　-〿—…“”‘’·])'
                       r'(?=[⺀-鿿＀-￯　-〿—…“”‘’·])')
 
@@ -263,6 +292,7 @@ def patch_exe(exe_bytes, chars, fonts):
     fixed_hits = {k: 0 for k, _ in FIXED_SUBS}
     names = set()
     fixed_name = False
+    fixed_spoken = False
     for i, blob in enumerate(scripts):
         sc = gm.parse_script(blob)
         if sc is None:
@@ -272,6 +302,9 @@ def patch_exe(exe_bytes, chars, fonts):
         new = src
         for pat, rep in CALL_SUBS:
             new = pat.sub(rep, new)
+        if name == b'EventoProtaTalk':
+            new = fix_spoken(new)
+            fixed_spoken = True
         if name == b'NameValidator':
             new = fix_name_validator(new)
             fixed_name = True
@@ -283,6 +316,7 @@ def patch_exe(exe_bytes, chars, fonts):
             scripts[i] = gm.script_blob(name, new)
             n_changed += 1
     assert fixed_name, '没找到 NameValidator'
+    assert fixed_spoken, '没找到 EventoProtaTalk'
     for a, n in fixed_hits.items():
         if a in FIXED_STRICT:
             assert n == FIXED_STRICT[a], f'要改的片段命中 {n} 次（应为 {FIXED_STRICT[a]}）: {a[:60]!r}'
@@ -327,6 +361,7 @@ def build(game_dir, out_dir, exe_path=None):
     text_dir = os.path.join(game_dir, 'data', 'text')
     translations = load_translations()
     check_placeholders(translations)
+    check_spoken(translations)
     lines, texts, stats = zh_lines(text_dir, translations)
     tot_done = sum(a for a, b in stats.values()); tot = sum(b for a, b in stats.values())
     print(f'文本: 已译 {tot_done}/{tot} 条')
